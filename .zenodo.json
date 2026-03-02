@@ -1,0 +1,28 @@
+{
+  "access_right": "open",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "title": "GTCode Publications Archive",
+  "creators": [
+    {
+      "name": "Lono, Ekewaka",
+      "affiliation": "GTCode.com"
+    }
+  ],
+  "description": "Citable archive of investigations, articles, research papers, and policy documents published by GTCode.com. Includes public-interest investigations into institutional capture in Hawaii, technical audits of information control systems, and research on geometric communication architectures.",
+  "license": {"id": "CC-BY-4.0"},
+  "keywords": [
+    "investigative journalism",
+    "institutional capture",
+    "information control",
+    "AI security",
+    "geometric communication"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://gtcode.com",
+      "relation": "isSupplementTo"
+    }
+  ]
+}
