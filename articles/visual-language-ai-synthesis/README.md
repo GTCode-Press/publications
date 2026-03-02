@@ -222,7 +222,8 @@ These are speculations, not specifications. But speculation is where frameworks 
       journal = {GTCode.com Articles},
       year    = {2025},
       month   = nov,
-      url     = {https://gtcode.com/articles/visual-language-ai-synthesis/}
+      url     = {https://gtcode.com/articles/visual-language-ai-synthesis/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis}}
     }
 
 **APA:**

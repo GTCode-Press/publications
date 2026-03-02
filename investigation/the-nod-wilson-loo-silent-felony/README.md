@@ -57,7 +57,8 @@ The text message remains in the sealed file. The alleged perjury remains on the 
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/}
+      url     = {https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-nod-wilson-loo-silent-felony}}
     }
 
 **APA:**

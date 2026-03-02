@@ -103,7 +103,8 @@ This work is critical for building the public and expert trust necessary for the
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security}}
     }
 
 **APA:**

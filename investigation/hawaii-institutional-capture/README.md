@@ -208,7 +208,8 @@ regarding factual assertions may be directed to the author.
       journal = {GTCode.com Investigations},
       year    = {2025},
       month   = aug,
-      url     = {https://gtcode.com/investigation/hawaii-institutional-capture/}
+      url     = {https://gtcode.com/investigation/hawaii-institutional-capture/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/hawaii-institutional-capture}}
     }
 
 **APA:**

@@ -82,7 +82,8 @@ A woman from Hawaii's second district decided accountability was worth the cost.
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/}
+      url     = {https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/accountability-from-washington-to-ward-avenue}}
     }
 
 **APA:**

@@ -111,7 +111,8 @@ Current review processes are plagued by noise. Static analysis tools flag hundre
       institution = {GTCode.com Reports},
       year    = {2025},
       month   = jan,
-      url     = {https://gtcode.com/reports/code-clarity-existing/}
+      url     = {https://gtcode.com/reports/code-clarity-existing/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/reports/code-clarity-existing}}
     }
 
 **APA:**

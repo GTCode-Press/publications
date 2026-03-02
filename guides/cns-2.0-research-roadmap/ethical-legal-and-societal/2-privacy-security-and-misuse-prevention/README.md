@@ -100,7 +100,8 @@ By tackling these challenges head-on, we aim to provide a blueprint for how to i
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention}}
     }
 
 **APA:**

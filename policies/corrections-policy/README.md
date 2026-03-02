@@ -39,7 +39,8 @@ Send correction requests to [tips@GTCode.com](mailto:tips@gtcode.com) with subje
       institution = {GTCode.com Policies},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/policies/corrections-policy/}
+      url     = {https://gtcode.com/policies/corrections-policy/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/corrections-policy}}
     }
 
 **APA:**

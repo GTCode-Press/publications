@@ -732,7 +732,8 @@ These components form the heart of CNS 2.0's dialectical reasoning capability. I
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/}
+      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine}}
     }
 
 **APA:**

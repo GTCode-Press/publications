@@ -178,7 +178,8 @@ The completion of both foundational projects establishes the technical infrastru
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work}}
     }
 
 **APA:**

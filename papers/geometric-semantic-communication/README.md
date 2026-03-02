@@ -871,7 +871,8 @@ where $\rho(\mathbf{x})$ is local agent density and $\bar{\rho}$ is target unifo
       institution = {GTCode.com Research Papers},
       year    = {2025},
       month   = dec,
-      url     = {https://gtcode.com/papers/geometric-semantic-communication/}
+      url     = {https://gtcode.com/papers/geometric-semantic-communication/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/geometric-semantic-communication}}
     }
 
 **APA:**

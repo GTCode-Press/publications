@@ -161,7 +161,8 @@ With our `Signature`, `Metric`, and `Examples` defined, we now have a fully spec
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/}
+      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task}}
     }
 
 **APA:**

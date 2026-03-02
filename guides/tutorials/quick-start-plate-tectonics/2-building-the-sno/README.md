@@ -163,7 +163,8 @@ print("SNO_PlateTectonics created successfully.")
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/}
+      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno}}
     }
 
 **APA:**

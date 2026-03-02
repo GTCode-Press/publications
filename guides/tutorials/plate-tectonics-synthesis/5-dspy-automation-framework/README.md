@@ -272,7 +272,8 @@ This comprehensive automation framework transforms the manual plate tectonics pr
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/}
+      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework}}
     }
 
 **APA:**

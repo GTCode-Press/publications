@@ -94,7 +94,8 @@ The integration of our implementation framework with established research method
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper}}
     }
 
 **APA:**

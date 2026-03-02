@@ -339,7 +339,8 @@ This article presents a structural model. Models are tools, not truths. The foll
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/investigation/the-shape-of-the-cage/}
+      url     = {https://gtcode.com/investigation/the-shape-of-the-cage/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-shape-of-the-cage}}
     }
 
 **APA:**

@@ -603,7 +603,8 @@ Agent B can manually reset threshold if missing important messages.
       institution = {GTCode.com Research Papers},
       year    = {2025},
       month   = dec,
-      url     = {https://gtcode.com/papers/geometric-publish-subscribe/}
+      url     = {https://gtcode.com/papers/geometric-publish-subscribe/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe}}
     }
 
 **APA:**

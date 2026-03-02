@@ -88,7 +88,8 @@ Successfully integrating formal methods and causal inference would represent a m
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference}}
     }
 
 **APA:**

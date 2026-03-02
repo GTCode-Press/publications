@@ -254,7 +254,8 @@ The transition from isolated models to integrated cognitive organisms is not a q
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/articles/global-cognitive-brain-architecture/}
+      url     = {https://gtcode.com/articles/global-cognitive-brain-architecture/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture}}
     }
 
 **APA:**

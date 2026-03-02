@@ -1789,7 +1789,8 @@ CNS 2.0 thus represents not merely a technical achievement, but a foundational c
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/in-depth/ideas-paper}}
     }
 
 **APA:**

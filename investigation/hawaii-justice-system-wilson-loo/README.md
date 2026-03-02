@@ -329,7 +329,8 @@ regarding factual assertions may be directed to the author.
       journal = {GTCode.com Investigations},
       year    = {2025},
       month   = jun,
-      url     = {https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/}
+      url     = {https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/hawaii-justice-system-wilson-loo}}
     }
 
 **APA:**

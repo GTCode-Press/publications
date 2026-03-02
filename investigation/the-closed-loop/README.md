@@ -76,7 +76,8 @@ The Attorney General killed a special counsel bill in 2024, testifying that the 
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/investigation/the-closed-loop/}
+      url     = {https://gtcode.com/investigation/the-closed-loop/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-closed-loop}}
     }
 
 **APA:**

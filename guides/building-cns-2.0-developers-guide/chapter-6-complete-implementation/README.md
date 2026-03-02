@@ -234,7 +234,8 @@ Your `CNSConfig` class would then load this file using a library like `PyYAML`. 
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/}
+      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation}}
     }
 
 **APA:**

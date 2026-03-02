@@ -407,7 +407,7 @@ The structure is this investigation's subject. The structure is, the public reco
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-federal-layer/},
-      note    = {The Architecture of Access, Part I}
+      note    = {The Architecture of Access, Part I; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-federal-layer}}
     }
 
 **APA:**

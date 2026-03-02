@@ -544,7 +544,8 @@ By tracking these metrics, you gain crucial, actionable visibility into the syst
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/}
+      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration}}
     }
 
 **APA:**

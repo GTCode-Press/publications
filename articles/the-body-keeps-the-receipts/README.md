@@ -382,7 +382,8 @@ Yeager, D. S., Purdie-Vaughns, V., Hooper, S. Y., & Cohen, G. L. (2017). Loss of
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/articles/the-body-keeps-the-receipts/}
+      url     = {https://gtcode.com/articles/the-body-keeps-the-receipts/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-body-keeps-the-receipts}}
     }
 
 **APA:**

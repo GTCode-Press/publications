@@ -130,7 +130,8 @@ The engine has produced a new SNO containing a hypothesis that integrates concep
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/}
+      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis}}
     }
 
 **APA:**

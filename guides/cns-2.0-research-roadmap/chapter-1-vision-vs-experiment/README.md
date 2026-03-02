@@ -74,7 +74,8 @@ This experimental framework establishes the foundation for statistically rigorou
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment}}
     }
 
 **APA:**

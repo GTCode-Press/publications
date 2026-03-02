@@ -422,7 +422,8 @@ Many of the most significant papers cited here emerged from the **MATS (ML Align
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/}
+      url     = {https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025}}
     }
 
 **APA:**

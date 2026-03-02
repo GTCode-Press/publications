@@ -72,7 +72,8 @@ In this tutorial, we will walk through a concrete example of how to use DSPy to 
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/}
+      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction}}
     }
 
 **APA:**

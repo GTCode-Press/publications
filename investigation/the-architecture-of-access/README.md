@@ -57,7 +57,8 @@ Where source material characterizes an organization as linked to a party-state, 
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = mar,
-      url     = {https://gtcode.com/investigation/the-architecture-of-access/}
+      url     = {https://gtcode.com/investigation/the-architecture-of-access/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-architecture-of-access}}
     }
 
 **APA:**

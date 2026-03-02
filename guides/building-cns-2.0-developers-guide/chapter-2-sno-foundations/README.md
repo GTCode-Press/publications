@@ -787,7 +787,8 @@ Before proceeding to Chapter 3, verify you can:
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/}
+      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations}}
     }
 
 **APA:**

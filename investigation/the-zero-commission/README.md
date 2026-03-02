@@ -154,7 +154,7 @@ The Commission also received 70 advisory opinion requests in FY 2018–2019 and 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-zero-commission/},
-      note    = {The Closed Loop, Part I}
+      note    = {The Closed Loop, Part I; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-zero-commission}}
     }
 
 **APA:**

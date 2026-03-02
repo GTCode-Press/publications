@@ -47,7 +47,8 @@ Sitemap: https://gtcode.com/news-sitemap.xml
       institution = {GTCode.com Policies},
       year    = {2025},
       month   = nov,
-      url     = {https://gtcode.com/policies/robots/}
+      url     = {https://gtcode.com/policies/robots/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/robots}}
     }
 
 **APA:**

@@ -42,7 +42,8 @@ Questions about standards can be sent to [tips@GTCode.com](mailto:tips@gtcode.co
       institution = {GTCode.com Policies},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/policies/editorial-standards/}
+      url     = {https://gtcode.com/policies/editorial-standards/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/editorial-standards}}
     }
 
 **APA:**

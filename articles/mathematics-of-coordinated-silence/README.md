@@ -128,7 +128,8 @@ If other readers find themselves paying close attention—well, that's the natur
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/articles/mathematics-of-coordinated-silence/}
+      url     = {https://gtcode.com/articles/mathematics-of-coordinated-silence/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/mathematics-of-coordinated-silence}}
     }
 
 **APA:**

@@ -72,7 +72,8 @@ For questions regarding this agent.txt policy or programmatic use of the site:
       institution = {GTCode.com Policies},
       year    = {2025},
       month   = nov,
-      url     = {https://gtcode.com/policies/agent/}
+      url     = {https://gtcode.com/policies/agent/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/agent}}
     }
 
 **APA:**

@@ -102,7 +102,8 @@ This research will be a cornerstone of the CNS 2.0 project, ensuring we build a 
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration}}
     }
 
 **APA:**

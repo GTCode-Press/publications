@@ -156,7 +156,8 @@ In that structural silence, the threat that followed me was possible. Not becaus
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/}
+      url     = {https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/zone-of-politeness-hawaii-media-blackout}}
     }
 
 **APA:**

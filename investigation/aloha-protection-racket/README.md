@@ -127,7 +127,8 @@ The record is public. The sealed file exists. The questions remain open.
       journal = {GTCode.com Investigations},
       year    = {2025},
       month   = aug,
-      url     = {https://gtcode.com/investigation/aloha-protection-racket/}
+      url     = {https://gtcode.com/investigation/aloha-protection-racket/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/aloha-protection-racket}}
     }
 
 **APA:**

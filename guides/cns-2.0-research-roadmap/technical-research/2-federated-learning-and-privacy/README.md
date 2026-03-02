@@ -98,7 +98,8 @@ A federated architecture for CNS 2.0 would be a groundbreaking achievement, repr
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy}}
     }
 
 **APA:**

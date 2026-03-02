@@ -143,7 +143,8 @@ Integrate with CI/CD pipelines, provide team analytics and knowledge sharing fea
       institution = {GTCode.com Reports},
       year    = {2025},
       month   = jan,
-      url     = {https://gtcode.com/reports/code-clarity/}
+      url     = {https://gtcode.com/reports/code-clarity/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/reports/code-clarity}}
     }
 
 **APA:**

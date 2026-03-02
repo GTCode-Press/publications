@@ -371,7 +371,7 @@ The recommendation is not disengagement — it is risk-managed engagement: ensur
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-bridges/},
-      note    = {The Architecture of Access, Part II}
+      note    = {The Architecture of Access, Part II; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-bridges}}
     }
 
 **APA:**

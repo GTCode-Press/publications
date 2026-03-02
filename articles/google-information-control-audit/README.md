@@ -782,7 +782,8 @@ The cumulative picture is not of isolated incidents but of structural informatio
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/articles/google-information-control-audit/}
+      url     = {https://gtcode.com/articles/google-information-control-audit/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit}}
     }
 
 **APA:**

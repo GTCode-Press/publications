@@ -210,7 +210,8 @@ The manual prototype validates the core synthesis methodology and establishes th
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/}
+      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results}}
     }
 
 **APA:**

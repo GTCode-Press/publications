@@ -197,7 +197,8 @@ This self-optimization loop—where the system's own critics are used to improve
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/}
+      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module}}
     }
 
 **APA:**

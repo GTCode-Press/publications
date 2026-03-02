@@ -72,7 +72,8 @@ For questions regarding this LLM usage policy or programmatic use of the site:
       institution = {GTCode.com Policies},
       year    = {2025},
       month   = nov,
-      url     = {https://gtcode.com/policies/llm/}
+      url     = {https://gtcode.com/policies/llm/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/llm}}
     }
 
 **APA:**

@@ -262,7 +262,8 @@ The tools that are supposed to provide transparency are participating in the opa
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/investigation/the-index-bing-search-suppression/}
+      url     = {https://gtcode.com/investigation/the-index-bing-search-suppression/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression}}
     }
 
 **APA:**

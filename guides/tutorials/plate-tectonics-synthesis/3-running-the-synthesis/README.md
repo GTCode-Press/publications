@@ -211,7 +211,8 @@ The single synthesis demonstrates the data generation methodology that DSPy will
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/}
+      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis}}
     }
 
 **APA:**

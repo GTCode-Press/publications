@@ -99,7 +99,8 @@ A successful GNN-based logic critic would be a state-of-the-art tool for automat
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning}}
     }
 
 **APA:**

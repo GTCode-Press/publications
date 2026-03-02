@@ -128,7 +128,8 @@ This statistical prototype provides the mathematical foundation and methodologic
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/}
+      url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction}}
     }
 
 **APA:**

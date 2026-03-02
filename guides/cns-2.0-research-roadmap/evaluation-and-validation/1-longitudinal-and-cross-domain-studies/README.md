@@ -91,7 +91,8 @@ This research will produce a framework for the longitudinal and cross-domain eva
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies}}
     }
 
 **APA:**

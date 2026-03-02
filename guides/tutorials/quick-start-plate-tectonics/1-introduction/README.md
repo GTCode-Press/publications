@@ -68,7 +68,8 @@ By feeding the core concepts of these two theories into the system, we can see h
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/}
+      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction}}
     }
 
 **APA:**

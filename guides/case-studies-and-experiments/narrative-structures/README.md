@@ -293,7 +293,8 @@ Ultimately, despite profound technological advancements, the core human need for
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/}
+      url     = {https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/narrative-structures}}
     }
 
 **APA:**

@@ -46,7 +46,8 @@ Ethics concerns can be sent to [tips@GTCode.com](mailto:tips@gtcode.com).
       institution = {GTCode.com Policies},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/policies/ethics-policy/}
+      url     = {https://gtcode.com/policies/ethics-policy/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/ethics-policy}}
     }
 
 **APA:**

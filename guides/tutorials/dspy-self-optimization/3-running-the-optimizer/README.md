@@ -115,7 +115,8 @@ In the final section, we will inspect the prompt that the optimizer generated an
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/}
+      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer}}
     }
 
 **APA:**

@@ -47,7 +47,8 @@ For questions about AI access policies:
       institution = {GTCode.com Policies},
       year    = {2025},
       month   = nov,
-      url     = {https://gtcode.com/policies/ai/}
+      url     = {https://gtcode.com/policies/ai/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/ai}}
     }
 
 **APA:**

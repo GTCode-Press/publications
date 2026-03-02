@@ -527,7 +527,8 @@ Now that you have a working CNS 2.0 environment and understand the basic concept
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/}
+      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart}}
     }
 
 **APA:**

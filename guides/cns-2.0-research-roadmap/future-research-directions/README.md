@@ -100,7 +100,8 @@ The future of narrative is interactive. The CNS framework must evolve from a sta
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/}
+      url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/future-research-directions}}
     }
 
 **APA:**

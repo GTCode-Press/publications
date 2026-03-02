@@ -583,7 +583,8 @@ What remains is implementation—and the will to demand that our AI systems do b
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/}
+      url     = {https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems}}
     }
 
 **APA:**

@@ -417,7 +417,8 @@ The diffs are becoming dimensions. The scrollbar is becoming a timeline. The rev
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/articles/cinema-debugger-semantic-code-review/}
+      url     = {https://gtcode.com/articles/cinema-debugger-semantic-code-review/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review}}
     }
 
 **APA:**

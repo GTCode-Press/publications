@@ -215,7 +215,8 @@ While significant technical, ethical, and evaluative challenges persist, the fut
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/}
+      url     = {https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/dialectic-narrative-generation-research}}
     }
 
 **APA:**

@@ -140,7 +140,8 @@ Finally, by integrating DSPy, we have shown a path from a static system to a dyn
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/}
+      url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration}}
     }
 
 **APA:**

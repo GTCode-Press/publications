@@ -118,7 +118,8 @@ This walk-through demonstrates the end-to-end process of using the synthesis eng
       institution = {GTCode.com Guides},
       year    = {2026},
       month   = jan,
-      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/}
+      url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results}}
     }
 
 **APA:**
