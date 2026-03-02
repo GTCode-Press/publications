@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Tutorial Part 2: Building the Parent SNOs'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno
+license: CC-BY-4.0
+abstract: A code-heavy guide to manually constructing the Structured Narrative Objects
+  for the Plate Tectonics and Geosyncline theories.
+keywords:
+- SNO construction
+- Structured Narrative Object
+- Plate Tectonics
+- Geosyncline
+- DSPy template
+- data modeling

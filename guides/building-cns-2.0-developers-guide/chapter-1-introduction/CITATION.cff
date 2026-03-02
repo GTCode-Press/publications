@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 1: Introduction to CNS 2.0'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-1-introduction
+license: CC-BY-4.0
+abstract: Understanding the core concepts and motivation behind Chiral Narrative Synthesis
+keywords:
+- CNS 2.0
+- Chiral Narrative Synthesis
+- Developer's Guide
+- SNOs
+- Critics
+- Synthesis Engine
+- Environment Setup
+- Python dataclasses
+- RelationType
+- EvidenceItem

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Tutorial Part 1: Introduction to the Case Study'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction
+license: CC-BY-4.0
+abstract: Why the historical debate between Plate Tectonics and Geosyncline theory
+  is a perfect test case for Chiral Narrative Synthesis.
+keywords:
+- CNS 2.0
+- Plate Tectonics
+- Geosyncline Theory
+- Statistical Prototype
+- Narrative Synthesis

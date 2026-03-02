@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: A Visual Language for Thinking About AI Synthesis
+authors:
+- name: GTCode Editorial
+date-released: '2025-11-28'
+url: https://gtcode.com/articles/visual-language-ai-synthesis/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis
+license: CC-BY-4.0
+abstract: Exploring a visual framework for understanding how AI systems might transform
+  conflicting information into coherent knowledge—through resonance-like alignment
+  of representations.
+keywords:
+- AI Synthesis
+- Knowledge Integration
+- Dialectical Reasoning
+- Epistemic Geometry
+- Belief Manifolds
+- Topological Identity

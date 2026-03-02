@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Shape of the Cage
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-24'
+url: https://gtcode.com/investigation/the-shape-of-the-cage/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-shape-of-the-cage
+license: CC-BY-4.0
+abstract: A structural analysis of how networked coercion neutralizes individuals
+  without central coordination — mapping the seven-layer architecture documented across
+  Stasi Zersetzung, COINTELPRO, watchlisting, and modern surveillance commoditization.
+keywords:
+- Networked Coercion
+- Zersetzung
+- COINTELPRO
+- Sealed Records
+- Reputational Poisoning
+- Oversight Failure
+- Surveillance
+- Structural Analysis
+- Institutional Capture
+- Hawaii

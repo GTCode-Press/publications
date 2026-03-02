@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing
+  Divergent Knowledge Claims'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems
+license: CC-BY-4.0
+abstract: An analysis of epistemic fragmentation in multi-model AI deployments, exploring
+  why different models produce conflicting knowledge claims and the institutional
+  risks this creates for organizations relying on AI-generated insights.
+keywords:
+- Epistemic Fragmentation
+- Multi-Model AI
+- Knowledge Synthesis
+- AI Governance
+- Institutional Risk
+- Model Divergence

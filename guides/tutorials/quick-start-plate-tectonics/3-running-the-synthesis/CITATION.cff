@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Part 3: Running the Synthesis'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis
+license: CC-BY-4.0
+abstract: How to use the system to generate a new theory from the two conflicting
+  SNOs.
+keywords:
+- Generative Synthesis Engine
+- SNO conflict resolution
+- Chiral Pair Detector
+- Candidate SNO generation
+- Theory synthesis

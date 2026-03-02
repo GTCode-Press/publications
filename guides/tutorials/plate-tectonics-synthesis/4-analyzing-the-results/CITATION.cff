@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Tutorial Part 4: Analyzing the Results'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results
+license: CC-BY-4.0
+abstract: Demonstrating the two-part evaluation protocol (quantitative and qualitative)
+  to validate the generated synthesis.
+keywords:
+- synthesis validation
+- Critic Pipeline
+- TrustScore
+- quantitative analysis
+- qualitative analysis
+- CNS 2.0

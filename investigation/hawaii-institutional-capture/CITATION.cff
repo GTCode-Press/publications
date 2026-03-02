@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'A Case Study in Systemic Protection: Institutional Decay in Hawaii'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2025-08-13'
+url: https://gtcode.com/investigation/hawaii-institutional-capture/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/hawaii-institutional-capture
+license: CC-BY-4.0
+abstract: Multi-decade case study showing how legal, law-enforcement, and corporate
+  actors reinforce one another to neutralize accountability and shield connected interests.
+keywords:
+- Institutional Capture
+- Hawaii
+- Systemic Corruption
+- Law Enforcement

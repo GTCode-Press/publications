@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Zero Commission
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-15'
+url: https://gtcode.com/investigation/the-zero-commission/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-zero-commission
+license: CC-BY-4.0
+abstract: Public records map Hawaii's Commission on Judicial Conduct appointment structure,
+  complaint outcomes, and confidentiality rules in The Closed Loop Part I.
+keywords:
+- Commission on Judicial Conduct
+- Judicial Oversight
+- Hawaii
+- Accountability
+- Closed Loop
+- Conflict of Interest
+- Judicial Corruption
+- Hawaii Judge Misconduct
+- Court Corruption
+- Judicial Accountability

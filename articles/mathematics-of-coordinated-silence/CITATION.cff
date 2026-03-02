@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Mathematics of Coordinated Silence
+authors:
+- name: GTCode Editorial
+date-released: '2026-02-04'
+url: https://gtcode.com/articles/mathematics-of-coordinated-silence/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/mathematics-of-coordinated-silence
+license: CC-BY-4.0
+abstract: How computational systems are learning to detect the invisible architecture
+  of institutional coverups through alignment anomalies, coordination signatures,
+  and the defection gradient.
+keywords:
+- Coordinated Silence
+- Institutional Accountability
+- Computational Investigation
+- Network Analysis
+- Coverup Detection
+- Game Theory
+- Public Records

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Index: How Bing Blocked an Entire Domain to Bury One Judge''s Name'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-13'
+url: https://gtcode.com/investigation/the-index-bing-search-suppression/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression
+license: CC-BY-4.0
+abstract: Evidence of Bing search suppression targeting gtcode.com — open-source repos
+  blocked alongside investigations into judicial corruption in Hawaiʻi.
+keywords:
+- Bing
+- Search Suppression
+- Digital Censorship
+- Wilson Loo
+- Microsoft
+- Open Source

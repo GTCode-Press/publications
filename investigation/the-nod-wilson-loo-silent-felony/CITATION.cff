@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Nod: Wilson Loo and the Silent Felony in Hawaii''s First Circuit'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-12'
+url: https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-nod-wilson-loo-silent-felony
+license: CC-BY-4.0
+abstract: An editorial account of how Judge Wilson M.N. Loo allegedly directed perjury
+  from the bench with a silent nod, then sealed the record to bury the evidence.
+keywords:
+- Wilson Loo
+- Judicial Misconduct
+- Hawaii
+- Perjury
+- First Circuit

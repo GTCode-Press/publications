@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Narrative Structures
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/narrative-structures
+license: CC-BY-4.0
+abstract: A comprehensive overview of narrative structures, from foundational theories
+  like Aristotle's Poetics and Propp's Morphology to modern applications in AI, UX,
+  and transmedia.
+keywords:
+- Narrative Structure
+- Narratology
+- Story vs Plot
+- Aristotle
+- Computational Narratology

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: report
+title: 'Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for
+  Multi-Agent Systems'
+authors:
+- name: GTCode Editorial
+date-released: '2025-12-20'
+url: https://gtcode.com/papers/geometric-publish-subscribe/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe
+license: CC-BY-4.0
+abstract: A research proposal for GPS, a communication protocol for multi-agent systems
+  where messages route by semantic similarity rather than topic strings.
+keywords:
+- geometric publish-subscribe
+- GPS protocol
+- multi-agent communication
+- semantic routing
+- vector quantization
+- embedding space
+- content-based routing
+- relevance profiles

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Humans Behind GTCode
+authors:
+- name: GTCode Editorial
+date-released: '2025-11-12'
+url: https://gtcode.com/policies/humans/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/policies/humans
+license: CC-BY-4.0
+abstract: Credits and information about the people behind GTCode.com

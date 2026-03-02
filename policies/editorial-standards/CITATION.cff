@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Editorial Standards
+authors:
+- name: GTCode Editorial
+date-released: '2026-02-14'
+url: https://gtcode.com/policies/editorial-standards/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/policies/editorial-standards
+license: CC-BY-4.0
+abstract: How Oahu Underground by GTCode handles sourcing, verification, and publication
+  updates.

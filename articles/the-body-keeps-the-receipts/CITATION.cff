@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Body Keeps the Receipts
+authors:
+- name: GTCode Editorial
+date-released: '2026-02-26'
+url: https://gtcode.com/articles/the-body-keeps-the-receipts/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/the-body-keeps-the-receipts
+license: CC-BY-4.0
+abstract: A research synthesis tracing the documented mechanisms by which childhood
+  traumatic brain injury, institutional betrayal, and cascading neurobiological consequences
+  produce predictable long-term outcomes — and how the measurement systems designed
+  to track these outcomes systematically exclude those most harmed.
+keywords:
+- Childhood Traumatic Brain Injury
+- Institutional Betrayal
+- Adverse Childhood Experiences
+- Stress Sensitization
+- Hidden Hearing Loss
+- Microglial Priming
+- Mandatory Reporting

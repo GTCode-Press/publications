@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 2: SNO Foundations'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations
+license: CC-BY-4.0
+abstract: Building Structured Narrative Objects - the core data structure of CNS 2.0
+keywords:
+- CNS 2.0
+- Structured Narrative Object
+- SNO
+- data structure
+- Reasoning Graph
+- serialization
+- to_dict
+- from_dict
+- schema versioning
+- developer guide

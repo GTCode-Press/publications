@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 4: Building on the Foundation'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work
+license: CC-BY-4.0
+abstract: Outlining the immediate research projects that build upon the MVE to enable
+  the broader research vision.
+keywords:
+- CNS 2.0
+- Narrative Ingestion Pipeline
+- Data-Driven Critic
+- Research Roadmap
+- DSPy Optimization

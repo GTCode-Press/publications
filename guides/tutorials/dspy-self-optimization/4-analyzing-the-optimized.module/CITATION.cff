@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 4. Analyzing the Optimized Module
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module
+license: CC-BY-4.0
+abstract: Analyzing the results of the DSPy compiler, comparing the optimized prompt
+  to a naive one, and seeing the performance difference on a new example.
+keywords:
+- DSPy
+- Optimized Prompt
+- Prompt Inspection
+- Performance Comparison
+- LLM Synthesis

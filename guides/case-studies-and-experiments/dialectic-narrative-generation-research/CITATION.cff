@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Dialectical Reasoning Mechanisms
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/dialectic-narrative-generation-research
+license: CC-BY-4.0
+abstract: A comprehensive review of systems, research, and prior art in dialectical
+  reasoning for coherent AI narrative generation from disparate information sources.
+keywords:
+- Dialectical Reasoning
+- AI Narrative Generation
+- Knowledge Synthesis
+- Computational Models
+- Prior Art

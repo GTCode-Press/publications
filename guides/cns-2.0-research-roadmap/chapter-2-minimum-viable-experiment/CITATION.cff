@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment
+license: CC-BY-4.0
+abstract: Mathematical framework for scaling manual prototype validation to statistically
+  significant experimental designs.
+keywords:
+- Statistical Framework
+- Prototype Validation
+- Power Analysis
+- Dialectical Synthesis
+- DSPy Automation

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Ethics Policy
+authors:
+- name: GTCode Editorial
+date-released: '2026-02-14'
+url: https://gtcode.com/policies/ethics-policy/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/policies/ethics-policy
+license: CC-BY-4.0
+abstract: Ethical guidelines for reporting, source protection, and editorial independence.

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 6: Complete Implementation - Production Deployment and Scaling'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation
+license: CC-BY-4.0
+abstract: Taking the CNS 2.0 system from a single-process prototype to a scalable,
+  production-grade service.
+keywords:
+- production deployment
+- system scaling
+- Celery
+- Docker
+- CNS 2.0

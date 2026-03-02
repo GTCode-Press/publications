@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Comprehensive Quality Validation Review
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/quality-validation-review
+license: CC-BY-4.0
+abstract: Statistical assessment of research roadmap refinement against PhD-level
+  academic standards
+keywords:
+- Quality Validation Review
+- Research Roadmap
+- Statistical Rigor
+- PhD Standards
+- CNS 2.0

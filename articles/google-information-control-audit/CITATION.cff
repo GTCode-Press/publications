@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Google and the Architecture of Information Control: A Technical Audit of Algorithmic
+  Governance, Monopoly Maintenance, and Institutional Coordination'
+authors:
+- name: GTCode Editorial
+date-released: '2026-02-18'
+url: https://gtcode.com/articles/google-information-control-audit/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit
+license: CC-BY-4.0
+abstract: A comprehensive technical audit of Google's information control architecture,
+  combining whistleblower disclosures, the 2024 API leak, two federal monopoly rulings,
+  government-platform coordination evidence, and over $5 billion in privacy settlements
+  into a single reference document.
+keywords:
+- Google
+- Information Control
+- Antitrust
+- Algorithmic Bias
+- API Leak
+- Government Coordination
+- AI Overviews
+- Content Moderation

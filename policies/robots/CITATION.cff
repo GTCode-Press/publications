@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Robots.txt - Web Crawler Policy
+authors:
+- name: GTCode Editorial
+date-released: '2025-11-12'
+url: https://gtcode.com/policies/robots/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/policies/robots
+license: CC-BY-4.0
+abstract: Robots.txt configuration for web crawlers and search engines

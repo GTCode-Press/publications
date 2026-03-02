@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Federal Layer
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-28'
+url: https://gtcode.com/investigation/the-federal-layer/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-federal-layer
+license: CC-BY-4.0
+abstract: Public records map Warren K.K. Luke's roles at Hawaii National Bank, FRBSF,
+  Pacific Forum, and APCSS Foundation, and examine oversight questions around Wilson
+  Loo.
+keywords:
+- Warren K.K. Luke
+- Hawaii National Bank
+- Federal Reserve
+- Federal Reserve Bank of San Francisco
+- Pacific Forum
+- APCSS
+- APCSS Foundation
+- Wilson M.N. Loo
+- Institutional Capture
+- FBI Honolulu Field Office

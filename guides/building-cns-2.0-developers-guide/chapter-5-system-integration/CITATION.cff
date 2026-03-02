@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 5: System Integration'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration
+license: CC-BY-4.0
+abstract: Combining all CNS 2.0 components into a working, autonomous system
+keywords:
+- CNS 2.0
+- system integration
+- CNSWorkflowManager
+- SNOs
+- Critics
+- Synthesis Engine
+- asyncio
+- autonomous system
+- state persistence
+- workflow orchestration

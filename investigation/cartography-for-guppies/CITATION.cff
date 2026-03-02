@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: Cartography for Guppies
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-05'
+url: https://gtcode.com/investigation/cartography-for-guppies/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/cartography-for-guppies
+license: CC-BY-4.0
+abstract: Publisher's note from Ekewaka Lono introducing Oʻahu Underground, an independent
+  investigative journalism project mapping institutional power networks in Hawaiʻi
+  through public records.
+keywords:
+- Oahu Underground
+- Publisher's Note
+- Ekewaka Lono
+- Investigative Journalism
+- Hawaii

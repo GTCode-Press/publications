@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Project 3: Formal Methods & Causal Inference'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference
+license: CC-BY-4.0
+abstract: Elevating CNS 2.0's reasoning capabilities by integrating formal logical
+  systems and causal reasoning frameworks.
+keywords:
+- Formal Methods
+- Causal Inference
+- Automated Theorem Proving
+- CNS 2.0
+- Causal Discovery

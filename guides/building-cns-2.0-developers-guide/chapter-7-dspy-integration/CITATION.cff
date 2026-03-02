@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 7: Advanced Optimization with DSPy'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration
+license: CC-BY-4.0
+abstract: Evolving CNS 2.0 from prompt engineering to programmatic optimization using
+  DSPy
+keywords:
+- DSPy
+- Programmatic Optimization
+- LLM Tuning
+- Prompt Engineering
+- CNS 2.0

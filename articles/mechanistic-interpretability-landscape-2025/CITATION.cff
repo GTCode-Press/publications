@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Mechanistic Interpretability Landscape: A Technical Survey of How We Are
+  Learning to Understand Large Language Models'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025
+license: CC-BY-4.0
+abstract: A comprehensive technical survey of mechanistic interpretability research
+  in 2025, covering control mechanisms, truth detection, safety implications, and
+  fundamental limitations of understanding large language models.
+keywords:
+- Mechanistic Interpretability
+- AI Safety
+- Large Language Models
+- Steering Vectors
+- Sparse Autoencoders
+- Model Alignment
+- Chain of Thought

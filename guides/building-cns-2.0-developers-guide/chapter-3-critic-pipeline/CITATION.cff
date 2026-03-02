@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 3: The Multi-Component Critic Pipeline'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline
+license: CC-BY-4.0
+abstract: Implementing transparent evaluation systems for grounding, logic, and novelty
+  assessment
+keywords:
+- CNS 2.0
+- multi-component critic
+- grounding critic
+- logic critic
+- novelty-parsimony critic
+- transparent evaluation
+- Structured Narrative Objects
+- SNO
+- Trust Score
+- Developer's Guide

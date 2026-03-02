@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 2. Defining the Task for DSPy
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task
+license: CC-BY-4.0
+abstract: 'A code-heavy guide to setting up the core DSPy components: the Signature,
+  the Metric, and the training Examples.'
+keywords:
+- DSPy
+- Signature
+- Metric
+- Task Definition
+- LLM programming

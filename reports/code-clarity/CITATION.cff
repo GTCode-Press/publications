@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: report
+title: 'CodeClarity: An AI-Assisted Development Platform'
+authors:
+- name: GTCode Editorial
+date-released: '2025-01-01'
+url: https://gtcode.com/reports/code-clarity/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/reports/code-clarity
+license: CC-BY-4.0
+abstract: Interactive platform overview showcasing CodeClarity's vision for AI-powered
+  code comprehension

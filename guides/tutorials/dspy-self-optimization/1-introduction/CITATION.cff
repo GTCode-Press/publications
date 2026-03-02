@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: '1. Introduction: From Prompts to Programs'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction
+license: CC-BY-4.0
+abstract: An introduction to the concept of self-optimizing language model pipelines
+  using DSPy, moving beyond brittle prompt engineering.
+keywords:
+- DSPy
+- Prompt Engineering
+- Self-Optimization
+- LLM Pipelines
+- Programmatic AI

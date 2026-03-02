@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'Chapter 0: Quick Start - Your First SNO in 15 Minutes'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart
+license: CC-BY-4.0
+abstract: Get from zero to working CNS 2.0 environment with your first Structured
+  Narrative Object created and validated
+keywords:
+- CNS 2.0
+- Chapter 0
+- Quick Start
+- First SNO
+- Structured Narrative Object
+- SNO
+- Developer Guide
+- Onboarding
+- Environment Setup
+- Hello World CNS 2.0

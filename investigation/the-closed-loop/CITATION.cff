@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Closed Loop
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-15'
+url: https://gtcode.com/investigation/the-closed-loop/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-closed-loop
+license: CC-BY-4.0
+abstract: Series map of Hawaii oversight and self-investigation focused on the Hawaii
+  Commission on Judicial Conduct, Attorney General, SIPD, and accountability gaps.
+keywords:
+- Closed Loop
+- Hawaii
+- Hawaii Commission on Judicial Conduct
+- Attorney General
+- SIPD
+- Oversight
+- Self-Investigation
+- Accountability
+- Series
+- Judicial Conduct

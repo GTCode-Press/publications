@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Global Cognitive Brain: Engineering Distributed Machine Intelligence as
+  a Living System'
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/articles/global-cognitive-brain-architecture/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture
+license: CC-BY-4.0
+abstract: A technical introduction to the Global Cognitive Brain architecture, exploring
+  how distributed AI agents can form coherent cognitive organisms through semantic
+  primitives, cluster DNA, and bio-inspired coordination protocols.
+keywords:
+- Distributed AI
+- Multi-Agent Systems
+- Semantic Primitives
+- Cognitive Architecture
+- Bio-Inspired Computing
+- Federation Protocols

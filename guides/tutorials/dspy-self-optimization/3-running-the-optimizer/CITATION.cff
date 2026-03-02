@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 3. Running the DSPy Optimizer
+authors:
+- name: GTCode Editorial
+date-released: '2026-01-01'
+url: https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer
+license: CC-BY-4.0
+abstract: How to use the DSPy compiler to automatically generate and optimize a powerful
+  synthesis prompt based on our defined task.
+keywords:
+- DSPy Optimizer
+- DSPy Compile
+- BootstrapFewShot
+- LLM Prompt Optimization
+- dspy.Module
