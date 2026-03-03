@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies
 license: CC-BY-4.0
 abstract: Evaluating the long-term performance stability and generalization capabilities
   of the CNS 2.0 system across time and diverse professional domains.
@@ -16,3 +16,4 @@ keywords:
 - cross-domain validation
 - performance stability
 - system generalizability
+version: pub-20260303T011953

@@ -263,11 +263,11 @@ The tools that are supposed to provide transparency are participating in the opa
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-index-bing-search-suppression/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/investigation/the-index-bing-search-suppression}}
     }
 
 **APA:**
-Lono, E. (2026, February 13). The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name. *GTCode.com Investigations*. https://gtcode.com/investigation/the-index-bing-search-suppression/
+Lono, E. (2026, February 13). The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name. *GTCode.com Investigations*. https://gtcode.com/investigation/the-index-bing-search-suppression/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/investigation/the-index-bing-search-suppression)
 
 **Chicago:**
-Ekewaka Lono. "The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name." *GTCode.com Investigations*, February 13, 2026. https://gtcode.com/investigation/the-index-bing-search-suppression/.
+Ekewaka Lono. "The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name." *GTCode.com Investigations*, February 13, 2026. https://gtcode.com/investigation/the-index-bing-search-suppression/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/investigation/the-index-bing-search-suppression.

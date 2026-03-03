@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/tutorials/dspy-self-optimization/1-introduction
 license: CC-BY-4.0
 abstract: An introduction to the concept of self-optimizing language model pipelines
   using DSPy, moving beyond brittle prompt engineering.
@@ -16,3 +16,4 @@ keywords:
 - Self-Optimization
 - LLM Pipelines
 - Programmatic AI
+version: pub-20260303T011953

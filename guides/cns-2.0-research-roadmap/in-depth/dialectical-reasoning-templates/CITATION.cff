@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates
 license: CC-BY-4.0
 abstract: A deep dive into the structured reasoning templates used by the CNS 2.0
   synthesis engine to ensure logical consistency and mitigate hallucination.
@@ -16,3 +16,4 @@ keywords:
 - LLM Consistency
 - Structured Prompts
 - Hegelian Dialectic
+version: pub-20260303T011953

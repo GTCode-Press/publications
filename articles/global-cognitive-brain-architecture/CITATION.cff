@@ -7,7 +7,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-03-01'
 url: https://gtcode.com/articles/global-cognitive-brain-architecture/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/articles/global-cognitive-brain-architecture
 license: CC-BY-4.0
 abstract: A technical introduction to the Global Cognitive Brain architecture, exploring
   how distributed AI agents can form coherent cognitive organisms through semantic
@@ -19,3 +19,4 @@ keywords:
 - Cognitive Architecture
 - Bio-Inspired Computing
 - Federation Protocols
+version: pub-20260303T011953

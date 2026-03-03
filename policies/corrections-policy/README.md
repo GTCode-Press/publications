@@ -41,11 +41,11 @@ Send correction requests to [tips@GTCode.com](mailto:tips@gtcode.com) with subje
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/policies/corrections-policy/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/corrections-policy}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/policies/corrections-policy}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, February 14). Corrections Policy. *GTCode.com Policies*. https://gtcode.com/policies/corrections-policy/
+GTCode Editorial (2026, February 14). Corrections Policy. *GTCode.com Policies*. https://gtcode.com/policies/corrections-policy/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/policies/corrections-policy)
 
 **Chicago:**
-GTCode Editorial. "Corrections Policy." *GTCode.com Policies*, February 14, 2026. https://gtcode.com/policies/corrections-policy/.
+GTCode Editorial. "Corrections Policy." *GTCode.com Policies*, February 14, 2026. https://gtcode.com/policies/corrections-policy/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/policies/corrections-policy.

@@ -1,18 +1,23 @@
 cff-version: 1.2.0
-message: "If you reference any work in this archive, please cite it using the metadata in the relevant subdirectory."
+message: If you reference any work in this archive, please cite it using the metadata
+  in the relevant subdirectory.
 type: generic
-title: "GTCode Publications Archive"
+title: GTCode Publications Archive
 authors:
-  - family-names: "Lono"
-    given-names: "Ekewaka"
-    affiliation: "GTCode.com"
-url: "https://gtcode.com"
-repository-code: "https://github.com/GTCode-Press/publications"
-abstract: "Citable archive of investigations, articles, research papers, and policy documents published by GTCode.com. Each subdirectory contains the full text, BibTeX, and CITATION.cff for an individual publication."
+- family-names: Lono
+  given-names: Ekewaka
+  affiliation: GTCode.com
+url: https://gtcode.com
+repository-code: https://github.com/GTCode-Press/publications
+abstract: Citable archive of investigations, articles, research papers, and policy
+  documents published by GTCode.com. Each subdirectory contains the full text, BibTeX,
+  and CITATION.cff for an individual publication.
 keywords:
-  - "investigative journalism"
-  - "institutional capture"
-  - "information control"
-  - "AI security"
-  - "geometric communication"
-license: "CC-BY-4.0"
+- investigative journalism
+- institutional capture
+- information control
+- AI security
+- geometric communication
+license: CC-BY-4.0
+version: pub-20260303T011953
+date-released: '2026-03-03'

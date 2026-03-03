@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module
 license: CC-BY-4.0
 abstract: Analyzing the results of the DSPy compiler, comparing the optimized prompt
   to a naive one, and seeing the performance difference on a new example.
@@ -16,3 +16,4 @@ keywords:
 - Prompt Inspection
 - Performance Comparison
 - LLM Synthesis
+version: pub-20260303T011953

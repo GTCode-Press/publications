@@ -418,11 +418,11 @@ The diffs are becoming dimensions. The scrollbar is becoming a timeline. The rev
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/articles/cinema-debugger-semantic-code-review/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/articles/cinema-debugger-semantic-code-review}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, March 1). The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence. *GTCode.com Articles*. https://gtcode.com/articles/cinema-debugger-semantic-code-review/
+GTCode Editorial (2026, March 1). The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence. *GTCode.com Articles*. https://gtcode.com/articles/cinema-debugger-semantic-code-review/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/articles/cinema-debugger-semantic-code-review)
 
 **Chicago:**
-GTCode Editorial. "The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/cinema-debugger-semantic-code-review/.
+GTCode Editorial. "The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/cinema-debugger-semantic-code-review/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/articles/cinema-debugger-semantic-code-review.

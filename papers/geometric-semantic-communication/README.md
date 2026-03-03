@@ -873,11 +873,11 @@ where $\rho(\mathbf{x})$ is local agent density and $\bar{\rho}$ is target unifo
       year    = {2025},
       month   = dec,
       url     = {https://gtcode.com/papers/geometric-semantic-communication/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/geometric-semantic-communication}}
+      note    = {Last modified 2026-01-29; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/papers/geometric-semantic-communication}}
     }
 
 **APA:**
-GTCode Editorial,  (2025, December 20). Geometric Semantic Communication for Emergent Multi-Agent Intelligence. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-semantic-communication/
+GTCode Editorial (2025, December 20). Geometric Semantic Communication for Emergent Multi-Agent Intelligence. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-semantic-communication/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/papers/geometric-semantic-communication)
 
 **Chicago:**
-GTCode Editorial. "Geometric Semantic Communication for Emergent Multi-Agent Intelligence." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-semantic-communication/.
+GTCode Editorial. "Geometric Semantic Communication for Emergent Multi-Agent Intelligence." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-semantic-communication/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/papers/geometric-semantic-communication.
