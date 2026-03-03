@@ -1,7 +1,7 @@
 # CNS 2.0 Ideas Paper
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 15, 2025
 **Last Modified:** August 6, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/
 **Section:** Guides
@@ -1783,18 +1783,18 @@ CNS 2.0 thus represents not merely a technical achievement, but a foundational c
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026ideaspaper,
+    @misc{gtcodeeditorial2025ideaspaper,
       author  = {GTCode Editorial, },
       title   = {CNS 2.0 Ideas Paper},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/in-depth/ideas-paper}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). CNS 2.0 Ideas Paper. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/
+GTCode Editorial,  (2025, November 15). CNS 2.0 Ideas Paper. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/
 
 **Chicago:**
-GTCode Editorial. "CNS 2.0 Ideas Paper." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/.
+GTCode Editorial. "CNS 2.0 Ideas Paper." *GTCode.com Guides*, November 15, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/.

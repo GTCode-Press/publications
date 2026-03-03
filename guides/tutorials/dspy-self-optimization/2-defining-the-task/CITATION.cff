@@ -4,7 +4,7 @@ type: generic
 title: 2. Defining the Task for DSPy
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task
 license: CC-BY-4.0

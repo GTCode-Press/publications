@@ -1,7 +1,7 @@
 # Project 1: Longitudinal & Cross-Domain Studies
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/
 **Section:** Guides
@@ -85,18 +85,18 @@ This research will produce a framework for the longitudinal and cross-domain eva
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20261longitudinalcross,
+    @misc{gtcodeeditorial20251longitudinalcross,
       author  = {GTCode Editorial, },
       title   = {Project 1: Longitudinal & Cross-Domain Studies},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Project 1: Longitudinal & Cross-Domain Studies. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/
+GTCode Editorial,  (2025, November 9). Project 1: Longitudinal & Cross-Domain Studies. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/
 
 **Chicago:**
-GTCode Editorial. "Project 1: Longitudinal & Cross-Domain Studies." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/.
+GTCode Editorial. "Project 1: Longitudinal & Cross-Domain Studies." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/.

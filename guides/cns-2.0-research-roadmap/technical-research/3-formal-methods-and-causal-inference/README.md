@@ -1,7 +1,7 @@
 # Project 3: Formal Methods & Causal Inference
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/
 **Section:** Guides
@@ -82,18 +82,18 @@ Successfully integrating formal methods and causal inference would represent a m
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20263formalmethods,
+    @misc{gtcodeeditorial20253formalmethods,
       author  = {GTCode Editorial, },
       title   = {Project 3: Formal Methods & Causal Inference},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Project 3: Formal Methods & Causal Inference. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/
+GTCode Editorial,  (2025, November 9). Project 3: Formal Methods & Causal Inference. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/
 
 **Chicago:**
-GTCode Editorial. "Project 3: Formal Methods & Causal Inference." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/.
+GTCode Editorial. "Project 3: Formal Methods & Causal Inference." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/.

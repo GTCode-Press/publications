@@ -1,7 +1,7 @@
 # Chapter 3: The Anatomy of a Research Paper
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/
 **Section:** Guides
@@ -88,18 +88,18 @@ The integration of our implementation framework with established research method
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026chapter3anatomy,
+    @misc{gtcodeeditorial2025chapter3anatomy,
       author  = {GTCode Editorial, },
       title   = {Chapter 3: The Anatomy of a Research Paper},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Chapter 3: The Anatomy of a Research Paper. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/
+GTCode Editorial,  (2025, November 9). Chapter 3: The Anatomy of a Research Paper. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/
 
 **Chicago:**
-GTCode Editorial. "Chapter 3: The Anatomy of a Research Paper." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/.
+GTCode Editorial. "Chapter 3: The Anatomy of a Research Paper." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/.

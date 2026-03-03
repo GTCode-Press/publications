@@ -4,7 +4,7 @@ type: generic
 title: '1. Introduction: From Prompts to Programs'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction
 license: CC-BY-4.0

@@ -1,7 +1,7 @@
 # Tutorial Part 5: DSPy Automation Framework
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** August 5, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/
 **Section:** Guides
@@ -266,18 +266,18 @@ This comprehensive automation framework transforms the manual plate tectonics pr
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20265dspyautomation,
+    @misc{gtcodeeditorial20255dspyautomation,
       author  = {GTCode Editorial, },
       title   = {Tutorial Part 5: DSPy Automation Framework},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Tutorial Part 5: DSPy Automation Framework. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/
+GTCode Editorial,  (2025, November 9). Tutorial Part 5: DSPy Automation Framework. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 5: DSPy Automation Framework." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/.
+GTCode Editorial. "Tutorial Part 5: DSPy Automation Framework." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/.

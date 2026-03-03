@@ -2,6 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** December 20, 2025
+**Last Modified:** January 29, 2026
 **Canonical URL:** https://gtcode.com/papers/geometric-publish-subscribe/
 **Section:** Research Papers
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

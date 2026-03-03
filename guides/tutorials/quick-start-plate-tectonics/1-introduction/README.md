@@ -1,7 +1,7 @@
 # Part 1: Introduction to the Case Study
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/
 **Section:** Guides
@@ -62,18 +62,18 @@ By feeding the core concepts of these two theories into the system, we can see h
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20261introduction_486a,
+    @misc{gtcodeeditorial20251introduction_486a,
       author  = {GTCode Editorial, },
       title   = {Part 1: Introduction to the Case Study},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/
+GTCode Editorial,  (2025, November 9). Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/
 
 **Chicago:**
-GTCode Editorial. "Part 1: Introduction to the Case Study." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/.
+GTCode Editorial. "Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/.

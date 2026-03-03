@@ -1,7 +1,7 @@
 # Dialectical Reasoning Mechanisms
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 13, 2025
 **Last Modified:** August 5, 2025
 **Canonical URL:** https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/
 **Section:** Guides
@@ -209,18 +209,18 @@ While significant technical, ethical, and evaluative challenges persist, the fut
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026dialecticnarrativegeneration,
+    @misc{gtcodeeditorial2025dialecticnarrativegeneration,
       author  = {GTCode Editorial, },
       title   = {Dialectical Reasoning Mechanisms},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/dialectic-narrative-generation-research}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Dialectical Reasoning Mechanisms. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/
+GTCode Editorial,  (2025, November 13). Dialectical Reasoning Mechanisms. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/
 
 **Chicago:**
-GTCode Editorial. "Dialectical Reasoning Mechanisms." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/.
+GTCode Editorial. "Dialectical Reasoning Mechanisms." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/.

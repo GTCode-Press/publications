@@ -4,7 +4,7 @@ type: generic
 title: 3. Running the DSPy Optimizer
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer
 license: CC-BY-4.0

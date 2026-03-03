@@ -1,7 +1,7 @@
 # Project 2: Adversarial Robustness & Security
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/
 **Section:** Guides
@@ -97,18 +97,18 @@ This work is critical for building the public and expert trust necessary for the
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20262adversarialrobustness,
+    @misc{gtcodeeditorial20252adversarialrobustness,
       author  = {GTCode Editorial, },
       title   = {Project 2: Adversarial Robustness & Security},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Project 2: Adversarial Robustness & Security. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/
+GTCode Editorial,  (2025, November 9). Project 2: Adversarial Robustness & Security. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/
 
 **Chicago:**
-GTCode Editorial. "Project 2: Adversarial Robustness & Security." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/.
+GTCode Editorial. "Project 2: Adversarial Robustness & Security." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/.

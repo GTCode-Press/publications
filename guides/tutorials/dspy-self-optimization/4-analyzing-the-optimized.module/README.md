@@ -1,7 +1,7 @@
 # 4. Analyzing the Optimized Module
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/
 **Section:** Guides
@@ -191,18 +191,18 @@ This self-optimization loop—where the system's own critics are used to improve
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20264analyzingoptimized.module,
+    @misc{gtcodeeditorial20254analyzingoptimized.module,
       author  = {GTCode Editorial, },
       title   = {4. Analyzing the Optimized Module},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). 4. Analyzing the Optimized Module. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/
+GTCode Editorial,  (2025, November 9). 4. Analyzing the Optimized Module. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/
 
 **Chicago:**
-GTCode Editorial. "4. Analyzing the Optimized Module." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/.
+GTCode Editorial. "4. Analyzing the Optimized Module." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/.

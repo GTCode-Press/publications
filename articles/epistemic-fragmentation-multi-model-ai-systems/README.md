@@ -1,7 +1,7 @@
 # Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** March 1, 2026
 **Canonical URL:** https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -582,13 +582,13 @@ What remains is implementation—and the will to demand that our AI systems do b
       title   = {Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims},
       journal = {GTCode.com Articles},
       year    = {2026},
-      month   = jan,
+      month   = mar,
       url     = {https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims. *GTCode.com Articles*. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/
+GTCode Editorial,  (2026, March 1). Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims. *GTCode.com Articles*. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/
 
 **Chicago:**
-GTCode Editorial. "Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims." *GTCode.com Articles*, January 1, 2026. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/.
+GTCode Editorial. "Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/.

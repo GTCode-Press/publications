@@ -4,7 +4,7 @@ type: generic
 title: 'Chapter 4: The Synthesis Engine & Relational Metrics'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2026-02-27'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine
 license: CC-BY-4.0

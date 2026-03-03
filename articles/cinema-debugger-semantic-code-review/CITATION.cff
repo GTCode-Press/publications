@@ -5,7 +5,7 @@ title: 'The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navi
   and Multi-Resolution Intelligence'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2026-03-01'
 url: https://gtcode.com/articles/cinema-debugger-semantic-code-review/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review
 license: CC-BY-4.0

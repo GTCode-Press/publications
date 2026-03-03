@@ -1,7 +1,7 @@
 # The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** March 1, 2026
 **Canonical URL:** https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -421,13 +421,13 @@ Many of the most significant papers cited here emerged from the **MATS (ML Align
       title   = {The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models},
       journal = {GTCode.com Articles},
       year    = {2026},
-      month   = jan,
+      month   = mar,
       url     = {https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models. *GTCode.com Articles*. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
+GTCode Editorial,  (2026, March 1). The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models. *GTCode.com Articles*. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
 
 **Chicago:**
-GTCode Editorial. "The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models." *GTCode.com Articles*, January 1, 2026. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/.
+GTCode Editorial. "The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/.

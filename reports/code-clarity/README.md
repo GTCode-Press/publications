@@ -2,6 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** January 1, 2025
+**Last Modified:** February 12, 2026
 **Canonical URL:** https://gtcode.com/reports/code-clarity/
 **Section:** Reports
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

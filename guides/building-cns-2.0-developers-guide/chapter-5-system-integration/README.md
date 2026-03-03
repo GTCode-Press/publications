@@ -1,7 +1,7 @@
 # Chapter 5: System Integration
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/
 **Section:** Guides
@@ -538,18 +538,18 @@ By tracking these metrics, you gain crucial, actionable visibility into the syst
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026chapter5system,
+    @misc{gtcodeeditorial2025chapter5system,
       author  = {GTCode Editorial, },
       title   = {Chapter 5: System Integration},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Chapter 5: System Integration. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/
+GTCode Editorial,  (2025, November 9). Chapter 5: System Integration. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/
 
 **Chicago:**
-GTCode Editorial. "Chapter 5: System Integration." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/.
+GTCode Editorial. "Chapter 5: System Integration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/.

@@ -4,7 +4,7 @@ type: generic
 title: 'Chapter 3: The Multi-Component Critic Pipeline'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-09'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline
 license: CC-BY-4.0

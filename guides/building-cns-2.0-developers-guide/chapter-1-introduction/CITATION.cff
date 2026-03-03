@@ -4,7 +4,7 @@ type: generic
 title: 'Chapter 1: Introduction to CNS 2.0'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-13'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-1-introduction
 license: CC-BY-4.0

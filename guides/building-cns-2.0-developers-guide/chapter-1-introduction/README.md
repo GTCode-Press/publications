@@ -1,7 +1,7 @@
 # Chapter 1: Introduction to CNS 2.0
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 13, 2025
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/
 **Section:** Guides
@@ -400,18 +400,18 @@ You are ready to proceed to Chapter 2: SNO Foundations
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026chapter1introduction,
+    @misc{gtcodeeditorial2025chapter1introduction,
       author  = {GTCode Editorial, },
       title   = {Chapter 1: Introduction to CNS 2.0},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-1-introduction}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Chapter 1: Introduction to CNS 2.0. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/
+GTCode Editorial,  (2025, November 13). Chapter 1: Introduction to CNS 2.0. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/
 
 **Chicago:**
-GTCode Editorial. "Chapter 1: Introduction to CNS 2.0." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/.
+GTCode Editorial. "Chapter 1: Introduction to CNS 2.0." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/.

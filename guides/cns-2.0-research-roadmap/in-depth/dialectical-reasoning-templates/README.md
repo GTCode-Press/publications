@@ -1,7 +1,7 @@
 # Dialectical Reasoning Templates
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/
 **Section:** Guides
@@ -106,18 +106,18 @@ By using this structured, transparent, and rigorous approach, we transform the L
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026dialecticalreasoningtemplates,
+    @misc{gtcodeeditorial2025dialecticalreasoningtemplates,
       author  = {GTCode Editorial, },
       title   = {Dialectical Reasoning Templates},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Dialectical Reasoning Templates. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/
+GTCode Editorial,  (2025, November 9). Dialectical Reasoning Templates. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/
 
 **Chicago:**
-GTCode Editorial. "Dialectical Reasoning Templates." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/.
+GTCode Editorial. "Dialectical Reasoning Templates." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/.

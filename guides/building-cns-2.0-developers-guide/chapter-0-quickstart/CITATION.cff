@@ -4,7 +4,7 @@ type: generic
 title: 'Chapter 0: Quick Start - Your First SNO in 15 Minutes'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-12'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart
 license: CC-BY-4.0

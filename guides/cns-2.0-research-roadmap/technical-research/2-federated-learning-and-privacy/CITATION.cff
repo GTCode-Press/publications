@@ -4,7 +4,7 @@ type: generic
 title: 'Project 2: Federated Learning and Privacy'
 authors:
 - name: GTCode Editorial
-date-released: '2026-01-01'
+date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy
 license: CC-BY-4.0

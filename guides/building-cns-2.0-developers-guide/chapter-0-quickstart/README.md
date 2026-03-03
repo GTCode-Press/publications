@@ -1,7 +1,7 @@
 # Chapter 0: Quick Start - Your First SNO in 15 Minutes
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 12, 2025
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
 **Section:** Guides
@@ -521,18 +521,18 @@ Now that you have a working CNS 2.0 environment and understand the basic concept
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026chapter0quickstart,
+    @misc{gtcodeeditorial2025chapter0quickstart,
       author  = {GTCode Editorial, },
       title   = {Chapter 0: Quick Start - Your First SNO in 15 Minutes},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Chapter 0: Quick Start - Your First SNO in 15 Minutes. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
+GTCode Editorial,  (2025, November 12). Chapter 0: Quick Start - Your First SNO in 15 Minutes. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
 
 **Chicago:**
-GTCode Editorial. "Chapter 0: Quick Start - Your First SNO in 15 Minutes." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/.
+GTCode Editorial. "Chapter 0: Quick Start - Your First SNO in 15 Minutes." *GTCode.com Guides*, November 12, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/.

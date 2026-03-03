@@ -1,7 +1,7 @@
 # 3. Running the DSPy Optimizer
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/
 **Section:** Guides
@@ -109,18 +109,18 @@ In the final section, we will inspect the prompt that the optimizer generated an
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20263runningoptimizer,
+    @misc{gtcodeeditorial20253runningoptimizer,
       author  = {GTCode Editorial, },
       title   = {3. Running the DSPy Optimizer},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). 3. Running the DSPy Optimizer. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/
+GTCode Editorial,  (2025, November 9). 3. Running the DSPy Optimizer. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/
 
 **Chicago:**
-GTCode Editorial. "3. Running the DSPy Optimizer." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/.
+GTCode Editorial. "3. Running the DSPy Optimizer." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/.

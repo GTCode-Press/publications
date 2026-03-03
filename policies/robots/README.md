@@ -2,6 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** November 12, 2025
+**Last Modified:** February 27, 2026
 **Canonical URL:** https://gtcode.com/policies/robots/
 **Section:** Policies
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

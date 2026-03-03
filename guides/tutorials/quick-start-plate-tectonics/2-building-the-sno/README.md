@@ -1,7 +1,7 @@
 # Part 2: Building the Parent SNOs
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/
 **Section:** Guides
@@ -157,18 +157,18 @@ print("SNO_PlateTectonics created successfully.")
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20262buildingsno_bfc8,
+    @misc{gtcodeeditorial20252buildingsno_bfc8,
       author  = {GTCode Editorial, },
       title   = {Part 2: Building the Parent SNOs},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/
+GTCode Editorial,  (2025, November 9). Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/
 
 **Chicago:**
-GTCode Editorial. "Part 2: Building the Parent SNOs." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/.
+GTCode Editorial. "Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/.

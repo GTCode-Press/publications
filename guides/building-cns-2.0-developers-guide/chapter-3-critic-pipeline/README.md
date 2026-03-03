@@ -1,7 +1,7 @@
 # Chapter 3: The Multi-Component Critic Pipeline
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/
 **Section:** Guides
@@ -1063,18 +1063,18 @@ Before proceeding to Chapter 4, verify you can:
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026chapter3critic,
+    @misc{gtcodeeditorial2025chapter3critic,
       author  = {GTCode Editorial, },
       title   = {Chapter 3: The Multi-Component Critic Pipeline},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Chapter 3: The Multi-Component Critic Pipeline. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/
+GTCode Editorial,  (2025, November 9). Chapter 3: The Multi-Component Critic Pipeline. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/
 
 **Chicago:**
-GTCode Editorial. "Chapter 3: The Multi-Component Critic Pipeline." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/.
+GTCode Editorial. "Chapter 3: The Multi-Component Critic Pipeline." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/.

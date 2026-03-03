@@ -1,7 +1,7 @@
 # 1. Introduction: From Prompts to Programs
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
 **Section:** Guides
@@ -66,18 +66,18 @@ In this tutorial, we will walk through a concrete example of how to use DSPy to 
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20261introduction_7c4f,
+    @misc{gtcodeeditorial20251introduction_7c4f,
       author  = {GTCode Editorial, },
       title   = {1. Introduction: From Prompts to Programs},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
+GTCode Editorial,  (2025, November 9). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
 
 **Chicago:**
-GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/.
+GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/.

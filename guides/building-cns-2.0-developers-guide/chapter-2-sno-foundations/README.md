@@ -1,7 +1,7 @@
 # Chapter 2: SNO Foundations
 
 **Author:** GTCode Editorial
-**Published:** January 1, 2026
+**Published:** November 9, 2025
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/
 **Section:** Guides
@@ -781,18 +781,18 @@ Before proceeding to Chapter 3, verify you can:
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026chapter2sno,
+    @misc{gtcodeeditorial2025chapter2sno,
       author  = {GTCode Editorial, },
       title   = {Chapter 2: SNO Foundations},
       institution = {GTCode.com Guides},
-      year    = {2026},
-      month   = jan,
+      year    = {2025},
+      month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/},
       note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations}}
     }
 
 **APA:**
-GTCode Editorial,  (2026, January 1). Chapter 2: SNO Foundations. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/
+GTCode Editorial,  (2025, November 9). Chapter 2: SNO Foundations. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/
 
 **Chicago:**
-GTCode Editorial. "Chapter 2: SNO Foundations." *GTCode.com Guides*, January 1, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/.
+GTCode Editorial. "Chapter 2: SNO Foundations." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/.

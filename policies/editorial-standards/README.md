@@ -2,6 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** February 14, 2026
+**Last Modified:** March 1, 2026
 **Canonical URL:** https://gtcode.com/policies/editorial-standards/
 **Section:** Policies
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
