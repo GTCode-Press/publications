@@ -74,11 +74,11 @@ For questions regarding this LLM usage policy or programmatic use of the site:
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/policies/llm/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/policies/llm}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/policies/llm}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 12). LLM Usage Policy. *GTCode.com Policies*. https://gtcode.com/policies/llm/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/policies/llm)
+GTCode Editorial (2025, November 12). LLM Usage Policy. *GTCode.com Policies*. https://gtcode.com/policies/llm/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/policies/llm)
 
 **Chicago:**
-GTCode Editorial. "LLM Usage Policy." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/llm/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/policies/llm.
+GTCode Editorial. "LLM Usage Policy." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/llm/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/policies/llm.

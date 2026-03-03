@@ -179,11 +179,11 @@ The completion of both foundational projects establishes the technical infrastru
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/chapter-4-foundational-work}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/chapter-4-foundational-work}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 4: Building on the Foundation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/chapter-4-foundational-work)
+GTCode Editorial (2025, November 9). Chapter 4: Building on the Foundation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/chapter-4-foundational-work)
 
 **Chicago:**
-GTCode Editorial. "Chapter 4: Building on the Foundation." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/chapter-4-foundational-work.
+GTCode Editorial. "Chapter 4: Building on the Foundation." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/chapter-4-foundational-work.

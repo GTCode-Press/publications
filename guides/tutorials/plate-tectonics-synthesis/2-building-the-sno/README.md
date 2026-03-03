@@ -223,11 +223,11 @@ This template ensures that automated generation maintains the scientific rigor d
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno)
+GTCode Editorial (2025, November 9). Tutorial Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno.
+GTCode Editorial. "Tutorial Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno.

@@ -119,11 +119,11 @@ This walk-through demonstrates the end-to-end process of using the synthesis eng
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 4: Analyzing the Results. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results)
+GTCode Editorial (2025, November 9). Part 4: Analyzing the Results. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results)
 
 **Chicago:**
-GTCode Editorial. "Part 4: Analyzing the Results." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results.
+GTCode Editorial. "Part 4: Analyzing the Results." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results.

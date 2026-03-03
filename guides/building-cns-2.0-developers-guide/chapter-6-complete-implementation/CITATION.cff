@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-13'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation
 license: CC-BY-4.0
 abstract: Taking the CNS 2.0 system from a single-process prototype to a scalable,
   production-grade service.
@@ -16,4 +16,4 @@ keywords:
 - Celery
 - Docker
 - CNS 2.0
-version: pub-20260303T030558
+version: pub-20260303T032819

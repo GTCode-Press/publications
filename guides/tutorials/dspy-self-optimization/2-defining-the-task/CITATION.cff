@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/dspy-self-optimization/2-defining-the-task
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/dspy-self-optimization/2-defining-the-task
 license: CC-BY-4.0
 abstract: 'A code-heavy guide to setting up the core DSPy components: the Signature,
   the Metric, and the training Examples.'
@@ -16,4 +16,4 @@ keywords:
 - Metric
 - Task Definition
 - LLM programming
-version: pub-20260303T030558
+version: pub-20260303T032819

@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results
 license: CC-BY-4.0
 abstract: A demonstration of how to evaluate the generated synthesis using both quantitative
   scores and qualitative analysis.
@@ -16,4 +16,4 @@ keywords:
 - qualitative analysis
 - Critic Pipeline
 - TrustScore
-version: pub-20260303T030558
+version: pub-20260303T032819

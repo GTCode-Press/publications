@@ -7,7 +7,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-03-01'
 url: https://gtcode.com/articles/cinema-debugger-semantic-code-review/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/articles/cinema-debugger-semantic-code-review
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/cinema-debugger-semantic-code-review
 license: CC-BY-4.0
 abstract: A technical deep-dive into the Cinema Debugger paradigm and Context-Graph
   Knowledge Base architecture, exploring how semantic graphs, scene-based workflows,
@@ -20,4 +20,4 @@ keywords:
 - Knowledge Representation
 - Software Engineering
 - AI-Assisted Development
-version: pub-20260303T030558
+version: pub-20260303T032819

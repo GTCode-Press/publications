@@ -162,11 +162,11 @@ With our `Signature`, `Metric`, and `Examples` defined, we now have a fully spec
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/dspy-self-optimization/2-defining-the-task}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/dspy-self-optimization/2-defining-the-task}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 2. Defining the Task for DSPy. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/dspy-self-optimization/2-defining-the-task)
+GTCode Editorial (2025, November 9). 2. Defining the Task for DSPy. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/dspy-self-optimization/2-defining-the-task)
 
 **Chicago:**
-GTCode Editorial. "2. Defining the Task for DSPy." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/dspy-self-optimization/2-defining-the-task.
+GTCode Editorial. "2. Defining the Task for DSPy." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/dspy-self-optimization/2-defining-the-task.

@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/future-research-directions
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/future-research-directions
 license: CC-BY-4.0
 abstract: 'The next frontier for CNS: Evolving from a logic engine to a narrative
   intelligence system by integrating the deep structures of storytelling.'
@@ -16,4 +16,4 @@ keywords:
 - CNS Roadmap
 - Narratology
 - Actantial Modeling
-version: pub-20260303T030558
+version: pub-20260303T032819

@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security
 license: CC-BY-4.0
 abstract: Conducting a rigorous security assessment of the CNS 2.0 system to test
   its resilience against sophisticated adversarial attacks and develop novel defenses.
@@ -16,4 +16,4 @@ keywords:
 - CNS 2.0
 - Red Team Attack
 - Defense Mechanisms
-version: pub-20260303T030558
+version: pub-20260303T032819
