@@ -128,11 +128,11 @@ The record is public. The sealed file exists. The questions remain open.
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/investigation/aloha-protection-racket/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/aloha-protection-racket}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/aloha-protection-racket}}
     }
 
 **APA:**
-Lono, E. (2025, August 26). The Aloha Protection Racket. *GTCode.com Investigations*. https://gtcode.com/investigation/aloha-protection-racket/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/aloha-protection-racket)
+Lono, E. (2025, August 26). The Aloha Protection Racket. *GTCode.com Investigations*. https://gtcode.com/investigation/aloha-protection-racket/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/aloha-protection-racket)
 
 **Chicago:**
-Ekewaka Lono. "The Aloha Protection Racket." *GTCode.com Investigations*, August 26, 2025. https://gtcode.com/investigation/aloha-protection-racket/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/aloha-protection-racket.
+Ekewaka Lono. "The Aloha Protection Racket." *GTCode.com Investigations*, August 26, 2025. https://gtcode.com/investigation/aloha-protection-racket/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/aloha-protection-racket.

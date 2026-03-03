@@ -294,11 +294,11 @@ Ultimately, despite profound technological advancements, the core human need for
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/},
-      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/case-studies-and-experiments/narrative-structures}}
+      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/case-studies-and-experiments/narrative-structures}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 13). Narrative Structures. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/case-studies-and-experiments/narrative-structures)
+GTCode Editorial (2025, November 13). Narrative Structures. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/case-studies-and-experiments/narrative-structures)
 
 **Chicago:**
-GTCode Editorial. "Narrative Structures." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/case-studies-and-experiments/narrative-structures.
+GTCode Editorial. "Narrative Structures." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/case-studies-and-experiments/narrative-structures.

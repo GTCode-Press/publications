@@ -340,11 +340,11 @@ This article presents a structural model. Models are tools, not truths. The foll
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-shape-of-the-cage/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-shape-of-the-cage}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-shape-of-the-cage}}
     }
 
 **APA:**
-Lono, E. (2026, February 24). The Shape of the Cage. *GTCode.com Investigations*. https://gtcode.com/investigation/the-shape-of-the-cage/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-shape-of-the-cage)
+Lono, E. (2026, February 24). The Shape of the Cage. *GTCode.com Investigations*. https://gtcode.com/investigation/the-shape-of-the-cage/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-shape-of-the-cage)
 
 **Chicago:**
-Ekewaka Lono. "The Shape of the Cage." *GTCode.com Investigations*, February 24, 2026. https://gtcode.com/investigation/the-shape-of-the-cage/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-shape-of-the-cage.
+Ekewaka Lono. "The Shape of the Cage." *GTCode.com Investigations*, February 24, 2026. https://gtcode.com/investigation/the-shape-of-the-cage/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-shape-of-the-cage.

@@ -7,7 +7,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-02-18'
 url: https://gtcode.com/articles/google-information-control-audit/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/google-information-control-audit
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/articles/google-information-control-audit
 license: CC-BY-4.0
 abstract: A comprehensive technical audit of Google's information control architecture,
   combining whistleblower disclosures, the 2024 API leak, two federal monopoly rulings,
@@ -22,4 +22,4 @@ keywords:
 - Government Coordination
 - AI Overviews
 - Content Moderation
-version: pub-20260303T064556
+version: pub-20260303T195118

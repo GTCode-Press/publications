@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-28'
 url: https://gtcode.com/articles/visual-language-ai-synthesis/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/visual-language-ai-synthesis
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/articles/visual-language-ai-synthesis
 license: CC-BY-4.0
 abstract: Exploring a visual framework for understanding how AI systems might transform
   conflicting information into coherent knowledge—through resonance-like alignment
@@ -18,4 +18,4 @@ keywords:
 - Epistemic Geometry
 - Belief Manifolds
 - Topological Identity
-version: pub-20260303T064556
+version: pub-20260303T195118

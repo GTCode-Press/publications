@@ -584,11 +584,11 @@ What remains is implementation—and the will to demand that our AI systems do b
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/epistemic-fragmentation-multi-model-ai-systems}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/articles/epistemic-fragmentation-multi-model-ai-systems}}
     }
 
 **APA:**
-GTCode Editorial (2026, March 1). Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims. *GTCode.com Articles*. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/epistemic-fragmentation-multi-model-ai-systems)
+GTCode Editorial (2026, March 1). Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims. *GTCode.com Articles*. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/articles/epistemic-fragmentation-multi-model-ai-systems)
 
 **Chicago:**
-GTCode Editorial. "Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/epistemic-fragmentation-multi-model-ai-systems.
+GTCode Editorial. "Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/articles/epistemic-fragmentation-multi-model-ai-systems.

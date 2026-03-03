@@ -154,11 +154,11 @@ The Commission also received 70 advisory opinion requests in FY 2018–2019 and 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-zero-commission/},
-      note    = {The Closed Loop, Part I; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-zero-commission}}
+      note    = {The Closed Loop, Part I; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-zero-commission}}
     }
 
 **APA:**
-Lono, E. (2026, February 15). The Zero Commission. *GTCode.com Investigations*. https://gtcode.com/investigation/the-zero-commission/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-zero-commission)
+Lono, E. (2026, February 15). The Zero Commission. *GTCode.com Investigations*. https://gtcode.com/investigation/the-zero-commission/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-zero-commission)
 
 **Chicago:**
-Ekewaka Lono. "The Zero Commission." *GTCode.com Investigations*, February 15, 2026. https://gtcode.com/investigation/the-zero-commission/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-zero-commission.
+Ekewaka Lono. "The Zero Commission." *GTCode.com Investigations*, February 15, 2026. https://gtcode.com/investigation/the-zero-commission/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-zero-commission.
