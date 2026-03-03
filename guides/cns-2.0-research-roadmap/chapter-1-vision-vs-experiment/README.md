@@ -75,11 +75,11 @@ This experimental framework establishes the foundation for statistically rigorou
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 1: From Grand Vision to Focused Experiment. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment)
+GTCode Editorial (2025, November 9). Chapter 1: From Grand Vision to Focused Experiment. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment)
 
 **Chicago:**
-GTCode Editorial. "Chapter 1: From Grand Vision to Focused Experiment." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment.
+GTCode Editorial. "Chapter 1: From Grand Vision to Focused Experiment." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment.

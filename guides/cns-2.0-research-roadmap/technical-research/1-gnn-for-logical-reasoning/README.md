@@ -100,11 +100,11 @@ A successful GNN-based logic critic would be a state-of-the-art tool for automat
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 1: GNNs for Logical Reasoning. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning)
+GTCode Editorial (2025, November 9). Project 1: GNNs for Logical Reasoning. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning)
 
 **Chicago:**
-GTCode Editorial. "Project 1: GNNs for Logical Reasoning." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning.
+GTCode Editorial. "Project 1: GNNs for Logical Reasoning." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning.

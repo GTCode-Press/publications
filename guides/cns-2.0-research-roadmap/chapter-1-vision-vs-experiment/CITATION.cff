@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment
 license: CC-BY-4.0
 abstract: Establishing experimental boundaries and statistical validation frameworks
   for the CNS 2.0 dialectical synthesis engine.
@@ -16,4 +16,4 @@ keywords:
 - CNS 2.0
 - Statistical Validation
 - Variable Isolation
-version: pub-20260303T195118
+version: pub-20260303T201101

@@ -77,11 +77,11 @@ The Attorney General killed a special counsel bill in 2024, testifying that the 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-closed-loop/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-closed-loop}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-closed-loop}}
     }
 
 **APA:**
-Lono, E. (2026, February 15). The Closed Loop. *GTCode.com Investigations*. https://gtcode.com/investigation/the-closed-loop/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-closed-loop)
+Lono, E. (2026, February 15). The Closed Loop. *GTCode.com Investigations*. https://gtcode.com/investigation/the-closed-loop/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-closed-loop)
 
 **Chicago:**
-Ekewaka Lono. "The Closed Loop." *GTCode.com Investigations*, February 15, 2026. https://gtcode.com/investigation/the-closed-loop/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/the-closed-loop.
+Ekewaka Lono. "The Closed Loop." *GTCode.com Investigations*, February 15, 2026. https://gtcode.com/investigation/the-closed-loop/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-closed-loop.

@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/tutorials/quick-start-plate-tectonics/1-introduction
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/tutorials/quick-start-plate-tectonics/1-introduction
 license: CC-BY-4.0
 abstract: An overview of the historical debate between Plate Tectonics and Geosyncline
   theory, an ideal example for synthesis.
@@ -16,4 +16,4 @@ keywords:
 - scientific synthesis
 - geology case study
 - historical science
-version: pub-20260303T195118
+version: pub-20260303T201101

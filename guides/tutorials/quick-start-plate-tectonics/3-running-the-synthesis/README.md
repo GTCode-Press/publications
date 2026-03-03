@@ -131,11 +131,11 @@ The engine has produced a new SNO containing a hypothesis that integrates concep
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 3: Running the Synthesis. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis)
+GTCode Editorial (2025, November 9). Part 3: Running the Synthesis. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis)
 
 **Chicago:**
-GTCode Editorial. "Part 3: Running the Synthesis." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis.
+GTCode Editorial. "Part 3: Running the Synthesis." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis.

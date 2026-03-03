@@ -330,11 +330,11 @@ regarding factual assertions may be directed to the author.
       year    = {2025},
       month   = jun,
       url     = {https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/hawaii-justice-system-wilson-loo}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/hawaii-justice-system-wilson-loo}}
     }
 
 **APA:**
-Lono, E. (2025, June 12). Wilson Loo: Investigation into Suborning Perjury & Judicial Corruption in Hawaii. *GTCode.com Investigations*. https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/hawaii-justice-system-wilson-loo)
+Lono, E. (2025, June 12). Wilson Loo: Investigation into Suborning Perjury & Judicial Corruption in Hawaii. *GTCode.com Investigations*. https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/hawaii-justice-system-wilson-loo)
 
 **Chicago:**
-Ekewaka Lono. "Wilson Loo: Investigation into Suborning Perjury & Judicial Corruption in Hawaii." *GTCode.com Investigations*, June 12, 2025. https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/investigation/hawaii-justice-system-wilson-loo.
+Ekewaka Lono. "Wilson Loo: Investigation into Suborning Perjury & Judicial Corruption in Hawaii." *GTCode.com Investigations*, June 12, 2025. https://gtcode.com/investigation/hawaii-justice-system-wilson-loo/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/hawaii-justice-system-wilson-loo.

@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T195118/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno
 license: CC-BY-4.0
 abstract: A code-heavy guide to manually constructing the Structured Narrative Objects
   for the Plate Tectonics and Geosyncline theories.
@@ -17,4 +17,4 @@ keywords:
 - Geosyncline
 - DSPy template
 - data modeling
-version: pub-20260303T195118
+version: pub-20260303T201101
