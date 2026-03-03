@@ -528,11 +528,11 @@ Now that you have a working CNS 2.0 environment and understand the basic concept
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/},
-      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/building-cns-2.0-developers-guide/chapter-0-quickstart}}
+      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/building-cns-2.0-developers-guide/chapter-0-quickstart}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 12). Chapter 0: Quick Start - Your First SNO in 15 Minutes. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/building-cns-2.0-developers-guide/chapter-0-quickstart)
+GTCode Editorial (2025, November 12). Chapter 0: Quick Start - Your First SNO in 15 Minutes. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/building-cns-2.0-developers-guide/chapter-0-quickstart)
 
 **Chicago:**
-GTCode Editorial. "Chapter 0: Quick Start - Your First SNO in 15 Minutes." *GTCode.com Guides*, November 12, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/building-cns-2.0-developers-guide/chapter-0-quickstart.
+GTCode Editorial. "Chapter 0: Quick Start - Your First SNO in 15 Minutes." *GTCode.com Guides*, November 12, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/building-cns-2.0-developers-guide/chapter-0-quickstart.

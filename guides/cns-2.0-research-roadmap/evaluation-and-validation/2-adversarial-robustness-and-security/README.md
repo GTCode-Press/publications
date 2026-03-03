@@ -104,11 +104,11 @@ This work is critical for building the public and expert trust necessary for the
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 2: Adversarial Robustness & Security. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security)
+GTCode Editorial (2025, November 9). Project 2: Adversarial Robustness & Security. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security)
 
 **Chicago:**
-GTCode Editorial. "Project 2: Adversarial Robustness & Security." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security.
+GTCode Editorial. "Project 2: Adversarial Robustness & Security." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security.

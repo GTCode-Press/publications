@@ -49,11 +49,11 @@ For questions about AI access policies:
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/policies/ai/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/policies/ai}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/policies/ai}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 12). AI Ethics Guidelines. *GTCode.com Policies*. https://gtcode.com/policies/ai/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/policies/ai)
+GTCode Editorial (2025, November 12). AI Ethics Guidelines. *GTCode.com Policies*. https://gtcode.com/policies/ai/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/policies/ai)
 
 **Chicago:**
-GTCode Editorial. "AI Ethics Guidelines." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/ai/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/policies/ai.
+GTCode Editorial. "AI Ethics Guidelines." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/ai/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/policies/ai.

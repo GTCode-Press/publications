@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T011953/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T030558/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis
 license: CC-BY-4.0
 abstract: How to use the ChiralPairDetector and GenerativeSynthesisEngine to create
   a novel synthesis from two conflicting SNOs.
@@ -16,4 +16,4 @@ keywords:
 - SNO resolution
 - Dialectical Reasoning
 - Quantitative Synthesis Validation
-version: pub-20260303T011953
+version: pub-20260303T030558
