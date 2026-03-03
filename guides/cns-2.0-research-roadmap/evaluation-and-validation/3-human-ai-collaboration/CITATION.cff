@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration
 license: CC-BY-4.0
 abstract: Researching and optimizing the interaction between human experts and CNS
   2.0 to create a seamless, trustworthy, and effective cognitive partnership.
@@ -16,4 +16,4 @@ keywords:
 - XAI
 - Trust Calibration
 - Cognitive Partnership
-version: pub-20260303T032819
+version: pub-20260303T064556

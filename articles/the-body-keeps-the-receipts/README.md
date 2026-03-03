@@ -383,11 +383,11 @@ Yeager, D. S., Purdie-Vaughns, V., Hooper, S. Y., & Cohen, G. L. (2017). Loss of
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/articles/the-body-keeps-the-receipts/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/the-body-keeps-the-receipts}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/the-body-keeps-the-receipts}}
     }
 
 **APA:**
-GTCode Editorial (2026, February 26). The Body Keeps the Receipts. *GTCode.com Articles*. https://gtcode.com/articles/the-body-keeps-the-receipts/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/the-body-keeps-the-receipts)
+GTCode Editorial (2026, February 26). The Body Keeps the Receipts. *GTCode.com Articles*. https://gtcode.com/articles/the-body-keeps-the-receipts/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/the-body-keeps-the-receipts)
 
 **Chicago:**
-GTCode Editorial. "The Body Keeps the Receipts." *GTCode.com Articles*, February 26, 2026. https://gtcode.com/articles/the-body-keeps-the-receipts/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/the-body-keeps-the-receipts.
+GTCode Editorial. "The Body Keeps the Receipts." *GTCode.com Articles*, February 26, 2026. https://gtcode.com/articles/the-body-keeps-the-receipts/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/the-body-keeps-the-receipts.

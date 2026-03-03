@@ -733,11 +733,11 @@ These components form the heart of CNS 2.0's dialectical reasoning capability. I
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/},
-      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine}}
+      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine}}
     }
 
 **APA:**
-GTCode Editorial (2026, February 27). Chapter 4: The Synthesis Engine & Relational Metrics. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine)
+GTCode Editorial (2026, February 27). Chapter 4: The Synthesis Engine & Relational Metrics. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine)
 
 **Chicago:**
-GTCode Editorial. "Chapter 4: The Synthesis Engine & Relational Metrics." *GTCode.com Guides*, February 27, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine.
+GTCode Editorial. "Chapter 4: The Synthesis Engine & Relational Metrics." *GTCode.com Guides*, February 27, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine.

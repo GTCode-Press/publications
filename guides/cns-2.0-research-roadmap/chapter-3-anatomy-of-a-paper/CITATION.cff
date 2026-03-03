@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper
 license: CC-BY-4.0
 abstract: Showing how the results from the Minimum Viable Experiment will be structured
   into a standard, high-quality academic paper.
@@ -16,4 +16,4 @@ keywords:
 - Academic Writing
 - Experimental Results
 - Statistical Validation
-version: pub-20260303T032819
+version: pub-20260303T064556

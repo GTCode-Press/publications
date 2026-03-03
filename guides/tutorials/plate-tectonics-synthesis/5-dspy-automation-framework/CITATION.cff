@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework
 license: CC-BY-4.0
 abstract: Specifications for automating the manual prototype through DSPy optimization
   to achieve statistical significance.
@@ -16,4 +16,4 @@ keywords:
 - Statistical Validation
 - LLM Pipelines
 - Scientific Synthesis
-version: pub-20260303T032819
+version: pub-20260303T064556

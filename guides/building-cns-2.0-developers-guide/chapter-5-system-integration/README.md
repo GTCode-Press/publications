@@ -545,11 +545,11 @@ By tracking these metrics, you gain crucial, actionable visibility into the syst
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/},
-      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-5-system-integration}}
+      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-5-system-integration}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 5: System Integration. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-5-system-integration)
+GTCode Editorial (2025, November 9). Chapter 5: System Integration. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-5-system-integration)
 
 **Chicago:**
-GTCode Editorial. "Chapter 5: System Integration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-5-system-integration.
+GTCode Editorial. "Chapter 5: System Integration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-5-system-integration.

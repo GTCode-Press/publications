@@ -129,11 +129,11 @@ If other readers find themselves paying close attention—well, that's the natur
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/articles/mathematics-of-coordinated-silence/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/mathematics-of-coordinated-silence}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/mathematics-of-coordinated-silence}}
     }
 
 **APA:**
-GTCode Editorial (2026, February 4). The Mathematics of Coordinated Silence. *GTCode.com Articles*. https://gtcode.com/articles/mathematics-of-coordinated-silence/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/mathematics-of-coordinated-silence)
+GTCode Editorial (2026, February 4). The Mathematics of Coordinated Silence. *GTCode.com Articles*. https://gtcode.com/articles/mathematics-of-coordinated-silence/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/mathematics-of-coordinated-silence)
 
 **Chicago:**
-GTCode Editorial. "The Mathematics of Coordinated Silence." *GTCode.com Articles*, February 4, 2026. https://gtcode.com/articles/mathematics-of-coordinated-silence/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/articles/mathematics-of-coordinated-silence.
+GTCode Editorial. "The Mathematics of Coordinated Silence." *GTCode.com Articles*, February 4, 2026. https://gtcode.com/articles/mathematics-of-coordinated-silence/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/articles/mathematics-of-coordinated-silence.

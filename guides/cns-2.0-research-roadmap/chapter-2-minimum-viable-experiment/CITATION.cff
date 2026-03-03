@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment
 license: CC-BY-4.0
 abstract: Mathematical framework for scaling manual prototype validation to statistically
   significant experimental designs.
@@ -16,4 +16,4 @@ keywords:
 - Power Analysis
 - Dialectical Synthesis
 - DSPy Automation
-version: pub-20260303T032819
+version: pub-20260303T064556

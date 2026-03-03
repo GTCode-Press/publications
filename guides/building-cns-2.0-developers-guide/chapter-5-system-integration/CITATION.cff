@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/building-cns-2.0-developers-guide/chapter-5-system-integration
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/building-cns-2.0-developers-guide/chapter-5-system-integration
 license: CC-BY-4.0
 abstract: Combining all CNS 2.0 components into a working, autonomous system
 keywords:
@@ -20,4 +20,4 @@ keywords:
 - autonomous system
 - state persistence
 - workflow orchestration
-version: pub-20260303T032819
+version: pub-20260303T064556

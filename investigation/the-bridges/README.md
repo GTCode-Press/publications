@@ -371,11 +371,11 @@ The recommendation is not disengagement — it is risk-managed engagement: ensur
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-bridges/},
-      note    = {The Architecture of Access, Part II; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/investigation/the-bridges}}
+      note    = {The Architecture of Access, Part II; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-bridges}}
     }
 
 **APA:**
-Lono, E. (2026, March 1). The Bridges. *GTCode.com Investigations*. https://gtcode.com/investigation/the-bridges/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/investigation/the-bridges)
+Lono, E. (2026, March 1). The Bridges. *GTCode.com Investigations*. https://gtcode.com/investigation/the-bridges/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-bridges)
 
 **Chicago:**
-Ekewaka Lono. "The Bridges." *GTCode.com Investigations*, March 1, 2026. https://gtcode.com/investigation/the-bridges/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/investigation/the-bridges.
+Ekewaka Lono. "The Bridges." *GTCode.com Investigations*, March 1, 2026. https://gtcode.com/investigation/the-bridges/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/investigation/the-bridges.

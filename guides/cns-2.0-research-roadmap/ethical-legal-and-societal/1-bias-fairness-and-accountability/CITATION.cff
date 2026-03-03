@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability
 license: CC-BY-4.0
 abstract: Developing robust technical and policy frameworks to detect and mitigate
   bias, ensure fairness, and establish clear accountability for the CNS 2.0 system.
@@ -16,4 +16,4 @@ keywords:
 - AI accountability
 - CNS 2.0 ethics
 - AI governance
-version: pub-20260303T032819
+version: pub-20260303T064556

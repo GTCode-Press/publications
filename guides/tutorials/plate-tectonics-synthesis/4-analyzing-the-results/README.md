@@ -211,11 +211,11 @@ The manual prototype validates the core synthesis methodology and establishes th
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 4: Analyzing the Results. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results)
+GTCode Editorial (2025, November 9). Tutorial Part 4: Analyzing the Results. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 4: Analyzing the Results." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T032819/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results.
+GTCode Editorial. "Tutorial Part 4: Analyzing the Results." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T064556/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results.
