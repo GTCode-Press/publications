@@ -6,8 +6,8 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-01-01'
 url: https://gtcode.com/reports/code-clarity-existing/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/reports/code-clarity-existing
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/reports/code-clarity-existing
 license: CC-BY-4.0
 abstract: Interactive competitive analysis report comparing AI-assisted development
   tools against CodeClarity's vision
-version: pub-20260303T201101
+version: pub-20260305T011050

@@ -7,7 +7,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-03-01'
 url: https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/articles/epistemic-fragmentation-multi-model-ai-systems
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/articles/epistemic-fragmentation-multi-model-ai-systems
 license: CC-BY-4.0
 abstract: An analysis of epistemic fragmentation in multi-model AI deployments, exploring
   why different models produce conflicting knowledge claims and the institutional
@@ -19,4 +19,4 @@ keywords:
 - AI Governance
 - Institutional Risk
 - Model Divergence
-version: pub-20260303T201101
+version: pub-20260305T011050

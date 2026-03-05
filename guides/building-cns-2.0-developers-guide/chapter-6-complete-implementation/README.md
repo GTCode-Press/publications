@@ -235,11 +235,11 @@ Your `CNSConfig` class would then load this file using a library like `PyYAML`. 
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/},
-      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation}}
+      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 13). Chapter 6: Complete Implementation - Production Deployment and Scaling. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation)
+GTCode Editorial (2025, November 13). Chapter 6: Complete Implementation - Production Deployment and Scaling. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation)
 
 **Chicago:**
-GTCode Editorial. "Chapter 6: Complete Implementation - Production Deployment and Scaling." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation.
+GTCode Editorial. "Chapter 6: Complete Implementation - Production Deployment and Scaling." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation.

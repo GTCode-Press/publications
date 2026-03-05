@@ -101,11 +101,11 @@ The future of narrative is interactive. The CNS framework must evolve from a sta
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/},
-      note    = {Last modified 2025-08-06; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/future-research-directions}}
+      note    = {Last modified 2025-08-06; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/cns-2.0-research-roadmap/future-research-directions}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Future Research Directions. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/future-research-directions)
+GTCode Editorial (2025, November 9). Future Research Directions. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/cns-2.0-research-roadmap/future-research-directions)
 
 **Chicago:**
-GTCode Editorial. "Future Research Directions." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/cns-2.0-research-roadmap/future-research-directions.
+GTCode Editorial. "Future Research Directions." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/cns-2.0-research-roadmap/future-research-directions.

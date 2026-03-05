@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Ledger
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-03-04'
+url: https://gtcode.com/investigation/the-ledger/
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-ledger
+license: CC-BY-4.0
+abstract: IRS Form 990 filings show a FY2024 contribution spike and first-time grants
+  at the Chinese Chamber of Commerce of Hawaii; this report maps disclosure thresholds
+  and public-record context.
+keywords:
+- Chinese Chamber of Commerce of Hawaii
+- IRS Form 990
+- Schedule F
+- Schedule I
+- Schedule B
+- Guo Ningning
+- Fujian Province
+- CAIFC
+- Hawaii DCCA
+- Hawaii Nonprofits
+version: pub-20260305T011050

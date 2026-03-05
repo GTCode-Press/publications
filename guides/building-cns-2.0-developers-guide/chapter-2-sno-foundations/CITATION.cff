@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations
 license: CC-BY-4.0
 abstract: Building Structured Narrative Objects - the core data structure of CNS 2.0
 keywords:
@@ -20,4 +20,4 @@ keywords:
 - from_dict
 - schema versioning
 - developer guide
-version: pub-20260303T201101
+version: pub-20260305T011050

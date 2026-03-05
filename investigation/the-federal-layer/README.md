@@ -27,6 +27,7 @@ That family is the Lukes. And at the center of it is Warren K.K. Luke.
 - [Series: The Architecture of Access](https://gtcode.com/investigation/the-architecture-of-access/)
 - Part I (this page): The Federal Layer
 - [Read Part II: The Bridges (international / PRC-facing)](https://gtcode.com/investigation/the-bridges/)
+- [Read Part III: The Ledger (funding pathways and disclosure surfaces)](https://gtcode.com/investigation/the-ledger/)
 - [The Two Questions: federal investigative roadmap in the Wilson M.N. Loo matter](https://gtcode.com/investigation/the-two-questions/)
 - [The Closed Loop: oversight and self-investigation series hub](https://gtcode.com/investigation/the-closed-loop/)
 - [Investigations index](https://gtcode.com/investigation/)
@@ -407,11 +408,11 @@ The structure is this investigation's subject. The structure is, the public reco
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-federal-layer/},
-      note    = {The Architecture of Access, Part I; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-federal-layer}}
+      note    = {The Architecture of Access, Part I; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-federal-layer}}
     }
 
 **APA:**
-Lono, E. (2026, February 28). The Federal Layer. *GTCode.com Investigations*. https://gtcode.com/investigation/the-federal-layer/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-federal-layer)
+Lono, E. (2026, February 28). The Federal Layer. *GTCode.com Investigations*. https://gtcode.com/investigation/the-federal-layer/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-federal-layer)
 
 **Chicago:**
-Ekewaka Lono. "The Federal Layer." *GTCode.com Investigations*, February 28, 2026. https://gtcode.com/investigation/the-federal-layer/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-federal-layer.
+Ekewaka Lono. "The Federal Layer." *GTCode.com Investigations*, February 28, 2026. https://gtcode.com/investigation/the-federal-layer/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-federal-layer.

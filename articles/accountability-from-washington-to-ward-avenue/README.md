@@ -83,11 +83,11 @@ A woman from Hawaii's second district decided accountability was worth the cost.
       year    = {2026},
       month   = jan,
       url     = {https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/articles/accountability-from-washington-to-ward-avenue}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/articles/accountability-from-washington-to-ward-avenue}}
     }
 
 **APA:**
-GTCode Editorial (2026, January 29). Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii. *GTCode.com Articles*. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/articles/accountability-from-washington-to-ward-avenue)
+GTCode Editorial (2026, January 29). Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii. *GTCode.com Articles*. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/articles/accountability-from-washington-to-ward-avenue)
 
 **Chicago:**
-GTCode Editorial. "Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii." *GTCode.com Articles*, January 29, 2026. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/articles/accountability-from-washington-to-ward-avenue.
+GTCode Editorial. "Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii." *GTCode.com Articles*, January 29, 2026. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/articles/accountability-from-washington-to-ward-avenue.

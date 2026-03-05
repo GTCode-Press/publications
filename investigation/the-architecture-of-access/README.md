@@ -4,13 +4,14 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 1, 2026
+**Last Modified:** March 3, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-architecture-of-access/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-This series maps one institutional network dimension by dimension: first through domestic federal oversight structures, then through international and PRC-facing engagement surfaces documented in the public record.
+This series maps one institutional network dimension by dimension: first through domestic federal oversight structures, then through international and PRC-facing engagement surfaces, then through funding pathways and financial disclosure — all documented in the public record.
 
 ## Thesis
 
@@ -28,10 +29,10 @@ Where source material characterizes an organization as linked to a party-state, 
 |---|---|---|---|---|
 | Part I | The Federal Layer | Domestic federal | February 28, 2026 | [Read Part I](https://gtcode.com/investigation/the-federal-layer/) |
 | Part II | The Bridges | International / PRC-facing | March 1, 2026 | [Read Part II](https://gtcode.com/investigation/the-bridges/) |
+| Part III | The Ledger | Funding pathways and disclosure surfaces | March 3, 2026 | [Read Part III](https://gtcode.com/investigation/the-ledger/) |
 
 ## Proposed Forthcoming Parts
 
-- Part III (proposed): **The Ledger** — funding pathways and disclosure surfaces.
 - Part IV (proposed): **The Roster** — governance overlap and appointment chains.
 - Part V (proposed): **The Gap** — safeguarding expectations versus public-record evidence.
 
@@ -58,11 +59,11 @@ Where source material characterizes an organization as linked to a party-state, 
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-architecture-of-access/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-architecture-of-access}}
+      note    = {Last modified 2026-03-03; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-architecture-of-access}}
     }
 
 **APA:**
-Lono, E. (2026, March 1). The Architecture of Access. *GTCode.com Investigations*. https://gtcode.com/investigation/the-architecture-of-access/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-architecture-of-access)
+Lono, E. (2026, March 1). The Architecture of Access. *GTCode.com Investigations*. https://gtcode.com/investigation/the-architecture-of-access/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-architecture-of-access)
 
 **Chicago:**
-Ekewaka Lono. "The Architecture of Access." *GTCode.com Investigations*, March 1, 2026. https://gtcode.com/investigation/the-architecture-of-access/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260303T201101/investigation/the-architecture-of-access.
+Ekewaka Lono. "The Architecture of Access." *GTCode.com Investigations*, March 1, 2026. https://gtcode.com/investigation/the-architecture-of-access/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-architecture-of-access.
