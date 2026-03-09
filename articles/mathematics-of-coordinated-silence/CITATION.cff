@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-02-04'
 url: https://gtcode.com/articles/mathematics-of-coordinated-silence/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/articles/mathematics-of-coordinated-silence
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/articles/mathematics-of-coordinated-silence
 license: CC-BY-4.0
 abstract: How computational systems are learning to detect the invisible architecture
   of institutional coverups through alignment anomalies, coordination signatures,
@@ -19,4 +19,4 @@ keywords:
 - Coverup Detection
 - Game Theory
 - Public Records
-version: pub-20260309T053404
+version: pub-20260309T054249

@@ -49,11 +49,11 @@ Sitemap: https://gtcode.com/news-sitemap.xml
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/policies/robots/},
-      note    = {Last modified 2026-02-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/robots}}
+      note    = {Last modified 2026-02-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/policies/robots}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 12). Robots.txt - Web Crawler Policy. *GTCode.com Policies*. https://gtcode.com/policies/robots/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/robots)
+GTCode Editorial (2025, November 12). Robots.txt - Web Crawler Policy. *GTCode.com Policies*. https://gtcode.com/policies/robots/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/policies/robots)
 
 **Chicago:**
-GTCode Editorial. "Robots.txt - Web Crawler Policy." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/robots/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/robots.
+GTCode Editorial. "Robots.txt - Web Crawler Policy." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/robots/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/policies/robots.

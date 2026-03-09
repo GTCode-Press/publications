@@ -224,11 +224,11 @@ These are speculations, not specifications. But speculation is where frameworks 
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/articles/visual-language-ai-synthesis/},
-      note    = {Last modified 2026-02-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/articles/visual-language-ai-synthesis}}
+      note    = {Last modified 2026-02-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/articles/visual-language-ai-synthesis}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 28). A Visual Language for Thinking About AI Synthesis. *GTCode.com Articles*. https://gtcode.com/articles/visual-language-ai-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/articles/visual-language-ai-synthesis)
+GTCode Editorial (2025, November 28). A Visual Language for Thinking About AI Synthesis. *GTCode.com Articles*. https://gtcode.com/articles/visual-language-ai-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/articles/visual-language-ai-synthesis)
 
 **Chicago:**
-GTCode Editorial. "A Visual Language for Thinking About AI Synthesis." *GTCode.com Articles*, November 28, 2025. https://gtcode.com/articles/visual-language-ai-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/articles/visual-language-ai-synthesis.
+GTCode Editorial. "A Visual Language for Thinking About AI Synthesis." *GTCode.com Articles*, November 28, 2025. https://gtcode.com/articles/visual-language-ai-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/articles/visual-language-ai-synthesis.

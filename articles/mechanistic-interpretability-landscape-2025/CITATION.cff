@@ -7,7 +7,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-03-01'
 url: https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/articles/mechanistic-interpretability-landscape-2025
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/articles/mechanistic-interpretability-landscape-2025
 license: CC-BY-4.0
 abstract: A comprehensive technical survey of mechanistic interpretability research
   in 2025, covering control mechanisms, truth detection, safety implications, and
@@ -20,4 +20,4 @@ keywords:
 - Sparse Autoencoders
 - Model Alignment
 - Chain of Thought
-version: pub-20260309T053404
+version: pub-20260309T054249

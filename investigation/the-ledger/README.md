@@ -245,11 +245,11 @@ The Chinese Chamber of Commerce of Hawaii, its officers, and all individuals and
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-ledger/},
-      note    = {The Architecture of Access, Part III; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-ledger}}
+      note    = {The Architecture of Access, Part III; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/investigation/the-ledger}}
     }
 
 **APA:**
-Lono, E. (2026, March 4). The Ledger. *GTCode.com Investigations*. https://gtcode.com/investigation/the-ledger/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-ledger)
+Lono, E. (2026, March 4). The Ledger. *GTCode.com Investigations*. https://gtcode.com/investigation/the-ledger/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/investigation/the-ledger)
 
 **Chicago:**
-Ekewaka Lono. "The Ledger." *GTCode.com Investigations*, March 4, 2026. https://gtcode.com/investigation/the-ledger/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-ledger.
+Ekewaka Lono. "The Ledger." *GTCode.com Investigations*, March 4, 2026. https://gtcode.com/investigation/the-ledger/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/investigation/the-ledger.

@@ -605,11 +605,11 @@ Agent B can manually reset threshold if missing important messages.
       year    = {2025},
       month   = dec,
       url     = {https://gtcode.com/papers/geometric-publish-subscribe/},
-      note    = {Last modified 2026-01-29; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/papers/geometric-publish-subscribe}}
+      note    = {Last modified 2026-01-29; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/papers/geometric-publish-subscribe}}
     }
 
 **APA:**
-GTCode Editorial (2025, December 20). Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-publish-subscribe/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/papers/geometric-publish-subscribe)
+GTCode Editorial (2025, December 20). Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-publish-subscribe/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/papers/geometric-publish-subscribe)
 
 **Chicago:**
-GTCode Editorial. "Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-publish-subscribe/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/papers/geometric-publish-subscribe.
+GTCode Editorial. "Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-publish-subscribe/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/papers/geometric-publish-subscribe.

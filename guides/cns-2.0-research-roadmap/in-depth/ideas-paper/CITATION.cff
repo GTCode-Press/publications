@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-15'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/cns-2.0-research-roadmap/in-depth/ideas-paper
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/in-depth/ideas-paper
 license: CC-BY-4.0
 abstract: 'Ideas Paper - CNS 2.0: A Computational Framework for Chiral Narrative Synthesis
   in Automated Knowledge Discovery'
@@ -16,4 +16,4 @@ keywords:
 - Dialectical Reasoning
 - Structured Narrative Objects
 - AI Frameworks
-version: pub-20260309T053404
+version: pub-20260309T054249

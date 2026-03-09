@@ -73,11 +73,11 @@ In this tutorial, we will walk through a concrete example of how to use DSPy to 
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/dspy-self-optimization/1-introduction}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/tutorials/dspy-self-optimization/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/dspy-self-optimization/1-introduction)
+GTCode Editorial (2025, November 9). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/tutorials/dspy-self-optimization/1-introduction)
 
 **Chicago:**
-GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/dspy-self-optimization/1-introduction.
+GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/tutorials/dspy-self-optimization/1-introduction.

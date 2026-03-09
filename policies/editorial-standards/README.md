@@ -44,11 +44,11 @@ Questions about standards can be sent to [tips@GTCode.com](mailto:tips@gtcode.co
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/policies/editorial-standards/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/editorial-standards}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/policies/editorial-standards}}
     }
 
 **APA:**
-GTCode Editorial (2026, February 14). Editorial Standards. *GTCode.com Policies*. https://gtcode.com/policies/editorial-standards/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/editorial-standards)
+GTCode Editorial (2026, February 14). Editorial Standards. *GTCode.com Policies*. https://gtcode.com/policies/editorial-standards/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/policies/editorial-standards)
 
 **Chicago:**
-GTCode Editorial. "Editorial Standards." *GTCode.com Policies*, February 14, 2026. https://gtcode.com/policies/editorial-standards/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/editorial-standards.
+GTCode Editorial. "Editorial Standards." *GTCode.com Policies*, February 14, 2026. https://gtcode.com/policies/editorial-standards/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/policies/editorial-standards.

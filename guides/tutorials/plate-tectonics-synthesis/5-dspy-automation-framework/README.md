@@ -273,11 +273,11 @@ This comprehensive automation framework transforms the manual plate tectonics pr
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/},
-      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework}}
+      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 5: DSPy Automation Framework. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework)
+GTCode Editorial (2025, November 9). Tutorial Part 5: DSPy Automation Framework. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 5: DSPy Automation Framework." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework.
+GTCode Editorial. "Tutorial Part 5: DSPy Automation Framework." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework.
