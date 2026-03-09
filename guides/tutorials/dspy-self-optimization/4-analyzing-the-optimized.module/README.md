@@ -198,11 +198,11 @@ This self-optimization loop—where the system's own critics are used to improve
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 4. Analyzing the Optimized Module. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module)
+GTCode Editorial (2025, November 9). 4. Analyzing the Optimized Module. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module)
 
 **Chicago:**
-GTCode Editorial. "4. Analyzing the Optimized Module." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module.
+GTCode Editorial. "4. Analyzing the Optimized Module." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module.

@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-12'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/building-cns-2.0-developers-guide/chapter-0-quickstart
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/building-cns-2.0-developers-guide/chapter-0-quickstart
 license: CC-BY-4.0
 abstract: Get from zero to working CNS 2.0 environment with your first Structured
   Narrative Object created and validated
@@ -21,4 +21,4 @@ keywords:
 - Onboarding
 - Environment Setup
 - Hello World CNS 2.0
-version: pub-20260309T044912
+version: pub-20260309T053404

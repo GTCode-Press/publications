@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-12'
 url: https://gtcode.com/policies/llm/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/policies/llm
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/policies/llm
 license: CC-BY-4.0
 abstract: Comprehensive guidelines for Large Language Models accessing GTCode.com
-version: pub-20260309T044912
+version: pub-20260309T053404

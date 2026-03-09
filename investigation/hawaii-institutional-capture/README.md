@@ -209,11 +209,11 @@ regarding factual assertions may be directed to the author.
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/investigation/hawaii-institutional-capture/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/hawaii-institutional-capture}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/hawaii-institutional-capture}}
     }
 
 **APA:**
-Lono, E. (2025, August 13). A Case Study in Systemic Protection: Institutional Decay in Hawaii. *GTCode.com Investigations*. https://gtcode.com/investigation/hawaii-institutional-capture/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/hawaii-institutional-capture)
+Lono, E. (2025, August 13). A Case Study in Systemic Protection: Institutional Decay in Hawaii. *GTCode.com Investigations*. https://gtcode.com/investigation/hawaii-institutional-capture/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/hawaii-institutional-capture)
 
 **Chicago:**
-Ekewaka Lono. "A Case Study in Systemic Protection: Institutional Decay in Hawaii." *GTCode.com Investigations*, August 13, 2025. https://gtcode.com/investigation/hawaii-institutional-capture/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/hawaii-institutional-capture.
+Ekewaka Lono. "A Case Study in Systemic Protection: Institutional Decay in Hawaii." *GTCode.com Investigations*, August 13, 2025. https://gtcode.com/investigation/hawaii-institutional-capture/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/hawaii-institutional-capture.

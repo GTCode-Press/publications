@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference
 license: CC-BY-4.0
 abstract: Elevating CNS 2.0's reasoning capabilities by integrating formal logical
   systems and causal reasoning frameworks.
@@ -16,4 +16,4 @@ keywords:
 - Automated Theorem Proving
 - CNS 2.0
 - Causal Discovery
-version: pub-20260309T044912
+version: pub-20260309T053404

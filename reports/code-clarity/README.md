@@ -145,11 +145,11 @@ Integrate with CI/CD pipelines, provide team analytics and knowledge sharing fea
       year    = {2025},
       month   = jan,
       url     = {https://gtcode.com/reports/code-clarity/},
-      note    = {Last modified 2026-02-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/reports/code-clarity}}
+      note    = {Last modified 2026-02-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/reports/code-clarity}}
     }
 
 **APA:**
-GTCode Editorial (2025, January 1). CodeClarity: An AI-Assisted Development Platform. *GTCode.com Reports*. https://gtcode.com/reports/code-clarity/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/reports/code-clarity)
+GTCode Editorial (2025, January 1). CodeClarity: An AI-Assisted Development Platform. *GTCode.com Reports*. https://gtcode.com/reports/code-clarity/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/reports/code-clarity)
 
 **Chicago:**
-GTCode Editorial. "CodeClarity: An AI-Assisted Development Platform." *GTCode.com Reports*, January 1, 2025. https://gtcode.com/reports/code-clarity/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/reports/code-clarity.
+GTCode Editorial. "CodeClarity: An AI-Assisted Development Platform." *GTCode.com Reports*, January 1, 2025. https://gtcode.com/reports/code-clarity/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/reports/code-clarity.

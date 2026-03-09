@@ -58,11 +58,11 @@ The text message remains in the sealed file. The alleged perjury remains on the 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-nod-wilson-loo-silent-felony}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-nod-wilson-loo-silent-felony}}
     }
 
 **APA:**
-Lono, E. (2026, February 12). The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit. *GTCode.com Investigations*. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-nod-wilson-loo-silent-felony)
+Lono, E. (2026, February 12). The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit. *GTCode.com Investigations*. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-nod-wilson-loo-silent-felony)
 
 **Chicago:**
-Ekewaka Lono. "The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit." *GTCode.com Investigations*, February 12, 2026. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-nod-wilson-loo-silent-felony.
+Ekewaka Lono. "The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit." *GTCode.com Investigations*, February 12, 2026. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-nod-wilson-loo-silent-felony.

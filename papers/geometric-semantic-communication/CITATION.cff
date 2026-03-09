@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-12-20'
 url: https://gtcode.com/papers/geometric-semantic-communication/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/papers/geometric-semantic-communication
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/papers/geometric-semantic-communication
 license: CC-BY-4.0
 abstract: A research agenda toward communication infrastructure for emergent artificial
   general intelligence, grounded in tensor logic and topological structures for truth,
@@ -20,4 +20,4 @@ keywords:
 - morphogenetic dynamics
 - manifold semantics
 - distributed AGI
-version: pub-20260309T044912
+version: pub-20260309T053404

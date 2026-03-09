@@ -7,7 +7,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-03-04'
 url: https://gtcode.com/articles/harness-engineering/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/articles/harness-engineering
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/articles/harness-engineering
 license: CC-BY-4.0
 abstract: A deep technical analysis of harness engineering — the emerging discipline
   of designing constraints, documentation, feedback loops, and lifecycle systems that
@@ -21,4 +21,4 @@ keywords:
 - Software Engineering
 - Agent-First Development
 - Autonomous Development
-version: pub-20260309T044912
+version: pub-20260309T053404

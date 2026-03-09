@@ -48,11 +48,11 @@ The original text of this article is preserved in the site's version-control his
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/exhibit-a-federal-intervention-hawaii}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/exhibit-a-federal-intervention-hawaii}}
     }
 
 **APA:**
-Lono, E. (2025, August 20). Exhibit A: Federal Intervention in Hawaii [Archived]. *GTCode.com Investigations*. https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/exhibit-a-federal-intervention-hawaii)
+Lono, E. (2025, August 20). Exhibit A: Federal Intervention in Hawaii [Archived]. *GTCode.com Investigations*. https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/exhibit-a-federal-intervention-hawaii)
 
 **Chicago:**
-Ekewaka Lono. "Exhibit A: Federal Intervention in Hawaii [Archived]." *GTCode.com Investigations*, August 20, 2025. https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/exhibit-a-federal-intervention-hawaii.
+Ekewaka Lono. "Exhibit A: Federal Intervention in Hawaii [Archived]." *GTCode.com Investigations*, August 20, 2025. https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/exhibit-a-federal-intervention-hawaii.

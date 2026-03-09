@@ -7,7 +7,7 @@ authors:
   given-names: Ekewaka
 date-released: '2026-03-04'
 url: https://gtcode.com/investigation/the-ledger/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-ledger
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-ledger
 license: CC-BY-4.0
 abstract: IRS Form 990 filings show a FY2024 contribution spike and first-time grants
   at the Chinese Chamber of Commerce of Hawaii; this report maps disclosure thresholds
@@ -23,4 +23,4 @@ keywords:
 - CAIFC
 - Hawaii DCCA
 - Hawaii Nonprofits
-version: pub-20260309T044912
+version: pub-20260309T053404

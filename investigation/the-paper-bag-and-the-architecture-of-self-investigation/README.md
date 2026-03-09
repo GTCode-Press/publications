@@ -286,11 +286,11 @@ Of the cases above, one involves campaign finance violations (Timothy Lee) and t
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/},
-      note    = {The Closed Loop, Part II; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-paper-bag-and-the-architecture-of-self-investigation}}
+      note    = {The Closed Loop, Part II; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-paper-bag-and-the-architecture-of-self-investigation}}
     }
 
 **APA:**
-Lono, E. (2026, February 20). The Paper Bag and the Architecture of Self-Investigation. *GTCode.com Investigations*. https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-paper-bag-and-the-architecture-of-self-investigation)
+Lono, E. (2026, February 20). The Paper Bag and the Architecture of Self-Investigation. *GTCode.com Investigations*. https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-paper-bag-and-the-architecture-of-self-investigation)
 
 **Chicago:**
-Ekewaka Lono. "The Paper Bag and the Architecture of Self-Investigation." *GTCode.com Investigations*, February 20, 2026. https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-paper-bag-and-the-architecture-of-self-investigation.
+Ekewaka Lono. "The Paper Bag and the Architecture of Self-Investigation." *GTCode.com Investigations*, February 20, 2026. https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T053404/investigation/the-paper-bag-and-the-architecture-of-self-investigation.
