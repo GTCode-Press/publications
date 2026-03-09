@@ -129,11 +129,11 @@ This statistical prototype provides the mathematical foundation and methodologic
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/tutorials/plate-tectonics-synthesis/1-introduction}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/plate-tectonics-synthesis/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/tutorials/plate-tectonics-synthesis/1-introduction)
+GTCode Editorial (2025, November 9). Tutorial Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/plate-tectonics-synthesis/1-introduction)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/tutorials/plate-tectonics-synthesis/1-introduction.
+GTCode Editorial. "Tutorial Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/plate-tectonics-synthesis/1-introduction.

@@ -113,11 +113,11 @@ Current review processes are plagued by noise. Static analysis tools flag hundre
       year    = {2025},
       month   = jan,
       url     = {https://gtcode.com/reports/code-clarity-existing/},
-      note    = {Last modified 2026-02-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/reports/code-clarity-existing}}
+      note    = {Last modified 2026-02-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/reports/code-clarity-existing}}
     }
 
 **APA:**
-GTCode Editorial (2025, January 1). Competitive Landscape: AI-Assisted Development Tools. *GTCode.com Reports*. https://gtcode.com/reports/code-clarity-existing/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/reports/code-clarity-existing)
+GTCode Editorial (2025, January 1). Competitive Landscape: AI-Assisted Development Tools. *GTCode.com Reports*. https://gtcode.com/reports/code-clarity-existing/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/reports/code-clarity-existing)
 
 **Chicago:**
-GTCode Editorial. "Competitive Landscape: AI-Assisted Development Tools." *GTCode.com Reports*, January 1, 2025. https://gtcode.com/reports/code-clarity-existing/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/reports/code-clarity-existing.
+GTCode Editorial. "Competitive Landscape: AI-Assisted Development Tools." *GTCode.com Reports*, January 1, 2025. https://gtcode.com/reports/code-clarity-existing/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/reports/code-clarity-existing.

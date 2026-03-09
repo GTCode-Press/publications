@@ -175,11 +175,11 @@ The Section acknowledged receipt of the complaint. No further communication rega
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-two-questions/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/the-two-questions}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/investigation/the-two-questions}}
     }
 
 **APA:**
-Lono, E. (2026, February 23). The Two Questions: How One Interview Closes the Wilson Loo Case. *GTCode.com Investigations*. https://gtcode.com/investigation/the-two-questions/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/the-two-questions)
+Lono, E. (2026, February 23). The Two Questions: How One Interview Closes the Wilson Loo Case. *GTCode.com Investigations*. https://gtcode.com/investigation/the-two-questions/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/investigation/the-two-questions)
 
 **Chicago:**
-Ekewaka Lono. "The Two Questions: How One Interview Closes the Wilson Loo Case." *GTCode.com Investigations*, February 23, 2026. https://gtcode.com/investigation/the-two-questions/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/the-two-questions.
+Ekewaka Lono. "The Two Questions: How One Interview Closes the Wilson Loo Case." *GTCode.com Investigations*, February 23, 2026. https://gtcode.com/investigation/the-two-questions/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/investigation/the-two-questions.

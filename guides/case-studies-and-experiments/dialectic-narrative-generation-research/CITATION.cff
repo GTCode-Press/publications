@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-13'
 url: https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/case-studies-and-experiments/dialectic-narrative-generation-research
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/case-studies-and-experiments/dialectic-narrative-generation-research
 license: CC-BY-4.0
 abstract: A comprehensive review of systems, research, and prior art in dialectical
   reasoning for coherent AI narrative generation from disparate information sources.
@@ -16,4 +16,4 @@ keywords:
 - Knowledge Synthesis
 - Computational Models
 - Prior Art
-version: pub-20260309T233021
+version: pub-20260309T234320

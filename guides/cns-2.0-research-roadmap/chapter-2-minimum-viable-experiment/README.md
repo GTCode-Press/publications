@@ -182,11 +182,11 @@ This statistical framework ensures that the plate tectonics prototype scales to 
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/},
-      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment}}
+      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment)
+GTCode Editorial (2025, November 9). Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment)
 
 **Chicago:**
-GTCode Editorial. "Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment.
+GTCode Editorial. "Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment.

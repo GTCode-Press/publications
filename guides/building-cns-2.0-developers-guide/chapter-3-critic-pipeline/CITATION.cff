@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline
 license: CC-BY-4.0
 abstract: Implementing transparent evaluation systems for grounding, logic, and novelty
   assessment
@@ -21,4 +21,4 @@ keywords:
 - SNO
 - Trust Score
 - Developer's Guide
-version: pub-20260309T233021
+version: pub-20260309T234320
