@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno
 license: CC-BY-4.0
 abstract: A code-heavy guide to constructing the Structured Narrative Objects (SNOs)
   for the two opposing theories.
@@ -16,4 +16,4 @@ keywords:
 - Python code
 - Geosyncline
 - Plate Tectonics
-version: pub-20260305T011050
+version: pub-20260309T044912

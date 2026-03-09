@@ -59,11 +59,11 @@ Where source material characterizes an organization as linked to a party-state, 
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-architecture-of-access/},
-      note    = {Last modified 2026-03-03; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-architecture-of-access}}
+      note    = {Last modified 2026-03-03; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-architecture-of-access}}
     }
 
 **APA:**
-Lono, E. (2026, March 1). The Architecture of Access. *GTCode.com Investigations*. https://gtcode.com/investigation/the-architecture-of-access/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-architecture-of-access)
+Lono, E. (2026, March 1). The Architecture of Access. *GTCode.com Investigations*. https://gtcode.com/investigation/the-architecture-of-access/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-architecture-of-access)
 
 **Chicago:**
-Ekewaka Lono. "The Architecture of Access." *GTCode.com Investigations*, March 1, 2026. https://gtcode.com/investigation/the-architecture-of-access/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/investigation/the-architecture-of-access.
+Ekewaka Lono. "The Architecture of Access." *GTCode.com Investigations*, March 1, 2026. https://gtcode.com/investigation/the-architecture-of-access/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-architecture-of-access.

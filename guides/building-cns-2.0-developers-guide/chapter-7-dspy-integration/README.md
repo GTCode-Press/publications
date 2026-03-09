@@ -141,11 +141,11 @@ Finally, by integrating DSPy, we have shown a path from a static system to a dyn
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/},
-      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration}}
+      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 13). Chapter 7: Advanced Optimization with DSPy. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration)
+GTCode Editorial (2025, November 13). Chapter 7: Advanced Optimization with DSPy. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration)
 
 **Chicago:**
-GTCode Editorial. "Chapter 7: Advanced Optimization with DSPy." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration.
+GTCode Editorial. "Chapter 7: Advanced Optimization with DSPy." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration.

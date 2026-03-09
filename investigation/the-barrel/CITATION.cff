@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Barrel
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-03-08'
+url: https://gtcode.com/investigation/the-barrel/
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/investigation/the-barrel
+license: CC-BY-4.0
+abstract: A local strategic assessment of how the Strait of Hormuz crisis reaches
+  Hawaii — the most petroleum-dependent state in the nation — through benchmark pricing,
+  war-risk insurance, freight, and systemic import dependence.
+keywords:
+- Hawaii
+- Strait of Hormuz
+- Oil Dependence
+- Par Pacific
+- Hawaiian Electric
+- Energy Security
+- Food Supply Chain
+- Jones Act
+- War Risk Insurance
+- Strategic Petroleum Reserve
+version: pub-20260309T044912

@@ -69,11 +69,11 @@ By feeding the core concepts of these two theories into the system, we can see h
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/tutorials/quick-start-plate-tectonics/1-introduction}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/quick-start-plate-tectonics/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/tutorials/quick-start-plate-tectonics/1-introduction)
+GTCode Editorial (2025, November 9). Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/quick-start-plate-tectonics/1-introduction)
 
 **Chicago:**
-GTCode Editorial. "Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/tutorials/quick-start-plate-tectonics/1-introduction.
+GTCode Editorial. "Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/tutorials/quick-start-plate-tectonics/1-introduction.

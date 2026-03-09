@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/guides/cns-2.0-research-roadmap/quality-validation-review
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/guides/cns-2.0-research-roadmap/quality-validation-review
 license: CC-BY-4.0
 abstract: Statistical assessment of research roadmap refinement against PhD-level
   academic standards
@@ -16,4 +16,4 @@ keywords:
 - Statistical Rigor
 - PhD Standards
 - CNS 2.0
-version: pub-20260305T011050
+version: pub-20260309T044912

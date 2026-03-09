@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-12'
 url: https://gtcode.com/policies/robots/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260305T011050/policies/robots
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T044912/policies/robots
 license: CC-BY-4.0
 abstract: Robots.txt configuration for web crawlers and search engines
-version: pub-20260305T011050
+version: pub-20260309T044912
