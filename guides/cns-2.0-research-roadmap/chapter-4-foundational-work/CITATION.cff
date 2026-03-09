@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/chapter-4-foundational-work
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/chapter-4-foundational-work
 license: CC-BY-4.0
 abstract: Outlining the immediate research projects that build upon the MVE to enable
   the broader research vision.
@@ -16,4 +16,4 @@ keywords:
 - Data-Driven Critic
 - Research Roadmap
 - DSPy Optimization
-version: pub-20260309T180822
+version: pub-20260309T233021

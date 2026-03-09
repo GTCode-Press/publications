@@ -423,11 +423,11 @@ Many of the most significant papers cited here emerged from the **MATS (ML Align
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/articles/mechanistic-interpretability-landscape-2025}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/articles/mechanistic-interpretability-landscape-2025}}
     }
 
 **APA:**
-GTCode Editorial (2026, March 1). The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models. *GTCode.com Articles*. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/articles/mechanistic-interpretability-landscape-2025)
+GTCode Editorial (2026, March 1). The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models. *GTCode.com Articles*. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/articles/mechanistic-interpretability-landscape-2025)
 
 **Chicago:**
-GTCode Editorial. "The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/articles/mechanistic-interpretability-landscape-2025.
+GTCode Editorial. "The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/articles/mechanistic-interpretability-landscape-2025.

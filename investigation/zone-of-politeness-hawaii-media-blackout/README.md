@@ -157,11 +157,11 @@ In that structural silence, the threat that followed me was possible. Not becaus
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/},
-      note    = {Last modified 2026-02-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/zone-of-politeness-hawaii-media-blackout}}
+      note    = {Last modified 2026-02-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/zone-of-politeness-hawaii-media-blackout}}
     }
 
 **APA:**
-Lono, E. (2026, February 4). The Zone of Politeness: How Hawaiʻi's Media Blackout Works. *GTCode.com Investigations*. https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/zone-of-politeness-hawaii-media-blackout)
+Lono, E. (2026, February 4). The Zone of Politeness: How Hawaiʻi's Media Blackout Works. *GTCode.com Investigations*. https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/zone-of-politeness-hawaii-media-blackout)
 
 **Chicago:**
-Ekewaka Lono. "The Zone of Politeness: How Hawaiʻi's Media Blackout Works." *GTCode.com Investigations*, February 4, 2026. https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/zone-of-politeness-hawaii-media-blackout.
+Ekewaka Lono. "The Zone of Politeness: How Hawaiʻi's Media Blackout Works." *GTCode.com Investigations*, February 4, 2026. https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/zone-of-politeness-hawaii-media-blackout.

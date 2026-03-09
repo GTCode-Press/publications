@@ -407,11 +407,11 @@ You are ready to proceed to Chapter 2: SNO Foundations
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/},
-      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/building-cns-2.0-developers-guide/chapter-1-introduction}}
+      note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/building-cns-2.0-developers-guide/chapter-1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 13). Chapter 1: Introduction to CNS 2.0. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/building-cns-2.0-developers-guide/chapter-1-introduction)
+GTCode Editorial (2025, November 13). Chapter 1: Introduction to CNS 2.0. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/building-cns-2.0-developers-guide/chapter-1-introduction)
 
 **Chicago:**
-GTCode Editorial. "Chapter 1: Introduction to CNS 2.0." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/building-cns-2.0-developers-guide/chapter-1-introduction.
+GTCode Editorial. "Chapter 1: Introduction to CNS 2.0." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/building-cns-2.0-developers-guide/chapter-1-introduction.

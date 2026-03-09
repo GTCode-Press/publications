@@ -113,11 +113,11 @@ By using this structured, transparent, and rigorous approach, we transform the L
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Dialectical Reasoning Templates. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates)
+GTCode Editorial (2025, November 9). Dialectical Reasoning Templates. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates)
 
 **Chicago:**
-GTCode Editorial. "Dialectical Reasoning Templates." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates.
+GTCode Editorial. "Dialectical Reasoning Templates." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates.

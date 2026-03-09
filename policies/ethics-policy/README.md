@@ -48,11 +48,11 @@ Ethics concerns can be sent to [tips@GTCode.com](mailto:tips@gtcode.com).
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/policies/ethics-policy/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/policies/ethics-policy}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/policies/ethics-policy}}
     }
 
 **APA:**
-GTCode Editorial (2026, February 14). Ethics Policy. *GTCode.com Policies*. https://gtcode.com/policies/ethics-policy/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/policies/ethics-policy)
+GTCode Editorial (2026, February 14). Ethics Policy. *GTCode.com Policies*. https://gtcode.com/policies/ethics-policy/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/policies/ethics-policy)
 
 **Chicago:**
-GTCode Editorial. "Ethics Policy." *GTCode.com Policies*, February 14, 2026. https://gtcode.com/policies/ethics-policy/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/policies/ethics-policy.
+GTCode Editorial. "Ethics Policy." *GTCode.com Policies*, February 14, 2026. https://gtcode.com/policies/ethics-policy/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/policies/ethics-policy.

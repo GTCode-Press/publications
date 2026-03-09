@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/tutorials/dspy-self-optimization/3-running-the-optimizer
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/guides/tutorials/dspy-self-optimization/3-running-the-optimizer
 license: CC-BY-4.0
 abstract: How to use the DSPy compiler to automatically generate and optimize a powerful
   synthesis prompt based on our defined task.
@@ -16,4 +16,4 @@ keywords:
 - BootstrapFewShot
 - LLM Prompt Optimization
 - dspy.Module
-version: pub-20260309T180822
+version: pub-20260309T233021

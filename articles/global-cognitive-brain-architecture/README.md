@@ -255,11 +255,11 @@ The transition from isolated models to integrated cognitive organisms is not a q
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/articles/global-cognitive-brain-architecture/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/articles/global-cognitive-brain-architecture}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/articles/global-cognitive-brain-architecture}}
     }
 
 **APA:**
-GTCode Editorial (2026, March 1). The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System. *GTCode.com Articles*. https://gtcode.com/articles/global-cognitive-brain-architecture/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/articles/global-cognitive-brain-architecture)
+GTCode Editorial (2026, March 1). The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System. *GTCode.com Articles*. https://gtcode.com/articles/global-cognitive-brain-architecture/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/articles/global-cognitive-brain-architecture)
 
 **Chicago:**
-GTCode Editorial. "The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/global-cognitive-brain-architecture/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/articles/global-cognitive-brain-architecture.
+GTCode Editorial. "The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System." *GTCode.com Articles*, March 1, 2026. https://gtcode.com/articles/global-cognitive-brain-architecture/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/articles/global-cognitive-brain-architecture.

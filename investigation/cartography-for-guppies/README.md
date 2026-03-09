@@ -55,11 +55,11 @@ Welcome to Oʻahu Underground.
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/cartography-for-guppies/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/cartography-for-guppies}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/cartography-for-guppies}}
     }
 
 **APA:**
-Lono, E. (2026, February 5). Cartography for Guppies. *GTCode.com Investigations*. https://gtcode.com/investigation/cartography-for-guppies/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/cartography-for-guppies)
+Lono, E. (2026, February 5). Cartography for Guppies. *GTCode.com Investigations*. https://gtcode.com/investigation/cartography-for-guppies/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/cartography-for-guppies)
 
 **Chicago:**
-Ekewaka Lono. "Cartography for Guppies." *GTCode.com Investigations*, February 5, 2026. https://gtcode.com/investigation/cartography-for-guppies/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/cartography-for-guppies.
+Ekewaka Lono. "Cartography for Guppies." *GTCode.com Investigations*, February 5, 2026. https://gtcode.com/investigation/cartography-for-guppies/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T233021/investigation/cartography-for-guppies.
