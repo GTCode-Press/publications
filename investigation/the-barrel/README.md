@@ -508,11 +508,11 @@ This assessment would require significant revision if any of the following occur
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-barrel/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/investigation/the-barrel}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/the-barrel}}
     }
 
 **APA:**
-Lono, E. (2026, March 8). The Barrel. *GTCode.com Investigations*. https://gtcode.com/investigation/the-barrel/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/investigation/the-barrel)
+Lono, E. (2026, March 8). The Barrel. *GTCode.com Investigations*. https://gtcode.com/investigation/the-barrel/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/the-barrel)
 
 **Chicago:**
-Ekewaka Lono. "The Barrel." *GTCode.com Investigations*, March 8, 2026. https://gtcode.com/investigation/the-barrel/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/investigation/the-barrel.
+Ekewaka Lono. "The Barrel." *GTCode.com Investigations*, March 8, 2026. https://gtcode.com/investigation/the-barrel/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/investigation/the-barrel.

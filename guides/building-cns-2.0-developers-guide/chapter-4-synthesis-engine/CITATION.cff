@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2026-02-27'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine
+repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine
 license: CC-BY-4.0
 abstract: Implementing LLM-powered dialectical reasoning and the metrics that guide
   it
@@ -21,4 +21,4 @@ keywords:
 - Critic Pipeline
 - Developer's Guide
 - LLM-powered synthesis
-version: pub-20260309T054249
+version: pub-20260309T180822

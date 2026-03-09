@@ -271,11 +271,11 @@ The refined roadmap establishes a world-class research framework that embodies s
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/},
-      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/quality-validation-review}}
+      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/quality-validation-review}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Comprehensive Quality Validation Review. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/quality-validation-review)
+GTCode Editorial (2025, November 9). Comprehensive Quality Validation Review. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/quality-validation-review)
 
 **Chicago:**
-GTCode Editorial. "Comprehensive Quality Validation Review." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/quality-validation-review.
+GTCode Editorial. "Comprehensive Quality Validation Review." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/quality-validation-review.

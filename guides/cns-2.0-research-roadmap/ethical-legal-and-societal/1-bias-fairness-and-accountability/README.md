@@ -95,11 +95,11 @@ Ultimately, this work seeks to build the essential foundation of trust between u
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 1: Bias, Fairness, and Accountability. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability)
+GTCode Editorial (2025, November 9). Project 1: Bias, Fairness, and Accountability. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability)
 
 **Chicago:**
-GTCode Editorial. "Project 1: Bias, Fairness, and Accountability." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T054249/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability.
+GTCode Editorial. "Project 1: Bias, Fairness, and Accountability." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T180822/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability.
