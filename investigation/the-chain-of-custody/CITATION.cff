@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Chain of Custody
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-03-11'
+url: https://gtcode.com/investigation/the-chain-of-custody/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-chain-of-custody
+license: CC-BY-4.0
+abstract: A public-record investigation of Edward Snowden's route from Hawaii to Hong
+  Kong to Moscow and of the unpublished archive that passed into private custody.
+keywords:
+- Edward Snowden
+- NSA
+- Hong Kong
+- Sheremetyevo
+- WikiLeaks
+- Sarah Harrison
+- Russian Intelligence
+- HPSCI
+- First Look Media
+- The Intercept
