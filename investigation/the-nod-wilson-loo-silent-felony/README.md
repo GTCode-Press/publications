@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 12, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** March 11, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -25,7 +25,7 @@ It was a silent instruction from the highest authority in the room to a witness 
 
 (Redacted) followed the instruction. He denied it. If the complainant's account of the nod is accurate, perjury solicited and directed by a sitting judge entered the record as fact.
 
-When I attempted to object — to say, "Let the record show that the judge just signaled the witness" — [Loo](https://disclosures.civilbeat.org/disclosures/wilson-loo-2-2/) cut me off. He didn't just overrule the objection; he physically stopped the words from entering the transcript. He then moved to seal the case.
+When I attempted to object — to say, "Let the record show that the judge just signaled the witness" — [Loo](https://disclosures.civilbeat.org/disclosures/wilson-loo-2-2/) cut me off. He didn't just overrule the objection; he physically stopped the words from entering the transcript. He then ordered the case sealed upon the attorney's request.
 
 This wasn't a judicial error. If the account is accurate, it was a structural crime.
 
@@ -58,11 +58,11 @@ The text message remains in the sealed file. The alleged perjury remains on the 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/investigation/the-nod-wilson-loo-silent-felony}}
+      note    = {Last modified 2026-03-11; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-nod-wilson-loo-silent-felony}}
     }
 
 **APA:**
-Lono, E. (2026, February 12). The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit. *GTCode.com Investigations*. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/investigation/the-nod-wilson-loo-silent-felony)
+Lono, E. (2026, February 12). The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit. *GTCode.com Investigations*. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/ (Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-nod-wilson-loo-silent-felony)
 
 **Chicago:**
-Ekewaka Lono. "The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit." *GTCode.com Investigations*, February 12, 2026. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/investigation/the-nod-wilson-loo-silent-felony.
+Ekewaka Lono. "The Nod: Wilson Loo and the Silent Felony in Hawaii's First Circuit." *GTCode.com Investigations*, February 12, 2026. https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/. Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-nod-wilson-loo-silent-felony.

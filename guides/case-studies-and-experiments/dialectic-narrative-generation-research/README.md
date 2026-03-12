@@ -216,11 +216,11 @@ While significant technical, ethical, and evaluative challenges persist, the fut
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/},
-      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/case-studies-and-experiments/dialectic-narrative-generation-research}}
+      note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/dialectic-narrative-generation-research}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 13). Dialectical Reasoning Mechanisms. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/case-studies-and-experiments/dialectic-narrative-generation-research)
+GTCode Editorial (2025, November 13). Dialectical Reasoning Mechanisms. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/dialectic-narrative-generation-research)
 
 **Chicago:**
-GTCode Editorial. "Dialectical Reasoning Mechanisms." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/case-studies-and-experiments/dialectic-narrative-generation-research.
+GTCode Editorial. "Dialectical Reasoning Mechanisms." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/dialectic-narrative-generation-research.

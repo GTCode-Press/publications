@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-09'
 url: https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results
 license: CC-BY-4.0
 abstract: Demonstrating the two-part evaluation protocol (quantitative and qualitative)
   to validate the generated synthesis.
@@ -17,4 +17,3 @@ keywords:
 - quantitative analysis
 - qualitative analysis
 - CNS 2.0
-version: pub-20260309T234320

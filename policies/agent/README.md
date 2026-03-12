@@ -74,11 +74,11 @@ For questions regarding this agent.txt policy or programmatic use of the site:
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/policies/agent/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/policies/agent}}
+      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/agent}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 12). AI Agent Policy. *GTCode.com Policies*. https://gtcode.com/policies/agent/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/policies/agent)
+GTCode Editorial (2025, November 12). AI Agent Policy. *GTCode.com Policies*. https://gtcode.com/policies/agent/ (Archived at https://github.com/GTCode-Press/publications/tree/main/policies/agent)
 
 **Chicago:**
-GTCode Editorial. "AI Agent Policy." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/agent/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/policies/agent.
+GTCode Editorial. "AI Agent Policy." *GTCode.com Policies*, November 12, 2025. https://gtcode.com/policies/agent/. Archived at https://github.com/GTCode-Press/publications/tree/main/policies/agent.

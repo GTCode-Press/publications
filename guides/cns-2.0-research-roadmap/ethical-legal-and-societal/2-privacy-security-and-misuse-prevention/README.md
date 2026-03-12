@@ -101,11 +101,11 @@ By tackling these challenges head-on, we aim to provide a blueprint for how to i
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 2: Privacy, Security & Misuse Prevention. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention)
+GTCode Editorial (2025, November 9). Project 2: Privacy, Security & Misuse Prevention. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention)
 
 **Chicago:**
-GTCode Editorial. "Project 2: Privacy, Security & Misuse Prevention." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention.
+GTCode Editorial. "Project 2: Privacy, Security & Misuse Prevention." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention.

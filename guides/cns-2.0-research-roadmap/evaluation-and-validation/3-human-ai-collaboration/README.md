@@ -103,11 +103,11 @@ This research will be a cornerstone of the CNS 2.0 project, ensuring we build a 
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 3: Human-AI Collaboration. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration)
+GTCode Editorial (2025, November 9). Project 3: Human-AI Collaboration. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration)
 
 **Chicago:**
-GTCode Editorial. "Project 3: Human-AI Collaboration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration.
+GTCode Editorial. "Project 3: Human-AI Collaboration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration.

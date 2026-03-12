@@ -6,7 +6,7 @@ authors:
 - name: GTCode Editorial
 date-released: '2025-11-13'
 url: https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/
-repository-code: https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/building-cns-2.0-developers-guide/chapter-1-introduction
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-1-introduction
 license: CC-BY-4.0
 abstract: Understanding the core concepts and motivation behind Chiral Narrative Synthesis
 keywords:
@@ -20,4 +20,3 @@ keywords:
 - Python dataclasses
 - RelationType
 - EvidenceItem
-version: pub-20260309T234320

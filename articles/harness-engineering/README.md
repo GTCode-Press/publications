@@ -460,11 +460,11 @@ Local archival copies of the web sources linked below are preserved at `/sources
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/articles/harness-engineering/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/articles/harness-engineering}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering}}
     }
 
 **APA:**
-GTCode Editorial (2026, March 4). Harness Engineering: The Discipline of Building Systems That Make AI Agents Work. *GTCode.com Articles*. https://gtcode.com/articles/harness-engineering/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/articles/harness-engineering)
+GTCode Editorial (2026, March 4). Harness Engineering: The Discipline of Building Systems That Make AI Agents Work. *GTCode.com Articles*. https://gtcode.com/articles/harness-engineering/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering)
 
 **Chicago:**
-GTCode Editorial. "Harness Engineering: The Discipline of Building Systems That Make AI Agents Work." *GTCode.com Articles*, March 4, 2026. https://gtcode.com/articles/harness-engineering/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/articles/harness-engineering.
+GTCode Editorial. "Harness Engineering: The Discipline of Building Systems That Make AI Agents Work." *GTCode.com Articles*, March 4, 2026. https://gtcode.com/articles/harness-engineering/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering.

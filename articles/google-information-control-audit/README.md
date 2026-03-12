@@ -783,11 +783,11 @@ The cumulative picture is not of isolated incidents but of structural informatio
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/articles/google-information-control-audit/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/articles/google-information-control-audit}}
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit}}
     }
 
 **APA:**
-GTCode Editorial (2026, February 18). Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination. *GTCode.com Articles*. https://gtcode.com/articles/google-information-control-audit/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/articles/google-information-control-audit)
+GTCode Editorial (2026, February 18). Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination. *GTCode.com Articles*. https://gtcode.com/articles/google-information-control-audit/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit)
 
 **Chicago:**
-GTCode Editorial. "Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination." *GTCode.com Articles*, February 18, 2026. https://gtcode.com/articles/google-information-control-audit/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/articles/google-information-control-audit.
+GTCode Editorial. "Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination." *GTCode.com Articles*, February 18, 2026. https://gtcode.com/articles/google-information-control-audit/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit.

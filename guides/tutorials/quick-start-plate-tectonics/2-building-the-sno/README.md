@@ -164,11 +164,11 @@ print("SNO_PlateTectonics created successfully.")
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno)
+GTCode Editorial (2025, November 9). Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno)
 
 **Chicago:**
-GTCode Editorial. "Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno.
+GTCode Editorial. "Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno.

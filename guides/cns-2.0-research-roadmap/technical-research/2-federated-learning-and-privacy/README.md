@@ -99,11 +99,11 @@ A federated architecture for CNS 2.0 would be a groundbreaking achievement, repr
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 2: Federated Learning and Privacy. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy)
+GTCode Editorial (2025, November 9). Project 2: Federated Learning and Privacy. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy)
 
 **Chicago:**
-GTCode Editorial. "Project 2: Federated Learning and Privacy." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy.
+GTCode Editorial. "Project 2: Federated Learning and Privacy." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy.

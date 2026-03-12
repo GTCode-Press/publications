@@ -116,11 +116,11 @@ In the final section, we will inspect the prompt that the optimizer generated an
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/},
-      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/dspy-self-optimization/3-running-the-optimizer}}
+      note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 3. Running the DSPy Optimizer. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/ (Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/dspy-self-optimization/3-running-the-optimizer)
+GTCode Editorial (2025, November 9). 3. Running the DSPy Optimizer. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer)
 
 **Chicago:**
-GTCode Editorial. "3. Running the DSPy Optimizer." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/. Archived at https://github.com/GTCode-Press/publications/tree/pub-20260309T234320/guides/tutorials/dspy-self-optimization/3-running-the-optimizer.
+GTCode Editorial. "3. Running the DSPy Optimizer." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/3-running-the-optimizer.
