@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: report
+title: 'Physics-Informed Spatiotemporal Digests: WSTD, OMR-Gated RF Verification,
+  and Residual Security under Learned-Model Attackers'
+authors:
+- name: GTCode Editorial
+date-released: '2026-04-01'
+url: https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/papers/maxwell-bound-spatiotemporal-digests-paper
+license: CC-BY-4.0
+abstract: A research design note proposing Physics-Informed Spatiotemporal Digests,
+  combining a windowed state-and-transition digest with optional OMR-gated RF verification.

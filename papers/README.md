@@ -22,6 +22,19 @@ A communication protocol for multi-agent systems where messages route by semanti
 
 ---
 
+## Media Provenance Research
+
+### Research Design Note
+
+**[Physics-Informed Spatiotemporal Digests: WSTD, OMR-Gated RF Verification, and Residual Security under Learned-Model Attackers](https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/)**
+A research design note proposing a windowed state-and-transition digest for media provenance, with optional OMR-gated RF verification and a residual-security model under learned-model attackers.
+
+- **Format**: Web (Markdown)
+- **Date**: April 1, 2026
+- **Topics**: Media provenance, spatiotemporal digests, RF verification, C2PA, security research
+
+---
+
 ## Chiral Narrative Synthesis (CNS) Research
 
 ### Research Proposal

@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 23, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** March 23, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-two-questions/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -175,7 +175,7 @@ The Section acknowledged receipt of the complaint. No further communication rega
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-two-questions/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-two-questions}}
+      note    = {Last modified 2026-03-23; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-two-questions}}
     }
 
 **APA:**

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Radius of Order
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-03-24'
+url: https://gtcode.com/investigation/the-radius-of-order/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-radius-of-order
+license: CC-BY-4.0
+abstract: A sourced investigation into a five-zone urban policy thought experiment
+  that concentrates legal protection at the city core, pushes punishment outward,
+  and asks whether America would become safer, fairer, or simply more explicit about
+  the geography of exclusion.
+keywords:
+- Urban Policy
+- Justice System
+- Structural Analysis
+- Broken Windows
+- Community Governance
+- Norway Model
+- Direct Democracy
+- Quality of Life
+- Cryptoeconomics
+- Geography
