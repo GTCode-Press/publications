@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 23, 2026
-**Last Modified:** March 23, 2026
+**Last Modified:** April 21, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-two-questions/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -17,7 +17,7 @@
 
 By Ekewaka Lono • Published: February 23, 2026
 
-Previous reporting in this series has documented what happened in Judge Wilson M.N. Loo's courtroom — a silent nod directing a witness to deny, under oath, what the evidence in the court's own file proved he did. That account is published in [The Nod](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/). The institutional failure that followed — the Commission's 100% dismissal rate, the 90-day jurisdictional loophole, the sealed record — is documented in [The Zero Commission](https://gtcode.com/investigation/the-zero-commission/).
+Previous reporting in this series has documented what happened in Judge Wilson M.N. Loo's courtroom — a silent nod directing a witness to deny, under oath, what the evidence in the court's own file showed the witness had done. That account is published in [The Nod](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/). The institutional failure that followed — the Commission's 100% dismissal rate, the 90-day jurisdictional loophole, the sealed record — is documented in [The Zero Commission](https://gtcode.com/investigation/the-zero-commission/).
 
 This investigation is different. This is not about what went wrong. This is about what it would take to make it right.
 
@@ -27,7 +27,7 @@ The answer is one interview.
 
 The federal case against retired Judge Wilson M.N. Loo requires the cooperation of one person: ████████████. ████████████ is the witness Loo directed to lie. He is also the person whose prior conduct — specifically, his role as an intermediary in LSD distribution on the North Shore — created the factual predicate that Loo moved to bury.
 
-████████████ is not a peripheral figure. He is the case. His truthful testimony, combined with the sealed audio recording of Loo cutting off the petitioner's objection, could satisfy the elements of [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law. It is settled that judges can be prosecuted under § 242: the Supreme Court unanimously confirmed this in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/). The harder question is whether these specific facts meet § 242's willfulness requirement and *Lanier*'s fair-warning standard — that the unlawfulness of the conduct must be "apparent" in light of pre-existing law. Judicial immunity — a defense to civil suits — has no application to criminal prosecution.
+████████████ is not a peripheral figure. He is the case. His truthful testimony, combined with the sealed audio recording of Loo cutting off my objection as petitioner, could satisfy the elements of [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law. It is settled that judges can be prosecuted under § 242: the Supreme Court unanimously confirmed this in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/). The harder question is whether these specific facts meet § 242's willfulness requirement and *Lanier*'s fair-warning standard — that the unlawfulness of the conduct must be "apparent" in light of pre-existing law. Judicial immunity — a defense to civil suits — has no application to criminal prosecution.
 
 18 U.S.C. § 1622 (subornation of perjury) may also apply, though its jurisdictional reach to perjury committed in state court (rather than in a federal proceeding) is a legal question this investigation acknowledges but does not resolve.
 
@@ -37,9 +37,9 @@ The federal case against retired Judge Wilson M.N. Loo requires the cooperation 
 
 ## The Evidence Trail
 
-According to the complainant's account, in 2021, at Stonefish Grill in Hale'iwa, ████████████ received LSD from a woman and subsequently provided it to me. This exchange occurred inside the restaurant and was captured on the establishment's security camera.
+According to my account as the complainant, in 2021, at Stonefish Grill in Hale'iwa, ████████████ received LSD from a woman and subsequently provided it to me. This exchange occurred inside the restaurant and was captured on the establishment's security camera.
 
-According to the complainant's account, in the same location's parking lot, I sat in the back seat of ████████████'s ███████ while a man in the passenger seat presented approximately 100 LSD tabs and provided one to me. The quantity and appearance of these tabs closely resembled those seized in a Honolulu Sheriff's Department bust that had occurred prior.
+According to my account as the complainant, in the same location's parking lot, I sat in the back seat of ████████████'s ███████ while a man in the passenger seat presented approximately 100 LSD tabs and provided one to me. The quantity and appearance of these tabs closely resembled those seized in a Honolulu Sheriff's Department bust that had occurred prior.
 
 This is not new information to law enforcement. I reported ████████████'s activities on three separate occasions, through three separate channels, before and after the Wilson Loo trial:
 
@@ -53,7 +53,7 @@ None of these reports produced action. The HPD response is consistent with the p
 
 The distribution of a Schedule I controlled substance — LSD — is independently chargeable under [21 U.S.C. § 841](https://www.law.cornell.edu/uscode/text/21/841). Federal investigators routinely seek cooperation by confronting witnesses with their own potential criminal exposure. ████████████'s exposure under § 841 provides the standard framework for obtaining testimony.
 
-The security footage at Stonefish Grill, if preserved, is primary-source corroboration of the first incident. It shows ████████████ receiving a controlled substance from one individual and providing it to another — in a public establishment, on camera. If the footage has been destroyed through routine retention cycles, the existence of my prior law enforcement reports establishes that I identified the location, the act, and the individual to federal and local agencies before the trial in which Loo directed ████████████ to deny it.
+The security footage at Stonefish Grill, if preserved, is primary-source corroboration of the first incident. It shows ████████████ receiving a controlled substance from one individual and providing it to me — in a public establishment, on camera. If the footage has been destroyed through routine retention cycles, the existence of my prior law enforcement reports establishes that I identified the location, the act, and the individual to federal and local agencies before the trial in which Loo directed ████████████ to deny it.
 
 ---
 
@@ -63,25 +63,25 @@ A federal agent needs to interview ████████████ and ask 
 
 ### Line of Questioning 1 — The LSD Distribution
 
-**Question 1:** Did you receive LSD from a woman at Stonefish Grill in Hale'iwa in 2021 and then provide it to me?
+**Question 1A:** Did you receive LSD from a woman at Stonefish Grill in Hale'iwa in 2021 and then provide it to me?
 
-**Question 2:** In the Stonefish Grill parking lot, did I sit in the back seat of your ███████ while a man in your passenger seat presented approximately 100 LSD tabs and provided one to me?
+**Question 1B:** In the Stonefish Grill parking lot, did I sit in the back seat of your ███████ while a man in your passenger seat presented approximately 100 LSD tabs and provided one to me?
 
-If ████████████ answers truthfully — yes to both — a competent investigation would have the factual basis to evaluate federal drug distribution charges. The text message already in the sealed court file ("I took the acid") would corroborate the chain. ████████████'s potential exposure under [21 U.S.C. § 841](https://www.law.cornell.edu/uscode/text/21/841) provides the standard basis for seeking cooperation. This leads to the second question — the one that closes the case against Wilson Loo.
+If ████████████ answers truthfully — yes to both — a competent investigation would have the factual basis to evaluate federal drug distribution charges. The text message already in the sealed court file ("I took the acid") would corroborate the chain. ████████████'s potential exposure under [21 U.S.C. § 841](https://www.law.cornell.edu/uscode/text/21/841) provides the standard basis for seeking cooperation. This leads to the second line of questioning — the one that closes the case against Wilson Loo.
 
 ### Line of Questioning 2 — The Courtroom Conduct
 
-**Question 3:** During your cross-examination in the Loo proceeding, when you were asked whether you furnished LSD to me, did Judge Loo nod "no" to you immediately before you denied it?
+**Question 2:** During your cross-examination in the Loo proceeding, when you were asked whether you furnished LSD to me, did Judge Loo nod "no" to you immediately before you denied it?
 
 If ████████████ answers yes, the elements of [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law — would be addressed as follows:
 
 - **Under color of law.** Loo was presiding as a Per Diem District Judge. He administered the oath, ruled on objections, and ordered the case sealed. This element is not contested.
-- **Willful deprivation of a constitutional right.** This is the hardest element. The government would need to prove Loo acted with "specific intent to deprive a person of a federal right made definite by decision or other rule of law" (*Screws v. United States*, 325 U.S. 91 (1945)). If the complainant's account is accurate, Loo directed false testimony through a nonverbal signal (the nod), then cut off the petitioner's attempt to object — an interruption captured on the sealed audio recording. The inference of willfulness rests on the totality: the documentary evidence was in Loo's possession, the interruption prevented the objection from being recorded, and the case was subsequently sealed. A jury would weigh whether this pattern reflects willful suppression of a party's right to be heard or routine courtroom control.
+- **Willful deprivation of a constitutional right.** This is the hardest element. The government would need to prove Loo acted with "specific intent to deprive a person of a federal right made definite by decision or other rule of law" (*Screws v. United States*, 325 U.S. 91 (1945)). If my account as the complainant is accurate, Loo directed false testimony through a nonverbal signal (the nod), then cut off my attempt to object as petitioner — an interruption captured on the sealed audio recording. The inference of willfulness rests on the totality: the documentary evidence was in Loo's possession, the interruption prevented the objection from being recorded, and the case was subsequently sealed. A jury would weigh whether this pattern reflects willful suppression of a party's right to be heard or routine courtroom control.
 - **A right made definite by prior law.** Under *Lanier*'s fair-warning standard, the violated right must be "apparent" in light of pre-existing law. The right to be heard and the right to an impartial tribunal are "basic requirement[s] of due process" (*In re Murchison*, 349 U.S. 133, 136 (1955)), and procedural due process requires "notice and an opportunity to be heard at a meaningful time and in a meaningful manner" (*Mathews v. Eldridge*, 424 U.S. 319 (1976)). These rights are sufficiently definite to satisfy *Lanier*'s standard.
 
 The Supreme Court unanimously confirmed in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/) that 18 U.S.C. § 242 applies to state judges acting under color of law. Judicial immunity — a defense to civil suits — has no application to criminal prosecution.
 
-Even if ████████████ declines to confirm the nod, the sealed audio recording captures Loo cutting off the petitioner's objection — evidence from which a jury could infer that Loo willfully deprived a party of the right to be heard. The audio is sealed; investigators would need to obtain it through appropriate legal process. The nod strengthens the case. The audio anchors it.
+Even if ████████████ declines to confirm the nod, the sealed audio recording captures Loo cutting off my objection as petitioner — evidence from which a jury could infer that Loo willfully deprived a party of the right to be heard. The audio is sealed; investigators would need to obtain it through appropriate legal process. The nod strengthens the case. The audio anchors it.
 
 If the witness corroborates the account, this is not a complex case. It is not a circumstantial case. It is a case that turns on whether one person, interviewed away from the courtroom and the judge who directed him, tells the truth about what happened.
 
@@ -93,9 +93,9 @@ If the witness corroborates the account, this is not a complex case. It is not a
 
 He is not a judge. He has no institutional protection. He is not shielded by the Commission on Judicial Conduct, which [has dismissed 100% of complaints since 2018](https://gtcode.com/investigation/the-zero-commission/). He is not shielded by the 90-day jurisdictional loophole that allowed Loo to evade the Commission's review. He has no sealed record working in his favor.
 
-What ████████████ has is criminal exposure. He gave testimony under oath that, if willfully false, constitutes perjury. He was, according to the complainant's account and prior law enforcement reports, involved in the distribution of a Schedule I controlled substance. Both matters are known to federal and local law enforcement through the reports I filed. The security footage — if extant — provides corroboration that requires no testimony at all.
+What ████████████ has is criminal exposure. He gave testimony under oath that, if willfully false, constitutes perjury. He was, according to my account as the complainant and my prior law enforcement reports, involved in the distribution of a Schedule I controlled substance. Both matters are known to federal and local law enforcement through the reports I filed. The security footage — if extant — provides corroboration that requires no testimony at all.
 
-████████████ has been carrying this since the trial. A federal investigator offering the standard choice — cooperation or exposure — is not asking ████████████ to do anything extraordinary. It is asking him to stop carrying someone else's alleged conduct.
+████████████ has been carrying this since the trial. A federal investigator offering the standard choice — cooperation or exposure — is not asking ████████████ to do anything extraordinary. It is asking him to stop carrying the burden of Loo's alleged conduct.
 
 ---
 
@@ -131,7 +131,7 @@ This investigation identifies [18 U.S.C. § 242](https://www.law.cornell.edu/usc
 
 [18 U.S.C. § 1622](https://www.law.cornell.edu/uscode/text/18/1622) — subornation of perjury — may also apply, though its jurisdictional reach to perjury committed in state court (rather than in a federal proceeding) is a legal question this investigation acknowledges but does not resolve. If § 1622 applies, the public record documented here would warrant investigation into whether its elements could be met.
 
-Federal law provides heightened protections for individuals who provide information to law enforcement about federal offenses. *See* [18 U.S.C. § 1513(e)](https://www.law.cornell.edu/uscode/text/18/1513). The complainant's documented contacts with the FBI and DEA preceded the hearing at which the alleged perjury and due process deprivation occurred. If the adverse actions documented in this series were taken because of those reports — that is, with retaliatory intent — then § 1513(e) would place this matter within a broader federal framework that extends beyond the courtroom conduct itself.
+Federal law provides heightened protections for individuals who provide information to law enforcement about federal offenses. *See* [18 U.S.C. § 1513(e)](https://www.law.cornell.edu/uscode/text/18/1513). My documented contacts with the FBI and DEA preceded the hearing at which the alleged perjury and due process deprivation occurred. If the adverse actions documented in this series were taken because of those reports — that is, with retaliatory intent — then § 1513(e) would place this matter within a broader federal framework that extends beyond the courtroom conduct itself.
 
 This article is a public-record brief. It relies only on materials that are publicly accessible or publicly quotable. The author may possess additional non-public information that is not included to protect sources, safety, or lawful investigative constraints. Where sealed or non-public material is mentioned, it is described conditionally. The conclusions in this article do not depend on accepting any undisclosed evidence as true. The purpose of this brief is to document the public record and identify the investigative questions that a competent federal investigation would confirm or falsify.
 
@@ -175,7 +175,7 @@ The Section acknowledged receipt of the complaint. No further communication rega
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-two-questions/},
-      note    = {Last modified 2026-03-23; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-two-questions}}
+      note    = {Last modified 2026-04-21; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-two-questions}}
     }
 
 **APA:**
