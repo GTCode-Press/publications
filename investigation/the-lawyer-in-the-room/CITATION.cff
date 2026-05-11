@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Lawyer in the Room
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-05-10'
+url: https://gtcode.com/investigation/the-lawyer-in-the-room/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-lawyer-in-the-room
+license: CC-BY-4.0
+abstract: A companion analysis to the Bosko Petricevic open letter examining whether
+  Hawaii Rule of Professional Conduct 8.3(b) imposed a reporting duty if an attorney
+  witnessed alleged judicial signaling to a sworn witness.
+keywords:
+- Bosko Petricevic
+- Wilson Loo
+- Hawaii Rule of Professional Conduct 8.3
+- Rule 8.3(b)
+- Judicial Misconduct
+- Reporting Duty
+- Sealed Audio
+- Commission on Judicial Conduct
+- First Circuit
+- Hawaii

@@ -4,11 +4,14 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 6, 2026
+**Last Modified:** May 10, 2026
 **Canonical URL:** https://gtcode.com/investigation/open-letter-bosko-petricevic/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+
+**Editor’s note, May 10, 2026:** A companion analysis, [The Lawyer in the Room](https://gtcode.com/investigation/the-lawyer-in-the-room/), explains why the answer to this letter matters under Hawaiʻi Rule of Professional Conduct 8.3(b).
 
 Mr. Petricevic,
 
@@ -86,7 +89,7 @@ The record will show what happened. History will ask what those present did with
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/investigation/open-letter-bosko-petricevic/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/open-letter-bosko-petricevic}}
+      note    = {Last modified 2026-05-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/open-letter-bosko-petricevic}}
     }
 
 **APA:**
