@@ -4,6 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 1, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-bridges/
 **Section:** Investigations
 **Series:** The Architecture of Access — Part II
@@ -13,7 +14,7 @@
 
 *By Ekewaka Lono | Oahu Underground*
 
-*Second in a series. ["The Federal Layer"](https://gtcode.com/investigation/the-federal-layer/) documented how the institutional density surrounding retired Per Diem Judge Wilson M.N. Loo's family network crowds out a straightforward federal prosecution. This article follows the same network outward — to Beijing.*
+*Second in a series. ["The Federal Layer"](https://gtcode.com/investigation/the-federal-layer/) argued that institutional density surrounding retired Per Diem Judge Wilson M.N. Loo's family network can crowd out straightforward federal review. This article follows the same network outward — to documented PRC-facing access points.*
 
 ## Series Navigation
 
@@ -30,7 +31,7 @@
 
 This article documents publicly verifiable institutional relationships that create repeated access points between Hawaii's civic, educational, and defense-adjacent institutions and organizations that operate under or are linked to the PRC's party-state influence and security ecosystem — including the United Front Work Department, military and security structures under the People's Liberation Army, entities affiliated with the Ministry of State Security, and government-affiliated civil institutions that participate in influence or security-facing engagement.
 
-It does not allege that any individual or institution has been directed, tasked, or controlled by a foreign government. It does not allege criminal conduct. It does not allege espionage.
+It does not allege that any individual or institution has been directed, tasked, or controlled by a foreign government. It does not allege criminal conduct. It does not allege espionage. Safeguards may exist outside the public record.
 
 This article is a public-record brief. It relies only on materials that are publicly accessible or publicly quotable. The author may possess additional non-public information that is not included to protect sources, safety, or lawful investigative constraints. No claim in this article requires any undisclosed evidence to be true. The evidence consists of public filings (IRS Form 990, foundation records), official institutional websites, Department of Defense publications, congressional reports, participant lists, and recognized think-tank analyses. No classified sources were used. The standard applied is documented relationships and access patterns, not alleged intent. Institutions included here that are not intelligence organs but operate as routine counterparts in influence, diplomacy, and security-facing engagement are included for exposure mapping, not allegation.
 
@@ -372,7 +373,7 @@ The recommendation is not disengagement — it is risk-managed engagement: ensur
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-bridges/},
-      note    = {The Architecture of Access, Part II; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-bridges}}
+      note    = {The Architecture of Access, Part II; Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-bridges}}
     }
 
 **APA:**

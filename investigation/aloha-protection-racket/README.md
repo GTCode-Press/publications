@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 26, 2025
-**Last Modified:** March 1, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/aloha-protection-racket/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -13,7 +13,7 @@
 
 ### Legal Notice
 
-*This report documents alleged misconduct based on public records, court filings, and firsthand testimony. All individuals are presumed innocent. Firsthand claims are attributed to the complainant's account. Where conclusions depend on sealed records or unverified testimony, conditional language is used. This publication follows the failure of official channels to address the matters described.*
+*This report documents alleged misconduct based on public records, court filings, and firsthand testimony. All individuals are presumed innocent. Firsthand claims are attributed to the complainant's account. Where conclusions depend on sealed records or unverified testimony, conditional language is used. The title uses "protection racket" as a structural metaphor for a protection effect; this article does not allege a proved RICO enterprise or a centralized conspiracy.*
 
 ---
 
@@ -31,7 +31,7 @@ During cross-examination, the complainant asked the defendant a direct question:
 
 **Public record (audio recording):** The complainant attempted to place the observed conduct on the record. His words began: "Let the record show that the judge just..." Judge Loo interrupted, stating **"Nah ah ah enough out of you!!"** The audio record captures both the attempted objection and the interruption. It does not capture any visual conduct.
 
-If the complainant's account of the non-verbal signal is accurate, Loo's conduct would constitute deprivation of rights under color of law — a federal felony under [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242), a statute the Supreme Court held applies to state judges in *United States v. Lanier* (1997) — and may also constitute subornation of perjury under 18 U.S.C. § 1622. The sealed court file and the audio record are the primary evidence bearing on this question.
+If the complainant's account of the non-verbal signal is accurate, Loo's conduct would raise serious deprivation-of-rights questions under [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242), a statute the Supreme Court held applies to state judges in *United States v. Lanier* (1997). It may also raise subornation-of-perjury questions, but federal statutes such as 18 U.S.C. § 1622 have jurisdictional limits when the alleged perjury occurred in state court. The sealed court file and the audio record are the primary evidence bearing on this question.
 
 The case was subsequently sealed.
 
@@ -75,7 +75,7 @@ According to the complainant, HPD officers provided conflicting information abou
 
 **Public record (court procedures):** The audio-only recording format of the December 2022 hearing created a structural condition in which any visual conduct — whether judicial signals, gestures, or facial expressions — would be unrecorded. If the complainant's account of a non-verbal signal is accurate, this procedural condition meant the most consequential act in the hearing left no trace in the official record.
 
-The documented sequence shows a pattern where each institution's response — or non-response — effectively shielded the same individual from accountability. Whether this reflects coordination or independent failures, the structural outcome is identical.
+The documented sequence shows a pattern in which multiple institutional responses — or non-responses — produced the practical effect of shielding the same individual from accountability. Whether this reflects coordination, inertia, conflict avoidance, or independent failures remains open; the structural outcome is identical.
 
 ---
 
@@ -113,6 +113,16 @@ This matter has been referred to the **DOJ Public Integrity Section**, which ack
 
 Successor reporting examines specific elements of this case in greater detail: *[The Two Questions](https://gtcode.com/investigation/the-two-questions/)* addresses the evidentiary path to resolution. *[The Nod](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)* reconstructs the hearing in forensic detail. *[The Zero Commission](https://gtcode.com/investigation/the-zero-commission/)* documents the oversight body's structural failure. *[The Paper Bag](https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/)* examines the conflict-of-interest architecture in Hawaiʻi's self-investigation model. *[The Shape of the Cage](https://gtcode.com/investigation/the-shape-of-the-cage/)* presents the structural model of how networked institutional failure operates without requiring a single point of coordination.
 
+## What This Article Does Not Prove
+
+This article does not prove from public materials alone that Judge Loo made the alleged visual signal, that HPD or any oversight body coordinated with him, or that the institutional sequence constitutes a RICO enterprise. It documents public records, sealed-record-dependent claims, firsthand allegations, and the protection effect created when reports, court records, and oversight pathways fail to produce substantive review.
+
+## What Would Falsify This
+
+The structural thesis would be materially narrowed by production of HPD or Commission records showing substantive review of the primary evidence, public correction of the judicial-status discrepancy, or records showing that reported violence and intimidation were investigated on the merits.
+
+Material weakening or falsification of the courtroom allegation would require sealed-record review showing a materially different audio sequence; court-file review showing absence of the described exhibit or a materially different exhibit; production of a full record showing an uninterrupted attempted record statement; or credible, disinterested courtroom testimony contradicting the alleged visual signal while remaining consistent with timing, layout, line of sight, sealed audio, and the documentary record. A self-interested denial by an implicated participant is not dispositive. It carries evidentiary weight only to the extent it is specific, record-consistent, line-of-sight-aware, and independently supported.
+
 The record is public. The sealed file exists. The questions remain open.
 
 ---
@@ -128,7 +138,7 @@ The record is public. The sealed file exists. The questions remain open.
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/investigation/aloha-protection-racket/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/aloha-protection-racket}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/aloha-protection-racket}}
     }
 
 **APA:**

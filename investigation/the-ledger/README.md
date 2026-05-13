@@ -4,6 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 4, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-ledger/
 **Section:** Investigations
 **Series:** The Architecture of Access — Part III
@@ -29,7 +30,7 @@
 ## Executive Summary
 
 > **What this is**: a public‑record compliance review of CCCH Form 990 filings and documented public events.
-> **What this is not**: an allegation of foreign control or illegal conduct, or a claim about donor identities.
+> **Scope**: this is access-pattern mapping. It alleges neither foreign control nor illegal conduct, and it makes no claim about donor identities. Safeguards, donor explanations, and internal controls may exist outside the public record.
 > **Not legal advice.**
 
 **Key Judgments**
@@ -245,7 +246,7 @@ The Chinese Chamber of Commerce of Hawaii, its officers, and all individuals and
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-ledger/},
-      note    = {The Architecture of Access, Part III; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-ledger}}
+      note    = {The Architecture of Access, Part III; Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-ledger}}
     }
 
 **APA:**

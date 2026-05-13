@@ -4,6 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 24, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-shape-of-the-cage/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -14,7 +15,7 @@ Every system that destroys a person leaves a shape behind.
 
 Not a smoking gun. Not a signed order. A shape — a geometry of pressure that, once you learn to recognize it, appears across documented cases, decades apart, on different continents. The names change. The architecture tends to recur.
 
-This piece describes that architecture. It is not about any single case. It is a structural model — assembled from federal investigations, congressional inquiries, declassified intelligence directives, and international human rights findings — that describes how a person can be neutralized without anyone deciding to do it.
+This piece describes a structural model assembled from federal investigations, congressional inquiries, declassified intelligence directives, and international human rights findings. It describes how a person can be neutralized without proving that every actor decided to do it.
 
 The common objection to any account of sustained institutional harm is: *who ordered it?* The answer, in many documented cases, is: nobody had to. The system can produce the outcome the way a river produces a canyon — not by intention, but by the sustained application of force along the path of least resistance.
 
@@ -56,7 +57,7 @@ What distinguishes this from ordinary information sharing is *auditability*: in 
 
 **Layer 7 — Oversight Exhaustion.** The target files complaints. The complaints enter systems that route them into confidential processes, jurisdictional limitations, time-barred windows, and self-referential review bodies. Each complaint is handled in procedural isolation. Rarely are they evaluated in the context of the others. The system's own accountability mechanisms become the final containment layer.
 
-The stack is not deterministic. Not every case exhibits all seven layers, and the layers do not necessarily appear in this order. The model describes a structural tendency, not a fixed sequence.
+The model describes structural tendency rather than fixed sequence or proof of coordination. Cases may exhibit fewer than seven layers, and the layers may appear in different orders.
 
 Social, informational, legal, and economic pressure can reinforce one another. The critical insight is that no layer requires the actors in other layers to know what they are doing. Each layer's output becomes the next layer's input. The stack can assemble itself.
 
@@ -340,7 +341,7 @@ This article presents a structural model. Models are tools, not truths. The foll
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-shape-of-the-cage/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-shape-of-the-cage}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-shape-of-the-cage}}
     }
 
 **APA:**

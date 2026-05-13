@@ -1,51 +1,51 @@
-# The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name
+# The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com
 
-> Domain-Level Search Suppression of an Independent Journalism Site
+> Domain-Level Search-Index Anomaly, Contradictory Diagnostics, and Selective Visibility of an Independent Journalism Site
 
 **Author:** Ekewaka Lono
 **Published:** February 13, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-index-bing-search-suppression/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-The investigation you're reading almost didn't exist — not because it wasn't written, but because the platform it's published on has been made invisible.
+Bing's own tools showed gtcode.com as blocked, not discovered, or invisible depending on the page inspected. Public search behavior later shifted but had not normalized: a subsequent `site:gtcode.com` search displayed "About 50 results" while visibly surfacing only one gtcode.com URL on the captured first page, a non-investigative technical article. The investigation corpus remained absent from the visible first-page result set reviewed from the screenshot.
 
-On February 12, 2026, a routine check of Bing Webmaster Tools revealed that `gtcode.com` — this site — returns zero results on Microsoft's search engine. Not low-ranked. Not deprioritized. *Zero.*
+On February 12, 2026, a routine check of Bing Webmaster Tools and public search showed that `gtcode.com` — this site — returned zero visible public results on Microsoft's search engine. Not low-ranked. Not deprioritized. *Zero.*
 
 The evidence comes from Microsoft's own tools.
 
 ---
 
-## Exhibit A: The Disappearance
+## Exhibit A: The February 12 Disappearance
 
-A `site:gtcode.com` search on Bing returns nothing.
+On February 12, 2026, a `site:gtcode.com` search on Bing returned no visible results.
 
-![Bing search for site:gtcode.com returning zero results](https://gtcode.com/img/bing-block-site-search.webp)
+![Bing search for site:gtcode.com returning zero visible results on February 12, 2026](https://gtcode.com/img/bing-block-site-search.webp)
 
 *"There are no results for site:gtcode.com."*
 
-This is not a new domain. This site has been publishing investigative journalism and open-source software documentation since 2025. It has a valid sitemap, a robots.txt that explicitly welcomes all crawlers, valid structured data, and no technical barriers to indexing.
+The domain has published investigative journalism and open-source software documentation since 2025. It has a valid sitemap, a robots.txt that explicitly welcomes all crawlers, valid structured data, and no technical barriers to indexing.
 
 ---
 
 ## Exhibit B: The Investigation Page
 
-URL Inspection of the most recent investigation — "[The Nod: Wilson Loo and the Silent Felony](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)" — returns **"Not discovered."**
+URL Inspection of the most recent investigation — "[The Nod: Wilson Loo and the Silent-Felony Allegation](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)" — returns **"Not discovered."**
 
 ![Bing URL Inspection showing "Not discovered" for Wilson Loo investigation](https://gtcode.com/img/bing-block-wilson-loo-not-discovered.webp)
 
 *"URL cannot appear on Bing. The inspected URL is not known to Bing."*
 
-This could be explained away. New page, hasn't been crawled yet. But it wasn't crawled because the domain itself is suppressed. The "Request indexing" button exists, but the question is why a site with a valid sitemap and no crawl barriers requires manual page-by-page submission.
+This could be explained away: new page, not crawled yet. But the later exhibits show a broader domain-level anomaly. The "Request indexing" button exists, but the question is why a site with a valid sitemap and no crawl barriers requires manual page-by-page submission while other URLs on the same domain show blocked or contradictory statuses.
 
 ---
 
 ## Exhibit C: The Control Case
 
-This is the exhibit that demonstrates domain-level suppression.
+This is the exhibit that first indicated a domain-level condition rather than a page-content condition.
 
 URL Inspection of `gtcode.com/repos/agent_session_manager/` — an open-source Elixir software package page — returns **"Blocked."**
 
@@ -53,18 +53,18 @@ URL Inspection of `gtcode.com/repos/agent_session_manager/` — an open-source E
 
 *"The inspected URL is known to Bing but has some issues which are preventing us from serving it to our users. We recommend you to follow Bing Webmaster Guidelines."*
 
-This is not an investigation page. This is documentation for an open-source Elixir library — `agent_session_manager` — a technical package for managing AI agent sessions. It contains:
+The inspected URL points to documentation for an open-source Elixir library — `agent_session_manager` — a technical package for managing AI agent sessions. It contains:
 
 - API documentation
 - Installation instructions
 - Code examples
 - A link to the Hex.pm package registry
 
-There is no investigative content. No controversial claims. No names, no allegations, no journalism of any kind. It is a software documentation page, indistinguishable from thousands of other open-source project pages indexed on Bing every day.
+The page contains ordinary software material. It names no judge, court, institution, party, allegation, or journalism subject. It resembles thousands of other open-source project pages indexed on Bing every day.
 
 And yet: **"Blocked."**
 
-Note the distinction. Exhibit B says "Not discovered" — Bing claims it hasn't seen the page. Exhibit C says the URL **"is known to Bing"** — they crawled it, they evaluated it, and they actively decided to suppress it. An open-source software page was crawled, reviewed, and blocked.
+Note the distinction. Exhibit B says "Not discovered" — Bing claims it hasn't seen the page. Exhibit C says the URL **"is known to Bing"**. Bing's tools reported it as blocked after discovery. An open-source software page was crawled, reviewed, and blocked.
 
 The only thing connecting this Elixir package page to the Wilson Loo investigations is the domain name.
 
@@ -72,40 +72,40 @@ The only thing connecting this Elixir package page to the Wilson Loo investigati
 
 ## The Pattern
 
-This is the same pattern documented in [The Zone of Politeness](https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/), applied to a different institution:
+The effect resembles the pattern documented in [The Zone of Politeness](https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/), applied to a different institution:
 
 | System | Mechanism | Result |
 |--------|-----------|--------|
-| **Civil Beat** | Donor relationships, board overlaps | Editorial silence on Luke-Loo network |
+| **Civil Beat** | Donor relationships, board overlaps | Structural friction around Luke-Loo reporting |
 | **Judicial Conduct Commission** | 90-day jurisdictional loophole | Investigation evaded via resignation |
 | **HPD** | Selective non-investigation | Reports filed, never acted upon |
-| **Bing** | Domain-level content suppression | Entire site — including software repos — invisible |
+| **Bing** | Domain-level blocking, contradictory diagnostics, selective public visibility | One non-investigative technical article visible; investigation corpus absent from captured `site:` results |
 
-The methodology is always the same: structural mechanisms that produce suppression without requiring explicit coordination. No one needs to pick up a phone. The system works because each actor follows their own institutional incentives, and the aggregate effect is silence.
+The inference is narrower than motive. Structural mechanisms can produce suppression effects without explicit coordination. The Bing exhibits document a search-index anomaly with selective visibility while leaving cause and motive open.
 
 ---
 
-## What This Isn't
+## What The Evidence Leaves Open
 
-This is not a claim that Microsoft CEO Satya Nadella personally ordered `gtcode.com` blocked. That's not how modern content suppression works.
+The evidence leaves personal intervention by Microsoft executives unresolved.
 
-Search engines accept third-party content complaints. Reputation management firms file these complaints professionally and at scale. A single domain-level complaint — filed by an attorney, a PR firm, or a "concerned party" — can trigger automated review processes that result in suppression. The entity that files the complaint is rarely disclosed.
+Search engines accept third-party content complaints. Reputation management firms file these complaints professionally and at scale. A domain-level complaint — filed by an attorney, a PR firm, or a "concerned party" — can trigger automated review processes that result in suppression. That mechanism remains possible; these exhibits establish the anomaly while leaving complaint history and policy trigger unresolved.
 
-The question is not whether someone at Microsoft made a deliberate decision. The question is: **who filed the complaint?**
+The open questions are complaint history, policy trigger, technical explanation, or another domain-level filter.
 
 ---
 
 ## The Open Questions
 
-1. **Has a third-party content removal request been filed against gtcode.com?** Bing's Webmaster Tools does not expose this information to site owners.
+1. **Has a third-party content removal request been filed against gtcode.com?** Bing Webmaster Tools withholds this information from site owners.
 
 2. **Does the Lumen Database contain any takedown requests targeting this domain?** *(Under investigation.)*
 
 3. **Are the same pages indexed on Google, DuckDuckGo, and other search engines?** If the same Elixir package page indexes everywhere except Bing, the suppression vector is Bing-specific.
 
-4. **What is the specific "issue" preventing the agent_session_manager page from being served?** Bing's error message is deliberately vague. A software documentation page cannot plausibly violate content guidelines.
+4. **What is the specific "issue" preventing the agent_session_manager page from being served?** Bing's error message is vague. A software documentation page with no investigative content is a strong control case.
 
-5. **When did the suppression begin relative to the publication dates of the Wilson Loo investigations?** Timeline correlation would establish whether the suppression is responsive to specific publications.
+5. **When did the suppression begin relative to the publication dates of the Wilson Loo investigations?** Timeline correlation would support or weaken the hypothesis that the suppression is responsive to specific publications, but correlation alone would not prove motive.
 
 ---
 
@@ -113,27 +113,15 @@ The question is not whether someone at Microsoft made a deliberate decision. The
 
 This investigation applies the same standard as every other piece published on this site: **show the receipts.**
 
-The three exhibits above are screenshots from Microsoft's own Bing Webmaster Tools, taken on February 12, 2026, by the verified site owner. They are not interpretations. They are not allegations. They are Microsoft's own diagnostic output, showing that:
+The initial exhibits are screenshots from Microsoft's own Bing Webmaster Tools and public search results, taken on February 12, 2026, by the verified site owner. They are primary-source outputs showing that:
 
-1. The entire domain is invisible on Bing
+1. The entire domain was publicly invisible on Bing on February 12, 2026
 2. Investigation pages are "Not discovered"
-3. An open-source software page was crawled, evaluated, and actively blocked
+3. Bing's tools reported an open-source software page as known to Bing and unable to be served to users
 
-The screenshots are the primary sources. The analysis follows from what they show.
+The screenshots are the primary sources. The later May 12 screenshot materially updates the public-search condition from total public invisibility to selective visibility.
 
----
-
-## What Happens Next
-
-This page will be updated as additional evidence is gathered. Specifically:
-
-- Cross-engine comparison (Google, DuckDuckGo, Brave, Yandex)
-- Lumen Database search for takedown requests
-- Bing reconsideration request and its outcome
-- Timeline correlation between publication dates and suppression events
-- Any response from Microsoft
-
-The record is now public.
+This article documents Bing's treatment of gtcode.com as reflected in Bing Webmaster Tools and search results. Cause and motive remain open. The relationship between the suppression and the site's Wilson Loo reporting is an investigative hypothesis based on timing, domain-level effect, selective public visibility, and lack of a reproducible technical explanation.
 
 ---
 
@@ -141,7 +129,7 @@ The record is now public.
 
 ### Exhibit D: "Not Discovered" Becomes "Blocked"
 
-Three days after this article was published, the same investigation page from Exhibit B — "[The Nod: Wilson Loo and the Silent Felony](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)" — was re-inspected using Bing Webmaster Tools.
+Three days after this article was published, the same investigation page from Exhibit B — "[The Nod: Wilson Loo and the Silent-Felony Allegation](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)" — was re-inspected using Bing Webmaster Tools.
 
 The status has changed.
 
@@ -151,11 +139,11 @@ On February 12, this page was **"Not discovered"** — Bing claimed it had never
 
 > *"URL cannot appear on Bing. The inspected URL is known to Bing but has some issues which are preventing us from serving it to our users. We recommend you to follow Bing Webmaster Guidelines."*
 
-This is the same message, word for word, that appeared on the open-source Elixir software page in Exhibit C. The distinction between the two exhibits has collapsed. Both pages — an investigation into judicial corruption and an open-source software library — are now identically blocked.
+This is the same message, word for word, that appeared on the open-source Elixir software page in Exhibit C. The distinction between the two exhibits has collapsed. Both pages — a judicial-accountability investigation and an open-source software library — are now identically blocked.
 
-What this confirms: Bing discovered the investigation page sometime in the three-day window between February 12 and February 15. It crawled the page. It evaluated the content. And it applied the same domain-level block that had already caught the software repository. The page was not ignored — it was reviewed and suppressed.
+What this confirms: Bing discovered the investigation page sometime in the three-day window between February 12 and February 15. Its tools then reported the same "Blocked" status that had already caught the software repository. Bing's tools represented the page as known and unable to appear.
 
-The filter is not passive. It is active, and it is catching new pages as they appear.
+Bing's tools reported a blocking status after discovery.
 
 ---
 
@@ -163,7 +151,7 @@ The filter is not passive. It is active, and it is catching new pages as they ap
 
 ### Exhibit E: The Phantom Error
 
-Six days after the initial documentation, and three days after Exhibit D confirmed active suppression of new pages, a standard diagnostic step was taken: a Site Scan was initiated through Bing Webmaster Tools. This is Microsoft's own tool for webmasters — designed to identify technical problems that might prevent a site from appearing in search results. The purpose is to help site owners fix their sites.
+Six days after the initial documentation, and three days after Exhibit D showed Bing's tools reporting blocked status on a newly discovered page, a standard diagnostic step was taken: a Site Scan was initiated through Bing Webmaster Tools. This is Microsoft's own tool for webmasters — designed to identify technical problems that might prevent a site from appearing in search results. The purpose is to help site owners fix their sites.
 
 The scan completed. An email confirmation arrived from Bing Webmaster Tools (`bingwb@microsoft.com`):
 
@@ -177,11 +165,11 @@ The scan report contained a single finding: **"ERROR: Http 400-499 errors"** —
 
 The scan reached **page depth 0**. It could not get past the front door. According to Bing's own diagnostic infrastructure, `https://gtcode.com/` is returning an HTTP client error — a 4xx status code — which means the server is supposedly rejecting the request.
 
-There is one problem with this finding: **the error does not exist.**
+There is one problem with this finding: **the reported error fails external reproduction.**
 
-The homepage returns HTTP 200 — the standard success response — to every user agent tested, including Bing's own crawler signature (`Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)`). It returns 200 over HTTP/1.1 and HTTP/2. It returns 200 with no user agent at all. The page loads. The content renders. The server is not rejecting anything.
+The homepage returns HTTP 200 — the standard success response — to every user agent tested, including Bing's own crawler signature (`Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)`). It returns 200 over HTTP/1.1 and HTTP/2. It returns 200 with no user agent at all. The page loads. The content renders. The tests showed no server-side rejection.
 
-This was tested independently on February 18, 2026, using multiple user agents and protocol versions against the live site. Every request succeeded. The 4xx error Bing reports is not reproducible from outside Bing's own infrastructure.
+This was tested independently on February 18, 2026, using multiple user agents and protocol versions against the live site. Every request succeeded. Outside Bing's own infrastructure, the reported 4xx error could not be reproduced.
 
 A URL Inspection was then run on the homepage itself — the same URL the Site Scan claimed was returning 4xx errors:
 
@@ -210,45 +198,109 @@ Compare this to the other URL Inspections documented in this investigation:
 | `/repos/agent_session_manager/` | Open-source Elixir software docs | **Blocked** |
 | `/consulting/` | Services page | **Indexed successfully** |
 
-Bing's own URL Inspection tool reports that a consulting page on `gtcode.com` is indexed and can appear in search results. But recall Exhibit A: a `site:gtcode.com` search on Bing returns **zero results**. Not reduced results. Not filtered results. Zero.
+Bing's own URL Inspection tool reported that a consulting page on `gtcode.com` was indexed and could appear in search results. But Exhibit A showed that, on February 12, 2026, a `site:gtcode.com` search on Bing returned **zero visible results**. Not reduced results. Not filtered results. Zero.
 
 So Bing's tools simultaneously claim:
 - The homepage was "Discovered but not crawled" — yet the Site Scan reports a 4xx error on the same URL, which requires a crawl attempt
 - The homepage has been known to Bing since 2017 but was supposedly never crawled in eight years
-- The consulting page is indexed and can appear — but the domain returns nothing in search
-- The investigation and software pages are "Blocked" and cannot appear
-- The homepage generates a phantom 4xx error that doesn't exist
+- The consulting page is indexed and can appear — but the domain returned nothing in public search on February 12
+- The investigation and software pages carry "Blocked" statuses
+- The homepage generates a phantom 4xx error that fails external reproduction
 
-Four different URL statuses from the same toolset, on the same domain, on the same day — plus a Site Scan that contradicts the URL Inspection of the same page. The one page Bing claims is fine still doesn't appear in search. The suppression operates above the page-level status — it is applied at a layer that overrides Bing's own inspection results.
+Four different URL statuses from the same toolset, on the same domain, on the same day — plus a Site Scan that contradicts the URL Inspection of the same page. As of February 18, the one page Bing claimed was fine still failed to surface in public `site:` search. The anomaly operated above the page-level status — at a layer that overrode Bing's own inspection results.
 
 ### The Control Domain
 
 There is a second domain on the identical infrastructure stack: `nshkr.com`. Same static site generator (Hugo). Same hosting platform (GitHub Pages). Same CDN and DNS provider (Cloudflare). Same domain registrar. Same deployment pipeline.
 
-`nshkr.com` contains no investigative journalism. No judicial corruption reporting. No mentions of any judge, any court, any institution. It is a personal site.
+`nshkr.com` is a personal site with no investigative journalism, judicial-accountability reporting, or mentions of any judge, court, or institution.
 
-`nshkr.com` is not blocked on Bing. It does not generate phantom 4xx errors. It is not suppressed.
+`nshkr.com` loads normally in Bing, generates no phantom 4xx errors, and shows no suppression pattern.
 
-The only material difference between the two domains is that `gtcode.com` publishes investigations into Judge Wilson M.N. Loo and the institutional networks surrounding him.
+A material difference relevant to this investigation is that `gtcode.com` publishes investigations into Judge Wilson M.N. Loo and the institutional networks surrounding him. That fact supports a timing-and-context hypothesis while leaving motive open.
 
 ### What This Exhibit Eliminates
 
-Exhibits A through D established *what* Bing is doing: domain-level suppression that catches both investigative journalism and unrelated open-source software pages. Exhibit E addresses the *how* — and eliminates the most charitable technical explanations:
+Exhibits A through D established what Bing's tools were reporting in February: a domain-level condition that caught both investigative journalism and unrelated open-source software pages. Exhibit E addresses the *how* — and eliminates the most charitable technical explanations:
 
-- **"The site has a technical problem"** — It doesn't. HTTP 200 across all tests. One page is even marked "Indexed successfully."
-- **"Cloudflare is blocking Bing's crawler"** — The control domain on the same Cloudflare configuration is not blocked.
-- **"It's a hosting platform issue"** — Both domains use GitHub Pages. One is blocked. One is not.
-- **"It's a CDN or DNS misconfiguration"** — Both domains use Cloudflare. One is blocked. One is not.
+- **"The site has a technical problem"** — HTTP 200 across all tests. One page is even marked "Indexed successfully."
+- **"Cloudflare is blocking Bing's crawler"** — The control domain on the same Cloudflare configuration loads normally.
+- **"It's a hosting platform issue"** — Both domains use GitHub Pages. Bing reports blocking on gtcode.com while the control domain behaves normally.
+- **"It's a CDN or DNS misconfiguration"** — Both domains use Cloudflare. Bing reports blocking on gtcode.com while the control domain behaves normally.
 - **"The site is too new to be indexed"** — The site has been publishing since 2025, has a valid sitemap, and explicitly welcomes all crawlers in its robots.txt. Bing itself confirms at least one page is indexed.
-- **"Individual pages have content problems"** — An open-source software documentation page with zero controversial content is blocked. A consulting page with no investigative content is "Indexed successfully" but still invisible in search. The blocking pattern is not explained by page content.
+- **"Individual pages have content problems"** — An open-source software documentation page with zero controversial content is blocked. A consulting page with no investigative content is "Indexed successfully" while remaining absent from public site-search on February 18. Page content fails as a complete explanation for the blocking pattern.
 
-What remains after elimination: Bing's infrastructure is generating phantom errors, selectively blocking pages, and overriding its own "Indexed successfully" status — all on a single domain, while an identical-stack domain operates normally. The diagnostic tools designed to help webmasters understand and fix problems are instead producing contradictory outputs that obscure what is actually happening.
+What remains after elimination: Bing's infrastructure generated phantom errors, reported blocked statuses on selected pages, and overrode its own "Indexed successfully" status — all on a single domain, while an identical-stack domain operated normally. The diagnostic tools designed to help webmasters understand and fix problems produced contradictory outputs that obscured what was actually happening.
 
 The tools that are supposed to provide transparency are participating in the opacity.
 
+That sentence describes the practical effect of the diagnostic contradictions while leaving intent by Microsoft, Bing personnel, or any outside complainant unresolved.
+
 ---
 
-*— Ekewaka Lono, 13 February 2026 (updated 18 February 2026)*
+## Update: May 12, 2026 — One Non-Investigative Result Appears
+
+A later public Bing search for `site:gtcode.com` shifted away from the clean zero-result page documented in Exhibit A. Bing displayed "About 50 results" while visibly showing only one result from gtcode.com:
+
+> Harness Engineering: The Discipline of Building Systems
+>
+> `https://gtcode.com/articles/harness-engineering`
+
+The visible URL points to a technical article about harness engineering, outside the Oahu Underground investigation corpus. The screenshot captures the visible first-page result set, which excluded Oahu Underground investigation pages.
+
+![Bing search for site:gtcode.com showing about 50 results but only one visible gtcode.com result, a non-investigative Harness Engineering article](https://gtcode.com/img/bing-site-gtcode-one-visible-result-20260512.png)
+
+*Exhibit F: Bing public search for `site:gtcode.com`, showing "About 50 results" but visibly surfacing only one gtcode.com result on the captured first page, the non-investigative technical article `/articles/harness-engineering/`.*
+
+This materially updates the evidence. The original February 12 result documented total public invisibility at that time. The later result shows partial visibility: at least one non-investigative page surfaced, while the captured visible first-page results still centered on a single technical article and excluded the investigation corpus. That pattern falls short of ordinary site indexing.
+
+The updated pattern therefore shifts from simple disappearance to selective visibility:
+
+1. Bing previously returned zero visible results for `site:gtcode.com`.
+2. Bing Webmaster Tools reported contradictory states across the same domain: "Not discovered," "Blocked," "Discovered but not crawled," and "Indexed successfully."
+3. A later public `site:` search reported "About 50 results."
+4. The visible result set surfaced only one gtcode.com page.
+5. The visible page was a non-investigative technical article.
+6. The captured public first-page result set excluded the investigation pages.
+
+This leaves a narrowed suppression thesis: why can a technical article appear while the investigation corpus remains non-visible, and why does Bing report a larger result count than the visible result set reflects?
+
+---
+
+## What The Evidence Leaves Open
+
+The evidence establishes a search-index anomaly while leaving actor and motive unresolved. The record leaves unresolved whether Microsoft executives intervened, whether any named person filed a complaint, and whether the Wilson Loo reporting caused the block. The May 12 update narrows the domain-wide claim: at least one non-investigative technical article surfaced. The unresolved issue is why the public result set remains selectively visible and why the captured first-page `site:` results exclude the investigation corpus despite Bing's reported result count and prior Webmaster Tools diagnostics.
+
+## What Would Falsify This
+
+The suppression thesis would be materially narrowed or falsified if Bing begins returning ordinary, navigable `site:gtcode.com` results across the domain, including investigation pages; if Bing provides a documented technical explanation that reproduces externally; if a robots, CDN, sitemap, hosting, canonicalization, or structured-data error is identified and corrected; if a reconsideration response explains a neutral policy basis; or if server logs show Bingbot was blocked by site infrastructure.
+
+The May 12 result narrows the thesis without resolving it: the captured first-page result set shows only one visible non-investigative URL, leaving selective visibility / partial leakage through a still-unresolved indexing anomaly as the current claim.
+
+---
+
+## What Happens Next
+
+This page will be updated as additional evidence is gathered. Specifically:
+
+- Cross-engine comparison (Google, DuckDuckGo, Brave, Yandex)
+- Lumen Database search for takedown requests
+- Bing reconsideration request and its outcome
+- Timeline correlation between publication dates and suppression events
+- Search `site:gtcode.com/investigation/`
+- Search exact URLs for major investigation pages
+- Compare Bing visibility of `/articles/`, `/repos/`, and `/investigation/`
+- Search exact title strings for investigation pages
+- Search exact URL strings
+- Re-run URL Inspection in Bing Webmaster Tools for the homepage, `/articles/harness-engineering/`, `/investigation/the-nod-wilson-loo-silent-felony/`, `/investigation/open-letter-bosko-petricevic/`, and `/investigation/the-index-bing-search-suppression/`
+- Capture whether Webmaster Tools reports "Indexed successfully," "Blocked," "Discovered but not crawled," or other statuses for the investigation pages after the public search change
+- Any response from Microsoft
+
+The record is now public.
+
+---
+
+*— Ekewaka Lono, 13 February 2026 (updated 12 May 2026)*
 
 ---
 
@@ -258,16 +310,16 @@ The tools that are supposed to provide transparency are participating in the opa
 
     @article{lono2026indexbingsearch,
       author  = {Lono, Ekewaka},
-      title   = {The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name},
+      title   = {The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com},
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-index-bing-search-suppression/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression}}
     }
 
 **APA:**
-Lono, E. (2026, February 13). The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name. *GTCode.com Investigations*. https://gtcode.com/investigation/the-index-bing-search-suppression/ (Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression)
+Lono, E. (2026, February 13). The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com. *GTCode.com Investigations*. https://gtcode.com/investigation/the-index-bing-search-suppression/ (Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression)
 
 **Chicago:**
-Ekewaka Lono. "The Index: How Bing Blocked an Entire Domain to Bury One Judge's Name." *GTCode.com Investigations*, February 13, 2026. https://gtcode.com/investigation/the-index-bing-search-suppression/. Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression.
+Ekewaka Lono. "The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com." *GTCode.com Investigations*, February 13, 2026. https://gtcode.com/investigation/the-index-bing-search-suppression/. Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression.

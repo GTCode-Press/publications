@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 20, 2025
-**Last Modified:** March 1, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -22,12 +22,12 @@ The RICO framework claimed conclusions that exceed what the published evidence s
 | File | Focus |
 | --- | --- |
 | [The Two Questions](https://gtcode.com/investigation/the-two-questions/) | Prosecution roadmap: one witness, two questions, 18 U.S.C. § 242 / § 1622 |
-| [The Nod](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/) | The courtroom incident — editorial account |
+| [The Nod](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/) | Alleged visual signaling and the audio-confirmable courtroom sequence — editorial account |
 | [The Zero Commission](https://gtcode.com/investigation/the-zero-commission/) | Judicial oversight failure — public-record basis |
 | [The Paper Bag](https://gtcode.com/investigation/the-paper-bag-and-the-architecture-of-self-investigation/) | Executive branch self-investigation |
-| [The Shape of the Cage](https://gtcode.com/investigation/the-shape-of-the-cage/) | Structural model — seven-layer neutralization stack |
+| [The Shape of the Cage](https://gtcode.com/investigation/the-shape-of-the-cage/) | Structural model — seven-layer accountability-failure framework |
 | [The Closed Loop](https://gtcode.com/investigation/the-closed-loop/) | Series overview |
-| [The Aloha Protection Racket](https://gtcode.com/investigation/aloha-protection-racket/) | Revised: records-first rewrite (Feb 2026) |
+| [The Aloha Protection Racket](https://gtcode.com/investigation/aloha-protection-racket/) | Revised: records-first rewrite; structural-protection metaphor |
 
 The original text of this article is preserved in the site's version-control history.
 
@@ -48,7 +48,7 @@ The original text of this article is preserved in the site's version-control his
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/investigation/exhibit-a-federal-intervention-hawaii/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/exhibit-a-federal-intervention-hawaii}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/exhibit-a-federal-intervention-hawaii}}
     }
 
 **APA:**

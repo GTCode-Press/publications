@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 1, 2026
-**Last Modified:** March 3, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-architecture-of-access/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -21,7 +21,7 @@ The Architecture of Access tracks cumulative institutional reach rather than iso
 
 This is a public-record series. It relies on attributable documents, institutional records, filings, and archived source material.
 
-Where source material characterizes an organization as linked to a party-state, military, or intelligence structure, this series attributes that characterization to the named source. It does not treat institutional relationship mapping alone as proof of direction, control, or wrongdoing.
+Where source material characterizes an organization as linked to a party-state, military, or intelligence structure, this series attributes that characterization to the named source. It does not treat institutional relationship mapping alone as proof of direction, control, tasking, espionage, criminal conduct, or wrongdoing. Safeguards may exist outside the public record.
 
 ## Published Parts
 
@@ -59,7 +59,7 @@ Where source material characterizes an organization as linked to a party-state, 
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-architecture-of-access/},
-      note    = {Last modified 2026-03-03; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-architecture-of-access}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-architecture-of-access}}
     }
 
 **APA:**

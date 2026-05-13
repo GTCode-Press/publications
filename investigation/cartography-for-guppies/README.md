@@ -4,6 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 5, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/cartography-for-guppies/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -24,15 +25,15 @@ That's what Oʻahu Underground is: a current map. Every issue of this magazine i
 
 I learned this the hard way. In early 2025, I brought a dossier to Honolulu Civil Beat — documented conflicts of interest, public filings, the works. The initial response was interest. What followed was silence. Not rejection. Not "we looked into it and it doesn't hold up." Just: nothing. The story was never born.
 
-Then I understood. Civil Beat can't investigate the Luke family for the same reason a fish can't investigate water. The publisher sat on the same school board as the bank chairman for twelve years. The family donates to the newsroom. A former bank security officer writes for the site. These aren't accusations of corruption — they're the topology of a small state. But topology has consequences. You don't bite the hand that passes the breadbasket at the Punahou trustees' dinner.
+Then I understood. Civil Beat may be structurally poorly positioned to investigate the Luke family for the same reason a fish can't investigate water. The publisher sat on the same school board as the bank chairman for twelve years. The family donates to the newsroom. A former bank security officer writes for the site. These aren't accusations of corruption — they're the topology of a small state. But topology has consequences. You don't bite the hand that passes the breadbasket at the Punahou trustees' dinner.
 
 So here I am. A guppy with a map.
 
-The advantage of being small is that nobody needs to protect you and nobody needs to flatter you. I don't have donors whose feelings I need to manage. I don't have board relationships that make certain phone calls awkward. The only currency I have is whether the documents I cite are real and whether the connections I draw are accurate. If they're not, I'll be sued. I haven't been.
+The advantage of being small is that nobody needs to protect you and nobody needs to flatter you. I don't have donors whose feelings I need to manage. I don't have board relationships that make certain phone calls awkward. The only currency I have is whether the documents I cite are real and whether the connections I draw are accurate. Corrections are invited and will be published for any documented error.
 
-Each issue of this magazine will do one thing: take publicly available records and show you what they look like when you lay them next to each other. Issue by issue, the map gets more detailed. The financial disclosures connect to the board seats. The board seats connect to the oversight bodies. The oversight bodies connect to the courtrooms. The courtrooms connect to the press that should be covering them but can't.
+Each issue of this magazine will do one thing: take publicly available records and show you what they look like when you lay them next to each other. Issue by issue, the map gets more detailed. The financial disclosures connect to the board seats. The board seats connect to the oversight bodies. The oversight bodies connect to the courtrooms. The courtrooms connect to the press that should be covering them but may be institutionally unable or unwilling to do so.
 
-I'm not asking you to believe me about what happened in Judge Wilson Loo's courtroom on December 2, 2022. Not yet. First I'm going to show you the system — the per diem judge model, the confidential complaint process, the 90-day loophole, the audio-only recordings — so that when I do tell you what happened, you'll already understand *how* it could happen and *why* nobody reported it.
+I'm not asking you to accept my firsthand account of what happened in Judge Wilson Loo's courtroom on December 2, 2022 as proven by public materials alone. First I'm going to show you the system — the per diem judge model, the confidential complaint process, the 90-day loophole, the audio-only recordings — so that when I present the allegation, you can separate the public record from the sealed-record-dependent claim and the firsthand observation.
 
 That's the guppy strategy: make the map so detailed that the territory explains itself.
 
@@ -55,7 +56,7 @@ Welcome to Oʻahu Underground.
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/cartography-for-guppies/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/cartography-for-guppies}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/cartography-for-guppies}}
     }
 
 **APA:**

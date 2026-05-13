@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 15, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-zero-commission/
 **Section:** Investigations
 **Series:** The Closed Loop — Part I
@@ -29,7 +29,7 @@ This is not a story about one bad judge. It would be easier if it were. One bad 
 
 ---
 
-I came to this the way most people do — through the front door, like a fool, believing the building was what it said on the sign. I had a complaint. I had evidence. I had the specific, documented conduct of a specific judge doing specific things that the Hawaii Revised Code of Judicial Conduct specifically prohibits. I filed. I waited. I waited in the particular way you wait when you've been told the process is confidential for your protection, which is the same voice they use when they tell you the camera in the interrogation room is off.
+I came to this the way most people do — through the front door, like a fool, believing the building was what it said on the sign. I had a complaint. I had evidence. I had specific, documented allegations concerning a specific judge and conduct I believed the Hawaii Revised Code of Judicial Conduct prohibited. I filed. I waited. I waited in the particular way you wait when you've been told the process is confidential for your protection, which is the same voice they use when they tell you the camera in the interrogation room is off.
 
 What I did not know then — what almost no one knows, because the rules are designed to ensure almost no one *can* know — is that the last time this Commission did not dismiss every complaint it processed was fiscal year 2017–2018. Since then — six consecutive fiscal years of annual reports, each one posted to the Judiciary's own website — every complaint processed has been dismissed. Every single one. In FY 2022–2023, the Commission did not process a single complaint at all. Zero. The machine did not even engage. Every complaint filed since 2018, across every circuit, from every citizen and attorney who took the time to document misconduct and submit it through proper channels — all of it, every page, every exhibit — fed into the same machine and came out the same way. Dismissed. Case closed. The judge is fine. You may go.
 
@@ -154,7 +154,7 @@ The Commission also received 70 advisory opinion requests in FY 2018–2019 and 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-zero-commission/},
-      note    = {The Closed Loop, Part I; Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-zero-commission}}
+      note    = {The Closed Loop, Part I; Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-zero-commission}}
     }
 
 **APA:**

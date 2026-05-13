@@ -4,14 +4,14 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 15, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-closed-loop/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-Every branch of Hawaii government has built an oversight mechanism controlled by the institution it exists to oversee. The overseer is appointed by the overseen. Proceedings are sealed. Reform legislation dies in committee — killed by the entity it was designed to constrain. The variable changes. The architecture doesn't.
+Hawaii government repeatedly builds oversight mechanisms structurally tied to the institutions they exist to oversee. The overseer is appointed by the overseen. Proceedings are sealed. Reform legislation can die in committees shaped by the entity it was designed to constrain. The variable changes. The architecture recurs.
 
 This series maps the closed loops, branch by branch.
 
@@ -24,7 +24,7 @@ This series maps the closed loops, branch by branch.
 - [The Federal Layer: Warren K.K. Luke and federal institutional overlap](https://gtcode.com/investigation/the-federal-layer/)
 - [The Architecture of Access: federal and PRC-facing series hub](https://gtcode.com/investigation/the-architecture-of-access/)
 - [The Two Questions: federal investigative roadmap in the Wilson M.N. Loo matter](https://gtcode.com/investigation/the-two-questions/)
-- [Hawaii Institutional Capture: systemic governance network analysis](https://gtcode.com/investigation/hawaii-institutional-capture/)
+- [Hawaii Institutional Accountability Failure: systemic governance network analysis](https://gtcode.com/investigation/hawaii-institutional-capture/)
 
 ---
 
@@ -77,7 +77,7 @@ The Attorney General killed a special counsel bill in 2024, testifying that the 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/investigation/the-closed-loop/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-closed-loop}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-closed-loop}}
     }
 
 **APA:**

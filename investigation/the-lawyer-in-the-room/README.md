@@ -4,6 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 10, 2026
+**Last Modified:** May 12, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-lawyer-in-the-room/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -184,6 +185,14 @@ That means the legally relevant question turns on whether the rule was triggered
 
 If the allegations are true, and if no Rule 1.6 confidentiality barrier prevented disclosure, it was.
 
+## What This Article Does Not Prove
+
+This article does not prove that Mr. Petricevic saw the alleged gesture, understood it as judicial signaling, or had knowledge sufficient to trigger Rule 8.3(b). It does not prove that Rule 1.6 permitted disclosure. It states the professional consequence if the alleged gesture occurred, if counsel saw and understood it, and if no confidentiality rule barred an appropriate report.
+
+## What Would Falsify This
+
+Material weakening or falsification of the reporting-duty theory would require sealed-record review showing a materially different audio sequence; court-file review showing absence of the described exhibit or a materially different exhibit; production of a full record showing an uninterrupted attempted record statement; credible, disinterested courtroom testimony establishing absence of the alleged gesture, blocked line of sight for Mr. Petricevic, or lack of contextual understanding; evidence that Rule 1.6 barred any report; or evidence that a timely report to an appropriate authority was made. A self-interested denial by an implicated participant is not dispositive. It carries evidentiary weight only to the extent it is specific, record-consistent, line-of-sight-aware, and independently supported.
+
 ## Why This Is a Public-Accountability Issue
 
 For the public, one attorney’s silence matters because of what it reveals about access to judicial accountability.
@@ -192,7 +201,7 @@ Rule 8.3(b) is supposed to be one of the few mechanisms by which judicial miscon
 
 In that environment, the represented lawyer who saw the event may be the only legally trained witness with professional standing, institutional knowledge, and an independent rule-based duty to act.
 
-If that lawyer remains silent, the system defaults to institutional self-protection. The pro se litigant’s statement is truncated. The audio is sealed. The visual conduct is absent from the transcript. And because judicial-discipline jurisdiction is time-limited after a judge leaves office, delay can close the Commission’s ordinary review path entirely. The record exists, but review becomes procedurally obstructed.
+If that lawyer remains silent, the system can default to institutional self-protection. The pro se litigant’s statement is truncated. The audio is sealed. The visual conduct is absent from the transcript. And because judicial-discipline jurisdiction is time-limited after a judge leaves office, delay can close the Commission’s ordinary review path entirely. The record exists, but review can become procedurally unavailable.
 
 That result is more than an accident of paperwork. It is the accountability failure Rule 8.3(b) is supposed to prevent.
 
@@ -243,7 +252,7 @@ This article states the professional consequence if he saw it.
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/investigation/the-lawyer-in-the-room/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-lawyer-in-the-room}}
+      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-lawyer-in-the-room}}
     }
 
 **APA:**
