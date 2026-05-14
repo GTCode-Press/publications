@@ -35,12 +35,44 @@ A research design note proposing a windowed state-and-transition digest for medi
 
 ---
 
-## Chiral Narrative Synthesis (CNS) Research
+## Grounded Chiral Tensor Synthesis (Current CNS Research)
+
+### Current Research Hub
+
+**[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](https://gtcode.com/guides/cns-gcts/)**
+The current Chiral Narrative Synthesis research line: an access-aware,
+evidence-grounded framework for ranking likely truth across structured possible
+worlds under limited, contradictory, and adversarial evidence.
+
+- **Format**: Web (Markdown)
+- **Date**: May 13, 2026
+- **Topics**: likely-truth ranking, possible worlds, record-access states,
+  oracle-boundary discipline, adversarial evidence, chirality
+
+**Key Sections:**
+
+- [Theory](https://gtcode.com/guides/cns-gcts/theory/)
+- [Architecture](https://gtcode.com/guides/cns-gcts/architecture/)
+- [Oracle Boundary](https://gtcode.com/guides/cns-gcts/oracle-boundary/)
+- [Experiments](https://gtcode.com/guides/cns-gcts/experiments/)
+- [MVP Build](https://gtcode.com/guides/cns-gcts/mvp-build/)
+- [Adversarial Evidence](https://gtcode.com/guides/cns-gcts/adversarial-evidence/)
+
+### Public Introduction
+
+**[Grounded Chiral Tensor Synthesis: Ranking Likely Truth When Evidence Is Missing](https://gtcode.com/articles/grounded-chiral-tensor-synthesis/)**
+A public-facing introduction to why GCTS separates strict proof from likely
+truth, models record access, and emits ranked possible worlds instead of a
+single forced answer.
+
+---
+
+## Chiral Narrative Synthesis 2.0 (Historical Research)
 
 ### Research Proposal
 
 **[Chiral Narrative Synthesis Research Proposal (PDF)](https://gtcode.com/papers/ResearchProposal-ChiralNarrativeSynthesis_20250617_3.pdf)**
-Comprehensive research proposal for the Chiral Narrative Synthesis framework, exploring AI-powered narrative generation with dialectical reasoning.
+Historical research proposal for the CNS 2.0 framework, exploring AI-powered narrative generation with dialectical reasoning.
 
 - **Format**: PDF (224 KB)
 - **Date**: June 17, 2025
@@ -52,6 +84,7 @@ Comprehensive research proposal for the Chiral Narrative Synthesis framework, ex
 Comprehensive guide covering the vision, experimental design, foundational work, and research directions for Chiral Narrative Synthesis 2.0.
 
 **Key Sections:**
+
 - [Vision vs. Experiment](https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/)
 - [Minimum Viable Experiment](https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/)
 - [Anatomy of a Paper](https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/)
@@ -71,16 +104,19 @@ Templates and frameworks for implementing dialectical reasoning in narrative gen
 ## Additional Resources
 
 ### Related Guides
+
 - [Building CNS 2.0: Developer's Guide](https://gtcode.com/guides/building-cns-2.0-developers-guide/)
 - [Dialectic Narrative Generation Research](https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/)
 - [Narrative Structures](https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/)
 
 ### Evaluation & Validation
+
 - [Longitudinal and Cross-Domain Studies](https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/)
 - [Adversarial Robustness and Security](https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/)
 - [Human-AI Collaboration](https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/)
 
 ### Ethical Considerations
+
 - [Bias, Fairness, and Accountability](https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/)
 - [Privacy, Security, and Misuse Prevention](https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/)
 
@@ -88,6 +124,11 @@ Templates and frameworks for implementing dialectical reasoning in narrative gen
 
 ## About This Research
 
-The Chiral Narrative Synthesis (CNS) project explores novel approaches to AI-powered narrative generation through dialectical reasoning frameworks. The research combines theoretical foundations from philosophy, linguistics, and cognitive science with practical implementations using large language models.
+The Chiral Narrative Synthesis (CNS) project explores computational methods for
+reasoning under conflict, uncertainty, and incomplete evidence. The current
+research line is **CNS 7.1 / GCTS**, which shifts from narrative generation
+toward access-aware likely-truth ranking over structured possible worlds. Older
+CNS 2.0 material remains available as prior work on Structured Narrative Objects,
+chirality, evidential entanglement, and dialectical synthesis.
 
 For technical implementation details, see the [CNS repositories](https://gtcode.com/repos/) including `dspex`, `pipeline_ex`, and related Elixir/BEAM packages.

@@ -1,23 +1,24 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: article
-title: 'Harness Engineering: The Discipline of Building Systems That Make AI Agents
-  Work'
+title: 'Harness Engineering: From Agent Prompts to Engineering Control Systems'
 authors:
 - name: GTCode Editorial
-date-released: '2026-03-04'
+date-released: '2026-05-13'
 url: https://gtcode.com/articles/harness-engineering/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering
 license: CC-BY-4.0
-abstract: A deep technical analysis of harness engineering — the emerging discipline
-  of designing constraints, documentation, feedback loops, and lifecycle systems that
-  allow AI coding agents to operate reliably at scale.
+abstract: 'A practical technical synthesis on harness engineering: repository knowledge,
+  executable invariants, runtime evidence, architecture compression, and safety controls
+  for reliable AI coding agents.'
 keywords:
 - Harness Engineering
 - AI Coding Agents
 - AGENTS.md
 - OpenAI Codex
-- Claude Code
 - Software Engineering
 - Agent-First Development
 - Autonomous Development
+- Model Context Protocol
+- Observability
+- Agent Safety

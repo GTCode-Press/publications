@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS Experiments
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-13'
+url: https://gtcode.com/guides/cns-gcts/experiments/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/experiments
+license: CC-BY-4.0
+abstract: The falsifiable experiment plan for latent-context recovery, oracle-less
+  grounding, calibration, chirality, and adversarial record suppression.

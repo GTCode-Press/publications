@@ -2,7 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** February 14, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** May 13, 2026
 **Canonical URL:** https://gtcode.com/policies/corrections-policy/
 **Section:** Policies
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -41,7 +41,7 @@ Send correction requests to [tips@GTCode.com](mailto:tips@gtcode.com) with subje
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/policies/corrections-policy/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/corrections-policy}}
+      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/corrections-policy}}
     }
 
 **APA:**

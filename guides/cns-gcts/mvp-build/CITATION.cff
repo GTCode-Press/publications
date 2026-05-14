@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS MVP Build
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-13'
+url: https://gtcode.com/guides/cns-gcts/mvp-build/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/mvp-build
+license: CC-BY-4.0
+abstract: A practical implementation path for building the first access-aware likely-truth
+  engine without full custom model training.

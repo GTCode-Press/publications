@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS Glossary
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-13'
+url: https://gtcode.com/guides/cns-gcts/glossary/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/glossary
+license: CC-BY-4.0
+abstract: Canonical terms for CNS 7.1 / Grounded Chiral Tensor Synthesis.

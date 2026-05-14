@@ -1,17 +1,21 @@
-# The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com
+# Bing Indexing Diagnostics
 
-> Domain-Level Search-Index Anomaly, Contradictory Diagnostics, and Selective Visibility of an Independent Journalism Site
+> Contradictory webmaster diagnostics, partial visibility, and technical transparency for an independent publisher
 
 **Author:** Ekewaka Lono
 **Published:** February 13, 2026
-**Last Modified:** May 12, 2026
-**Canonical URL:** https://gtcode.com/investigation/the-index-bing-search-suppression/
+**Last Modified:** May 13, 2026
+**Canonical URL:** https://gtcode.com/investigation/bing-indexing-diagnostics/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-Bing's own tools showed gtcode.com as blocked, not discovered, or invisible depending on the page inspected. Public search behavior later shifted but had not normalized: a subsequent `site:gtcode.com` search displayed "About 50 results" while visibly surfacing only one gtcode.com URL on the captured first page, a non-investigative technical article. The investigation corpus remained absent from the visible first-page result set reviewed from the screenshot.
+Bing's own tools reported inconsistent states for gtcode.com depending on the page inspected: blocked, not discovered, invisible in public search, or indexed successfully. Public search behavior later shifted while remaining incomplete: a subsequent `site:gtcode.com` search displayed "About 50 results" while visibly surfacing only one gtcode.com URL on the captured first page, a non-investigative technical article. The investigation corpus remained absent from the visible first-page result set reviewed from the screenshot.
+
+This article documents Bing Webmaster diagnostic contradictions. Ordinary technical explanations are considered first: crawler scheduling, stale diagnostics, site-scan bugs, CDN/crawler mismatch, canonicalization, transient HTTP behavior, quality classifiers, policy systems, duplicate handling, index freshness, and public-result rendering differences. The exhibits narrow some of those explanations. The current evidence does not identify any human actor inside or outside Microsoft.
+
+Record posture: the current evidence shows contradictory diagnostics and selective public-search behavior. Actor identity, complaint source, policy trigger, intent, and content causation require Bing records, crawler logs, policy notices, support responses, or other technical evidence.
 
 On February 12, 2026, a routine check of Bing Webmaster Tools and public search showed that `gtcode.com` — this site — returned zero visible public results on Microsoft's search engine. Not low-ranked. Not deprioritized. *Zero.*
 
@@ -33,19 +37,19 @@ The domain has published investigative journalism and open-source software docum
 
 ## Exhibit B: The Investigation Page
 
-URL Inspection of the most recent investigation — "[The Nod: Wilson Loo and the Silent-Felony Allegation](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)" — returns **"Not discovered."**
+URL Inspection of the most recent investigation — "[The Nod: Visual Allegation, Audio Sequence, and Review Gap](https://gtcode.com/investigation/the-nod-visual-allegation-audio-sequence/)" — returns **"Not discovered."**
 
-![Bing URL Inspection showing "Not discovered" for Wilson Loo investigation](https://gtcode.com/img/bing-block-wilson-loo-not-discovered.webp)
+![Bing URL Inspection showing "Not discovered" for The Nod investigation page](https://gtcode.com/img/bing-block-wilson-loo-not-discovered.webp)
 
 *"URL cannot appear on Bing. The inspected URL is not known to Bing."*
 
-This could be explained away: new page, not crawled yet. But the later exhibits show a broader domain-level anomaly. The "Request indexing" button exists, but the question is why a site with a valid sitemap and no crawl barriers requires manual page-by-page submission while other URLs on the same domain show blocked or contradictory statuses.
+The narrow explanation is straightforward: a new page awaiting crawl. Later exhibits show a broader site-level diagnostic anomaly. The "Request indexing" button exists, but the question is why a site with a valid sitemap and no crawl barriers requires manual page-by-page submission while other URLs on the same domain show blocked or contradictory statuses.
 
 ---
 
 ## Exhibit C: The Control Case
 
-This is the exhibit that first indicated a domain-level condition rather than a page-content condition.
+This is the exhibit that first indicated the diagnostic pattern was not limited to one article.
 
 URL Inspection of `gtcode.com/repos/agent_session_manager/` — an open-source Elixir software package page — returns **"Blocked."**
 
@@ -66,32 +70,25 @@ And yet: **"Blocked."**
 
 Note the distinction. Exhibit B says "Not discovered" — Bing claims it hasn't seen the page. Exhibit C says the URL **"is known to Bing"**. Bing's tools reported it as blocked after discovery. An open-source software page was crawled, reviewed, and blocked.
 
-The only thing connecting this Elixir package page to the Wilson Loo investigations is the domain name.
+The shared attribute is the domain name. No Hawaii accountability claim depends on this Bing article.
 
 ---
 
-## The Pattern
+## Technical Pattern
 
-The effect resembles the pattern documented in [The Zone of Politeness](https://gtcode.com/investigation/zone-of-politeness-hawaii-media-blackout/), applied to a different institution:
+The process question here is technical: what mechanism reduced public visibility, what ordinary explanation applies, and what record would test the cause?
 
-| System | Mechanism | Result |
-|--------|-----------|--------|
-| **Civil Beat** | Donor relationships, board overlaps | Structural friction around Luke-Loo reporting |
-| **Judicial Conduct Commission** | 90-day jurisdictional loophole | Investigation evaded via resignation |
-| **HPD** | Selective non-investigation | Reports filed, never acted upon |
-| **Bing** | Domain-level blocking, contradictory diagnostics, selective public visibility | One non-investigative technical article visible; investigation corpus absent from captured `site:` results |
-
-The inference is narrower than motive. Structural mechanisms can produce suppression effects without explicit coordination. The Bing exhibits document a search-index anomaly with selective visibility while leaving cause and motive open.
+The exhibits document site-level and page-level diagnostic contradictions inside Bing's own webmaster tools. Any explanation involving a policy system, third-party report, technical bug, or intent would require Bing support responses, policy notices, crawl logs, server logs, Lumen entries, reproducible crawler audits, or subsequent public-search behavior.
 
 ---
 
 ## What The Evidence Leaves Open
 
-The evidence leaves personal intervention by Microsoft executives unresolved.
+The current evidence does not identify any human actor inside or outside Microsoft.
 
-Search engines accept third-party content complaints. Reputation management firms file these complaints professionally and at scale. A domain-level complaint — filed by an attorney, a PR firm, or a "concerned party" — can trigger automated review processes that result in suppression. That mechanism remains possible; these exhibits establish the anomaly while leaving complaint history and policy trigger unresolved.
+Search engines use automated policy and quality systems, crawler queues, site diagnostics, and complaint-review channels. Any of those mechanisms could explain reduced or uneven visibility. So could benign or internal explanations: stale diagnostic state, policy classifiers, quality systems, false-positive malware or spam filters, unsupported status propagation, and public-search rendering differences. These exhibits establish the anomaly while leaving complaint history, policy trigger, technical bug, and actor identity unresolved.
 
-The open questions are complaint history, policy trigger, technical explanation, or another domain-level filter.
+The open questions are complaint history, policy trigger, technical explanation, or another site-level diagnostic or policy state.
 
 ---
 
@@ -99,13 +96,13 @@ The open questions are complaint history, policy trigger, technical explanation,
 
 1. **Has a third-party content removal request been filed against gtcode.com?** Bing Webmaster Tools withholds this information from site owners.
 
-2. **Does the Lumen Database contain any takedown requests targeting this domain?** *(Under investigation.)*
+2. **Does the Lumen Database contain any takedown requests affecting this domain?** *(Under investigation.)*
 
-3. **Are the same pages indexed on Google, DuckDuckGo, and other search engines?** If the same Elixir package page indexes everywhere except Bing, the suppression vector is Bing-specific.
+3. **Are the same pages indexed on Google, DuckDuckGo, and other search engines?** If the same Elixir package page indexes everywhere except Bing, the visibility anomaly is Bing-specific.
 
 4. **What is the specific "issue" preventing the agent_session_manager page from being served?** Bing's error message is vague. A software documentation page with no investigative content is a strong control case.
 
-5. **When did the suppression begin relative to the publication dates of the Wilson Loo investigations?** Timeline correlation would support or weaken the hypothesis that the suppression is responsive to specific publications, but correlation alone would not prove motive.
+5. **When did the visibility problem begin relative to publication dates and site changes?** Timeline comparison can screen ordinary technical explanations against the observed public-search change. Any actor-specific explanation would require actor-specific evidence.
 
 ---
 
@@ -119,9 +116,9 @@ The initial exhibits are screenshots from Microsoft's own Bing Webmaster Tools a
 2. Investigation pages are "Not discovered"
 3. Bing's tools reported an open-source software page as known to Bing and unable to be served to users
 
-The screenshots are the primary sources. The later May 12 screenshot materially updates the public-search condition from total public invisibility to selective visibility.
+The screenshots are the primary sources. The later May 12 screenshot materially updates the public-search condition from total public invisibility to partial visibility.
 
-This article documents Bing's treatment of gtcode.com as reflected in Bing Webmaster Tools and search results. Cause and motive remain open. The relationship between the suppression and the site's Wilson Loo reporting is an investigative hypothesis based on timing, domain-level effect, selective public visibility, and lack of a reproducible technical explanation.
+This article documents Bing's treatment of gtcode.com as reflected in Bing Webmaster Tools and search results. Cause remains unresolved. The current record establishes a visibility anomaly and unresolved diagnostic contradictions. Causation by any specific article, person, complaint, or policy trigger requires additional technical or platform records.
 
 ---
 
@@ -129,7 +126,7 @@ This article documents Bing's treatment of gtcode.com as reflected in Bing Webma
 
 ### Exhibit D: "Not Discovered" Becomes "Blocked"
 
-Three days after this article was published, the same investigation page from Exhibit B — "[The Nod: Wilson Loo and the Silent-Felony Allegation](https://gtcode.com/investigation/the-nod-wilson-loo-silent-felony/)" — was re-inspected using Bing Webmaster Tools.
+Three days after this article was published, the same investigation page from Exhibit B — "[The Nod: Visual Allegation, Audio Sequence, and Review Gap](https://gtcode.com/investigation/the-nod-visual-allegation-audio-sequence/)" — was re-inspected using Bing Webmaster Tools.
 
 The status has changed.
 
@@ -175,7 +172,7 @@ A URL Inspection was then run on the homepage itself — the same URL the Site S
 
 ![Bing URL Inspection showing "Discovered but not crawled" and "URL cannot appear on Bing" for gtcode.com homepage, February 18, 2026](https://gtcode.com/img/bing-block-homepage-not-crawled-20260218.webp)
 
-The result: **"Discovered but not crawled. URL cannot appear on Bing."** The crawl section states: *"The inspected URL is known to Bing but has some issues which are preventing indexation."* No specifics. No actionable explanation. Just a vague advisory to "follow Bing Webmaster Guidelines."
+The result: **"Discovered but not crawled. URL cannot appear on Bing."** The crawl section states: *"The inspected URL is known to Bing but has some issues which are preventing indexation."* The tool supplied a vague advisory to "follow Bing Webmaster Guidelines" without a specific actionable explanation.
 
 But the most revealing detail is the discovery date: **14 November 2017**. Bing has known about this URL for over eight years. It was discovered, and then — according to Bing's own tools — never crawled. Not once in eight years. For a homepage. On a domain with a valid sitemap, a permissive robots.txt, and content that loads for every other crawler on the internet.
 
@@ -194,7 +191,7 @@ Compare this to the other URL Inspections documented in this investigation:
 | Page | Content | Bing Status |
 |------|---------|-------------|
 | `/` | Homepage | **Discovered but not crawled** |
-| `/investigation/the-nod-wilson-loo-silent-felony/` | Judicial corruption investigation | **Blocked** |
+| `/investigation/the-nod-visual-allegation-audio-sequence/` | Judicial-accountability investigation | **Blocked** |
 | `/repos/agent_session_manager/` | Open-source Elixir software docs | **Blocked** |
 | `/consulting/` | Services page | **Indexed successfully** |
 
@@ -215,13 +212,13 @@ There is a second domain on the identical infrastructure stack: `nshkr.com`. Sam
 
 `nshkr.com` is a personal site with no investigative journalism, judicial-accountability reporting, or mentions of any judge, court, or institution.
 
-`nshkr.com` loads normally in Bing, generates no phantom 4xx errors, and shows no suppression pattern.
+`nshkr.com` loads normally in Bing, generates no phantom 4xx errors, and shows no comparable visibility anomaly.
 
-A material difference relevant to this investigation is that `gtcode.com` publishes investigations into Judge Wilson M.N. Loo and the institutional networks surrounding him. That fact supports a timing-and-context hypothesis while leaving motive open.
+One reason this anomaly was reviewed is that `gtcode.com` publishes public-interest investigation pages. That context explains the review priority. Content causation remains unresolved.
 
 ### What This Exhibit Eliminates
 
-Exhibits A through D established what Bing's tools were reporting in February: a domain-level condition that caught both investigative journalism and unrelated open-source software pages. Exhibit E addresses the *how* — and eliminates the most charitable technical explanations:
+Exhibits A through D established what Bing's tools were reporting in February: a site-level diagnostic pattern that caught both investigative journalism and unrelated open-source software pages. Exhibit E addresses the *how* — and eliminates several ordinary technical explanations:
 
 - **"The site has a technical problem"** — HTTP 200 across all tests. One page is even marked "Indexed successfully."
 - **"Cloudflare is blocking Bing's crawler"** — The control domain on the same Cloudflare configuration loads normally.
@@ -230,9 +227,9 @@ Exhibits A through D established what Bing's tools were reporting in February: a
 - **"The site is too new to be indexed"** — The site has been publishing since 2025, has a valid sitemap, and explicitly welcomes all crawlers in its robots.txt. Bing itself confirms at least one page is indexed.
 - **"Individual pages have content problems"** — An open-source software documentation page with zero controversial content is blocked. A consulting page with no investigative content is "Indexed successfully" while remaining absent from public site-search on February 18. Page content fails as a complete explanation for the blocking pattern.
 
-What remains after elimination: Bing's infrastructure generated phantom errors, reported blocked statuses on selected pages, and overrode its own "Indexed successfully" status — all on a single domain, while an identical-stack domain operated normally. The diagnostic tools designed to help webmasters understand and fix problems produced contradictory outputs that obscured what was actually happening.
+What remains after elimination: Bing's infrastructure generated phantom errors, reported blocked statuses on selected pages, and overrode its own "Indexed successfully" status — all on a single domain, while an identical-stack domain operated normally. The diagnostic tools designed to help webmasters understand and fix problems produced contradictory outputs that created practical opacity.
 
-The tools that are supposed to provide transparency are participating in the opacity.
+The practical effect was opacity from tools designed to provide transparency.
 
 That sentence describes the practical effect of the diagnostic contradictions while leaving intent by Microsoft, Bing personnel, or any outside complainant unresolved.
 
@@ -252,9 +249,9 @@ The visible URL points to a technical article about harness engineering, outside
 
 *Exhibit F: Bing public search for `site:gtcode.com`, showing "About 50 results" but visibly surfacing only one gtcode.com result on the captured first page, the non-investigative technical article `/articles/harness-engineering/`.*
 
-This materially updates the evidence. The original February 12 result documented total public invisibility at that time. The later result shows partial visibility: at least one non-investigative page surfaced, while the captured visible first-page results still centered on a single technical article and excluded the investigation corpus. That pattern falls short of ordinary site indexing.
+This materially updates the evidence. The original February 12 result documented total public invisibility at that time. The later result shows partial visibility: at least one non-investigative page surfaced, while the captured visible first-page results still centered on a single technical article and excluded the investigation corpus. That pattern requires a technical explanation.
 
-The updated pattern therefore shifts from simple disappearance to selective visibility:
+The updated pattern shifts from simple disappearance to partial visibility:
 
 1. Bing previously returned zero visible results for `site:gtcode.com`.
 2. Bing Webmaster Tools reported contradictory states across the same domain: "Not discovered," "Blocked," "Discovered but not crawled," and "Indexed successfully."
@@ -263,19 +260,30 @@ The updated pattern therefore shifts from simple disappearance to selective visi
 5. The visible page was a non-investigative technical article.
 6. The captured public first-page result set excluded the investigation pages.
 
-This leaves a narrowed suppression thesis: why can a technical article appear while the investigation corpus remains non-visible, and why does Bing report a larger result count than the visible result set reflects?
+This leaves a narrowed diagnostics issue: a technical article can appear while the investigation corpus remains non-visible, and Bing can report a larger result count than the visible result set reflects. The records needed to evaluate that gap are crawler logs, index-status histories, policy notices, support responses, and reproducible control queries.
 
 ---
 
 ## What The Evidence Leaves Open
 
-The evidence establishes a search-index anomaly while leaving actor and motive unresolved. The record leaves unresolved whether Microsoft executives intervened, whether any named person filed a complaint, and whether the Wilson Loo reporting caused the block. The May 12 update narrows the domain-wide claim: at least one non-investigative technical article surfaced. The unresolved issue is why the public result set remains selectively visible and why the captured first-page `site:` results exclude the investigation corpus despite Bing's reported result count and prior Webmaster Tools diagnostics.
+The evidence establishes a search-index diagnostics problem while leaving cause unresolved. The current record identifies no human actor. It leaves unresolved whether the cause was a third-party complaint, a policy system, a technical bug, a stale diagnostic state, or some combination of those factors. The May 12 update narrows the domain-wide claim: at least one non-investigative technical article surfaced. The unresolved issue is why the public result set remains selectively visible and why the captured first-page `site:` results exclude the investigation corpus despite Bing's reported result count and prior Webmaster Tools diagnostics.
+
+## What Would Resolve This
+
+The fastest way to resolve the diagnostics issue would be one of the following:
+
+- a Bing support response identifying the diagnostic or policy basis;
+- crawl logs showing whether Bingbot received a reproducible server-side error;
+- a policy notice, URL-removal notice, or webmaster action message;
+- a Lumen record or other public removal-request record;
+- a reproducible third-party crawl audit showing the same problem outside Bing;
+- a subsequent ordinary `site:gtcode.com` result set showing navigable coverage of the domain, including investigation pages.
 
 ## What Would Falsify This
 
-The suppression thesis would be materially narrowed or falsified if Bing begins returning ordinary, navigable `site:gtcode.com` results across the domain, including investigation pages; if Bing provides a documented technical explanation that reproduces externally; if a robots, CDN, sitemap, hosting, canonicalization, or structured-data error is identified and corrected; if a reconsideration response explains a neutral policy basis; or if server logs show Bingbot was blocked by site infrastructure.
+The anomaly thesis would be materially narrowed or falsified if Bing begins returning ordinary, navigable `site:gtcode.com` results across the domain, including investigation pages; if Bing provides a documented technical explanation that reproduces externally; if a robots, CDN, sitemap, hosting, canonicalization, or structured-data error is identified and corrected; if a reconsideration response explains a neutral policy basis; or if server logs show Bingbot was blocked by site infrastructure.
 
-The May 12 result narrows the thesis without resolving it: the captured first-page result set shows only one visible non-investigative URL, leaving selective visibility / partial leakage through a still-unresolved indexing anomaly as the current claim.
+The May 12 result narrows the thesis without resolving it: the captured first-page result set shows only one visible non-investigative URL, leaving partial visibility through a still-unresolved indexing anomaly as the current claim.
 
 ---
 
@@ -286,13 +294,13 @@ This page will be updated as additional evidence is gathered. Specifically:
 - Cross-engine comparison (Google, DuckDuckGo, Brave, Yandex)
 - Lumen Database search for takedown requests
 - Bing reconsideration request and its outcome
-- Timeline correlation between publication dates and suppression events
+- Timeline comparison between publication dates, site changes, and visibility changes
 - Search `site:gtcode.com/investigation/`
 - Search exact URLs for major investigation pages
 - Compare Bing visibility of `/articles/`, `/repos/`, and `/investigation/`
 - Search exact title strings for investigation pages
 - Search exact URL strings
-- Re-run URL Inspection in Bing Webmaster Tools for the homepage, `/articles/harness-engineering/`, `/investigation/the-nod-wilson-loo-silent-felony/`, `/investigation/open-letter-bosko-petricevic/`, and `/investigation/the-index-bing-search-suppression/`
+- Re-run URL Inspection in Bing Webmaster Tools for the homepage, `/articles/harness-engineering/`, `/investigation/the-nod-visual-allegation-audio-sequence/`, `/investigation/open-letter-bosko-petricevic/`, and `/investigation/bing-indexing-diagnostics/`
 - Capture whether Webmaster Tools reports "Indexed successfully," "Blocked," "Discovered but not crawled," or other statuses for the investigation pages after the public search change
 - Any response from Microsoft
 
@@ -308,18 +316,18 @@ The record is now public.
 
 **BibTeX:**
 
-    @article{lono2026indexbingsearch,
+    @article{lono2026bingindexingdiagnostics,
       author  = {Lono, Ekewaka},
-      title   = {The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com},
+      title   = {Bing Indexing Diagnostics},
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = feb,
-      url     = {https://gtcode.com/investigation/the-index-bing-search-suppression/},
-      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression}}
+      url     = {https://gtcode.com/investigation/bing-indexing-diagnostics/},
+      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/bing-indexing-diagnostics}}
     }
 
 **APA:**
-Lono, E. (2026, February 13). The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com. *GTCode.com Investigations*. https://gtcode.com/investigation/the-index-bing-search-suppression/ (Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression)
+Lono, E. (2026, February 13). Bing Indexing Diagnostics. *GTCode.com Investigations*. https://gtcode.com/investigation/bing-indexing-diagnostics/ (Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/bing-indexing-diagnostics)
 
 **Chicago:**
-Ekewaka Lono. "The Index: Bing Webmaster Tools Show a Domain-Level Search-Index Anomaly on gtcode.com." *GTCode.com Investigations*, February 13, 2026. https://gtcode.com/investigation/the-index-bing-search-suppression/. Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/the-index-bing-search-suppression.
+Ekewaka Lono. "Bing Indexing Diagnostics." *GTCode.com Investigations*, February 13, 2026. https://gtcode.com/investigation/bing-indexing-diagnostics/. Archived at https://github.com/GTCode-Press/publications/tree/main/investigation/bing-indexing-diagnostics.

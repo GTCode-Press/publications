@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Author''s Chronology: How I Got Here'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-05-13'
+url: https://gtcode.com/investigation/authors-chronology-how-i-got-here/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/authors-chronology-how-i-got-here
+license: CC-BY-4.0
+abstract: A controlled first-person chronology separating documented facts, firsthand
+  accounts, sealed-record-dependent claims, context, and interpretation behind the
+  Oahu Underground investigations.
+keywords:
+- Author Chronology
+- Firsthand Account
+- Evidence Standards
+- Hawaii
+- Institutional Accountability

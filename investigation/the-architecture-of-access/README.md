@@ -1,33 +1,45 @@
 # The Architecture of Access
 
-> Series hub for dimension-by-dimension mapping of one network's institutional reach
+> Series hub for public-record review surfaces across domestic federal, PRC-facing, and financial-disclosure contexts
 
 **Author:** Ekewaka Lono
 **Published:** March 1, 2026
-**Last Modified:** May 12, 2026
+**Last Modified:** May 13, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-architecture-of-access/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-This series maps one institutional network dimension by dimension: first through domestic federal oversight structures, then through international and PRC-facing engagement surfaces, then through funding pathways and financial disclosure — all documented in the public record.
+**Pacific OSINT & Security Analysis:** This series maps public-record security, access, and disclosure surfaces. It does not supply evidence for the Wilson Loo courtroom allegation, HPD non-response, the Hartmann threat, or any claim in the author's chronology.
+
+This series maps public-record review surfaces dimension by dimension: first through domestic federal governance proximity, then through international and PRC-facing engagement surfaces, then through funding pathways and financial disclosure — all documented in the public record.
+
+## Editorial Method — May 13, 2026
+
+This hub follows the same procedural-minimalist standard as the rest of the investigation archive. It maps public records, access points, disclosure surfaces, and safeguarding questions. This portfolio does not explain the Wilson Loo allegation. It asks what public relationships exist and what safeguards are visible.
+
+Its method is access mapping: adjacency raises safeguarding questions, influence requires evidence of effect, control requires evidence of authority, and misconduct requires evidence of wrongful conduct. The ordinary explanation for most relationships here is civic, educational, diplomatic, philanthropic, or professional engagement. The residual question is whether the public record shows safeguards proportionate to the sensitivity of the access.
+
+Access mapping asks what relationships exist and what safeguards are visible. It does not convert relationship, donor, board, or school overlap into proof of control, misconduct, federal inaction motive, or coordination.
 
 ## Thesis
 
-The Architecture of Access tracks cumulative institutional reach rather than isolated affiliations. The core question is structural: when one network spans multiple governance environments, where do oversight friction points and safeguarding requirements appear?
+The Architecture of Access tracks three separate public-record surfaces: domestic federal governance proximity, PRC-facing or international access mapping, and funding or disclosure surfaces. The structural issue is where oversight friction points and safeguarding requirements appear in each environment.
+
+Subsequent public reporting on the $35,000 paper-bag matter is treated as an external method check for public-record topology, not proof of coordination.
 
 ## Methodology
 
 This is a public-record series. It relies on attributable documents, institutional records, filings, and archived source material.
 
-Where source material characterizes an organization as linked to a party-state, military, or intelligence structure, this series attributes that characterization to the named source. It does not treat institutional relationship mapping alone as proof of direction, control, tasking, espionage, criminal conduct, or wrongdoing. Safeguards may exist outside the public record.
+Where source material characterizes an organization as linked to a party-state, military, or intelligence structure, this series attributes that characterization to the named source. Institutional relationship mapping identifies access points and safeguarding questions. Direction, control, tasking, espionage, criminal conduct, or wrongdoing require evidence beyond relationship mapping. Safeguards may exist outside the public record.
 
 ## Published Parts
 
 | Part | Title | Focus | Published | Link |
 |---|---|---|---|---|
-| Part I | The Federal Layer | Domestic federal | February 28, 2026 | [Read Part I](https://gtcode.com/investigation/the-federal-layer/) |
+| Part I | Federal Triage and Governance Proximity | Domestic federal | February 28, 2026 | [Read Part I](https://gtcode.com/investigation/the-federal-layer/) |
 | Part II | The Bridges | International / PRC-facing | March 1, 2026 | [Read Part II](https://gtcode.com/investigation/the-bridges/) |
 | Part III | The Ledger | Funding pathways and disclosure surfaces | March 3, 2026 | [Read Part III](https://gtcode.com/investigation/the-ledger/) |
 
@@ -36,10 +48,12 @@ Where source material characterizes an organization as linked to a party-state, 
 - Part IV (proposed): **The Roster** — governance overlap and appointment chains.
 - Part V (proposed): **The Gap** — safeguarding expectations versus public-record evidence.
 
-## Related Investigations
+## Records That Would Clarify the Series
 
-- [The Closed Loop: oversight and self-investigation series hub](https://gtcode.com/investigation/the-closed-loop/)
-- [The Two Questions: federal investigative roadmap](https://gtcode.com/investigation/the-two-questions/)
+This hub would be narrowed by conflict-screening records, recusal logs, board minutes, donor explanations, due-diligence files, MOU terms, grant conditions, and written safeguard policies for the institutional relationships mapped in the series. Those records would test access and safeguard questions without treating relationship mapping as proof of influence, control, or wrongdoing.
+
+## Related Navigation
+
 - [Investigations index](https://gtcode.com/investigation/)
 
 ---
@@ -59,7 +73,7 @@ Where source material characterizes an organization as linked to a party-state, 
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-architecture-of-access/},
-      note    = {Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-architecture-of-access}}
+      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-architecture-of-access}}
     }
 
 **APA:**

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: article
-title: The Shape of the Cage
+title: Mechanisms of Review Failure
 authors:
 - family-names: Lono
   given-names: Ekewaka
@@ -9,17 +9,15 @@ date-released: '2026-02-24'
 url: https://gtcode.com/investigation/the-shape-of-the-cage/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/the-shape-of-the-cage
 license: CC-BY-4.0
-abstract: A structural analysis of how networked coercion can make accountability
-  harder without central coordination — mapping a seven-layer accountability-failure
-  framework drawn from documented systems and historical cases.
+abstract: A cautious mechanism library for evaluating review failures after primary
+  records are assembled, with attention to sealed records, complaint routing, written
+  dispositions, and oversight closure.
 keywords:
-- Networked Coercion
-- Zersetzung
-- COINTELPRO
+- Review Failure
 - Sealed Records
-- Reputational Poisoning
+- Complaint Routing
+- Sealed Records
+- Restricted-Channel Stigma
 - Oversight Failure
-- Surveillance
 - Structural Analysis
-- Institutional Capture
 - Hawaii

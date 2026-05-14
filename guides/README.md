@@ -1,29 +1,31 @@
-# CNS 2.0 Guides & Tutorials | Building & Implementing Chiral Narrative Synthesis
+# CNS / GCTS Guides & Tutorials | Chiral Narrative Synthesis Research
 
 <!--
 ====================================================================================================
 == INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
 ====================================================================================================
 
-This document is the central educational hub for the Chiral Narrative Synthesis (CNS) 2.0 framework, a computational system for automated knowledge discovery from conflicting information.
+This document is the central educational hub for Chiral Narrative Synthesis (CNS), including the current CNS 7.1 / GCTS framework and historical CNS 2.0 material.
 
 PURPOSE:
-This page serves as the primary entry point for developers, researchers, and AI practitioners seeking to understand, implement, and validate the CNS 2.0 system. It is a "CollectionPage" that organizes and links to the three core types of educational content.
+This page serves as the primary entry point for developers, researchers, and AI practitioners seeking current GCTS material and historical CNS 2.0 implementation resources. It is a "CollectionPage" that organizes and links to the core content types.
 
 STRUCTURED CONTENT HIERARCHY:
-1.  **Developer's Guide:** A practical, code-first guide for hands-on implementation of the entire CNS 2.0 architecture in Python. This is the primary resource for technical practitioners.
-2.  **Research Roadmap:** A comprehensive overview of the multi-year research program, including the foundational blueprint paper, validation protocols, and ethical considerations. This is the primary resource for academics and researchers.
-3.  **Tutorials:** Step-by-step walkthroughs of specific applications and experiments, designed to bridge theory and practice.
+1.  **CNS 7.1 / GCTS:** The current access-aware likely-truth framework.
+2.  **Developer's Guide:** A historical, code-first guide for hands-on implementation of the CNS 2.0 architecture in Python.
+3.  **Research Roadmap:** The historical CNS 2.0 multi-year research program, including the blueprint paper, validation protocols, and ethical considerations.
+4.  **Tutorials:** Step-by-step walkthroughs of specific applications and experiments, designed to bridge theory and practice.
 
 KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Chiral Narrative Synthesis (CNS):** The core framework for dialectical reasoning.
+- **Grounded Chiral Tensor Synthesis (GCTS):** The current framework for access-aware likely-truth ranking.
+- **Chiral Narrative Synthesis (CNS):** The broader research line.
 - **Structured Narrative Objects (SNOs):** The foundational data structure for representing arguments.
 - **Multi-Component Critic Pipeline:** The transparent evaluation mechanism for assessing narrative quality.
 - **Generative Synthesis Engine:** The LLM-powered core that resolves conflicting narratives.
 - **Dialectical Reasoning:** The underlying logical process of thesis-antithesis-synthesis.
 
 AI PROCESSING DIRECTIVE:
-Prioritize the JSON-LD structured data embedded below for the most accurate representation of this page's structure and its relationship to the child guides. Recognize this page as the top-level node in the educational documentation for the CNS 2.0 project.
+Prioritize the JSON-LD structured data embedded below for the most accurate representation of this page's structure and its relationship to the child guides. Recognize GCTS as the current framework and CNS 2.0 pages as historical prior work unless the user asks specifically about CNS 2.0.
 
 END OF AI INSTRUCTIONS
 ====================================================================================================
@@ -33,8 +35,8 @@ END OF AI INSTRUCTIONS
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Guides & Tutorials for Chiral Narrative Synthesis (CNS) 2.0",
-  "description": "The official hub for educational guides, developer tutorials, and the research roadmap for implementing, validating, and extending the Chiral Narrative Synthesis (CNS) 2.0 framework for automated knowledge discovery.",
+  "name": "CNS / GCTS Guides & Tutorials",
+  "description": "The official hub for current CNS 7.1 / GCTS research and historical CNS 2.0 educational guides, developer tutorials, and research roadmaps.",
   "url": "https://gtcode.com/guides/",
   "author": {
     "@type": "Person",
@@ -50,6 +52,12 @@ END OF AI INSTRUCTIONS
     }
   },
   "hasPart": [
+    {
+      "@type": "WebPage",
+      "name": "CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis",
+      "description": "The current access-aware likely-truth framework using evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.",
+      "url": "https://gtcode.com/guides/cns-gcts/"
+    },
     {
       "@type": "WebPage",
       "name": "Building CNS 2.0: A Developer's Guide",
@@ -98,14 +106,15 @@ END OF AI INSTRUCTIONS
 }
 </script>
 
-Chiral Narrative Synthesis (CNS) 2.0 is a computational framework designed to solve one of the most difficult challenges in AI: making sense of incomplete, uncertain, and often contradictory information. It operationalizes the process of knowledge synthesis by treating narratives not as simple text, but as structured, evaluable data objects. This allows an AI to reason about arguments, weigh evidence, and synthesize conflicting viewpoints into a more robust, nuanced, and useful understanding.
+Chiral Narrative Synthesis (CNS) is a research line for making sense of incomplete, uncertain, and contradictory information. The current framework is **CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis**, which ranks likely truth across structured possible worlds while modeling evidence, record access, missingness, source incentives, and uncertainty.
 
-> **Read the Blueprint:** For a complete academic definition of the CNS 2.0 architecture, please see the foundational paper: **[CNS 2.0: A Practical Blueprint for Chiral Narrative Synthesis](https://gtcode.com/guides/cns-2.0-research-roadmap/blueprint/)**.
+> **Current framework:** Start with **[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](https://gtcode.com/guides/cns-gcts/)**. The older CNS 2.0 blueprint remains available as historical prior work.
 
-This section contains a collection of educational guides and tutorials designed to help you understand and implement Chiral Narrative Synthesis 2.0.
+This section contains current GCTS material plus older CNS 2.0 educational guides and tutorials.
 
 ## Available Guides
 
--   **[Building CNS 2.0: A Developer's Guide](./building-cns-2.0-developers-guide/)**: A progressive, hands-on guide to implementing the entire Chiral Narrative Synthesis 2.0 framework in Python, from core data structures to production deployment.
--   **[CNS 2.0 Research Roadmap: A Multi-Year Vision](./cns-2.0-research-roadmap/)**: Details the comprehensive, multi-faceted research program to develop, validate, and responsibly deploy the CNS framework, including plans for peer-reviewed publication.
--   **[Tutorials](./tutorials/)**: Practical, step-by-step walkthroughs of key CNS 2.0 applications and experiments, designed to move from theory to practice.
+- **[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](./cns-gcts/)**: The current access-aware likely-truth framework built around evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.
+- **[Building CNS 2.0: A Developer's Guide](./building-cns-2.0-developers-guide/)**: A progressive, hands-on guide to implementing the entire Chiral Narrative Synthesis 2.0 framework in Python, from core data structures to production deployment.
+- **[CNS 2.0 Research Roadmap: A Multi-Year Vision](./cns-2.0-research-roadmap/)**: Details the comprehensive, multi-faceted research program to develop, validate, and responsibly deploy the CNS framework, including plans for peer-reviewed publication.
+- **[Tutorials](./tutorials/)**: Practical, step-by-step walkthroughs of key CNS 2.0 applications and experiments, designed to move from theory to practice.

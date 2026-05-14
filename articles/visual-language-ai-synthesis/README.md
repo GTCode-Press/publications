@@ -4,7 +4,7 @@
 
 **Author:** GTCode Editorial
 **Published:** November 28, 2025
-**Last Modified:** February 27, 2026
+**Last Modified:** May 13, 2026
 **Canonical URL:** https://gtcode.com/articles/visual-language-ai-synthesis/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -224,7 +224,7 @@ These are speculations, not specifications. But speculation is where frameworks 
       year    = {2025},
       month   = nov,
       url     = {https://gtcode.com/articles/visual-language-ai-synthesis/},
-      note    = {Last modified 2026-02-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis}}
+      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis}}
     }
 
 **APA:**

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: article
-title: 'A Case Study in Systemic Protection: Institutional Decay in Hawaii'
+title: 'Hawaii Accountability Gaps: A Case Study'
 authors:
 - family-names: Lono
   given-names: Ekewaka
@@ -9,9 +9,9 @@ date-released: '2025-08-13'
 url: https://gtcode.com/investigation/hawaii-institutional-capture/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/investigation/hawaii-institutional-capture
 license: CC-BY-4.0
-abstract: Multi-decade case study showing how legal, law-enforcement, and corporate
-  actors can reinforce one another, creating conditions in which accountability becomes
-  less likely.
+abstract: A case study showing how legal, law-enforcement, and oversight processes
+  can create review gaps through ordinary institutional incentives, record limits,
+  and discretionary choke points.
 keywords:
 - Institutional Accountability
 - Hawaii

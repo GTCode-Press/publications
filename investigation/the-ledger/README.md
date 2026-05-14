@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 4, 2026
-**Last Modified:** May 12, 2026
+**Last Modified:** May 13, 2026
 **Canonical URL:** https://gtcode.com/investigation/the-ledger/
 **Section:** Investigations
 **Series:** The Architecture of Access — Part III
@@ -12,17 +12,20 @@
 
 ---
 
+**Pacific OSINT & Security Analysis:** This article is a public-record compliance and disclosure review. It is not evidence for the Wilson Loo allegations, HPD non-response, the Hartmann threat, or any claim in the author's chronology.
+
 *By Ekewaka Lono | Oahu Underground*
 
-*Third in a series. ["The Federal Layer"](https://gtcode.com/investigation/the-federal-layer/) mapped domestic federal positions. ["The Bridges"](https://gtcode.com/investigation/the-bridges/) mapped PRC-facing institutional relationships. This article examines the financial record and disclosure surfaces.*
+*Third in a separate access-and-safeguards portfolio. [Federal Triage and Governance Proximity](https://gtcode.com/investigation/the-federal-layer/) mapped domestic governance proximity. [The Bridges](https://gtcode.com/investigation/the-bridges/) mapped PRC-facing institutional relationships. This article examines the financial record and disclosure surfaces. It is a Form 990 compliance and disclosure review, with independent logic from the author's chronology and the Wilson Loo allegation.*
+
+*Access mapping asks what relationships exist and what safeguards are visible. It does not convert relationship, donor, board, or school overlap into proof of control, misconduct, or coordination.*
 
 ## Series Navigation
 
 - [Series: The Architecture of Access](https://gtcode.com/investigation/the-architecture-of-access/)
-- [Read Part I: The Federal Layer (domestic federal)](https://gtcode.com/investigation/the-federal-layer/)
+- [Read Part I: Federal Triage and Governance Proximity (domestic federal)](https://gtcode.com/investigation/the-federal-layer/)
 - [Read Part II: The Bridges (international / PRC-facing)](https://gtcode.com/investigation/the-bridges/)
 - Part III (this page): The Ledger
-- [The Two Questions: federal investigative roadmap](https://gtcode.com/investigation/the-two-questions/)
 - [Investigations index](https://gtcode.com/investigation/)
 
 ---
@@ -32,6 +35,8 @@
 > **What this is**: a public‑record compliance review of CCCH Form 990 filings and documented public events.
 > **Scope**: this is access-pattern mapping. It alleges neither foreign control nor illegal conduct, and it makes no claim about donor identities. Safeguards, donor explanations, and internal controls may exist outside the public record.
 > **Not legal advice.**
+
+**May 13 editorial standard**: This article places financial filings and public events beside each other to identify disclosure questions. Hidden direction, coordination, or donor identity remain unresolved unless records beyond the public filings establish them. The ordinary explanations for the filing pattern include domestic fundraising, one-time event revenue, charitable pass-through activity, accounting classification, and ordinary nonprofit recordkeeping. The unresolved issue is disclosure sufficiency and what records would clarify the spike.
 
 **Key Judgments**
 
@@ -46,7 +51,7 @@ Confidence labels: High = directly supported by cited primary records; Moderate 
 
 - Form 990 data (FY2021–FY2025; period ends 2021‑05‑31 through 2025‑05‑31) show a one‑year contribution spike in FY ending 2024‑05‑31 (IRS tax year 2023) and first‑time grants in that year.[^6]
 - FY2025 revenue mix is dominated by program service revenue ($421,124; 70.5% of total).[^6]
-- Schedule B donor identities are not publicly disclosed for 501(c)(6) organizations; donor sources for FY2024 contributions are therefore not public.[^3][^6]
+- Schedule B donor identities are not publicly disclosed for 501(c)(6) organizations; donor sources for FY2024 contributions are not public.[^3][^6]
 - A Fujian Provincial Government account states that “agreements” were inked during meetings in the U.S., including Honolulu; the underlying documents are not included among the sources reviewed here.[^9]
 - Hawaii DCCA lists CCCH as Active but “Not in good standing,” and its purpose statement emphasizes business development focused on China and Southeast Asia, cultural preservation, and civic responsibility; the DCCA annuals status endpoint shows a pending 2025 annual report received 2026-01-07.[^5][^15]
 
@@ -104,7 +109,7 @@ The FY2024 return (tax year 2023, period end 2024-05-31) reports contributions o
 
 By FY2025, contributions returned to $84,943, within the prior range.[^6] The spike is concentrated in a single fiscal year.
 
-The Form 990 indicates 501(c)(6) status, and Schedule B donor names and addresses are not required to be publicly disclosed for organizations other than 501(c)(3) and 527 entities.[^3][^6] Donor identities for the FY2024 contributions are therefore not public.
+The Form 990 indicates 501(c)(6) status, and Schedule B donor names and addresses are not required to be publicly disclosed for organizations other than 501(c)(3) and 527 entities.[^3][^6] Donor identities for the FY2024 contributions are not public.
 
 ### 3) Grants and Schedule I (Documented)
 
@@ -114,7 +119,7 @@ Schedule I in the FY2024 and FY2025 XML filings indicates grants to **individual
 
 Schedule I instructions for grants to individuals require the type and number of recipients, not necessarily public identification of each recipient; the public XML does not list recipient names.[^2]
 
-A GoFundMe campaign titled “Help Needed for a Chemical Attack Victim” includes a description signed “Chinese Chamber of Commerce of Hawaii” and addresses “Chamber Members and Friends.”[^13] This provides a possible public context for a GoFundMe‑type disbursement; the filing itself does not identify the recipient or connect the grant to any specific campaign.[^6]
+A GoFundMe campaign titled “Help Needed for a Chemical Attack Victim” includes a description signed “Chinese Chamber of Commerce of Hawaii” and addresses “Chamber Members and Friends.”[^13] This provides a possible public context for a GoFundMe‑type disbursement; the filing itself leaves the recipient and any campaign connection unidentified.[^6]
 
 ### 4) Schedule F Thresholds and Reported Foreign Activity (Documented)
 
@@ -166,6 +171,8 @@ The Form 990 indicates CCCH is a 501(c)(6) organization.[^6]
 - Obtain any “agreements inked” referenced by the Fujian government account through DBEDT, City & County of Honolulu records, or the parties to the meetings.[^9]
 - Monitor DCCA annuals status for resolution of the pending 2025 filing and “Not in good standing” designation.[^15]
 - Re‑run DCCA name searches for HFBA/HFFA and FARA/LDA checks periodically as databases update; archived results are in the Negative Findings Log.
+
+These are the records that would clarify the article. The custodians are CCCH, IRS public-inspection channels, DBEDT, the City and County of Honolulu, DCCA, FARA/LDA databases, and the parties to the March 2024 delegation meetings. Production of clean accounting explanations, grant records, MOU terms, or updated filings would narrow or resolve the current disclosure questions.
 
 ---
 
@@ -246,7 +253,7 @@ The Chinese Chamber of Commerce of Hawaii, its officers, and all individuals and
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/investigation/the-ledger/},
-      note    = {The Architecture of Access, Part III; Last modified 2026-05-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-ledger}}
+      note    = {The Architecture of Access, Part III; Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/investigation/the-ledger}}
     }
 
 **APA:**
