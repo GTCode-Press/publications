@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Shield Effect
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2025-08-26'
+url: https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap
+license: CC-BY-4.0
+abstract: Investigative report by Ekewaka Lono documenting how institutional failures
+  in Hawaiʻi's judiciary, law enforcement, and oversight systems produced a protection
+  effect for an individual accused of violence.
+keywords:
+- Wilson Loo
+- Shield Effect
+- Judicial Accountability
+- Hawaii
+- HPD

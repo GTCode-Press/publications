@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: Mechanisms of Review Failure
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-24'
+url: https://gtcode.com/hawaii-courts/mechanisms-of-review-failure/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/mechanisms-of-review-failure
+license: CC-BY-4.0
+abstract: A cautious mechanism library for evaluating review failures after primary
+  records are assembled, with attention to sealed records, complaint routing, written
+  dispositions, and oversight closure.
+keywords:
+- Review Failure
+- Sealed Records
+- Complaint Routing
+- Sealed Records
+- Restricted-Channel Stigma
+- Oversight Failure
+- Structural Analysis
+- Hawaii

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Reporter''s Disclosures: Prior Law Enforcement Contact and Civic Overlap'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-05-13'
+url: https://gtcode.com/disclosures/prior-law-enforcement-contact/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/disclosures/prior-law-enforcement-contact
+license: CC-BY-4.0
+abstract: A controlled reporter-disclosure page separating documented facts, firsthand
+  accounts, sealed-record-dependent claims, context, and interpretation behind the
+  Oahu Underground investigations.
+keywords:
+- Reporter Disclosures
+- Firsthand Account
+- Evidence Standards
+- Hawaii
+- Institutional Accountability
