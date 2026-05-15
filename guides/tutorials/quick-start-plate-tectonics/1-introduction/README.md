@@ -1,40 +1,13 @@
 # Part 1: Introduction to the Case Study
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document introduces the scientific case study used in the "Quick Start" tutorial.
-
-PURPOSE:
-To provide an overview of the historical debate between Plate Tectonics and Geosyncline theory, setting the stage for the synthesis example.
-
-ROLE IN HIERARCHY:
-This is Part 1 of the "Quick Start" tutorial, serving as the narrative and historical introduction before the hands-on, code-based sections.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Case Study Introduction:** The primary function of this page.
-- **Geosyncline Theory:** The first of the two competing scientific narratives.
-- **Plate Tectonics Theory:** The second of the two competing scientific narratives.
-- **Historical Conflict:** The context for the synthesis problem.
-- **Scientific Narratives:** The representation of the theories within the CNS framework.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as the conceptual setup for the tutorial. It is the first step in a sequence and provides the domain-specific background required to understand the subsequent steps. This page is primarily descriptive, not technical.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ## Introduction: A Tale of Two Theories
 
@@ -62,18 +35,18 @@ By feeding the core concepts of these two theories into the system, we can see h
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20251introduction_486a,
+    @misc{gtcodeeditorial20261introduction_486a,
       author  = {GTCode Editorial, },
       title   = {Part 1: Introduction to the Case Study},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction)
+GTCode Editorial (2026, May 15). Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction)
 
 **Chicago:**
-GTCode Editorial. "Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction.
+GTCode Editorial. "Part 1: Introduction to the Case Study." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/1-introduction.

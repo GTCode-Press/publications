@@ -1,38 +1,13 @@
 # Chapter 1: From Grand Vision to Focused Experiment
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document explains the experimental design philosophy for validating the CNS 2.0 framework, focusing on isolating the Dialectical Synthesis Engine for rigorous testing.
-
-ROLE IN HIERARCHY:
-This is Chapter 1 of the "Research Roadmap," detailing the transition from the broad architectural vision to a focused, scientifically valid experiment.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Experimental Design
-- Variable Isolation
-- Minimum Viable Experiment
-- Dialectical Synthesis Engine
-- Statistical Validation
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as the methodological foundation for the research project. It justifies the focus on the synthesis engine and outlines the statistical framework used to validate the core hypothesis.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ## CNS 2.0 System Architecture
 
@@ -68,18 +43,18 @@ This experimental framework establishes the foundation for statistically rigorou
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter1vision,
+    @misc{gtcodeeditorial2026chapter1vision,
       author  = {GTCode Editorial, },
       title   = {Chapter 1: From Grand Vision to Focused Experiment},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 1: From Grand Vision to Focused Experiment. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment)
+GTCode Editorial (2026, May 15). Chapter 1: From Grand Vision to Focused Experiment. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment)
 
 **Chicago:**
-GTCode Editorial. "Chapter 1: From Grand Vision to Focused Experiment." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment.
+GTCode Editorial. "Chapter 1: From Grand Vision to Focused Experiment." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment.

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS Worked Example
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns-gcts/worked-example/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/worked-example
+license: CC-BY-4.0
+abstract: A synthetic example showing how record-access states affect likely-truth
+  ranking and claim status.

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 12 — Experiment and Evaluation Plan
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/experiments/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/experiments
+license: CC-BY-4.0
+abstract: Test whether contradiction-driven predicate invention recovers hidden context
+  variables.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 02 — Lineage Repair Audit
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/lineage-repair-audit/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/lineage-repair-audit
+license: CC-BY-4.0
+abstract: This document states what CNS 8.0 restores, what it keeps from the grounding/access
+  work, and what it rejects.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

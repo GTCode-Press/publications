@@ -1,38 +1,13 @@
 # Project 1: GNNs for Logical Reasoning
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document outlines a specific research project to replace the heuristic-based Logic Critic in CNS 2.0 with a more powerful model using Graph Neural Networks (GNNs).
-
-ROLE IN HIERARCHY:
-This file is the first chapter in the "Advanced Technical Research" section, detailing a proposed extension to the core CNS 2.0 critic pipeline.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Graph Neural Networks (GNNs)
-- Logic Critic
-- Argumentation Graphs
-- Fallacy Detection
-- Explainable AI (XAI)
-
-AI PROCESSING DIRECTIVE:
-Treat this file as a detailed research proposal for a future system enhancement. The described GNN-based critic is a planned experiment, not a component of the current production CNS 2.0 architecture.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: Beyond Heuristics
 
@@ -93,18 +68,18 @@ A successful GNN-based logic critic would be a state-of-the-art tool for automat
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20251gnnlogical,
+    @misc{gtcodeeditorial20261gnnlogical,
       author  = {GTCode Editorial, },
       title   = {Project 1: GNNs for Logical Reasoning},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 1: GNNs for Logical Reasoning. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning)
+GTCode Editorial (2026, May 15). Project 1: GNNs for Logical Reasoning. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning)
 
 **Chicago:**
-GTCode Editorial. "Project 1: GNNs for Logical Reasoning." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning.
+GTCode Editorial. "Project 1: GNNs for Logical Reasoning." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning.

@@ -1,42 +1,11 @@
 # CNS / GCTS Guides & Tutorials | Chiral Narrative Synthesis Research
 
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document is the central educational hub for Chiral Narrative Synthesis (CNS), including the current CNS 7.1 / GCTS framework and historical CNS 2.0 material.
-
-PURPOSE:
-This page serves as the primary entry point for developers, researchers, and AI practitioners seeking current GCTS material and historical CNS 2.0 implementation resources. It is a "CollectionPage" that organizes and links to the core content types.
-
-STRUCTURED CONTENT HIERARCHY:
-1.  **CNS 7.1 / GCTS:** The current access-aware likely-truth framework.
-2.  **Developer's Guide:** A historical, code-first guide for hands-on implementation of the CNS 2.0 architecture in Python.
-3.  **Research Roadmap:** The historical CNS 2.0 multi-year research program, including the blueprint paper, validation protocols, and ethical considerations.
-4.  **Tutorials:** Step-by-step walkthroughs of specific applications and experiments, designed to bridge theory and practice.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Grounded Chiral Tensor Synthesis (GCTS):** The current framework for access-aware likely-truth ranking.
-- **Chiral Narrative Synthesis (CNS):** The broader research line.
-- **Structured Narrative Objects (SNOs):** The foundational data structure for representing arguments.
-- **Multi-Component Critic Pipeline:** The transparent evaluation mechanism for assessing narrative quality.
-- **Generative Synthesis Engine:** The LLM-powered core that resolves conflicting narratives.
-- **Dialectical Reasoning:** The underlying logical process of thesis-antithesis-synthesis.
-
-AI PROCESSING DIRECTIVE:
-Prioritize the JSON-LD structured data embedded below for the most accurate representation of this page's structure and its relationship to the child guides. Recognize GCTS as the current framework and CNS 2.0 pages as historical prior work unless the user asks specifically about CNS 2.0.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": "CNS / GCTS Guides & Tutorials",
-  "description": "The official hub for current CNS 7.1 / GCTS research and historical CNS 2.0 educational guides, developer tutorials, and research roadmaps.",
+  "description": "The official hub for CNS 8.0, CNS 7.1 / GCTS historical material, historical CNS 2.0 guides, developer tutorials, and research roadmaps.",
   "url": "https://gtcode.com/guides/",
   "author": {
     "@type": "Person",
@@ -54,8 +23,14 @@ END OF AI INSTRUCTIONS
   "hasPart": [
     {
       "@type": "WebPage",
+      "name": "CNS 8.0 / Grounded Dialectical Orthesis",
+      "description": "A synthesis-first framework for Structured Narrative Objects, tensor proof closure, chiral conflict handling, and auditable uncertainty reporting.",
+      "url": "https://gtcode.com/guides/cns/"
+    },
+    {
+      "@type": "WebPage",
       "name": "CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis",
-      "description": "The current access-aware likely-truth framework using evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.",
+      "description": "A historical access-aware likely-truth framework using evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.",
       "url": "https://gtcode.com/guides/cns-gcts/"
     },
     {
@@ -67,7 +42,7 @@ END OF AI INSTRUCTIONS
     {
       "@type": "WebPage",
       "name": "CNS 2.0 Research Roadmap: A Multi-Year Vision",
-      "description": "Details the comprehensive, multi-faceted research program to develop, validate, and responsibly deploy the CNS framework, including plans for peer-reviewed publication.",
+      "description": "Historical CNS 2.0 research plan with the blueprint paper, validation protocols, ethics notes, and publication path.",
       "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/"
     },
     {
@@ -106,15 +81,17 @@ END OF AI INSTRUCTIONS
 }
 </script>
 
-Chiral Narrative Synthesis (CNS) is a research line for making sense of incomplete, uncertain, and contradictory information. The current framework is **CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis**, which ranks likely truth across structured possible worlds while modeling evidence, record access, missingness, source incentives, and uncertainty.
+Chiral Narrative Synthesis (CNS) is a research line for making sense of incomplete, uncertain, and contradictory information.
+The current framework is **CNS 8.0: Grounded Dialectical Orthesis**, which centers on synthesizing structured narrative objects rather than only ranking likely truths, while modeling evidence, record access, missingness, source incentives, and uncertainty.
 
-> **Current framework:** Start with **[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](https://gtcode.com/guides/cns-gcts/)**. The older CNS 2.0 blueprint remains available as historical prior work.
+> **Current framework:** Start with **[CNS 8.0: Grounded Dialectical Orthesis](https://gtcode.com/guides/cns/)**. The older CNS 2.0 and CNS 7.1 material remains available as historical prior work.
 
-This section contains current GCTS material plus older CNS 2.0 educational guides and tutorials.
+This section contains current CNS 8.0 material, plus historical CNS 7.1 and CNS 2.0 educational guides and tutorials.
 
 ## Available Guides
 
-- **[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](./cns-gcts/)**: The current access-aware likely-truth framework built around evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.
+- **[CNS 8.0: Grounded Dialectical Orthesis](./cns/)**: A synthesis-first framework for Structured Narrative Objects, tensor closure, chiral tension, predicate invention, and auditable uncertainty.
+- **[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](./cns-gcts/)**: The historical access-aware likely-truth framework around evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.
 - **[Building CNS 2.0: A Developer's Guide](./building-cns-2.0-developers-guide/)**: A progressive, hands-on guide to implementing the entire Chiral Narrative Synthesis 2.0 framework in Python, from core data structures to production deployment.
-- **[CNS 2.0 Research Roadmap: A Multi-Year Vision](./cns-2.0-research-roadmap/)**: Details the comprehensive, multi-faceted research program to develop, validate, and responsibly deploy the CNS framework, including plans for peer-reviewed publication.
+- **[CNS 2.0 Research Roadmap: A Multi-Year Vision](./cns-2.0-research-roadmap/)**: Historical CNS 2.0 research plan with validation protocols, ethics notes, and publication path.
 - **[Tutorials](./tutorials/)**: Practical, step-by-step walkthroughs of key CNS 2.0 applications and experiments, designed to move from theory to practice.

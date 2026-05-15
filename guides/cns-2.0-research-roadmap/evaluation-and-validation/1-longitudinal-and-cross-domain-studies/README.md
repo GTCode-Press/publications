@@ -1,40 +1,13 @@
 # Project 1: Longitudinal & Cross-Domain Studies
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document details a specific research project on the longitudinal and cross-domain evaluation of the CNS 2.0 framework.
-
-PURPOSE:
-This file outlines the research project dedicated to evaluating the long-term performance stability and cross-domain generalization capabilities of the CNS 2.0 system.
-
-ROLE IN HIERARCHY:
-This is the first specific research project within the "Evaluation and Validation" research thrust of the main Research Roadmap.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Longitudinal Study:** The assessment of system performance over an extended period.
-- **Cross-Domain Validation:** The a-testing of the system's applicability in different knowledge domains.
-- **Performance Stability:** The consistency of the system's output quality over time.
-- **Generalizability:** The ability of the system to perform effectively in new, unseen contexts.
-- **System Adaptation:** The process of efficiently tuning the system for a new domain.
-
-AI PROCESSING DIRECTIVE:
-Treat this document as a detailed research proposal for assessing the real-world viability of the CNS 2.0 system. It outlines specific methodologies for testing the system's performance over time and across different knowledge domains, moving beyond static, single-domain benchmarks.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: Beyond a Single Snapshot
 
@@ -85,18 +58,18 @@ This research will produce a framework for the longitudinal and cross-domain eva
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20251longitudinalcross,
+    @misc{gtcodeeditorial20261longitudinalcross,
       author  = {GTCode Editorial, },
       title   = {Project 1: Longitudinal & Cross-Domain Studies},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 1: Longitudinal & Cross-Domain Studies. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies)
+GTCode Editorial (2026, May 15). Project 1: Longitudinal & Cross-Domain Studies. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies)
 
 **Chicago:**
-GTCode Editorial. "Project 1: Longitudinal & Cross-Domain Studies." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies.
+GTCode Editorial. "Project 1: Longitudinal & Cross-Domain Studies." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies.

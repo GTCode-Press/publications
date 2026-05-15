@@ -1,40 +1,13 @@
 # Tutorial Part 2: Building the Parent SNOs
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document provides a code-first guide to manually constructing Structured Narrative Objects (SNOs) for two competing geological theories.
-
-PURPOSE:
-To demonstrate the systematic, manual construction of parent SNOs for the Plate Tectonics and Geosyncline theories, establishing a quality benchmark for automated generation.
-
-ROLE IN HIERARCHY:
-This is Part 2 of the "Plate Tectonics Synthesis" tutorial, providing the foundational data structures that will be used in subsequent synthesis and analysis steps.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Structured Narrative Object (SNO):** The core data structure being built.
-- **SNO Construction Methodology:** The step-by-step process of defining a hypothesis, reasoning graph, and evidence set.
-- **Geosyncline Theory:** The historical geological model represented in the first SNO.
-- **Plate Tectonics Theory:** The modern geological model represented in the second SNO.
-- **DSPy Automation Template:** The use of this manual process as a template for future automation.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as a detailed, code-based tutorial step. The Python code blocks are central to understanding the process of creating the foundational SNO data structures for the Chiral Narrative Synthesis framework. This manual process is the ground truth for the automation described later.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 This section establishes the **systematic SNO construction methodology** that serves as the template for DSPy automation. Each construction step demonstrates the quality control standards and structural requirements that must be maintained across n ≥ 30 automated synthesis pairs to ensure statistical validity.
 
@@ -216,18 +189,18 @@ This template ensures that automated generation maintains the scientific rigor d
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20252buildingsno_8725,
+    @misc{gtcodeeditorial20262buildingsno_8725,
       author  = {GTCode Editorial, },
       title   = {Tutorial Part 2: Building the Parent SNOs},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno)
+GTCode Editorial (2026, May 15). Tutorial Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno.
+GTCode Editorial. "Tutorial Part 2: Building the Parent SNOs." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno.

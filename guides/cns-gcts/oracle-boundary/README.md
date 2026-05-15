@@ -1,7 +1,7 @@
 # Oracle Boundary And Governance
 
 **Author:** GTCode Editorial
-**Published:** May 13, 2026
+**Published:** May 15, 2026
 **Canonical URL:** https://gtcode.com/guides/cns-gcts/oracle-boundary/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -13,7 +13,8 @@ truth ranking**.
 
 GCTS may use labels or expert judgment for training, calibration, evaluation,
 and error review. Runtime truth ranking and posterior mass must come from
-evidence, access states, rules, and calibrated parameters.
+evidence, access states, rules, possible worlds, proof traces, and calibrated
+parameters.
 
 ## Allowed Oracle Use
 
@@ -22,14 +23,36 @@ evidence, access states, rules, and calibrated parameters.
 - Evaluation labels.
 - Expert review of error cases.
 - Human approval of new strict rules.
+- Human review of system failures after a run.
 
-## Forbidden Oracle Use
+## Forbidden Runtime Oracle Use
 
 - Runtime access to gold labels.
 - Runtime human or model truth decisions that bypass evidence closure and world
   ranking.
-- Dataset label leakage into retrieval, ranking, or world building.
+- Dataset label leakage into retrieval, ranking, world building, or rendering.
 - Prompting an LLM to decide truth and using that answer as posterior mass.
+- Using hidden benchmark answers as features.
+- Using evaluator notes, answer keys, or adjudication metadata in a production
+  run.
+
+## LLM Boundary
+
+LLMs may:
+
+- extract candidate claims;
+- propose evidence spans;
+- propose latent context variables;
+- suggest possible access hypotheses;
+- render structured outputs into readable prose.
+
+LLMs may not:
+
+- assign runtime truth mass;
+- promote a claim to strict proof;
+- erase record contingencies;
+- convert missing records into ordinary absence without the access model;
+- add unsupported details during rendering.
 
 ## Promotion Policy
 
@@ -52,6 +75,18 @@ Record-contingent claims require:
 - identified record dependencies;
 - access-state classification;
 - an explanation of what evidence would change the ranking.
+
+## Relationship To Benchmark Leakage
+
+The oracle boundary is related to benchmark-leakage and test-contamination
+concerns in machine-learning evaluation. Hidden labels, benchmark answers,
+evaluator notes, and gold outputs can improve apparent performance while
+bypassing the evidence process. GCTS treats that pattern as a governance failure
+in runtime truth ranking.
+
+The deployable system must be able to explain how each claim status came from
+available evidence, access states, rules, worlds, proof traces, and calibrated
+parameters.
 
 ## Main Risks
 
@@ -85,6 +120,9 @@ unsupported phrases.
 - [ ] Record-contingent claims identify record dependencies.
 - [ ] Uncertainty decomposition is shown.
 - [ ] Evidence that would change the conclusion is listed.
+- [ ] Renderer output is checked against the structured payload.
+- [ ] No hidden benchmark fields, answer keys, or evaluator notes are accessible
+      to runtime ranking.
 
 GCTS is a decision-support system. It should expose alternatives,
 likely-truth rankings, access constraints, and uncertainty. It should not
@@ -96,7 +134,7 @@ replace human judgment in high-stakes domains.
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026oracleboundary,
+    @misc{gtcodeeditorial2026oracleboundary_9894,
       author  = {GTCode Editorial, },
       title   = {Oracle Boundary And Governance},
       institution = {GTCode.com Guides},
@@ -107,7 +145,7 @@ replace human judgment in high-stakes domains.
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). Oracle Boundary And Governance. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/oracle-boundary/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/oracle-boundary)
+GTCode Editorial (2026, May 15). Oracle Boundary And Governance. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/oracle-boundary/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/oracle-boundary)
 
 **Chicago:**
-GTCode Editorial. "Oracle Boundary And Governance." *GTCode.com Guides*, May 13, 2026. https://gtcode.com/guides/cns-gcts/oracle-boundary/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/oracle-boundary.
+GTCode Editorial. "Oracle Boundary And Governance." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-gcts/oracle-boundary/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/oracle-boundary.

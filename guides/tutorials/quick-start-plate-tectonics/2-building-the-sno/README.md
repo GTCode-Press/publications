@@ -1,40 +1,13 @@
 # Part 2: Building the Parent SNOs
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document provides a code-first guide to constructing the parent Structured Narrative Objects (SNOs) for the tutorial's case study.
-
-PURPOSE:
-To provide the Python code for constructing the two parent SNOs, representing the Geosyncline and Plate Tectonics theories.
-
-ROLE IN HIERARCHY:
-This is Part 2 of the "Quick Start" tutorial, representing the first hands-on, code-based step in the tutorial sequence.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Structured Narrative Object (SNO):** The core data structure being created.
-- **Parent SNOs:** The two input objects for the synthesis engine.
-- **Reasoning Graph:** The logical structure of claims within an SNO.
-- **Evidence Set:** The collection of source evidence linked to claims.
-- **Python Code:** The primary content and method of instruction in this document.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as a foundational, code-centric step in a tutorial. The Python code blocks are the central element, demonstrating the practical construction of the SNOs that will be used in subsequent steps.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 This section provides the Python code to construct the two parent Structured Narrative Objects (SNOs): one for Geosyncline theory and one for Plate Tectonics.
 
@@ -157,18 +130,18 @@ print("SNO_PlateTectonics created successfully.")
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20252buildingsno_bfc8,
+    @misc{gtcodeeditorial20262buildingsno_bfc8,
       author  = {GTCode Editorial, },
       title   = {Part 2: Building the Parent SNOs},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno)
+GTCode Editorial (2026, May 15). Part 2: Building the Parent SNOs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno)
 
 **Chicago:**
-GTCode Editorial. "Part 2: Building the Parent SNOs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno.
+GTCode Editorial. "Part 2: Building the Parent SNOs." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno.

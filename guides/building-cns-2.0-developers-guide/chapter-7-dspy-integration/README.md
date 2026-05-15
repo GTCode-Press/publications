@@ -1,7 +1,7 @@
 # Chapter 7: Advanced Optimization with DSPy
 
 **Author:** GTCode Editorial
-**Published:** November 13, 2025
+**Published:** May 15, 2026
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/
 **Section:** Guides
@@ -134,18 +134,18 @@ Finally, by integrating DSPy, we have shown a path from a static system to a dyn
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter7dspy,
+    @misc{gtcodeeditorial2026chapter7dspy,
       author  = {GTCode Editorial, },
       title   = {Chapter 7: Advanced Optimization with DSPy},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/},
       note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 13). Chapter 7: Advanced Optimization with DSPy. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration)
+GTCode Editorial (2026, May 15). Chapter 7: Advanced Optimization with DSPy. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration)
 
 **Chicago:**
-GTCode Editorial. "Chapter 7: Advanced Optimization with DSPy." *GTCode.com Guides*, November 13, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration.
+GTCode Editorial. "Chapter 7: Advanced Optimization with DSPy." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration.

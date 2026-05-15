@@ -4,7 +4,7 @@ type: generic
 title: GCTS Theory
 authors:
 - name: GTCode Editorial
-date-released: '2026-05-13'
+date-released: '2026-05-15'
 url: https://gtcode.com/guides/cns-gcts/theory/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/theory
 license: CC-BY-4.0

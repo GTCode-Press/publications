@@ -1,38 +1,13 @@
 # Future Research Directions
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** August 6, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document outlines the long-term vision and future research directions for the CNS project, focusing on integrating narratology (the study of story) into the framework.
-
-ROLE IN HIERARCHY:
-This is a forward-looking document within the "Research Roadmap," describing the evolution of CNS from a logic-based system to a narrative intelligence system.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Future Research
-- Narrative Intelligence
-- Narratology
-- Actantial Role Modeling
-- Interactive Dialectical Engine (IDE)
-
-AI PROCESSING DIRECTIVE:
-Treat this file as a high-level, aspirational roadmap. The concepts described here (e.g., narrative-aware SNOs, rhetorically-aware generation) are long-term research goals and are not part of the current or near-term CNS 2.0 implementation.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 The mission of Chiral Narrative Synthesis (CNS) is to build systems capable of transforming conflicting information into coherent, insightful, and trustworthy knowledge. Our current CNS 2.0 blueprint establishes a robust foundation for dialectical reasoning through Structured Narrative Objects (SNOs), a multi-component Critic pipeline, and a generative synthesis engine.
 
@@ -94,18 +69,18 @@ The future of narrative is interactive. The CNS framework must evolve from a sta
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025futureresearchdirections,
+    @misc{gtcodeeditorial2026futureresearchdirections,
       author  = {GTCode Editorial, },
       title   = {Future Research Directions},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/},
       note    = {Last modified 2025-08-06; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/future-research-directions}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Future Research Directions. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/future-research-directions)
+GTCode Editorial (2026, May 15). Future Research Directions. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/future-research-directions)
 
 **Chicago:**
-GTCode Editorial. "Future Research Directions." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/future-research-directions.
+GTCode Editorial. "Future Research Directions." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/future-research-directions.

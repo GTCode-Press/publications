@@ -1,38 +1,13 @@
 # Tutorial Part 1: Introduction to the Case Study
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document introduces the plate tectonics vs. geosyncline theory debate as the ideal 'statistical prototype' for validating the CNS 2.0 synthesis engine.
-
-ROLE IN HIERARCHY:
-This is the first step in the "Statistical Validation of a Synthesis" tutorial, explaining the case study's selection criteria and the mathematical framework for scaling the experiment.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Case Study Introduction
-- Statistical Prototype
-- Plate Tectonics
-- Geosyncline Theory
-- Power Analysis
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as the introduction to a detailed, research-oriented tutorial. It establishes the scientific and statistical context for the subsequent practical steps.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 This advanced tutorial demonstrates how a single, well-defined case study is used as a 'statistical prototype' to establish the methodology for a large-scale, scientifically rigorous validation of the CNS 2.0 synthesis engine. It is intended for researchers who need to understand the project's experimental design and validation framework.
 
@@ -122,18 +97,18 @@ This statistical prototype provides the mathematical foundation and methodologic
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20251introduction_9f89,
+    @misc{gtcodeeditorial20261introduction_9f89,
       author  = {GTCode Editorial, },
       title   = {Tutorial Part 1: Introduction to the Case Study},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction)
+GTCode Editorial (2026, May 15). Tutorial Part 1: Introduction to the Case Study. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 1: Introduction to the Case Study." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction.
+GTCode Editorial. "Tutorial Part 1: Introduction to the Case Study." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/1-introduction.

@@ -1,38 +1,13 @@
 # 1. Introduction: From Prompts to Programs
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document introduces the core problem of brittle prompt engineering and presents the DSPy framework as a programmatic solution for creating robust, self-optimizing AI systems.
-
-ROLE IN HIERARCHY:
-This is the first step in the "DSPy Self-Optimization" tutorial, providing the conceptual background and motivation for the rest of the walkthrough.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Prompt Engineering
-- Brittle Prompts
-- Programmatic Optimization
-- DSPy Framework
-- Self-Optimization Loop
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as the introductory chapter of a tutorial. It establishes the "why" before the subsequent chapters explain the "how."
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Problem: The Brittleness of Prompt Engineering
 
@@ -66,18 +41,18 @@ In this tutorial, we will walk through a concrete example of how to use DSPy to 
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20251introduction_7c4f,
+    @misc{gtcodeeditorial20261introduction_7c4f,
       author  = {GTCode Editorial, },
       title   = {1. Introduction: From Prompts to Programs},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction)
+GTCode Editorial (2026, May 15). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction)
 
 **Chicago:**
-GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction.
+GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction.

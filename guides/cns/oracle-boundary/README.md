@@ -1,0 +1,96 @@
+# 19 — Runtime Oracle Boundary Policy
+
+**Author:** GTCode Editorial
+**Published:** May 15, 2026
+**Canonical URL:** https://gtcode.com/guides/cns/oracle-boundary/
+**Section:** Guides
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+# 19 — Runtime Oracle Boundary Policy
+
+## Policy
+
+CNS 8.0 can use oracles during training and evaluation. Runtime analysis cannot use hidden labels, answer keys, or LLM judgments.
+
+## Allowed offline oracle use
+
+- labels in SciFact, FEVER, and synthetic tasks;
+- expert annotations;
+- calibration labels;
+- human review labels;
+- synthetic hidden context labels for evaluation;
+- gold rationales for training extraction.
+
+## Forbidden runtime oracle use
+
+- answer keys;
+- gold labels in prompts;
+- synthetic generation parameters;
+- LLM judge as final truth oracle;
+- access to withheld test rationales;
+- hidden evaluator calls inside runtime;
+- prompting that asks a model to choose the correct label using unseen gold data.
+
+## Required metadata
+
+Every run manifest records:
+
+- dataset split hash;
+- label availability;
+- prompt templates;
+- model IDs;
+- proof rule version;
+- calibration model version;
+- oracle-use declaration;
+- leakage scan result.
+
+## Leakage checks
+
+- scan prompts for label fields;
+- verify runtime input schema excludes gold labels;
+- run random-label controls;
+- run shuffled-evidence controls;
+- isolate synthetic generator seeds;
+- withhold latent context variables during inference.
+
+## Output language
+
+CNS keeps likely claims separate from strict claims.
+
+Allowed:
+
+```text
+Strict: follows from proof trace.
+Likely: posterior-supported but not strict.
+Hypothesis: generated for testing.
+Unresolved: evidence/access insufficient.
+Rejected: failed gate.
+```
+
+## Human review
+
+Human experts may review outputs. Their judgments are post-runtime annotations unless explicitly used in a retraining/calibration step.
+
+---
+
+## How to Cite
+
+**BibTeX:**
+
+    @misc{gtcodeeditorial2026oracleboundary_4c29,
+      author  = {GTCode Editorial, },
+      title   = {19 — Runtime Oracle Boundary Policy},
+      institution = {GTCode.com Guides},
+      year    = {2026},
+      month   = may,
+      url     = {https://gtcode.com/guides/cns/oracle-boundary/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns/oracle-boundary}}
+    }
+
+**APA:**
+GTCode Editorial (2026, May 15). 19 — Runtime Oracle Boundary Policy. *GTCode.com Guides*. https://gtcode.com/guides/cns/oracle-boundary/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns/oracle-boundary)
+
+**Chicago:**
+GTCode Editorial. "19 — Runtime Oracle Boundary Policy." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns/oracle-boundary/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns/oracle-boundary.

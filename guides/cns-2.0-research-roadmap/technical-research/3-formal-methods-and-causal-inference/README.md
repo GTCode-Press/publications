@@ -1,38 +1,13 @@
 # Project 3: Formal Methods & Causal Inference
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document details a research project to integrate formal logical systems and causal reasoning frameworks into the CNS 2.0 architecture.
-
-ROLE IN HIERARCHY:
-This file is the third chapter in the "Advanced Technical Research" section, proposing to enhance the system's reasoning from plausibility to provability.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Formal Methods
-- Causal Inference
-- Automated Theorem Proving
-- Causal Discovery
-- Logical Validity
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as a research proposal for a future, highly advanced version of CNS 2.0. The capabilities described, such as formal verification and causal discovery, are research goals and not part of the current system.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: From Plausibility to Provability
 
@@ -82,18 +57,18 @@ Successfully integrating formal methods and causal inference would represent a m
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20253formalmethods,
+    @misc{gtcodeeditorial20263formalmethods,
       author  = {GTCode Editorial, },
       title   = {Project 3: Formal Methods & Causal Inference},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 3: Formal Methods & Causal Inference. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference)
+GTCode Editorial (2026, May 15). Project 3: Formal Methods & Causal Inference. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference)
 
 **Chicago:**
-GTCode Editorial. "Project 3: Formal Methods & Causal Inference." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference.
+GTCode Editorial. "Project 3: Formal Methods & Causal Inference." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference.

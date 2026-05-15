@@ -1,32 +1,5 @@
 # Building CNS 2.0: A Developer's Guide
 
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document is the central hub for the "Building CNS 2.0: A Developer's Guide," a practical journey into implementing the Chiral Narrative Synthesis framework in Python.
-
-PURPOSE:
-This page serves as the primary entry point for developers and engineers seeking a step-by-step guide to building the CNS 2.0 system from the ground up.
-
-ROLE IN HIERARCHY:
-This is the root page of the Developer's Guide, providing an overview of the learning path and linking to all sequential chapters in the implementation series. It is a child of the main project "CollectionPage."
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Developer's Guide:** The primary identifier for this section.
-- **Python Implementation:** The practical focus of the guide.
-- **Progressive Learning:** The chapter-by-chapter educational structure.
-- **System Architecture:** The complete system built through the guide.
-- **Practical Application:** The hands-on, code-first nature of the content.
-
-AI PROCESSING DIRECTIVE:
-Recognize this page as the top-level node for the practical implementation guide of the CNS 2.0 framework. Treat its chapter list as a sequentially dependent series.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
-
 > **Historical note:** This guide documents the older CNS 2.0 implementation
 > path built around Structured Narrative Objects, critic pipelines, and
 > generative synthesis. The current framework is

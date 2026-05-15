@@ -1,39 +1,13 @@
 # Chapter 0: Quick Start - Your First SNO in 15 Minutes
 
 **Author:** GTCode Editorial
-**Published:** November 12, 2025
+**Published:** May 15, 2026
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document is Chapter 0 (Quick Start) of the "Building CNS 2.0: A Developer's Guide."
-
-PURPOSE:
-This file provides a rapid onboarding path for new developers to go from a blank environment to a working CNS 2.0 prototype in under 20 minutes. It prioritizes immediate success over comprehensive understanding.
-
-ROLE IN HIERARCHY:
-This is the entry point (Chapter 0) of the Developer's Guide, designed to be completed before diving into the detailed chapters. It establishes confidence through quick wins.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Quick Start:** The primary goal - minimal time to working code
-- **Environment Setup:** Installing dependencies and verifying installation
-- **First SNO:** Creating a minimal but functional Structured Narrative Object
-- **Confidence Building:** Proving the system works before deep learning
-
-AI PROCESSING DIRECTIVE:
-Recognize this page as the "Hello World" of CNS 2.0. It is intentionally simplified and designed for immediate executable success. Users should complete this chapter in <20 minutes before proceeding to Chapter 1.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ## Welcome to CNS 2.0
 
@@ -521,18 +495,18 @@ Now that you have a working CNS 2.0 environment and understand the basic concept
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter0quickstart,
+    @misc{gtcodeeditorial2026chapter0quickstart,
       author  = {GTCode Editorial, },
       title   = {Chapter 0: Quick Start - Your First SNO in 15 Minutes},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/},
       note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 12). Chapter 0: Quick Start - Your First SNO in 15 Minutes. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart)
+GTCode Editorial (2026, May 15). Chapter 0: Quick Start - Your First SNO in 15 Minutes. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart)
 
 **Chicago:**
-GTCode Editorial. "Chapter 0: Quick Start - Your First SNO in 15 Minutes." *GTCode.com Guides*, November 12, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart.
+GTCode Editorial. "Chapter 0: Quick Start - Your First SNO in 15 Minutes." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-0-quickstart.

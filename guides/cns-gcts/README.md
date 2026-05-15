@@ -8,17 +8,34 @@ Chiral Tensor Synthesis**.
   <figcaption>GCTS treats record access, absence, contradiction, and residual error as structured inputs to likely-truth ranking.</figcaption>
 </figure>
 
-GCTS changes the center of gravity from "synthesize conflicting narratives" to
-**rank likely truth under limited, contradictory, and adversarial evidence**. It
-ranks truth through structured possible worlds, evidence, access conditions, and
-calibrated uncertainty.
+GCTS changes the center of gravity from narrative synthesis to **likely-truth
+ranking under limited, contradictory, and access-controlled evidence**. It ranks
+claims through structured possible worlds, evidence atoms, record-access states,
+proof traces, contradiction residuals, and calibrated uncertainty.
 
 The core move:
 
 > CNS should build a distribution over structured possible worlds, quantify the
 > mismatch between language, logic, evidence, and access states, and emit
 > ranked, confidence-calibrated likely-truth hypotheses with explicit evidence,
-> record dependencies, and uncertainty.
+> record dependencies, proof support, and uncertainty.
+
+## Current Research Boundary
+
+The ingredients are crowded. Fact verification, source-trust scoring,
+provenance, probabilistic logic, possible-world semantics, legal evidence
+models, and missing-data theory all have substantial prior art.
+
+The GCTS research boundary is the integration: typed record-access states,
+generation-duty-aware missingness, contradiction-preserving claim graphs,
+strict-proof separation, likely-truth posterior ranking, and runtime
+oracle-boundary controls in one evidence-first architecture.
+
+The most important distinction is the record layer. A missing record is not
+collapsed into generic uncertainty. GCTS asks who would control the record,
+whether ordinary procedure would generate it, whether the event should have been
+observable, how the record was requested, what production response occurred,
+and how strongly that access state should affect claim ranking.
 
 ## What Changed From CNS 2.0
 
@@ -31,7 +48,7 @@ several loose parts with stricter machinery:
 | --- | --- |
 | Structured Narrative Objects | Evidence atoms, claims, access states, and possible worlds |
 | Critic score | Separate strict proof, posterior probability, and confidence |
-| Chiral pair synthesis | Chirality plus contradiction residuals across graph, tensor, and access layers |
+| Chiral pair synthesis | Chirality plus contradiction residuals across graph, proof, evidence, and access layers |
 | LLM-centered synthesis | LLMs extract and render; structured evidence ranks truth |
 | Evidence overlap | Access-aware missingness, source control, and record-generation duty |
 | Truth-like trust score | Likely-truth ranking with oracle-boundary controls |
@@ -40,34 +57,50 @@ several loose parts with stricter machinery:
 
 1. **Likely truth is the target.** Claims are ranked by calibrated posterior
    mass across possible worlds, not by direct LLM confidence.
-2. **Strict proof is separate.** A strict claim requires zero-temperature
-   closure, resolvable evidence, and a proof trace.
-3. **Access states are first-class.** Missing, unavailable, sealed, withheld,
-   destroyed, and not-generated records are distinct epistemic states.
-4. **No runtime oracle.** Labels and expert judgments may calibrate the system
+2. **Strict proof is separate.** A strict claim requires resolvable evidence,
+   zero-temperature closure, and a proof trace.
+3. **Access states are first-class.** Available, inaccessible, sealed,
+   withheld, destroyed, not-generated, unknown, partial, contradicted, and
+   unavailable-at-time records are distinct epistemic states.
+4. **Absence has prerequisites.** Absence affects ranking only through
+   generation duty, expected observability, access path, control, production
+   state, and source or institutional incentives.
+5. **No runtime oracle.** Labels and expert judgments may calibrate the system
    offline, but runtime ranking must come from evidence, access states, rules,
-   and calibrated model parameters.
-5. **Multiverse views are first-class.** The output is a ranked set of possible
+   worlds, and calibrated model parameters.
+6. **Multiverse views are first-class.** The output is a ranked set of possible
    worlds before any single answer is selected.
-6. **Every claim gets a status.** The report distinguishes `proven`,
+7. **Every claim gets a status.** The report distinguishes `proven`,
    `probable`, `plausible`, `record_contingent`, `conflicted`, `unsupported`,
-   and `rejected`.
+   `rejected`, and `insufficient_evidence`.
 
 ## Reading Path
 
-1. [Theory](theory/) for the formal objects, chirality, worlds, and confidence
-   decomposition.
-2. [Architecture](architecture/) for the runtime pipeline.
+1. [Theory](theory/) for the formal objects, chirality, worlds, score split,
+   and confidence decomposition.
+2. [Architecture](architecture/) for the runtime pipeline and how it differs
+   from standard fact verification.
 3. [Oracle Boundary](oracle-boundary/) for which inputs are allowed to influence
    runtime truth ranking.
-4. [Experiments](experiments/) for the falsifiable test plan.
-5. [MVP Build](mvp-build/) for the implementation path.
-6. [Adversarial Evidence](adversarial-evidence/) for access modeling and
-   missing-record discipline.
-7. [Glossary](glossary/) for canonical terms.
+4. [Prior-Art Boundary](prior-art-boundary/) for the closest neighboring
+   systems and the conservative novelty posture.
+5. [Record-Access Ontology](record-access-ontology/) for the typed access-state
+   model.
+6. [Adversarial Evidence](adversarial-evidence/) for missing-record discipline,
+   source control, and selective production.
+7. [Experiments](experiments/) for the falsifiable test plan.
+8. [MVP Build](mvp-build/) for the implementation path.
+9. [Worked Example](worked-example/) for a synthetic case showing how record
+   contingencies affect ranking.
+10. [References](references/) for primary papers, standards, and adjacent
+    systems.
+11. [Glossary](glossary/) for canonical terms.
 
 ## Source Status
 
-This section is adapted from the CNS 7.1 / GCTS research docset generated on
-May 13, 2026. It presents a buildable research proposal before a completed
-implementation.
+Source note: adapted from the CNS 7.1 / GCTS research docset generated and
+revised in May 2026. It presents a buildable research proposal before a
+completed implementation. Current public framing should remain conservative:
+GCTS proposes an architecture-level integration. Automated fact verification,
+provenance, probabilistic logic, and missing-data theory all have substantial
+prior art.

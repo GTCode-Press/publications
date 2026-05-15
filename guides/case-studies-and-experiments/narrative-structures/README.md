@@ -1,7 +1,7 @@
 # Narrative Structures
 
 **Author:** GTCode Editorial
-**Published:** May 13, 2026
+**Published:** May 15, 2026
 **Last Modified:** August 5, 2025
 **Canonical URL:** https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/
 **Section:** Guides
@@ -298,7 +298,7 @@ Ultimately, despite profound technological advancements, the core human need for
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). Narrative Structures. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/narrative-structures)
+GTCode Editorial (2026, May 15). Narrative Structures. *GTCode.com Guides*. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/narrative-structures)
 
 **Chicago:**
-GTCode Editorial. "Narrative Structures." *GTCode.com Guides*, May 13, 2026. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/narrative-structures.
+GTCode Editorial. "Narrative Structures." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/case-studies-and-experiments/narrative-structures.

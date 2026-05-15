@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 5, 2026
-**Last Modified:** May 13, 2026
+**Last Modified:** May 15, 2026
 **Canonical URL:** https://gtcode.com/disclosures/cartography-for-guppies/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -19,9 +19,11 @@ I am one person with a laptop on the North Shore of Oʻahu, reading public recor
 
 The reader's task is procedural: look at the records, the process gaps, and the places where ordinary institutions failed to produce reviewable answers. The site advances testable institutional questions and avoids a single master explanation.
 
-That distinction controls the method. A public record showing two people on the same board establishes overlap and raises safeguard questions. A sealed audio file can test timing around an alleged visual courtroom event, while eyewitness testimony remains the source for the visual claim. A newsroom's non-publication decision can have structural consequences, even when motive remains unresolved. A platform-indexing anomaly can reduce visibility while leaving technical cause and human intent open.
+That distinction controls the method. A public record showing two people on the same board establishes overlap and raises safeguard questions. A sealed audio file can test timing around a reported visual courtroom event, while eyewitness testimony remains the source for the visual claim. A newsroom's non-publication decision can have structural consequences, even when motive remains unresolved. A platform-indexing anomaly can reduce visibility while leaving technical cause and human intent open.
 
 The editorial method is procedural minimalism: state what happened, identify the record that proves or tests it, present the ordinary explanation first, and separate inference from fact. The institution is the protagonist. The author is the witness, complainant, or stress-test subject.
+
+A firsthand report is stated as a report, not as a courtroom finding and not as a hypothetical. Conditional proof language belongs in the review lane: legal consequences, outside verification, corroboration, falsification, or adjudication. The rule is simple: the author reports what he saw, heard, received, or did; third-party reviewers decide what records, witnesses, and legal standards confirm, contradict, or explain.
 
 ## The Shortest Path Rule
 
@@ -31,7 +33,7 @@ I know a many-part institutional autopsy can look disproportionate from the outs
 
 I learned why that discipline matters the hard way. In early 2025, I brought a dossier to Honolulu Civil Beat — documented conflicts of interest, public filings, and a broader accountability story. The initial response was interest. What followed was non-publication. There are ordinary explanations for that: limited newsroom resources, legal risk, editorial judgment, verification difficulty, complexity, and competing priorities. The structural effect was still real. A story involving powerful local institutions did not receive public review from the state's most visible investigative newsroom.
 
-Oʻahu Underground exists to make those review gaps visible. The only currency here is whether the documents cited are real, whether firsthand claims are labeled, whether sealed-record-dependent claims are identified, and whether readers can tell what would confirm, narrow, or falsify each assertion. Corrections are invited and will be published for any documented error.
+Oʻahu Underground exists to make those review gaps visible. The only currency here is whether the documents cited are real, whether firsthand claims are labeled, whether sealed-record-dependent claims are identified, and whether readers can tell what would confirm, contradict, or explain each assertion. Corrections are invited and will be published for any documented error.
 
 Each investigation places records and events beside each other without asking proximity to carry the whole evidentiary burden. Financial disclosures may sit next to board seats. Board seats may sit next to oversight bodies. Oversight bodies may sit next to courtrooms. Courtrooms may sit next to media non-coverage. Each adjacency triggers a process question: what institution handled the event, what record did it create, what ordinary explanation accounts for the outcome, and what records or witness interviews would test what remains unresolved.
 
@@ -39,9 +41,9 @@ Personal history belongs in a separate lane. The records-first investigations sh
 
 The chronology uses abstracted exposure with limited disclosure. The author had public music and civic-technology visibility before these events, and some more sensitive background is intentionally withheld to protect privacy, safety, and third parties. That context explains why reputation and searchability matter. Later coordination, targeting, or restricted-information access would require actor-specific evidence.
 
-Readers should read each article as a procedural file: what record exists, what process acted, what ordinary explanation may apply, and what test would narrow the remaining dispute.
+Readers should read each article as a procedural file: what record exists, what process acted, what ordinary explanation may apply, and what records would resolve the remaining dispute.
 
-The same rule applies outside the site. A journalist, agency reviewer, attorney, or researcher should evaluate a claim through a single-file audit: one anomaly, one accountable process, one set of records, one list of ordinary explanations, and one short list of steps that would confirm, narrow, or falsify the claim.
+The same rule applies outside the site. A journalist, agency reviewer, attorney, or researcher should evaluate a claim through a single-file audit: one anomaly, one accountable process, one set of records, one list of ordinary explanations, and one short list of steps that would confirm, contradict, or explain the claim.
 
 How to read this site:
 
@@ -68,7 +70,7 @@ Welcome to Oʻahu Underground.
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/disclosures/cartography-for-guppies/},
-      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/cartography-for-guppies}}
+      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/cartography-for-guppies}}
     }
 
 **APA:**

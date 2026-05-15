@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS Record-Access Ontology
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns-gcts/record-access-ontology/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/record-access-ontology
+license: CC-BY-4.0
+abstract: Typed record-access states for missing, controlled, sealed, destroyed, unavailable,
+  and not-generated evidence.

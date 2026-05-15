@@ -1,15 +1,15 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: article
-title: 'Grounded Chiral Tensor Synthesis: Ranking Likely Truth When Evidence Is Missing'
+title: 'Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete'
 authors:
 - name: GTCode Editorial
 date-released: '2026-05-13'
 url: https://gtcode.com/articles/grounded-chiral-tensor-synthesis/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/grounded-chiral-tensor-synthesis
 license: CC-BY-4.0
-abstract: A public introduction to CNS 7.1 / GCTS, an access-aware framework for ranking
-  likely truth under contradictory, incomplete, and adversarial evidence.
+abstract: A public introduction to CNS 7.1 / GCTS, an access-aware research architecture
+  for ranking likely truth under contradictory, incomplete, and adversarial evidence.
 keywords:
 - Grounded Chiral Tensor Synthesis
 - CNS 7.1

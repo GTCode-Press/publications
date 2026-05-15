@@ -1,40 +1,13 @@
 # Tutorial Part 3: Running the Synthesis
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document details the process of running the core synthesis engine on a pair of conflicting Structured Narrative Objects (SNOs).
-
-PURPOSE:
-To demonstrate how the ChiralPairDetector identifies a candidate pair and the GenerativeSynthesisEngine produces a novel, higher-order synthesis from two conflicting SNOs.
-
-ROLE IN HIERARCHY:
-This is Part 3 of the "Plate Tectonics Synthesis" tutorial, showcasing the central synthesis step that follows SNO construction and precedes results analysis.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Generative Synthesis Engine:** The core component that performs the dialectical reasoning task.
-- **ChiralPairDetector:** The tool used to quantitatively assess the conflict and suitability of an SNO pair for synthesis.
-- **CScore (Chirality Score):** The key metric for measuring the degree of semantic opposition between two narratives.
-- **Dialectical Reasoning:** The process of resolving contradictions to form a new hypothesis.
-- **Quantitative Synthesis Validation:** The framework for collecting metrics to validate the synthesis process.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as the primary execution step in the tutorial. The process flows from identifying a conflicting pair with the ChiralPairDetector to generating a new narrative with the GenerativeSynthesisEngine. This is the central action of the CNS 2.0 framework.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 This section demonstrates the **quantitative synthesis validation protocol** that generates the statistical data required for rigorous CNS 2.0 validation. Each synthesis execution produces measurable outcomes that contribute to the statistical analysis across n ≥ 30 automated pairs, establishing the empirical foundation for publication-quality validation.
 
@@ -205,18 +178,18 @@ The single synthesis demonstrates the data generation methodology that DSPy will
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20253runningsynthesis_6c24,
+    @misc{gtcodeeditorial20263runningsynthesis_6c24,
       author  = {GTCode Editorial, },
       title   = {Tutorial Part 3: Running the Synthesis},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 3: Running the Synthesis. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis)
+GTCode Editorial (2026, May 15). Tutorial Part 3: Running the Synthesis. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 3: Running the Synthesis." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis.
+GTCode Editorial. "Tutorial Part 3: Running the Synthesis." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis.

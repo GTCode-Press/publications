@@ -1,40 +1,13 @@
 # Project 3: Human-AI Collaboration
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document details a specific research project on human-AI collaboration for the CNS 2.0 framework.
-
-PURPOSE:
-This file outlines the research project dedicated to studying, designing, and optimizing the interaction between human experts and the CNS 2.0 system to create a seamless and effective cognitive partnership.
-
-ROLE IN HIERARCHY:
-This is the third specific research project within the "Evaluation and Validation" research thrust of the main Research Roadmap.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Human-AI Collaboration:** The primary focus of the research.
-- **User Interface (UI) Design:** The development of effective interfaces for interacting with the system.
-- **Cognitive Load:** The measurement of the mental effort required by users.
-- **Explainable AI (XAI):** The methods for making the system's reasoning transparent to users.
-- **Trust Calibration:** The process of ensuring users have an appropriate level of trust in the system's outputs.
-
-AI PROCESSING DIRECTIVE:
-Treat this document as a detailed research proposal for designing and evaluating the user-facing aspects of the CNS 2.0 system. It outlines specific HCI and XAI methodologies for creating an effective, usable, and trustworthy cognitive partnership between human experts and the AI.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: Beyond Algorithmic Performance
 
@@ -96,18 +69,18 @@ This research will be a cornerstone of the CNS 2.0 project, ensuring we build a 
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20253humanai,
+    @misc{gtcodeeditorial20263humanai,
       author  = {GTCode Editorial, },
       title   = {Project 3: Human-AI Collaboration},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 3: Human-AI Collaboration. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration)
+GTCode Editorial (2026, May 15). Project 3: Human-AI Collaboration. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration)
 
 **Chicago:**
-GTCode Editorial. "Project 3: Human-AI Collaboration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration.
+GTCode Editorial. "Project 3: Human-AI Collaboration." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration.

@@ -1,38 +1,13 @@
 # Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** August 5, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document establishes the statistical framework for scaling the manual validation prototype (the plate tectonics case study) into a rigorous, statistically significant experiment.
-
-ROLE IN HIERARCHY:
-This is Chapter 2 of the "Research Roadmap," detailing the mathematical and procedural bridge between a single proof-of-concept and a large-scale, automated validation study.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Statistical Prototype Framework
-- Power Analysis
-- Effect Size
-- DSPy Automation
-- Minimum Viable Experiment
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as the detailed experimental protocol for the research project. It specifies the statistical methods, sample sizes, and automation framework (DSPy) used to ensure the research findings are valid and reproducible.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 This chapter establishes the statistical prototype framework that transforms our manual plate tectonics validation into a mathematically rigorous experimental design capable of generating statistically significant results across multiple historical scientific debates. The framework integrates power analysis, effect size calculations, and DSPy automation to scale from single-case validation to comprehensive empirical validation of the CNS dialectical synthesis engine.
 
@@ -175,18 +150,18 @@ This statistical framework ensures that the plate tectonics prototype scales to 
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter2minimum,
+    @misc{gtcodeeditorial2026chapter2minimum,
       author  = {GTCode Editorial, },
       title   = {Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/},
       note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment)
+GTCode Editorial (2026, May 15). Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment)
 
 **Chicago:**
-GTCode Editorial. "Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment.
+GTCode Editorial. "Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment.

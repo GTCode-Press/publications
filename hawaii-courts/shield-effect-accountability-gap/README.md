@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 26, 2025
-**Last Modified:** May 13, 2026
+**Last Modified:** May 15, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -13,7 +13,7 @@
 
 ### Legal Notice
 
-*This report documents alleged misconduct based on public records, court filings, and firsthand testimony. All individuals are presumed innocent. Firsthand claims are attributed to the complainant's account. Where conclusions depend on sealed records or unverified testimony, conditional language is used. This revision uses "shield effect" to describe the practical result of non-review: reports entered institutions, institutions acted or declined to act, and the combined effect was reduced accountability. RICO, criminal-enterprise, and centralized-coordination theories remain outside the article's public-record claim unless separately supported by statutory evidence.*
+*This report documents reported misconduct based on public records, court filings, and firsthand testimony. All individuals are presumed innocent. Firsthand claims are attributed to the complainant's account. Legal conclusions and third-party findings require records, witnesses, or adjudication beyond the complainant's account. This revision uses "shield effect" to describe the practical result of non-review: reports entered institutions, institutions acted or declined to act, and the combined effect was reduced accountability. RICO, criminal-enterprise, and centralized-coordination theories remain outside the article's public-record claim unless separately supported by statutory evidence.*
 
 ---
 
@@ -27,11 +27,11 @@ During cross-examination, the complainant asked the defendant a direct question:
 
 **Documentary evidence (submitted to court, sealed):** Prior to this question being asked, text message evidence had been submitted to the court file. According to the complainant, this evidence included a message in which the defendant acknowledged taking LSD — which, if the text reads as described, would provide the documentary predicate for the question.
 
-**Firsthand testimony (complainant's account, not independently verified):** According to the complainant, before the defendant answered, Judge Loo made an intentional non-verbal "no" gesture — a reported head movement and nose-scrunch — directed at the defendant. The defendant then denied under oath that he had provided LSD.
+**Firsthand testimony (complainant's account; outside review required for public corroboration):** According to the complainant, before the defendant answered, Judge Loo made an intentional non-verbal "no" gesture — a reported head movement and nose-scrunch — directed at the defendant. The defendant then denied under oath that he had provided LSD.
 
-**Public record (audio recording):** The complainant attempted to place the observed conduct on the record. His words began: "Let the record show that the judge just..." Judge Loo interrupted, stating **"Nah ah ah enough out of you!!"** The audio record captures the attempted objection, the interruption, and timing around the exchange. It cannot prove the visual signal. The visual allegation depends on eyewitness testimony, line-of-sight reconstruction, sealed-file review, and corroborating testimony from people in the room.
+**Public record (audio recording):** The complainant attempted to place the observed conduct on the record. His words began: "Let the record show that the judge just..." Judge Loo interrupted, stating **"Nah ah ah enough out of you!!"** The audio record captures the attempted objection, the interruption, and timing around the exchange. It cannot prove the visual signal. The visual report can be tested through eyewitness testimony, line-of-sight reconstruction, sealed-file review, and corroborating testimony from people in the room.
 
-If the account is accurate, a presiding judge signaled a sworn witness to deny a material fact and then cut off the party's attempt to preserve the signal on an audio-only record. That conduct would raise serious deprivation-of-rights questions under [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242), a statute the Supreme Court held applies to state judges in *United States v. Lanier* (1997). It may also raise subornation-of-perjury questions, but federal statutes such as 18 U.S.C. § 1622 have jurisdictional limits when the alleged perjury occurred in state court. The sealed court file and the audio record are the primary evidence bearing on this question.
+In the complainant's account, a presiding judge signaled a sworn witness to deny a material fact and then cut off the party's attempt to preserve the signal on an audio-only record. If records and witness testimony support that account, the conduct would raise serious deprivation-of-rights questions under [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242), a statute the Supreme Court held applies to state judges in *United States v. Lanier* (1997). It may also raise subornation-of-perjury questions, but federal statutes such as 18 U.S.C. § 1622 have jurisdictional limits when the alleged perjury occurred in state court. The sealed court file and the audio record are the primary evidence bearing on this question.
 
 The case was subsequently sealed.
 
@@ -45,7 +45,7 @@ The following evidence trail is documented across multiple sources. Each item is
 
 **Documentary evidence (submitted to court, sealed):** Text messages submitted to the court file reportedly show the defendant's involvement in the distribution of controlled substances, including LSD and cocaine. This evidence is in the sealed court file and is not independently accessible to the public.
 
-**Firsthand testimony (complainant's account):** The complainant reports an attempted vehicular assault on a country road, in which the defendant allegedly used a vehicle as a weapon. This incident was reported to HPD. The complainant's account has not been independently verified beyond the fact that a report was filed.
+**Firsthand testimony (complainant's account):** The complainant reports an attempted vehicular assault on a country road, in which the defendant used a vehicle as a weapon. This incident was reported to HPD. Outside review would test the account through HPD records, witness testimony, location evidence, and any available video or dispatch records.
 
 **Firsthand testimony (complainant's account):** The complainant reports a sustained pattern of stalking and harassment by the defendant, including references to the complainant's deceased parents. The complainant also reports that associates of the defendant, identified as Eugene and Rita Hartmann, made a direct threat that was reported to law enforcement and not investigated. According to the complainant's account, Eugene Hartmann told him to discontinue his investigation into the crimes he suspected, and Rita Hartmann then said, "or you'll be whacked."
 
@@ -57,7 +57,7 @@ The following evidence trail is documented across multiple sources. Each item is
 
 Ambient protection means deference that can arise from status without a phone call, order, agreement, or explicit intervention. It is a social-capital problem, not proof of coordination.
 
-According to the complainant, HPD personnel responded to reports about Judge Loo by calling him "honorable." That statement, if accurately reported, would not prove a conspiracy. It would be evidence of the deference problem this article examines: official intake can be shaped by reputation before any record is reviewed.
+According to the complainant, HPD personnel responded to reports about Judge Loo by calling him "honorable." That reported statement, standing alone, does not prove a conspiracy. It would be evidence of the deference problem this article examines: official intake can be shaped by reputation before any record is reviewed.
 
 This article does not allege that Warren Luke, the Federal Reserve, or any board directed police conduct. It asks whether status shaped how reports were received, whether primary evidence was reviewed, and whether ordinary intake records explain the non-response.
 
@@ -71,7 +71,7 @@ Ordinary explanations must be considered first. Police may decline to act becaus
 
 ### Law Enforcement
 
-**Firsthand testimony (complainant's account, corroborated by HPD report existence):** The complainant filed multiple reports with the Honolulu Police Department regarding the defendant's conduct, including the physical assault, the alleged vehicular assault, and the stalking campaign. Officers referenced in the complainant's account include **Officer Brandt** and **Officer Shatoo**.
+**Firsthand testimony (complainant's account, corroborated by HPD report existence):** The complainant filed multiple reports with the Honolulu Police Department regarding the defendant's conduct, including the physical assault, the reported vehicular assault, and the stalking campaign. Officers referenced in the complainant's account include **Officer Brandt** and **Officer Shatoo**.
 
 According to the complainant, the HPD report trail included a reported Starbucks physical assault, multiple reported vehicle-intimidation or vehicle-threat incidents between December 2021 and September 2022, a July 24, 2022 cease-and-desist email, a September 16, 2022 TRO submission, report identifiers 22-353421 and 22-365099, conflicting service information, and HPD safety advice to avoid PaaLaa Road. The complainant reports that the in-person encounters were coincidental while he was on foot or bicycle on main roads in Haleiwa.
 
@@ -89,7 +89,7 @@ The law-enforcement issue is system-level. Other articles in this series documen
 
 ### The Procedural Gap
 
-**Public record (court procedures):** The audio-only recording format of the December 2022 hearing created a structural condition in which any visual conduct — whether judicial signals, gestures, or facial expressions — would be unrecorded. If the complainant's account of a non-verbal signal is accurate, this procedural condition meant the most consequential act in the hearing left no trace in the official record.
+**Public record (court procedures):** The audio-only recording format of the December 2022 hearing created a structural condition in which any visual conduct — whether judicial signals, gestures, or facial expressions — would be unrecorded. In the complainant's account, this procedural condition meant the most consequential act in the hearing left no trace in the official record.
 
 The documented sequence shows a pattern in which multiple institutional responses — or non-responses — produced the practical effect of reduced accountability for the same individual. The available explanations include coordination, inertia, conflict avoidance, evidentiary difficulty, and independent failures; direct evidence is required to choose among them.
 
@@ -120,7 +120,7 @@ The available record supports the same structural outcome across multiple possib
 - Full audio of the December 2022 hearing
 
 **Dependent on firsthand testimony:**
-- The non-verbal judicial signal to the defendant before the perjured answer
+- The non-verbal judicial signal to the defendant before the disputed sworn denial
 - The attempted vehicular assault
 - The broader 2021-2022 HPD report, TRO-service, and non-response sequence involving the redacted witness
 - The Hartmann threat
@@ -132,13 +132,13 @@ Successor reporting examines specific elements of this case in greater detail: *
 
 ## Limits of the Public Record
 
-This article identifies public records, sealed-record-dependent claims, firsthand allegations, and unresolved questions about the protection effect created by non-review. The alleged visual signal, HPD or oversight coordination, and any RICO theory remain unresolved by public materials alone.
+This article identifies public records, sealed-record-dependent claims, firsthand reports, and unresolved questions about the protection effect created by non-review. The reported visual signal, HPD or oversight coordination, and any RICO theory remain unresolved by public materials alone.
 
 ## What Would Falsify This
 
-The structural thesis would be materially narrowed by production of HPD or Commission records showing substantive review of the primary evidence, public correction of the judicial-status discrepancy, or records showing that reported violence and intimidation were investigated on the merits.
+The structural thesis would change materially if HPD or Commission records showed substantive review of the primary evidence, public correction of the judicial-status discrepancy, or records showing that reported violence and intimidation were investigated on the merits.
 
-Material weakening or falsification of the courtroom allegation would require sealed-record review showing a materially different audio sequence; court-file review showing absence of the described exhibit or a materially different exhibit; production of a full record showing an uninterrupted attempted record statement; or credible, disinterested courtroom testimony contradicting the alleged visual signal while remaining consistent with timing, layout, line of sight, sealed audio, and the documentary record. A credible witness denial under proper questioning, with no other corroboration, may cause the courtroom allegation to fail.
+Material weakening or falsification of the courtroom report would require sealed-record review showing a materially different audio sequence; court-file review showing absence of the described exhibit or a materially different exhibit; production of a full record showing an uninterrupted attempted record statement; or credible, disinterested courtroom testimony contradicting the reported visual signal while remaining consistent with timing, layout, line of sight, sealed audio, and the documentary record. A credible witness denial under proper questioning, with no other corroboration, may leave the report without enough public corroboration for legal action.
 
 The record is public. The sealed file exists. The questions remain open.
 
@@ -155,7 +155,7 @@ The record is public. The sealed file exists. The questions remain open.
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/},
-      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap}}
+      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap}}
     }
 
 **APA:**

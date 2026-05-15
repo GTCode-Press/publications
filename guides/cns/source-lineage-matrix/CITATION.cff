@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 21 — Source Lineage Matrix
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/source-lineage-matrix/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-lineage-matrix
+license: CC-BY-4.0
+abstract: CNS 8.0 consolidates the earlier CNS line around the parts that support
+  the original mechanism.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

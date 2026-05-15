@@ -4,7 +4,7 @@ type: generic
 title: GCTS Architecture
 authors:
 - name: GTCode Editorial
-date-released: '2026-05-13'
+date-released: '2026-05-15'
 url: https://gtcode.com/guides/cns-gcts/architecture/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/architecture
 license: CC-BY-4.0

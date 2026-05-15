@@ -1,26 +1,29 @@
 # Adversarial Evidence And Access Modeling
 
 **Author:** GTCode Editorial
-**Published:** May 13, 2026
+**Published:** May 15, 2026
 **Canonical URL:** https://gtcode.com/guides/cns-gcts/adversarial-evidence/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-GCTS is designed for environments where evidence is limited, contradictory, or
-adversarially curated. The central discipline is simple: **absence has multiple
-states**.
+GCTS is designed for environments where evidence is limited, contradictory,
+controlled, or strategically curated. The central discipline is simple:
+**absence has structure**.
 
-## Five Absence States
+## Absence States
 
-1. **Absence of evidence:** no available supporting evidence has been found.
-2. **Evidence of absence:** an expected record or observation exists and
-   affirmatively negates the claim.
-3. **Inaccessible evidence:** the record may exist outside the runtime corpus.
-4. **Withheld evidence:** non-production is more likely under a withholding
-   world than under a benign-missingness world.
-5. **Not-generated evidence:** the record should not be expected to exist.
+| State | Meaning |
+| --- | --- |
+| Absence of evidence | No available supporting evidence has been found |
+| Evidence of absence | An expected record or observation exists and affirmatively negates the claim |
+| Inaccessible evidence | The record may exist outside the current access path |
+| Sealed evidence | The record exists or plausibly exists under restricted access |
+| Withheld evidence | Non-production is more likely under a withholding world than under benign missingness |
+| Destroyed evidence | The record existed or was expected and is no longer available |
+| Not-generated evidence | The record should not be expected to exist |
+| Unknown access | Current evidence cannot classify the access state |
 
 Only evidence of absence can directly penalize a claim as absent. Other states
 usually create access uncertainty, record contingencies, or competing worlds.
@@ -29,12 +32,13 @@ usually create access uncertainty, record contingencies, or competing worlds.
 
 For each expected record, GCTS models:
 
-- who controls it;
+- who owns it;
+- who controls production;
 - whether ordinary procedure would generate it;
-- whether it should be observable;
-- whether it was requested, produced, refused, partially produced, contradicted,
-  destroyed, sealed, or unavailable;
-- confidence in that access-state classification.
+- whether the event should be observable by that record system;
+- whether the record was requested, produced, refused, partially produced,
+  contradicted, destroyed, sealed, delayed, or unavailable;
+- confidence in the access-state classification.
 
 ## Incentive Features
 
@@ -64,6 +68,23 @@ up:
 
 Unsupported suppression hypotheses should increase parsimony penalty.
 
+## Selective Production
+
+Adversarial environments often produce some records while withholding,
+narrowing, delaying, or reframing others. GCTS should treat partial production
+as an observed production state with remaining access limits.
+
+Examples:
+
+- A roster is produced but the incident report is not.
+- A policy is produced but the compliance log is not.
+- Metadata is produced but content is withheld.
+- A summary is produced but source records are not.
+- A record appears only after an initial nonresponsive response.
+
+Selective production can support some claims while increasing access
+uncertainty around others.
+
 ## Output Requirements
 
 Any report involving missing or controlled evidence should state:
@@ -71,7 +92,8 @@ Any report involving missing or controlled evidence should state:
 - which records matter;
 - expected generation duty;
 - observed access state;
-- confidence in that classification;
+- production response;
+- confidence in the classification;
 - whether the claim is `record_contingent`;
 - what evidence would raise, lower, or resolve the claim ranking.
 
@@ -81,7 +103,7 @@ Any report involving missing or controlled evidence should state:
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026adversarialevidence,
+    @misc{gtcodeeditorial2026adversarialevidence_2f5c,
       author  = {GTCode Editorial, },
       title   = {Adversarial Evidence And Access Modeling},
       institution = {GTCode.com Guides},
@@ -92,7 +114,7 @@ Any report involving missing or controlled evidence should state:
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). Adversarial Evidence And Access Modeling. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/adversarial-evidence/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/adversarial-evidence)
+GTCode Editorial (2026, May 15). Adversarial Evidence And Access Modeling. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/adversarial-evidence/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/adversarial-evidence)
 
 **Chicago:**
-GTCode Editorial. "Adversarial Evidence And Access Modeling." *GTCode.com Guides*, May 13, 2026. https://gtcode.com/guides/cns-gcts/adversarial-evidence/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/adversarial-evidence.
+GTCode Editorial. "Adversarial Evidence And Access Modeling." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-gcts/adversarial-evidence/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/adversarial-evidence.

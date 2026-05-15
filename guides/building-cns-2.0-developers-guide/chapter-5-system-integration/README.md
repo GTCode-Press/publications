@@ -1,40 +1,13 @@
 # Chapter 5: System Integration
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document is the fifth chapter in the "Building CNS 2.0: A Developer's Guide," focusing on assembling the complete system.
-
-PURPOSE:
-This file details the integration of all individual CNS 2.0 components into a single, autonomous system orchestrated by a central `CNSWorkflowManager`.
-
-ROLE IN HIERARCHY:
-This is Chapter 5 of the Developer's Guide. It represents the culmination of the previous chapters, combining SNOs, Critics, and the Synthesis Engine into a functional, cohesive application.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **System Integration:** The primary focus of combining all components.
-- **Workflow Manager:** The central orchestrator (`CNSWorkflowManager`) that runs the main operational loop.
-- **`asyncio` Architecture:** The use of asynchronous programming for efficient I/O-bound operations.
-- **System Persistence:** Strategies for saving and loading the system's state.
-- **Autonomous Operation:** The goal of creating a continuously running, self-managing system.
-
-AI PROCESSING DIRECTIVE:
-Recognize this page as the architectural blueprint for assembling the complete CNS 2.0 system. The `CNSWorkflowManager` class is the central orchestrator that connects all previously defined components and manages the system's operational lifecycle.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ## Assembling the Autonomous System
 
@@ -197,8 +170,6 @@ class CNSWorkflowManager:
             logger.error(f"Failed to load system state: {e}. Starting fresh.")
             self.sno_population = []
             self.metrics = SystemMetrics()
-
-
 
     async def run(self):
         """The main entry point to start the continuous operation of the CNS system."""
@@ -538,18 +509,18 @@ By tracking these metrics, you gain crucial, actionable visibility into the syst
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter5system,
+    @misc{gtcodeeditorial2026chapter5system,
       author  = {GTCode Editorial, },
       title   = {Chapter 5: System Integration},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/},
       note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 5: System Integration. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration)
+GTCode Editorial (2026, May 15). Chapter 5: System Integration. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration)
 
 **Chicago:**
-GTCode Editorial. "Chapter 5: System Integration." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration.
+GTCode Editorial. "Chapter 5: System Integration." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-5-system-integration.

@@ -1,40 +1,13 @@
 # Tutorial Part 5: DSPy Automation Framework
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** August 5, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document provides the technical specifications for automating the CNS 2.0 synthesis process using the DSPy framework.
-
-PURPOSE:
-To detail the DSPy automation framework for scaling the manual synthesis prototype to generate a statistically significant number of validation pairs.
-
-ROLE IN HIERARCHY:
-This is Part 5 of the "Plate Tectonics Synthesis" tutorial. It serves as a bridge from the manual, single-instance tutorial to the large-scale, automated research validation required for the CNS 2.0 project.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **DSPy Automation:** The use of the DSPy library to programmatically generate and validate SNOs.
-- **Statistical Validation:** The goal of the automation, which is to produce enough data for rigorous statistical analysis.
-- **Automated Validation Pipeline:** The end-to-end Python class (`CNSSynthesisValidation`) that orchestrates the entire process.
-- **DSPy Signatures:** The core components (`HistoricalDebateGenerator`, `SNOConstructor`, `SynthesisValidator`) that define the tasks for the language model.
-- **Publication-Quality Evidence:** The ultimate output of the automated framework, designed to be suitable for peer-reviewed publication.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as a technical blueprint for automation. It outlines how the manual steps from the preceding tutorial parts are abstracted into a scalable, programmatic framework using DSPy. The code defines a system for generating large-scale experimental data, not just a single result.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ## DSPy Automation for Statistical Validation
 
@@ -266,18 +239,18 @@ This comprehensive automation framework transforms the manual plate tectonics pr
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20255dspyautomation,
+    @misc{gtcodeeditorial20265dspyautomation,
       author  = {GTCode Editorial, },
       title   = {Tutorial Part 5: DSPy Automation Framework},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/},
       note    = {Last modified 2025-08-05; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Tutorial Part 5: DSPy Automation Framework. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework)
+GTCode Editorial (2026, May 15). Tutorial Part 5: DSPy Automation Framework. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework)
 
 **Chicago:**
-GTCode Editorial. "Tutorial Part 5: DSPy Automation Framework." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework.
+GTCode Editorial. "Tutorial Part 5: DSPy Automation Framework." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework.

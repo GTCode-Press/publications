@@ -1,38 +1,13 @@
 # Project 2: Federated Learning and Privacy
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document outlines a research project to design a decentralized, privacy-preserving architecture for CNS 2.0 using federated learning and other cryptographic techniques.
-
-ROLE IN HIERARCHY:
-This file is the second chapter in the "Advanced Technical Research" section, proposing a major architectural evolution for the CNS 2.0 framework to handle sensitive data.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Federated Learning
-- Decentralized Architecture
-- Privacy-Preserving AI
-- Secure Multi-Party Computation (SMPC)
-- Zero-Knowledge Proofs (ZKPs)
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as a proposal for a future, privacy-focused version of CNS 2.0. The described federated architecture is a research goal and is not implemented in the current system.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: Synthesizing from Sensitive Data
 
@@ -92,18 +67,18 @@ A federated architecture for CNS 2.0 would be a groundbreaking achievement, repr
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20252federatedlearning,
+    @misc{gtcodeeditorial20262federatedlearning,
       author  = {GTCode Editorial, },
       title   = {Project 2: Federated Learning and Privacy},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 2: Federated Learning and Privacy. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy)
+GTCode Editorial (2026, May 15). Project 2: Federated Learning and Privacy. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy)
 
 **Chicago:**
-GTCode Editorial. "Project 2: Federated Learning and Privacy." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy.
+GTCode Editorial. "Project 2: Federated Learning and Privacy." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy.

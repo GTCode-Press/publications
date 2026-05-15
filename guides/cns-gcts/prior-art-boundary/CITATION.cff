@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS Prior-Art Boundary
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns-gcts/prior-art-boundary/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/prior-art-boundary
+license: CC-BY-4.0
+abstract: Closest neighboring systems and the conservative novelty posture for Grounded
+  Chiral Tensor Synthesis.

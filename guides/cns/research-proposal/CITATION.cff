@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 01 — CNS 8.0 Research Proposal
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/research-proposal/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/research-proposal
+license: CC-BY-4.0
+abstract: 'Chiral Narrative Synthesis 8.0: Grounded Dialectical Orthesis through Chiral
+  Tension, Evidential Entanglement, Tensor Logic, and Predicate Invention'
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Sample CNS 8.0 Audit Report
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/sample-audit-report/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/sample-audit-report
+license: CC-BY-4.0
+abstract: Claim C1 follows from evidence e1, e2 under rule rsupportsfromentailment.
+  Claim C2 follows from evidence e3 under rule rrefutesfromentailment.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

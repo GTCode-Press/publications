@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 08 — Language–Logic Bundle and Chirality
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/language-logic-bundle/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/language-logic-bundle
+license: CC-BY-4.0
+abstract: Semantic similarity does not imply logical compatibility. Two texts can
+  be semantically close because they discuss the same thing while logically opposing
+  each other. CNS 8.0 separates language from logic so that this...
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

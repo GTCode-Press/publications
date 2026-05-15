@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 28 — Validation Scenarios
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/validation-scenarios/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/validation-scenarios
+license: CC-BY-4.0
+abstract: high entanglement; low chirality; no synthesis required; possible merge/deduplication.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

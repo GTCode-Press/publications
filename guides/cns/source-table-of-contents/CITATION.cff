@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: CNS 8.0 Table of Contents
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/source-table-of-contents/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents
+license: CC-BY-4.0
+abstract: Original CNS 8.0 source package table of contents.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis

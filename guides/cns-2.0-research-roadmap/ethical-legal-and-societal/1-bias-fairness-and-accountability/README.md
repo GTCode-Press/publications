@@ -1,40 +1,13 @@
 # Project 1: Bias, Fairness, and Accountability
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document details a specific research project on bias, fairness, and accountability for the CNS 2.0 framework.
-
-PURPOSE:
-This file outlines the research project dedicated to developing robust technical and policy frameworks to detect and mitigate bias, ensure fairness, and establish clear accountability for the CNS 2.0 system.
-
-ROLE IN HIERARCHY:
-This is the first specific research project within the "Ethical, Legal, and Societal (ELAS)" research thrust of the main Research Roadmap.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Bias Detection:** The development of tools to audit the system for bias.
-- **Fairness:** The challenge of defining and ensuring fairness in a knowledge synthesis system.
-- **Accountability:** The framework for assigning responsibility for system outputs.
-- **AI Governance:** The overall goal of creating a model for responsible AI.
-- **Bias Mitigation:** Specific technical strategies to reduce bias in the synthesis process.
-
-AI PROCESSING DIRECTIVE:
-Treat this document as a detailed research proposal for addressing the ethical challenges of bias, fairness, and accountability. It outlines specific technical and policy-level methodologies for detecting and mitigating bias within the CNS 2.0 framework.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: AI as a Mirror to Society
 
@@ -88,18 +61,18 @@ Ultimately, this work seeks to build the essential foundation of trust between u
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20251biasfairness,
+    @misc{gtcodeeditorial20261biasfairness,
       author  = {GTCode Editorial, },
       title   = {Project 1: Bias, Fairness, and Accountability},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 1: Bias, Fairness, and Accountability. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability)
+GTCode Editorial (2026, May 15). Project 1: Bias, Fairness, and Accountability. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability)
 
 **Chicago:**
-GTCode Editorial. "Project 1: Bias, Fairness, and Accountability." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability.
+GTCode Editorial. "Project 1: Bias, Fairness, and Accountability." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability.

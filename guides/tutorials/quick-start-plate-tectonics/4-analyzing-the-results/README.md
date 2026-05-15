@@ -1,40 +1,13 @@
 # Part 4: Analyzing the Results
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document explains the two-part evaluation protocol for validating the generated synthesis in the "Quick Start" tutorial.
-
-PURPOSE:
-To demonstrate how to evaluate the generated synthesis using both quantitative scores from the Critic Pipeline and qualitative analysis against scientific consensus.
-
-ROLE IN HIERARCHY:
-This is Part 4 of the "Quick Start" tutorial, serving as the final analysis and conclusion of the tutorial workflow.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Results Analysis:** The primary focus of this page.
-- **Quantitative Evaluation:** The automated scoring of the synthesis using the `CriticPipeline`.
-- **Qualitative Analysis:** The comparison of the result to known scientific fact.
-- **Critic Pipeline:** The tool that provides scores for grounding, logic, and novelty.
-- **Scientific Consensus:** The ground truth used for the qualitative evaluation.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as the concluding evaluation step of the tutorial. It details how the output from the synthesis engine is validated, using a combination of internal, automated metrics and external, human-level comparison to ground truth. This represents the final quality check in the CNS 2.0 workflow.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 Once the synthesis engine generates a candidate SNO, the final step is to evaluate its quality. This is a two-part process: a quantitative evaluation performed by the system's "Critic" components, and a qualitative analysis where we compare the result to known scientific consensus.
 
@@ -112,18 +85,18 @@ This walk-through demonstrates the end-to-end process of using the synthesis eng
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20254analyzingresults_67af,
+    @misc{gtcodeeditorial20264analyzingresults_67af,
       author  = {GTCode Editorial, },
       title   = {Part 4: Analyzing the Results},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 4: Analyzing the Results. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results)
+GTCode Editorial (2026, May 15). Part 4: Analyzing the Results. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results)
 
 **Chicago:**
-GTCode Editorial. "Part 4: Analyzing the Results." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results.
+GTCode Editorial. "Part 4: Analyzing the Results." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results.

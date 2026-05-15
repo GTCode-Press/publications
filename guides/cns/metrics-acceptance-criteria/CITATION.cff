@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 13 — Metrics and Acceptance Criteria
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/metrics-acceptance-criteria/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/metrics-acceptance-criteria
+license: CC-BY-4.0
+abstract: Fraction of cited evidence references that resolve to known evidence atoms.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

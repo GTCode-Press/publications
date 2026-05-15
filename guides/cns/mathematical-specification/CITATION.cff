@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 04 — Mathematical Specification
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/mathematical-specification/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/mathematical-specification
+license: CC-BY-4.0
+abstract: Let \mathcal{T} be a tensor-logic space containing atoms, predicates, rules,
+  proof traces, and constraint states.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

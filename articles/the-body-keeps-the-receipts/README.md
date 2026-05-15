@@ -437,7 +437,6 @@ Yeager, D. S., Purdie-Vaughns, V., Hooper, S. Y., & Cohen, G. L. (2017). Loss of
 
 [^schurer-trajkovski-2019]: Schurer, S., & Trajkovski, K. (2019). Understanding the mechanisms through which adverse childhood experiences affect lifetime economic outcomes. *Labour Economics*, *61*, 101743. https://doi.org/10.1016/S0927-5371(19)30064-8
 
-
 [^smith-freyd-2013]: Smith, C. P., & Freyd, J. J. (2013). Dangerous safe havens: Institutional betrayal exacerbates sexual trauma. *Journal of Traumatic Stress*, *26*(1), 119-124. https://doi.org/10.1002/jts.21778
 
 [^smith-freyd-2014]: Smith, C. P., & Freyd, J. J. (2014). Institutional betrayal. *American Psychologist*, *69*(6), 575-587. https://doi.org/10.1037/a0037564

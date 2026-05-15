@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 20 — MVP Build Checklist
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/mvp-build/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/mvp-build
+license: CC-BY-4.0
+abstract: Small evidence corpus prepared. Synthetic latent-context dataset generated.
+  Train/dev/test split hashes recorded. Gold labels isolated from runtime.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

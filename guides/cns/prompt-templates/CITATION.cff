@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Prompt Templates
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/prompt-templates/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/prompt-templates
+license: CC-BY-4.0
+abstract: Bounded role prompts for the CNS 8.0 proposer, antagonist, synthesizer,
+  and auditor.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

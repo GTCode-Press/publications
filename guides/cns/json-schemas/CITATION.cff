@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: JSON Schemas
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/json-schemas/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/json-schemas
+license: CC-BY-4.0
+abstract: Source JSON schemas for SNO-8, evidence atoms, proof traces, and orthesis
+  reports.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

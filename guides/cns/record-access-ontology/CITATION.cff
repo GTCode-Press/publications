@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 09 — Grounding, Access, and Multiverse Views
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/record-access-ontology/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/record-access-ontology
+license: CC-BY-4.0
+abstract: Grounding, access states, and multiverse views constrain and explain synthesis.
+  They do not perform the synthesis step.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

@@ -1,38 +1,13 @@
 # 4. Analyzing the Optimized Module
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document analyzes the output of the DSPy optimizer, comparing the automatically generated prompt and its performance against a naive, hand-written prompt.
-
-ROLE IN HIERARCHY:
-This is the fourth and final step in the "DSPy Self-Optimization" tutorial, demonstrating the concrete benefits of the programmatic optimization approach.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Optimized Prompt
-- Performance Comparison
-- Few-Shot Examples
-- Chain-of-Thought Reasoning
-- Self-Optimization Benefits
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as the concluding chapter of a tutorial. It provides the "proof" of the concepts introduced in the previous steps by showing a side-by-side comparison of the results.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 After the DSPy compiler has finished its work, we are left with a new, optimized `compiled_synthesis_module`. But what has actually changed? And does it perform any better? In this final section, we'll inspect the results and run a comparison.
 
@@ -191,18 +166,18 @@ This self-optimization loop—where the system's own critics are used to improve
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20254analyzingoptimized.module,
+    @misc{gtcodeeditorial20264analyzingoptimized.module,
       author  = {GTCode Editorial, },
       title   = {4. Analyzing the Optimized Module},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 4. Analyzing the Optimized Module. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module)
+GTCode Editorial (2026, May 15). 4. Analyzing the Optimized Module. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module)
 
 **Chicago:**
-GTCode Editorial. "4. Analyzing the Optimized Module." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module.
+GTCode Editorial. "4. Analyzing the Optimized Module." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module.

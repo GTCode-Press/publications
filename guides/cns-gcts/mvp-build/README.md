@@ -1,7 +1,7 @@
 # GCTS MVP Build
 
 **Author:** GTCode Editorial
-**Published:** May 13, 2026
+**Published:** May 15, 2026
 **Canonical URL:** https://gtcode.com/guides/cns-gcts/mvp-build/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -9,9 +9,25 @@
 ---
 
 The GCTS MVP can be built without full custom model training. The first target
-is an auditable likely-truth engine that accepts a bounded corpus, extracts
-evidence and claims, models access states, enumerates worlds, and emits ranked
-reports.
+is an auditable decision-support prototype that accepts a bounded corpus,
+extracts evidence and claims, models access states, enumerates worlds, and emits
+ranked reports.
+
+## Product Boundary
+
+The MVP should be an **Evidence Accountability Workbench** focused on auditable
+evidence operations. The first useful product should help analysts organize
+evidence, identify record contingencies, preserve contradiction, and report what
+records would change the analysis.
+
+Initial users:
+
+- investigative researchers;
+- legal support teams;
+- compliance analysts;
+- journalists handling incomplete records;
+- internal auditors;
+- intelligence-style analytic teams.
 
 ## Phase 1: Local Prototype
 
@@ -31,8 +47,8 @@ Use existing models and explicit schemas:
   uncertainty, and next evidence.
 
 Fine-tuning is optional in Phase 1. If used, it should target extraction,
-evidence linking, access-state classification, and calibration rather than
-direct runtime truth judgment.
+evidence linking, access-state classification, and calibration. Direct runtime
+truth judgment stays outside model generation.
 
 ## Runtime Data Products
 
@@ -76,12 +92,39 @@ The first build succeeds only if it reaches:
   LLM debate baselines on grounding, uncertainty quality, and likely-truth
   ranking.
 
-## Implementation Boundary
+## First Repository Shape
 
-The MVP is a bounded, auditable decision support prototype for testing GCTS
-under controlled evidence and access conditions. It should say when evidence is
-insufficient, when a claim is record-contingent, and what record production
-would change the result.
+```text
+gcts-prototype/
+  gcts/
+    schemas.py
+    access_states.py
+    rules.py
+    worlds.py
+    scoring.py
+    statuses.py
+    audit.py
+  examples/
+    facility_incident/
+      evidence.json
+      records.json
+      claims.json
+  outputs/
+  README.md
+```
+
+## First Demonstration
+
+The first demo should show the same evidence under different access states:
+
+1. Available record.
+2. Inaccessible record.
+3. Withheld record.
+4. Not-generated record.
+5. Evidence of absence.
+
+The expected result is a visible status difference across runs, with strict
+proof, likely-truth posterior, and confidence reported separately.
 
 ---
 
@@ -89,7 +132,7 @@ would change the result.
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026mvpbuild,
+    @misc{gtcodeeditorial2026mvpbuild_d905,
       author  = {GTCode Editorial, },
       title   = {GCTS MVP Build},
       institution = {GTCode.com Guides},
@@ -100,7 +143,7 @@ would change the result.
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). GCTS MVP Build. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/mvp-build/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/mvp-build)
+GTCode Editorial (2026, May 15). GCTS MVP Build. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/mvp-build/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/mvp-build)
 
 **Chicago:**
-GTCode Editorial. "GCTS MVP Build." *GTCode.com Guides*, May 13, 2026. https://gtcode.com/guides/cns-gcts/mvp-build/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/mvp-build.
+GTCode Editorial. "GCTS MVP Build." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-gcts/mvp-build/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/mvp-build.

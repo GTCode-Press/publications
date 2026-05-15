@@ -4,7 +4,7 @@ type: article
 title: 'Harness Engineering: From Agent Prompts to Engineering Control Systems'
 authors:
 - name: GTCode Editorial
-date-released: '2026-05-13'
+date-released: '2026-05-15'
 url: https://gtcode.com/articles/harness-engineering/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering
 license: CC-BY-4.0

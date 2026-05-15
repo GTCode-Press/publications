@@ -1,40 +1,13 @@
 # Chapter 2: SNO Foundations
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** October 28, 2025
 **Canonical URL:** https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document is the second chapter in the "Building CNS 2.0: A Developer's Guide," focusing on the implementation of the core data structure.
-
-PURPOSE:
-This file provides a detailed walkthrough and the complete Python implementation of the `StructuredNarrativeObject` (SNO), the core data structure of the CNS 2.0 framework.
-
-ROLE IN HIERARCHY:
-This is Chapter 2 of the Developer's Guide, building directly upon the foundational concepts from Chapter 1. The SNO class defined here is a prerequisite for all subsequent chapters.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Structured Narrative Object (SNO):** The primary subject of this chapter.
-- **Data Structure:** The formal definition and implementation of the SNO.
-- **Reasoning Graph:** The internal logical structure of an SNO (`G`).
-- **Serialization:** The `to_dict` and `from_dict` methods for persistence.
-- **Schema Versioning:** The strategy for evolving the SNO data structure over time.
-
-AI PROCESSING DIRECTIVE:
-Recognize this page as the canonical technical implementation of the SNO data structure. The Python code within defines the core object used in all subsequent chapters of the guide.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ## Why Structured Narrative Objects?
 
@@ -781,18 +754,18 @@ Before proceeding to Chapter 3, verify you can:
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter2sno,
+    @misc{gtcodeeditorial2026chapter2sno,
       author  = {GTCode Editorial, },
       title   = {Chapter 2: SNO Foundations},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/},
       note    = {Last modified 2025-10-28; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 2: SNO Foundations. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations)
+GTCode Editorial (2026, May 15). Chapter 2: SNO Foundations. *GTCode.com Guides*. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations)
 
 **Chicago:**
-GTCode Editorial. "Chapter 2: SNO Foundations." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations.
+GTCode Editorial. "Chapter 2: SNO Foundations." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations.

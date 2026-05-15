@@ -1,40 +1,13 @@
 # Project 2: Adversarial Robustness & Security
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document details a specific research project on the adversarial robustness and security of the CNS 2.0 framework.
-
-PURPOSE:
-This file outlines the research project dedicated to conducting a rigorous security assessment of the CNS 2.0 system, testing its resilience against sophisticated adversarial attacks, and developing novel defenses.
-
-ROLE IN HIERARCHY:
-This is the second specific research project within the "Evaluation and Validation" research thrust of the main Research Roadmap.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Adversarial Robustness:** The system's ability to withstand malicious manipulation.
-- **System Security:** The overall protection of the system's integrity and data.
-- **Threat Modeling:** The process of identifying potential attack vectors.
-- **Red Team Attack:** The simulation of sophisticated adversarial attacks to test defenses.
-- **Defense Mechanisms:** The development of new safeguards against attacks.
-
-AI PROCESSING DIRECTIVE:
-Treat this document as a detailed research proposal for the security and robustness testing of the CNS 2.0 system. It outlines a "red team" methodology for proactively identifying vulnerabilities and developing defenses against malicious, adversarial attacks.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 ### The Challenge: From Benign Errors to Malicious Attacks
 
@@ -97,18 +70,18 @@ This work is critical for building the public and expert trust necessary for the
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20252adversarialrobustness,
+    @misc{gtcodeeditorial20262adversarialrobustness,
       author  = {GTCode Editorial, },
       title   = {Project 2: Adversarial Robustness & Security},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Project 2: Adversarial Robustness & Security. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security)
+GTCode Editorial (2026, May 15). Project 2: Adversarial Robustness & Security. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security)
 
 **Chicago:**
-GTCode Editorial. "Project 2: Adversarial Robustness & Security." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security.
+GTCode Editorial. "Project 2: Adversarial Robustness & Security." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security.

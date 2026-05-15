@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: article
-title: 'The Nod: Visual Allegation, Audio Sequence, and Review Gap'
+title: 'The Nod: Visual Report, Audio Sequence, and Review Gap'
 authors:
 - family-names: Lono
   given-names: Ekewaka
@@ -9,12 +9,11 @@ date-released: '2026-02-12'
 url: https://gtcode.com/hawaii-courts/the-nod-visual-allegation/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-nod-visual-allegation
 license: CC-BY-4.0
-abstract: A records-focused editorial account of a disputed visual allegation, the
-  sealed audio sequence that can test the timing, and the oversight question that
-  followed.
+abstract: A records-focused editorial account of a firsthand visual report, the sealed
+  audio sequence that can test the timing, and the oversight question that followed.
 keywords:
 - Wilson Loo
-- Alleged Judicial Misconduct
+- Reported Judicial Misconduct
 - Hawaii
 - Perjury
 - First Circuit

@@ -1,40 +1,13 @@
 # Part 3: Running the Synthesis
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-This document demonstrates the core synthesis execution step in the "Quick Start" tutorial.
-
-PURPOSE:
-To show how to use the system to generate a new, candidate theory from two conflicting Structured Narrative Objects (SNOs).
-
-ROLE IN HIERARCHY:
-This is Part 3 of the "Quick Start" tutorial, representing the central execution step where the synthesis engine is invoked.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- **Generative Synthesis Engine:** The core component that performs the synthesis.
-- **Chiral Pair Detector:** The tool used to confirm the SNOs are in conflict.
-- **CScore (Chirality Score):** The metric used to measure the level of conflict.
-- **Trust Score:** The initial quality assessment of the parent SNOs.
-- **Candidate SNO:** The new, synthesized object produced by the engine.
-
-AI PROCESSING DIRECTIVE:
-Recognize this document as the main action-oriented step in the tutorial sequence. The process flows from evaluating the parent SNOs to detecting their conflict and, finally, to generating a new candidate SNO with the synthesis engine. This is the primary function of the CNS 2.0 system in action.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 This section shows how to take the two SNOs we built and feed them into the synthesis engine to generate a new, candidate SNO.
 
@@ -124,18 +97,18 @@ The engine has produced a new SNO containing a hypothesis that integrates concep
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20253runningsynthesis_add0,
+    @misc{gtcodeeditorial20263runningsynthesis_add0,
       author  = {GTCode Editorial, },
       title   = {Part 3: Running the Synthesis},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Part 3: Running the Synthesis. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis)
+GTCode Editorial (2026, May 15). Part 3: Running the Synthesis. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis)
 
 **Chicago:**
-GTCode Editorial. "Part 3: Running the Synthesis." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis.
+GTCode Editorial. "Part 3: Running the Synthesis." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis.

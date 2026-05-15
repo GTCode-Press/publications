@@ -1,38 +1,13 @@
 # 2. Defining the Task for DSPy
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document provides a code-heavy, practical guide to defining a task for the DSPy framework by setting up its three core components: the Signature, the Metric, and the training Examples.
-
-ROLE IN HIERARCHY:
-This is the second, implementation-focused step in the "DSPy Self-Optimization" tutorial. It translates the concepts from the introduction into concrete Python code.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- DSPy Signature
-- DSPy Metric
-- DSPy Examples
-- Task Definition
-- Critic Pipeline Integration
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as a sequential step in a tutorial. The code blocks are central to this document and demonstrate the practical setup required before running the DSPy optimizer.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 Before we can optimize our synthesis module, we need to formally define the task for DSPy. This involves three key components:
 
@@ -155,18 +130,18 @@ With our `Signature`, `Metric`, and `Examples` defined, we now have a fully spec
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial20252definingtask,
+    @misc{gtcodeeditorial20262definingtask,
       author  = {GTCode Editorial, },
       title   = {2. Defining the Task for DSPy},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). 2. Defining the Task for DSPy. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task)
+GTCode Editorial (2026, May 15). 2. Defining the Task for DSPy. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task)
 
 **Chicago:**
-GTCode Editorial. "2. Defining the Task for DSPy." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task.
+GTCode Editorial. "2. Defining the Task for DSPy." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/2-defining-the-task.

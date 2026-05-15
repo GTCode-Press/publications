@@ -1,7 +1,7 @@
 # GCTS Architecture
 
 **Author:** GTCode Editorial
-**Published:** May 13, 2026
+**Published:** May 15, 2026
 **Canonical URL:** https://gtcode.com/guides/cns-gcts/architecture/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -10,7 +10,7 @@
 
 GCTS is an evidence-first pipeline. LLMs may propose extractions or render
 reports, but truth ranking is produced by structured evidence, access modeling,
-rule closure, and world scoring.
+rule closure, possible-world scoring, and calibrated parameters.
 
 ```mermaid
 flowchart TD
@@ -33,6 +33,18 @@ flowchart TD
   K --> L[Synthesizer /<br/>Renderer]
   L --> M[Audit + Report]
 ```
+
+## Where GCTS Differs From Standard Fact Verification
+
+| Standard pipeline | GCTS addition |
+| --- | --- |
+| Retrieve evidence | Model expected-but-unproduced records |
+| Classify support/refute/insufficient evidence | Rank claims across access-aware possible worlds |
+| Attach citations | Preserve provenance, access path, and production history |
+| Estimate confidence | Separate posterior mass, strict proof support, and confidence |
+| Resolve contradiction | Preserve contradiction residuals and competing worlds |
+| Treat missing evidence as weak support | Classify absence by duty, observability, control, access state, and production response |
+| Use model judgment as answer | Enforce runtime oracle-boundary controls |
 
 ## Core Modules
 
@@ -82,19 +94,21 @@ rules, soft closure for hypotheses, proof traces, and contradiction structure.
 ### World Builder And Ranker
 
 The world builder enumerates or searches possible worlds with alternative
-assumptions, contexts, and missingness hypotheses. The ranker computes:
+assumptions, contexts, access states, missingness hypotheses, and
+institutional-incentive hypotheses. The ranker computes:
 
 - world posterior mass;
 - claim likely-truth rankings;
 - strict support mass;
 - confidence;
-- uncertainty decomposition.
+- uncertainty decomposition;
+- record-contingency notes.
 
 ### Synthesizer / Renderer
 
 The renderer produces top-K worlds and natural-language reports with proof
-links, evidence links, access-contingency notes, and calibrated hedging. It must
-refuse unsupported strict claims.
+links, evidence links, access-contingency notes, calibrated hedging, and next
+record requirements. It must refuse unsupported strict claims.
 
 ## Data Flow
 
@@ -107,11 +121,12 @@ refuse unsupported strict claims.
    links.
 5. Rules compile verified claims, relations, and access states into a proof
    substrate.
-6. Worlds are generated from alternative assumptions, contexts, and missingness
-   hypotheses.
+6. Worlds are generated from alternative assumptions, contexts, access models,
+   and missingness hypotheses.
 7. Worlds are ranked by evidence support, contradiction energy, parsimony,
-   source reliability, and access coherence.
-8. The renderer outputs ranked alternatives and collapses to a single answer
+   source reliability, source risk, and access coherence.
+8. Claims receive posterior mass, strict proof support, confidence, and status.
+9. The renderer outputs ranked alternatives and collapses to a single answer
    only when uncertainty is low.
 
 ## Audit Artifacts
@@ -124,7 +139,7 @@ metrics report.
 
 If any strict gate fails, no strict promoted truth claim is produced. The report
 uses statuses such as `unsupported`, `record_contingent`, `conflicted`, or
-`insufficient evidence` and lists missing records, access constraints, and next
+`insufficient_evidence` and lists missing records, access constraints, and next
 collection actions.
 
 ---
@@ -133,7 +148,7 @@ collection actions.
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2026architecture,
+    @misc{gtcodeeditorial2026architecture_8562,
       author  = {GTCode Editorial, },
       title   = {GCTS Architecture},
       institution = {GTCode.com Guides},
@@ -144,7 +159,7 @@ collection actions.
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). GCTS Architecture. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/architecture/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/architecture)
+GTCode Editorial (2026, May 15). GCTS Architecture. *GTCode.com Guides*. https://gtcode.com/guides/cns-gcts/architecture/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/architecture)
 
 **Chicago:**
-GTCode Editorial. "GCTS Architecture." *GTCode.com Guides*, May 13, 2026. https://gtcode.com/guides/cns-gcts/architecture/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/architecture.
+GTCode Editorial. "GCTS Architecture." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-gcts/architecture/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/architecture.

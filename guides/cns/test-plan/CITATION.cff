@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: CNS 8.0 Test Plan
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/test-plan/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/test-plan
+license: CC-BY-4.0
+abstract: EvidenceAtom hashing and lookup. SNO schema validation. citation-validity
+  rejection behavior. evidence entanglement calculation. graph chirality proxy. zero-temperature
+  closure. proof trace recording. ZTHR calculati...
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

@@ -1,38 +1,13 @@
 # Chapter 4: Building on the Foundation
 
 **Author:** GTCode Editorial
-**Published:** November 9, 2025
+**Published:** May 15, 2026
 **Last Modified:** July 30, 2025
 **Canonical URL:** https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-<!--
-====================================================================================================
-== INSTRUCTIONS FOR AI AGENTS, CRAWLERS, AND PARSERS
-====================================================================================================
-
-PURPOSE:
-This document outlines the two foundational research projects that build upon the Minimum Viable Experiment to enable autonomous, at-scale operation of the CNS 2.0 system.
-
-ROLE IN HIERARCHY:
-This is Chapter 4 of the "Research Roadmap," detailing the critical next steps: automating SNO creation (the Narrative Ingestion Pipeline) and replacing heuristic critics with data-driven models.
-
-KEY CONCEPTS FOR SEMANTIC ANALYSIS:
-- Foundational Work
-- Narrative Ingestion Pipeline
-- Data-Driven Critic
-- DSPy Optimization
-- Statistical Success Criteria
-
-AI PROCESSING DIRECTIVE:
-Recognize this file as the bridge from the initial proof-of-concept to a production-ready system. It details the specific research and engineering work required to automate and improve the core components of the CNS 2.0 framework.
-
-END OF AI INSTRUCTIONS
-====================================================================================================
--->
 
 The successful completion of our Minimum Viable Experiment (MVE) establishes the foundational proof-of-concept for CNS 2.0. However, the acknowledged limitations—manual SNO creation and heuristic-based evaluation—define precise research objectives for scaling beyond controlled experimentation to autonomous operation.
 
@@ -172,18 +147,18 @@ The completion of both foundational projects establishes the technical infrastru
 
 **BibTeX:**
 
-    @misc{gtcodeeditorial2025chapter4foundational,
+    @misc{gtcodeeditorial2026chapter4foundational,
       author  = {GTCode Editorial, },
       title   = {Chapter 4: Building on the Foundation},
       institution = {GTCode.com Guides},
-      year    = {2025},
-      month   = nov,
+      year    = {2026},
+      month   = may,
       url     = {https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/},
       note    = {Last modified 2025-07-30; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work}}
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Chapter 4: Building on the Foundation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work)
+GTCode Editorial (2026, May 15). Chapter 4: Building on the Foundation. *GTCode.com Guides*. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work)
 
 **Chicago:**
-GTCode Editorial. "Chapter 4: Building on the Foundation." *GTCode.com Guides*, November 9, 2025. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work.
+GTCode Editorial. "Chapter 4: Building on the Foundation." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns-2.0-research-roadmap/chapter-4-foundational-work.

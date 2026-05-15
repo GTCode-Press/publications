@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 19 — Runtime Oracle Boundary Policy
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/oracle-boundary/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/oracle-boundary
+license: CC-BY-4.0
+abstract: CNS 8.0 can use oracles during training and evaluation. Runtime analysis
+  cannot use hidden labels, answer keys, or LLM judgments.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

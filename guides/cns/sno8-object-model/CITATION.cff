@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 05 — SNO-8 Object Model
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/sno8-object-model/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/sno8-object-model
+license: CC-BY-4.0
+abstract: A claim is not promoted unless it has evidence status and proof status.
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

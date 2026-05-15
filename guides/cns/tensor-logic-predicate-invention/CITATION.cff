@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 07 — Tensor Logic and Predicate Invention
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/tensor-logic-predicate-invention/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/tensor-logic-predicate-invention
+license: CC-BY-4.0
+abstract: CNS needs a proof substrate that can operate over evidence-linked claims
+  and relations. Tensor logic gives CNS a way to express rules as tensor contractions
+  and closures. This allows strict proof paths for claims that...
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict

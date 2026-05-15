@@ -1,7 +1,7 @@
 # Harness Engineering: From Agent Prompts to Engineering Control Systems
 
 **Author:** GTCode Editorial
-**Published:** May 13, 2026
+**Published:** May 15, 2026
 **Canonical URL:** https://gtcode.com/articles/harness-engineering/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -2553,7 +2553,6 @@ That is the difference between agentic code generation and agentic software engi
 
 [^agents-md]: AGENTS.md official site, *A simple, open format for guiding coding agents*. [https://agents.md/](https://agents.md/)
 
-
 [^mcp]: Model Context Protocol documentation, *Introduction*. [https://modelcontextprotocol.io/docs/getting-started/intro](https://modelcontextprotocol.io/docs/getting-started/intro)
 
 [^github-agents]: Matt Nigh, GitHub Blog, *How to write a great agents.md: Lessons from over 2,500 repositories*, November 19, 2025; updated November 25, 2025. [https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/](https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/)
@@ -2591,7 +2590,7 @@ That is the difference between agentic code generation and agentic software engi
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). Harness Engineering: From Agent Prompts to Engineering Control Systems. *GTCode.com Articles*. https://gtcode.com/articles/harness-engineering/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering)
+GTCode Editorial (2026, May 15). Harness Engineering: From Agent Prompts to Engineering Control Systems. *GTCode.com Articles*. https://gtcode.com/articles/harness-engineering/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering)
 
 **Chicago:**
-GTCode Editorial. "Harness Engineering: From Agent Prompts to Engineering Control Systems." *GTCode.com Articles*, May 13, 2026. https://gtcode.com/articles/harness-engineering/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering.
+GTCode Editorial. "Harness Engineering: From Agent Prompts to Engineering Control Systems." *GTCode.com Articles*, May 15, 2026. https://gtcode.com/articles/harness-engineering/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering.

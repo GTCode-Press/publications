@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 03 — Core Theory
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns/theory/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns/theory
+license: CC-BY-4.0
+abstract: H is the central hypothesis or account embedding. G= is a typed reasoning
+  graph. E is the evidence set attached to claims and relations. A is the record-access
+  state set. P is a proof-trace bundle. R is a residual con...
+keywords:
+- CNS 8.0
+- Chiral Narrative Synthesis
+- Grounded Dialectical Orthesis
+- Structured Narrative Objects
+- orthesis
+- tensor logic
+- predicate invention
+- chiral conflict
