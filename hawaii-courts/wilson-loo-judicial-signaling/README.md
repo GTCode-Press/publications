@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** June 12, 2025
-**Last Modified:** May 13, 2026
+**Last Modified:** May 15, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -14,8 +14,8 @@
 ### Legal Notice
 
 This report represents a good faith effort to document and disclose matters of serious public concern.
-All factual assertions are made with a reasonable basis and sincere belief in their truth, supported by
-firsthand observation or authenticated documentation. All individuals mentioned are presumed innocent
+All factual assertions are grounded in a reasonable basis: firsthand observation, authenticated
+documentation, or clearly labeled inference. All individuals mentioned are presumed innocent
 unless proven guilty in a court of law. This disclosure follows multiple attempts to address these
 issues through official channels.
 
@@ -306,7 +306,7 @@ regarding factual assertions may be directed to the author.
       year    = {2025},
       month   = jun,
       url     = {https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/},
-      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
+      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
     }
 
 **APA:**
