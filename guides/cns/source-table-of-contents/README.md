@@ -1,7 +1,8 @@
 # CNS 8.0 Table of Contents
 
 **Author:** GTCode Editorial
-**Published:** May 15, 2026
+**Published:** May 17, 2026
+**Last Modified:** May 15, 2026
 **Canonical URL:** https://gtcode.com/guides/cns/source-table-of-contents/
 **Section:** Guides
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -12,54 +13,54 @@
 
 ## Core docs
 
-1. [Research Proposal](docs/01_research_proposal.md)
-2. [Lineage Repair Audit](docs/02_lineage_repair_audit.md)
-3. [Core Theory](docs/03_core_theory.md)
-4. [Mathematical Specification](docs/04_mathematical_specification.md)
-5. [SNO-8 Object Model](docs/05_sno8_object_model.md)
-6. [Dialectical Agent Architecture](docs/06_dialectical_agent_architecture.md)
-7. [Tensor Logic and Predicate Invention](docs/07_tensor_logic_predicate_invention.md)
-8. [Language–Logic Bundle and Chirality](docs/08_language_logic_bundle.md)
-9. [Grounding, Access, and Multiverse Views](docs/09_grounding_access_multiverse.md)
-10. [LLM and Fine-Tuning Strategy](docs/10_llm_finetuning_strategy.md)
-11. [Implementation Plan](docs/11_implementation_plan.md)
-12. [Experiment and Evaluation Plan](docs/12_experiment_evaluation_plan.md)
-13. [Metrics and Acceptance Criteria](docs/13_metrics_acceptance_criteria.md)
-14. [Prior Art and Contribution Boundary](docs/14_prior_art_novelty_boundary.md)
-15. [Risk Register and Failure Modes](docs/15_risk_register.md)
-16. [Publication Plan](docs/16_publication_plan.md)
-17. [Glossary](docs/17_glossary.md)
+1. [Research Proposal](https://gtcode.com/guides/cns/research-proposal/)
+2. [Lineage Repair Audit](https://gtcode.com/guides/cns/lineage-repair-audit/)
+3. [Core Theory](https://gtcode.com/guides/cns/theory/)
+4. [Mathematical Specification](https://gtcode.com/guides/cns/mathematical-specification/)
+5. [SNO-8 Object Model](https://gtcode.com/guides/cns/sno8-object-model/)
+6. [Dialectical Agent Architecture](https://gtcode.com/guides/cns/architecture/)
+7. [Tensor Logic and Predicate Invention](https://gtcode.com/guides/cns/tensor-logic-predicate-invention/)
+8. [Language–Logic Bundle and Chirality](https://gtcode.com/guides/cns/language-logic-bundle/)
+9. [Grounding, Access, and Multiverse Views](https://gtcode.com/guides/cns/record-access-ontology/)
+10. [LLM and Fine-Tuning Strategy](https://gtcode.com/guides/cns/llm-finetuning-strategy/)
+11. [Implementation Plan](https://gtcode.com/guides/cns/implementation-plan/)
+12. [Experiment and Evaluation Plan](https://gtcode.com/guides/cns/experiments/)
+13. [Metrics and Acceptance Criteria](https://gtcode.com/guides/cns/metrics-acceptance-criteria/)
+14. [Prior Art and Contribution Boundary](https://gtcode.com/guides/cns/prior-art-boundary/)
+15. [Risk Register and Failure Modes](https://gtcode.com/guides/cns/adversarial-evidence/)
+16. [Publication Plan](https://gtcode.com/guides/cns/publication-plan/)
+17. [Glossary](https://gtcode.com/guides/cns/glossary/)
 
 ## Supporting resources
 
-- [Worked Example](examples/worked_example_cns8.md)
-- [Architecture Diagram Notes](docs/18_architecture_diagram_notes.md)
-- [Runtime Oracle Boundary Policy](docs/19_oracle_boundary_policy.md)
-- [MVP Build Checklist](docs/20_mvp_build_checklist.md)
-- [Experiment Matrix](experiments/experiment_matrix.yaml)
-- [Ablation Suite](experiments/ablation_suite.yaml)
-- [CNS 8.0 Config](configs/cns8_mvp.yaml)
-- [Prompt Templates](prompts/)
-- [Schemas](schemas/)
-- [Python Sketches](sketches/)
-- [Annotated References](refs/annotated_references.md)
-- [BibTeX](refs/bibliography.bib)
+- [Worked Example](https://gtcode.com/guides/cns/worked-example/)
+- [Architecture Diagram Notes](https://gtcode.com/guides/cns/architecture-diagram-notes/)
+- [Runtime Oracle Boundary Policy](https://gtcode.com/guides/cns/oracle-boundary/)
+- [MVP Build Checklist](https://gtcode.com/guides/cns/mvp-build/)
+- [Experiment Matrix](https://gtcode.com/guides/cns/experiment-resources/)
+- [Ablation Suite](https://gtcode.com/guides/cns/experiment-resources/)
+- [CNS 8.0 Config](https://gtcode.com/guides/cns/runtime-configuration/)
+- [Prompt Templates](https://gtcode.com/guides/cns/prompt-templates/)
+- [Schemas](https://gtcode.com/guides/cns/json-schemas/)
+- [Python Sketches](https://gtcode.com/guides/cns/python-sketches/)
+- [Annotated References](https://gtcode.com/guides/cns/references/)
+- [BibTeX](https://gtcode.com/guides/cns/references/)
 
 ## Additional specification docs
 
-21. [Source Lineage Matrix](docs/21_source_lineage_matrix.md)
-22. [Theory Claims, Assumptions, and Theorem Sketches](docs/22_theory_claims_assumptions.md)
-23. [Data and Run Manifest Specification](docs/23_data_and_run_manifest.md)
-24. [Dashboard and Audit UI Plan](docs/24_dashboard_audit_ui.md)
-25. [Repository Layout](docs/25_repository_layout.md)
-26. [Human Review Protocol](docs/26_human_review_protocol.md)
-27. [Naming and Substrate Policy](docs/27_naming_and_substrate_policy.md)
-28. [Validation Scenarios](docs/28_validation_scenarios.md)
+21. [Source Lineage Matrix](https://gtcode.com/guides/cns/source-lineage-matrix/)
+22. [Theory Claims, Assumptions, and Theorem Sketches](https://gtcode.com/guides/cns/theory-claims-assumptions/)
+23. [Data and Run Manifest Specification](https://gtcode.com/guides/cns/data-and-run-manifest/)
+24. [Dashboard and Audit UI Plan](https://gtcode.com/guides/cns/dashboard-audit-ui/)
+25. [Repository Layout](https://gtcode.com/guides/cns/repository-layout/)
+26. [Human Review Protocol](https://gtcode.com/guides/cns/human-review-protocol/)
+27. [Naming and Substrate Policy](https://gtcode.com/guides/cns/naming-and-substrate-policy/)
+28. [Validation Scenarios](https://gtcode.com/guides/cns/validation-scenarios/)
 
 ## Test planning
 
-- [Test Plan](tests/test_plan.md)
-- [Sample Audit Report](examples/sample_audit_report.md)
+- [Test Plan](https://gtcode.com/guides/cns/test-plan/)
+- [Sample Audit Report](https://gtcode.com/guides/cns/sample-audit-report/)
 
 ---
 
@@ -74,11 +75,11 @@
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/guides/cns/source-table-of-contents/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents}}
+      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents}}
     }
 
 **APA:**
-GTCode Editorial (2026, May 15). CNS 8.0 Table of Contents. *GTCode.com Guides*. https://gtcode.com/guides/cns/source-table-of-contents/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents)
+GTCode Editorial (2026, May 17). CNS 8.0 Table of Contents. *GTCode.com Guides*. https://gtcode.com/guides/cns/source-table-of-contents/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents)
 
 **Chicago:**
-GTCode Editorial. "CNS 8.0 Table of Contents." *GTCode.com Guides*, May 15, 2026. https://gtcode.com/guides/cns/source-table-of-contents/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents.
+GTCode Editorial. "CNS 8.0 Table of Contents." *GTCode.com Guides*, May 17, 2026. https://gtcode.com/guides/cns/source-table-of-contents/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/cns/source-table-of-contents.
