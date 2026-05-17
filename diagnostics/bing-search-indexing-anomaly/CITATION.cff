@@ -9,8 +9,9 @@ date-released: '2026-02-13'
 url: https://gtcode.com/diagnostics/bing-search-indexing-anomaly/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/diagnostics/bing-search-indexing-anomaly
 license: CC-BY-4.0
-abstract: Evidence from Bing Webmaster Tools and public search results showing contradictory
-  diagnostics and later partial visibility of gtcode.com. Cause remains unresolved.
+abstract: Evidence from Bing Webmaster Tools and public Bing search showing contradictory
+  diagnostics, transient partial visibility, and a May 17, 2026 return to zero visible
+  site-search results for gtcode.com. Bing has not explained why.
 keywords:
 - Bing
 - Search-Index Anomaly
