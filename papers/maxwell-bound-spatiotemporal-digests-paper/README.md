@@ -2,7 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** April 1, 2026
-**Last Modified:** April 2, 2026
+**Last Modified:** May 23, 2026
 **Canonical URL:** https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/
 **Section:** Research Papers
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -1401,7 +1401,7 @@ That is a bounded claim. It is also, at least for now, a useful one.
       year    = {2026},
       month   = apr,
       url     = {https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/},
-      note    = {Last modified 2026-04-02; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/maxwell-bound-spatiotemporal-digests-paper}}
+      note    = {Last modified 2026-05-23; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/maxwell-bound-spatiotemporal-digests-paper}}
     }
 
 **APA:**

@@ -2,7 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** December 20, 2025
-**Last Modified:** January 29, 2026
+**Last Modified:** May 23, 2026
 **Canonical URL:** https://gtcode.com/papers/geometric-publish-subscribe/
 **Section:** Research Papers
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -605,7 +605,7 @@ Agent B can manually reset threshold if missing important messages.
       year    = {2025},
       month   = dec,
       url     = {https://gtcode.com/papers/geometric-publish-subscribe/},
-      note    = {Last modified 2026-01-29; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe}}
+      note    = {Last modified 2026-05-23; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe}}
     }
 
 **APA:**

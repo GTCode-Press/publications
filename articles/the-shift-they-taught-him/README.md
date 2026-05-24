@@ -264,7 +264,7 @@ No one came.
 
 This is the record they failed to make.
 
-**GTCode.com Member of the Technical Staff**
+**GTCode.com**
 
 ---
 
