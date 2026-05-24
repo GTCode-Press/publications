@@ -1,7 +1,7 @@
 # Harness Engineering: From Agent Prompts to Engineering Control Systems
 
 **Author:** GTCode Editorial
-**Published:** May 15, 2026
+**Published:** May 23, 2026
 **Canonical URL:** https://gtcode.com/articles/harness-engineering/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -2590,7 +2590,7 @@ That is the difference between agentic code generation and agentic software engi
     }
 
 **APA:**
-GTCode Editorial (2026, May 15). Harness Engineering: From Agent Prompts to Engineering Control Systems. *GTCode.com Articles*. https://gtcode.com/articles/harness-engineering/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering)
+GTCode Editorial (2026, May 23). Harness Engineering: From Agent Prompts to Engineering Control Systems. *GTCode.com Articles*. https://gtcode.com/articles/harness-engineering/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering)
 
 **Chicago:**
-GTCode Editorial. "Harness Engineering: From Agent Prompts to Engineering Control Systems." *GTCode.com Articles*, May 15, 2026. https://gtcode.com/articles/harness-engineering/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering.
+GTCode Editorial. "Harness Engineering: From Agent Prompts to Engineering Control Systems." *GTCode.com Articles*, May 23, 2026. https://gtcode.com/articles/harness-engineering/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering.
