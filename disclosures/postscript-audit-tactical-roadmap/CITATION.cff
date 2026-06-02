@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Postscript of the Audit: Systems-Level Defenses and Tactical Roadmaps'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-06-01'
+url: https://gtcode.com/disclosures/postscript-audit-tactical-roadmap/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/disclosures/postscript-audit-tactical-roadmap
+license: CC-BY-4.0
+abstract: Systems-level analysis and tactical roadmap for secondary reviewers of the
+  Oahu Underground Archive.
+keywords:
+- Oahu Underground
+- Methodology
+- Postscript
+- Review Protocol
+- Hawaii
