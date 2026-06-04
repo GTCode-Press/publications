@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Capability, the Culture, and the Void: Google''s Architecture of Unauditable
+  Psychological Harm'
+authors:
+- name: GTCode Editorial
+date-released: '2026-06-03'
+url: https://gtcode.com/articles/google-unauditable-psychological-harm/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/google-unauditable-psychological-harm
+license: CC-BY-4.0
+abstract: A disciplined evidentiary analysis of how Google's cohort-classification
+  capabilities, recommendation-system harm mechanisms, and court-criticized chat destruction
+  policies create an accountability void for potential cohort-level psychological
+  harm.
+keywords:
+- Google
+- Information Control
+- Algorithmic Governance
+- Spoliation
+- Psychological Harm
+- Asymmetric Moderation
+- Oahu Underground
