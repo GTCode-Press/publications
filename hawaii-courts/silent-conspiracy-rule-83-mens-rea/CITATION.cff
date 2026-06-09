@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Silent Conspiracy
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-06-08'
+url: https://gtcode.com/hawaii-courts/silent-conspiracy-rule-83-mens-rea/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/silent-conspiracy-rule-83-mens-rea
+license: CC-BY-4.0
+abstract: A first-person legal editorial on the December 2, 2022 First Circuit courtroom
+  sequence, the sealed audio, Rule 8.3(b), Rule 1.6, mens rea, and the equilibrium
+  of non-reporting.
+keywords:
+- Bosko Petricevic
+- Wilson Loo
+- Hawaii Rule of Professional Conduct 8.3
+- HRPC 8.3(b)
+- Rule 1.6
+- Reported Judicial Misconduct
+- Judicial Signaling
+- Mens Rea
+- Sealed Audio
+- Professional Responsibility
