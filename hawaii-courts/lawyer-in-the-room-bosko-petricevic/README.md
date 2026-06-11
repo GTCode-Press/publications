@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 10, 2026
-**Last Modified:** May 15, 2026
+**Last Modified:** June 10, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -107,7 +107,7 @@ Cutting that sentence off before the conduct is named destroys the bridge.
 
 Nonverbal signaling is not legally meaningless. Courts understand that nods, headshakes, and mouthed words can communicate.
 
-In *United States v. Flint*, the Ninth Circuit held that evidence supported the inference that a defendant encouraged perjury through a nod. The case proves neither what happened in the December 2, 2022 proceeding nor that every head movement is subornation. It establishes the key legal premise: a nod can be communicative, and a nod can matter in the context of sworn testimony. [^5]
+An unpublished, nonprecedential Ninth Circuit table memorandum in *United States v. Flint* affirmed convictions against a sufficiency challenge where the record permitted an inference that a defendant encouraged perjury through a nod. The disposition proves neither what happened in the December 2, 2022 proceeding nor that every head movement is subornation. It illustrates the narrower premise used here: a nod can be communicative, and a nod can matter in the context of sworn testimony. [^5]
 
 Other witness-coaching cases are merely illustrative, not necessary to the legal argument. In *Hernandez v. City of Vancouver*, the Ninth Circuit described allegations of witness coaching involving nods, headshakes, and mouthing words during testimony. Although that case involved no judicial misconduct and proves nothing about what happened here, it illustrates that courts do not treat nonverbal signals during testimony as imaginary or categorically irrelevant. [^6]
 
@@ -235,7 +235,7 @@ This article states the professional consequence if he saw it.
 
 [^4]: *Butler v. United States*, 188 F.2d 24 (D.C. Cir. 1951), via Justia. External: https://law.justia.com/cases/federal/appellate-courts/F2/188/24/65624/. Retrieved 2026-05-10.
 
-[^5]: *United States v. Flint*, 993 F.2d 885 (9th Cir. 1993), via Justia. External: https://law.justia.com/cases/federal/appellate-courts/F2/993/885/310361/. Retrieved 2026-05-10.
+[^5]: *United States v. Flint*, 993 F.2d 885 (Table) (9th Cir. 1993) (unpublished memorandum disposition), via Justia. The Justia copy labels the disposition as a Ninth Circuit memorandum and includes the Rule 36-3 nonpublication notice. Current Ninth Circuit Rule 36-3 treats unpublished dispositions and orders as nonprecedential and limits citation of pre-2007 unpublished dispositions in courts of the circuit. Cited here only as a nonprecedential factual illustration that nonverbal conduct can carry evidentiary meaning in context. External: https://law.justia.com/cases/federal/appellate-courts/F2/993/885/310361/. Archived: /sources/silent-conspiracy-rule-83-mens-rea/Justia_US_v_Flint.html; /sources/silent-conspiracy-rule-83-mens-rea/Ninth_Circuit_FRAP_Rules_2025.pdf. Retrieved 2026-06-10.
 
 [^6]: *Hernandez v. City of Vancouver*, No. 13-35131 (9th Cir.), via CaseMine. External: https://www.casemine.com/judgement/us/59145ae8add7b049341db093. Retrieved 2026-05-10.
 
@@ -258,7 +258,7 @@ This article states the professional consequence if he saw it.
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/lawyer-in-the-room-bosko-petricevic}}
+      note    = {Last modified 2026-06-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/lawyer-in-the-room-bosko-petricevic}}
     }
 
 **APA:**
