@@ -2,7 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** February 14, 2026
-**Last Modified:** March 1, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/policies/editorial-standards/
 **Section:** Policies
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -26,6 +26,23 @@ Oahu Underground reporting follows an evidence-first process.
 - Public records are linked directly where available.
 - Quotations are checked against source material before publication.
 - For technical claims, reproducible references are preferred over secondary summaries.
+- Firsthand reports are labeled as firsthand reports, not adjudicated facts.
+- Sealed-record-dependent claims are identified as dependent on authorized review of sealed audio, exhibits, filings, or transcripts.
+- Legal and structural conclusions are labeled as analysis or inference unless an adjudicative body has made the finding.
+- Article pages may be revised when records, source responses, or official dispositions clarify the facts.
+
+## Source Archive Policy
+
+- Public source links are preserved where possible through direct links, citations, and archived copies.
+- Local archival copies are used to preserve public records, not to imply that every archived source proves every claim on a page.
+- Sealed, confidential, private, or unlawfully obtained material is not published merely because it would be useful to a narrative.
+- When a page describes sealed or non-public records, it should state what authorized review would be needed to confirm or falsify the claim.
+
+## Right of Reply
+
+Named people, institutions, and organizations may send corrections, clarifications, or responses.
+Responses are reviewed for factual relevance and may be incorporated, summarized, linked, or noted
+in-page when they materially clarify the record.
 
 ## Contact
 
@@ -44,7 +61,7 @@ Questions about standards can be sent to [tips@GTCode.com](mailto:tips@gtcode.co
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/policies/editorial-standards/},
-      note    = {Last modified 2026-03-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/editorial-standards}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/editorial-standards}}
     }
 
 **APA:**

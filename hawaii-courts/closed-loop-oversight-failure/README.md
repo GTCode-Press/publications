@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 15, 2026
-**Last Modified:** May 13, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/closed-loop-oversight-failure/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -23,7 +23,7 @@ Here, a "closed loop" means an oversight process where appointment, information 
 
 - [Part I: The Zero Commission and the Hawaii Commission on Judicial Conduct](https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/)
 - [Part II: The Paper Bag and the Architecture of Self-Investigation](https://gtcode.com/hawaii-courts/paper-bag-self-investigation/)
-- [The Two Questions: federal investigative roadmap in the Wilson M.N. Loo matter](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/)
+- [The Two Questions: investigative triage in the Wilson M.N. Loo matter](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/)
 - [Hawaii Accountability Gaps: modular case study](https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/)
 
 ---
@@ -81,7 +81,7 @@ The series turns on reviewability. The most useful next records are ordinary: CJ
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/closed-loop-oversight-failure/},
-      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/closed-loop-oversight-failure}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/closed-loop-oversight-failure}}
     }
 
 **APA:**

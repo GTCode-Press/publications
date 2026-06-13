@@ -4,14 +4,24 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 10, 2026
-**Last Modified:** June 10, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-This article serves as the companion legal argument to the [open letter to Bosko Petricevic about the December 2, 2022 hearing](https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/).
+This article is the canonical professional-responsibility analysis for the Bosko Petricevic issue: what happened in the reported December 2, 2022 sequence, what the sealed audio can test, and what HRPC 8.3(b) would require if counsel witnessed and understood the reported judicial signal.
+
+### Evidence Classification
+
+| Category | Status |
+| --- | --- |
+| Firsthand report | Author's courtroom observation and reported line-of-sight account |
+| Audio-confirmable | Question, answer, cutoff, sealing sequence |
+| Sealed-record-dependent | Audio and court-file exhibits |
+| Legal inference | HRPC 8.3(b) reporting-duty analysis |
+| Not claimed | Adjudicated finding that counsel saw, knew, or violated a rule |
 
 The open letter states the author's firsthand report and asks what Mr. Petricevic saw, what he understood, and what he did after the December 2, 2022 First Circuit proceeding before Judge Wilson M.N. Loo. This article addresses the legal and public-interest question behind that letter: **on the author's reported sequence, if Mr. Petricevic witnessed and understood it, did Hawaiʻi Rule of Professional Conduct 8.3(b) impose a duty to report Judge Loo to the appropriate authority?**
 
@@ -258,7 +268,7 @@ This article states the professional consequence if he saw it.
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/},
-      note    = {Last modified 2026-06-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/lawyer-in-the-room-bosko-petricevic}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/lawyer-in-the-room-bosko-petricevic}}
     }
 
 **APA:**

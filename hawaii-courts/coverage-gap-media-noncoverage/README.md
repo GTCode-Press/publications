@@ -4,18 +4,18 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 4, 2026
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/coverage-gap-media-noncoverage/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-*An Oʻahu Underground investigation examining non-coverage, public-record overlap, and newsroom conflict risk in Hawaiʻi journalism*
+*A media conflict-screening memo examining non-coverage, public-record overlap, ordinary newsroom explanations, and the records that would clarify editorial handling.*
 
 ---
 
-**Procedural note, May 15, 2026:** This article documents non-coverage, public-record overlaps, and firsthand reports of threats. Ordinary explanations for non-coverage come first: limited newsroom resources, legal risk, verification burden, source risk, complexity, lack of perceived news value, editorial priorities, and the fact that civil injunction proceedings rarely become major news. The residual question is what structural effect the non-coverage produced and whether conflicts were handled through recusal, firewall, or documented editorial review. The current public record contains no order, instruction, or agreement not to cover the story. Any claim that a donor, board member, musician, family member, or newsroom manager ordered coverage stopped requires separate evidence.
+**Procedural note, May 15, 2026:** This article documents non-coverage and public-record overlaps. Ordinary explanations for non-coverage come first: limited newsroom resources, legal risk, verification burden, source risk, complexity, lack of perceived news value, editorial priorities, and the fact that civil injunction proceedings rarely become major news. The residual question is what structural effect the non-coverage produced and whether conflicts were handled through recusal, firewall, or documented editorial review. The current public record contains no order, instruction, or agreement not to cover the story. Any claim that a donor, board member, musician, family member, or newsroom manager ordered coverage stopped requires separate evidence.
 
 ## I. The Interest
 
@@ -183,7 +183,7 @@ The next procedural step is direct: a newsroom, ombudsman, or independent review
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/coverage-gap-media-noncoverage/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/coverage-gap-media-noncoverage}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/coverage-gap-media-noncoverage}}
     }
 
 **APA:**

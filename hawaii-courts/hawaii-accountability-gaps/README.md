@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 13, 2025
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -176,7 +176,7 @@ This case study focuses on review systems that can fail while following their ow
 
 ### Administrative Frameworks
 
-Established institutional-capture and principal-agent frameworks help situate these patterns. The concept of regulatory capture, traditionally applied to industries and their regulators, is used here as an analogy for conflict-screening risk in dense professional networks. The principal-agent problem is also relevant, as actors within institutions may act from risk avoidance, workload pressure, or self-protection while public-serving obligations belong to the institution. This section identifies records that would show whether review occurred and leaves shared-cause theories to direct evidence.
+Established regulatory-capture and principal-agent frameworks help situate these patterns. The concept of regulatory capture, traditionally applied to industries and their regulators, is used here as an analogy for conflict-screening risk in dense professional networks. The principal-agent problem is also relevant, as actors within institutions may act from risk avoidance, workload pressure, or self-protection while public-serving obligations belong to the institution. This section identifies records that would show whether review occurred and leaves shared-cause theories to direct evidence.
 
 ## Legal and Policy Implications
 
@@ -184,7 +184,7 @@ Established institutional-capture and principal-agent frameworks help situate th
 
 While this report does not make legal conclusions, specific modules raise questions an authorized investigator could examine. Each statutory theory requires its own elements, evidence, and proof of intent:
 
-- **Deprivation of Rights Under Color of Law (18 U.S.C. § 242):** The primary federal theory. Individual acts by state officials that, if proven, deprived the subject of due process or equal protection. The Supreme Court confirmed § 242's application to state judges in *United States v. Lanier*, 520 U.S. 259 (1997).
+- **Deprivation of Rights Under Color of Law (18 U.S.C. § 242):** The primary federal review question. Individual acts by state officials that, if proven, deprived the subject of due process or equal protection. The Supreme Court confirmed § 242's application to state judges in *United States v. Lanier*, 520 U.S. 259 (1997).
 - **Retaliation Against a Person Who Provided Information to Federal Law Enforcement (18 U.S.C. § 1513(e)):** The subject's documented contacts with the FBI and DEA preceded the hearing at which the alleged deprivation occurred. If a specific adverse action was taken because of those reports — with retaliatory intent — § 1513(e) would apply.
 - **Conspiracy Against Rights (18 U.S.C. § 241):** If independent actions were found to be part of a mutual understanding to deprive the subject of constitutional rights.
 - **Obstruction of Justice (18 U.S.C. § 1503, § 1512):** In relation to acts that could be interpreted as witness coaching or discouraging testimony.
@@ -236,7 +236,7 @@ regarding factual assertions may be directed to the author.
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps}}
     }
 
 **APA:**

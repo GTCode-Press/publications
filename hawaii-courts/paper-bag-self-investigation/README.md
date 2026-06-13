@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 20, 2026
-**Last Modified:** May 13, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/paper-bag-self-investigation/
 **Section:** Investigations
 **Series:** The Closed Loop — Part II
@@ -302,7 +302,7 @@ Of the cases above, one involves campaign finance violations (Timothy Lee) and t
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/paper-bag-self-investigation/},
-      note    = {The Closed Loop, Part II; Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/paper-bag-self-investigation}}
+      note    = {The Closed Loop, Part II; Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/paper-bag-self-investigation}}
     }
 
 **APA:**

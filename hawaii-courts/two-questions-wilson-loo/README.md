@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 23, 2026
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/two-questions-wilson-loo/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -17,27 +17,31 @@
 
 By Ekewaka Lono • Published: February 23, 2026 • Updated: May 15, 2026
 
-This file identifies the shortest investigative path for one courtroom report.
+This file identifies the shortest investigative path for one courtroom report: what happened, which sealed record can test the timing, and what review question follows if the witness account, court file, and audio sequence align.
 
 The complainant's account is direct: a presiding judge signaled a sworn witness to deny a material fact and then cut off the party's attempt to preserve the signal on an audio-only record. The institutional question is whether standard investigative steps can test that account.
 
-This investigation asks what it would take to make it right.
+### Evidence Classification
 
-The shortest test is one interview, tested against the sealed audio, court file, exhibit, timing, and line-of-sight facts.
-
-**Evidence standard:** This article separates the visual claim -- a firsthand report of a no-head gesture and facial cue -- from the audio-confirmable sequence: the question, the answer, the attempted "Let the record show..." statement, the cutoff, and the sealing request. The visual signal is a firsthand account. The sealed audio can test the sequence; it cannot prove the visual signal. Credible, disinterested testimony and authorized review of the sealed file can test the visual report. If the witness is asked under oath by an authorized investigator and credibly denies the signal occurred, the report may lack enough public corroboration for legal action. If no other corroboration emerges, the case may fail. Courtroom evidence is separate from biography, media non-coverage, platform anomalies, and federal non-action; those issues are handled in other articles.
+| Category | Status |
+| --- | --- |
+| Firsthand report | Author's courtroom observation |
+| Audio-confirmable | Question, answer, cutoff, sealing sequence |
+| Sealed-record-dependent | Audio and exhibits |
+| Legal inference | HRPC / federal review analysis |
+| Not claimed | Coordinated criminal conspiracy absent further evidence |
 
 **Procedural frame:** This article is an investigative action memo. Its scope is one courtroom sequence and the ordinary steps that would test it: interview the witness, obtain the sealed audio, review the exhibit, reconstruct line of sight, and ask the people present what they saw. Media, platforms, federal deference, and biography are handled in separate articles.
 
 ---
 
-The federal theory involving retired Judge Wilson M.N. Loo turns on the cooperation of one person: ████████████. ████████████ is the witness reported to have received the nonverbal signal. He is also the person whose prior conduct — specifically, his reported role as an intermediary in LSD distribution on the North Shore — created the factual predicate at issue in the courtroom question. That predicate came from the author's account, prior law-enforcement reports, and the sealed court exhibit described below, not from social-media or search-platform behavior.
+The review path involving retired Judge Wilson M.N. Loo turns on the cooperation of one person: ████████████. ████████████ is the witness reported to have received the nonverbal signal. He is also the person whose prior conduct — specifically, his reported role as an intermediary in LSD distribution on the North Shore — created the factual predicate at issue in the courtroom question. That predicate came from the author's account, prior law-enforcement reports, and the sealed court exhibit described below, not from social-media or search-platform behavior.
 
 Investigators should weigh ████████████'s account against motive, specificity, line of sight, the sealed audio sequence, and the court file. Truthful corroboration, combined with the sealed audio recording of Loo cutting off my objection as petitioner, could allow investigators to evaluate the elements of [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law. Judges can be prosecuted under § 242: the Supreme Court unanimously confirmed this in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/). The harder issue is whether these specific facts meet § 242's willfulness requirement and *Lanier*'s fair-warning standard — that the unlawfulness of the conduct must be "apparent" in light of pre-existing law. Judicial immunity — a defense to civil suits — has no application to criminal prosecution.
 
 18 U.S.C. § 1622 (subornation of perjury) may also apply, though its jurisdictional reach to state-court perjury remains a legal question this investigation acknowledges.
 
-████████████'s truthful testimony would advance both theories — § 242 for the deprivation of rights, and § 1622 for the subornation, if its jurisdictional reach extends to state court.
+████████████'s truthful testimony would advance both review questions — § 242 for the deprivation of rights, and § 1622 for the subornation issue, if its jurisdictional reach extends to state court.
 
 ---
 
@@ -137,7 +141,7 @@ The record is public. The clock is running.
 
 ## The Federal Framework
 
-This investigation identifies [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law — as the primary federal theory. It is purpose-built for state officials who abuse their authority to deny constitutional rights, and it has been upheld against state judges by the Supreme Court.
+This investigation identifies [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law — as the primary federal review statute. It is purpose-built for state officials who abuse their authority to deny constitutional rights, and it has been upheld against state judges by the Supreme Court.
 
 [21 U.S.C. § 841](https://www.law.cornell.edu/uscode/text/21/841) — distribution of a Schedule I controlled substance — would, if the witness's conduct is confirmed, provide independent federal jurisdiction and the standard basis for seeking cooperation.
 
@@ -153,9 +157,9 @@ This article identifies the shortest factual route for testing the report. Publi
 
 ## What Would Falsify This
 
-Material weakening or falsification of the theory would require sealed-record review showing a materially different audio sequence; court-file review showing absence of the described exhibit or a materially different exhibit; production of a full record showing an uninterrupted attempted record statement; or credible, disinterested courtroom testimony contradicting the reported visual signal while remaining consistent with timing, layout, line of sight, sealed audio, and the documentary record. A self-interested denial by an implicated participant is not dispositive. It carries evidentiary weight only to the extent it is specific, record-consistent, line-of-sight-aware, and independently supported.
+Material weakening or falsification of the review path would require sealed-record review showing a materially different audio sequence; court-file review showing absence of the described exhibit or a materially different exhibit; production of a full record showing an uninterrupted attempted record statement; or credible, disinterested courtroom testimony contradicting the reported visual signal while remaining consistent with timing, layout, line of sight, sealed audio, and the documentary record. A self-interested denial by an implicated participant is not dispositive. It carries evidentiary weight only to the extent it is specific, record-consistent, line-of-sight-aware, and independently supported.
 
-Separate elements of the federal theory would be narrowed by security footage contradicting the reported predicate events or DOJ records showing substantive review and a merits-based declination.
+Separate elements of the federal review framework would be narrowed by security footage contradicting the reported predicate events or DOJ records showing substantive review and a merits-based declination.
 
 ---
 
@@ -164,8 +168,8 @@ Separate elements of the federal theory would be narrowed by security footage co
 | File | Published | Summary |
 | --- | --- | --- |
 | [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/) | Feb 12, 2026 | Firsthand report of judicial signaling from the bench |
-| [The Zero Commission](https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/) | Feb 15, 2026 | 100% dismissal rate: the architecture of judicial unaccountability |
-| [The Closed Loop](https://gtcode.com/hawaii-courts/closed-loop-oversight-failure/) | Feb 15, 2026 | Series overview: oversight controlled by the overseen |
+| [The Zero Commission](https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/) | Feb 15, 2026 | Public-record review of judicial-discipline appointment, confidentiality, and complaint outcomes |
+| [The Closed Loop](https://gtcode.com/hawaii-courts/closed-loop-oversight-failure/) | Feb 15, 2026 | Series overview of oversight design and self-review limits |
 | [Wilson Loo: Investigation](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) | Jun 12, 2025 | Original investigation into reported judicial signaling and the Commission |
 
 ---
@@ -195,7 +199,7 @@ The Section acknowledged receipt of the complaint. No further communication rega
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/two-questions-wilson-loo/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/two-questions-wilson-loo}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/two-questions-wilson-loo}}
     }
 
 **APA:**

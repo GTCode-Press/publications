@@ -11,19 +11,19 @@
 
 ---
 
-On December 2, 2022, a sequence of events in a Hawaii First Circuit courtroom generated a problem that the record itself was structurally incapable of containing: a visual allegation of judicial signaling, an audio-confirmable attempt to preserve that allegation, an interruption that foreclosed the attempt, a recording placed under seal, and a lawyer present whose client benefited from the answer the alleged signal preceded. This Article examines how the interaction of HRPC 8.3(b), mens rea thresholds, sealed-record dependency, overbroad confidentiality rationales, and the architecture of institutional review can convert an event witnessed in common into knowledge no institution is obligated to possess.
+On December 2, 2022, a Hawaii First Circuit courtroom sequence generated a review problem: the author reports a visual judicial signal, the sealed audio can test the answer, attempted record statement, interruption, and sealing sequence, and HRPC 8.3(b) supplies the professional-responsibility question that follows if a lawyer saw and understood the reported event.
 
 ## Evidence Note
 
 This Article rests on three categories of source material: my firsthand account of the December 2, 2022 courtroom sequence; the sealed-record-dependent materials described in the existing GTCode/Oahu Underground series; and the publicly available professional-responsibility rules governing a lawyer's obligation to report judicial misconduct. The witness remains redacted throughout, because the Article's subject is not the witness but the court's process, the sealed record, and the operation of the lawyer-reporting rules.
 
-| Category | What belongs in it |
+| Category | Status |
 | --- | --- |
-| Firsthand visual claim | I witnessed Loo look toward the witness and nod "no." I saw the nose-scrunching expression, and I perceived its register as casual: a relaxed, lip-pursing "no" that conveyed social alignment and prior orientation toward the witness rather than detached judicial evaluation. I saw the witness looking toward Loo. I saw Petricevic looking toward Loo during the sequence. |
-| Firsthand process claim | My account is that Petricevic offered a cross-injunction resolution before the hearing and urged me to accept it. |
-| Audio-confirmable claim | The question, the answer, my attempted "Let the record show..." statement, the cutoff, the accusation/objection sequence, the sealing request, and any audible courtroom exchange. |
-| Sealed-record-dependent claim | The text-message exhibit concerning acid, the sealed audio, the precise courtroom sequence as preserved in the court file, and any materials closed from ordinary public inspection. |
-| Legal inference | Whether the gesture was witness cueing, whether Petricevic understood it, whether HRPC 8.3(b) was triggered, whether Rule 1.6 was invoked as an overbroad silence excuse, and whether 18 U.S.C. Section 242 mens rea could be proven. |
+| Firsthand report | Author's courtroom observation of the reported visual signal and line-of-sight sequence. |
+| Audio-confirmable | Question, answer, attempted "Let the record show..." statement, interruption, accusation/objection sequence, and sealing request. |
+| Sealed-record-dependent | Audio, court-file exhibit, and materials closed from ordinary public inspection. |
+| Legal inference | HRPC 8.3(b), confidentiality, mens rea, and federal review analysis. |
+| Not claimed | Coordinated criminal conspiracy absent further evidence. |
 
 The existing Hawaii courts series adheres to a records-first methodology: public records are consulted before testimony, ordinary explanations are exhausted before extraordinary ones, firsthand testimony is identified as such, sealed-record-dependent claims are segregated from audio-confirmable facts, and inference is labeled as inference. That methodology governs this Article as well.[^gtcode-method]
 

@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 13, 2026
-**Last Modified:** June 8, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/disclosures/prior-law-enforcement-contact/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -299,7 +299,7 @@ This chronology shows why the questions exist and identifies the records-first i
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/disclosures/prior-law-enforcement-contact/},
-      note    = {Last modified 2026-06-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/prior-law-enforcement-contact}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/prior-law-enforcement-contact}}
     }
 
 **APA:**

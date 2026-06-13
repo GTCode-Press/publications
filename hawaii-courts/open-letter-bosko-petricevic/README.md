@@ -4,14 +4,14 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 6, 2026
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-**Editor’s note, May 15, 2026:** A companion analysis, [The Lawyer in the Room](https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/), explains why the answer to this letter matters under Hawaiʻi Rule of Professional Conduct 8.3(b). This letter states the author's firsthand observation plainly while distinguishing that observation from any adjudicated finding about what you saw, knew, or understood.
+**Editor’s note, May 15, 2026:** Related professional-responsibility analysis appears in [The Lawyer in the Room](https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/). This page is an open letter that states the author's firsthand observation plainly while distinguishing that observation from any adjudicated finding about what Mr. Petricevic saw, knew, or understood.
 
 This letter does not rely on any broader institutional theory. It asks what one lawyer saw and what professional duty followed if he saw it.
 
@@ -115,7 +115,7 @@ The resolution path is procedural: review the sealed audio; review the court-fil
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/open-letter-bosko-petricevic}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/open-letter-bosko-petricevic}}
     }
 
 **APA:**

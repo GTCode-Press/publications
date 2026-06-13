@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 24, 2026
-**Last Modified:** May 13, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/mechanisms-of-review-failure/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -304,7 +304,7 @@ The framework should not be applied where ordinary records show substantive revi
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/mechanisms-of-review-failure/},
-      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/mechanisms-of-review-failure}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/mechanisms-of-review-failure}}
     }
 
 **APA:**

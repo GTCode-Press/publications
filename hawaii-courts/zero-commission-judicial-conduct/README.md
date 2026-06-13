@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 15, 2026
-**Last Modified:** May 13, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/
 **Section:** Investigations
 **Series:** The Closed Loop — Part I
@@ -157,7 +157,7 @@ The Commission also received 70 advisory opinion requests in FY 2018–2019 and 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/},
-      note    = {The Closed Loop, Part I; Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/zero-commission-judicial-conduct}}
+      note    = {The Closed Loop, Part I; Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/zero-commission-judicial-conduct}}
     }
 
 **APA:**

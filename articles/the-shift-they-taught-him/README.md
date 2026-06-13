@@ -4,7 +4,7 @@
 
 **Author:** GTCode Editorial
 **Published:** May 14, 2026
-**Last Modified:** May 23, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/articles/the-shift-they-taught-him/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -349,7 +349,7 @@ This is the record they failed to make.
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/articles/the-shift-they-taught-him/},
-      note    = {Last modified 2026-05-23; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-shift-they-taught-him}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-shift-they-taught-him}}
     }
 
 **APA:**

@@ -2,6 +2,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** June 1, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/disclosures/postscript-audit-tactical-roadmap/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -122,7 +123,7 @@ To assist secondary reviewers in rapidly identifying high-yield investigation pa
       year    = {2026},
       month   = jun,
       url     = {https://gtcode.com/disclosures/postscript-audit-tactical-roadmap/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/postscript-audit-tactical-roadmap}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/postscript-audit-tactical-roadmap}}
     }
 
 **APA:**

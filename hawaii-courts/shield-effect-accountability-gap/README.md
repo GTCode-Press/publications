@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 26, 2025
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -155,7 +155,7 @@ The record is public. The sealed file exists. The questions remain open.
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap}}
     }
 
 **APA:**

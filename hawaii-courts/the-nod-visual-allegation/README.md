@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 12, 2026
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/the-nod-visual-allegation/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -12,6 +12,16 @@
 ---
 
 This article is about one disputed courtroom sequence: a firsthand visual report, a question asked under oath, an answer, an attempted record statement, an interruption, and a sealed audio record. Broader institutional questions are addressed separately and are not needed to evaluate this report.
+
+### Evidence Classification
+
+| Category | Status |
+| --- | --- |
+| Firsthand report | Author's courtroom observation |
+| Audio-confirmable | Question, answer, cutoff, sealing sequence |
+| Sealed-record-dependent | Audio and exhibits |
+| Legal inference | Judicial-conduct and federal review analysis |
+| Not claimed | Coordinated criminal conspiracy absent further evidence |
 
 The scene in the courtroom should have been procedural. The question before the witness, (redacted), was simple: *Did you furnish the plaintiff with LSD?*
 
@@ -80,7 +90,7 @@ Such a denial remains evidence to weigh against the record, with weight determin
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/the-nod-visual-allegation/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-nod-visual-allegation}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-nod-visual-allegation}}
     }
 
 **APA:**

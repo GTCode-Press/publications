@@ -2,7 +2,7 @@
 
 **Author:** GTCode Editorial
 **Published:** February 14, 2026
-**Last Modified:** May 13, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/policies/corrections-policy/
 **Section:** Policies
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -24,6 +24,12 @@ Accuracy is treated as an ongoing obligation.
 
 Include the page URL, the specific statement in question, and supporting evidence.
 
+## Right Of Reply
+
+Subjects of reporting may send a statement, correction, or clarification. Oahu Underground reviews
+responses for relevance to the published record and may add a dated note, revise wording, link a
+source, or publish a summary where the response materially improves accuracy or context.
+
 ## Contact
 
 Send correction requests to [tips@GTCode.com](mailto:tips@gtcode.com) with subject line: `Correction Request`.
@@ -41,7 +47,7 @@ Send correction requests to [tips@GTCode.com](mailto:tips@gtcode.com) with subje
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/policies/corrections-policy/},
-      note    = {Last modified 2026-05-13; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/corrections-policy}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/policies/corrections-policy}}
     }
 
 **APA:**

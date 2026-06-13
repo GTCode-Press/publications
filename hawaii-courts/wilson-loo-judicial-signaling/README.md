@@ -4,12 +4,24 @@
 
 **Author:** Ekewaka Lono
 **Published:** June 12, 2025
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
+
+A December 2, 2022 First Circuit courtroom sequence generated a records-review question: the author reports a visual signal from Judge Wilson Loo, the sealed audio can test the question, answer, attempted record statement, cutoff, and sealing sequence, and the follow-up issue is whether judicial-conduct, civil-rights, or professional-responsibility review used those records and witness accounts.
+
+### Evidence Classification
+
+| Category | Status |
+| --- | --- |
+| Firsthand report | Author's courtroom observation |
+| Audio-confirmable | Question, answer, cutoff, sealing sequence |
+| Sealed-record-dependent | Audio and exhibits |
+| Legal inference | Judicial-conduct and federal review analysis |
+| Not claimed | Coordinated criminal conspiracy absent further evidence |
 
 ### Legal Notice
 
@@ -18,11 +30,6 @@ All factual assertions are grounded in a reasonable basis: firsthand observation
 documentation, or clearly labeled inference. All individuals mentioned are presumed innocent
 unless proven guilty in a court of law. This disclosure follows multiple attempts to address these
 issues through official channels.
-
-A legal proceeding in Honolulu has raised serious questions about the integrity of Hawaii's
-judicial system, following a firsthand report of judicial signaling to a sworn witness, sealed-record-dependent claims about the audio sequence and court exhibits, and public-record questions about oversight non-response involving Judge Wilson Loo, local police, and other parties.
-
-### Evidence Standard
 
 This report distinguishes public records, sealed-record-dependent claims, firsthand observations, and inference. The visual conduct in the December 2, 2022 proceeding is the plaintiff's firsthand observation. Public corroboration would require credible, disinterested testimony or authorized review of the sealed file. The sealed audio cannot prove the reported visual signal, but it can confirm or refute the timing, answer, attempted record statement, interruption, and sealing sequence described here. The case begins with witness testimony, line-of-sight reconstruction, and sealed-file review. A credible witness denial under proper questioning, with no other corroboration, may leave the report without enough public corroboration for legal action.
 
@@ -41,7 +48,7 @@ When the plaintiff attempted to object, stating "Let the record show that the ju
 cut him off, shouting "Nah ah ah enough out of you!!" In the plaintiff's account, this prevented the visual
 cue from being documented in the official audio record.
 
-**Legal Implications:** In the plaintiff's account, a presiding judge signaled a sworn witness to deny a material fact and then cut off the party's attempt to preserve the signal on an audio-only record. The visual signal is a firsthand account. The sealed audio can test the timing of the question, answer, attempted record statement, and cutoff, but not the visual signal itself. If records and witness testimony support that account, the primary federal theory is *deprivation of rights under color of law* under 18 U.S.C. § 242. Perjury and subornation theories require separate jurisdictional analysis: Hawaii law governs state-court perjury, while federal perjury and subornation statutes leave jurisdictional limits unresolved in this report.
+**Legal Implications:** In the plaintiff's account, a presiding judge signaled a sworn witness to deny a material fact and then cut off the party's attempt to preserve the signal on an audio-only record. The visual signal is a firsthand account. The sealed audio can test the timing of the question, answer, attempted record statement, and cutoff, but not the visual signal itself. If records and witness testimony support that account, the primary federal review path is *deprivation of rights under color of law* under 18 U.S.C. § 242. Perjury and subornation theories require separate jurisdictional analysis: Hawaii law governs state-court perjury, while federal perjury and subornation statutes leave jurisdictional limits unresolved in this report.
 
 This case centers on a specific public-accountability issue: the process available when reported visual judicial misconduct occurs in an audio-only proceeding, the affected party is cut off while trying to preserve it, and the record is sealed.
 
@@ -99,7 +106,7 @@ The predicate for the LSD question was courtroom material: testimony, prior repo
 - The plaintiff reports that Judge Loo signaled a "no" answer
 
 **Legal Consequences:** Perjury is a Class C felony in Hawaii, punishable by up to 5 years
-imprisonment. Federal perjury statutes do not automatically apply to state-court testimony; any federal theory would require a specific jurisdictional basis. The materiality of this testimony — concerning drug distribution that was central to credibility and character questions — makes the allegation serious and investigable, not publicly proven by this report alone.
+imprisonment. Federal perjury statutes do not automatically apply to state-court testimony; any federal review question would require a specific jurisdictional basis. The materiality of this testimony — concerning drug distribution that was central to credibility and character questions — makes the allegation serious and investigable, not publicly proven by this report alone.
 
 ## The Subornation Theory: The Audio-Only Advantage
 
@@ -304,7 +311,7 @@ regarding factual assertions may be directed to the author.
       year    = {2025},
       month   = jun,
       url     = {https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/},
-      note    = {Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
     }
 
 **APA:**

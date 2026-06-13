@@ -1,28 +1,27 @@
 # Federal Triage and Governance Proximity
 
-> Public-record governance context, ordinary federal triage, and the Wilson M.N. Loo timeline
+> Ordinary federal triage, conflict screening, sealed-record access, and the Wilson M.N. Loo timeline
 
 **Author:** Ekewaka Lono
 **Published:** February 28, 2026
-**Last Modified:** May 15, 2026
+**Last Modified:** June 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/federal-triage-governance-proximity/
 **Section:** Investigations
-**Series:** The Architecture of Access — Part I
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-The public record suggests that the case against retired Per Diem Judge Wilson M.N. Loo turns on specific factual questions that standard investigative steps could answer. It would require one witness interview, sealed-record review, court-file review, and line-of-sight reconstruction. Any denial from an involved participant requires weighting against the sealed record, court file, motive, specificity, and line of sight. The statute of limitations on the applicable federal statutes — including 18 U.S.C. § 242 (deprivation of rights under color of law) and potentially 18 U.S.C. § 1622 (subornation of perjury) — runs five years from the date of the act.[^1] The act occurred on December 2, 2022. The clock has been running for more than three years. Roughly twenty months remain.
+The Wilson Loo review path turns on ordinary investigative steps: interview the witness, obtain the sealed audio, review the court-file exhibit, reconstruct line of sight, and ask the people present what they saw. The review question is whether those records and interviews corroborate or undermine the reported December 2, 2022 courtroom sequence.
 
 There is no public indication that any investigative contact has been made, and no such contact has been communicated to the author.
 
-This investigation began with a direct review issue: ordinary explanations for federal non-action come first, and remaining questions should be identified only after those explanations are considered. The relevant conduct is documented in public filings, the complainant's firsthand account, and sealed exhibits referenced herein. The witness is identified in the public record. The referral has been filed with the Department of Justice's Public Integrity Section, which acknowledged receipt.[^2] The prosecution roadmap has been published at this outlet in enough detail that a federal prosecutor could use it as a triage memorandum.[^3]
+This context memo begins with a direct review issue: ordinary explanations for federal non-action come first, and remaining questions should be identified only after those explanations are considered. The relevant conduct is described in public filings, the complainant's firsthand account, and sealed exhibits referenced herein. The witness is identified in the public record. The referral has been filed with the Department of Justice's Public Integrity Section, which acknowledged receipt.[^2] The review path has been published at this outlet in enough detail that an investigator could use it as a triage memorandum.[^3]
 
-**Record posture:** This article maps public governance proximity and federal triage questions. The ordinary explanations come first: agency triage, evidentiary threshold, sealed-record access, proof of willfulness, jurisdiction, prosecutorial discretion, resource constraints, declination without comment, and federal priority setting. Governance proximity is documented context and a safeguard question. Causation, obstruction, direction, delay, active coordination, conspiracy, or motive require evidence beyond the cited public records.
+**Record posture:** This article maps ordinary federal triage and conflict-screening questions. The ordinary explanations come first: agency triage, evidentiary threshold, sealed-record access, proof of willfulness, jurisdiction, prosecutorial discretion, resource constraints, declination without comment, and federal priority setting. Public-record institutional proximity is context and a safeguard question. Causation, obstruction, direction, delay, active coordination, conspiracy, or motive require evidence beyond the cited public records.
 
 The sociology is boring by design. Resource triage explains why hard cases wait behind easier cases. Principal-agent problems explain why a local field office may not escalate a matter whose proof is sealed, visual, and politically awkward. Regulatory-capture analogues explain how repeated professional proximity can normalize deference without any explicit instruction. Small-community dynamics explain why lawful relationships can still raise the cost of review.
 
-**Ambient cover:** This is not an allegation of a backroom conspiracy. Warren Luke did not need to pick up a phone to affect the risk environment around a Wilson Loo referral. The ambient cover provided by the Luke family's institutional density across Hawaii banking, federal, civic, and judicial-adjacent landscapes can be enough to make an under-resourced, risk-averse field office deprioritize a hard sealed-record case. It is sociology, not a syndicate. It is a local social-capital claim and a conflict-screening question. It is not evidence that Warren Luke, the Federal Reserve, Pacific Forum, APCSS, DOJ, FBI, DOD, or any foreign actor directed non-action in the Wilson Loo matter.
+**Conflict-screening note:** This is not an allegation of a backroom conspiracy. Public-record institutional density can raise conflict-screening and safeguard questions without proving that anyone directed, delayed, or influenced review. The point is ordinary triage and ordinary safeguards: what conflicts were screened, what records were reviewed, what thresholds were applied, and what remains unestablished.
 
 The family at issue is the Luke family. The public-record figure at the center of this governance-context brief is Warren K.K. Luke.
 
@@ -48,7 +47,7 @@ The family at issue is the Luke family. The public-record figure at the center o
 
 ## Federal Jurisdiction
 
-The primary federal theory against Loo is [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law. The statute is purpose-built for state officials who abuse their authority to deny constitutional rights. The Supreme Court unanimously confirmed its application to state judges in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/), in which a Tennessee state judge was convicted under § 242 for abuse of judicial power. Judicial immunity — a defense to civil suits under 42 U.S.C. § 1983 — has no application to criminal prosecution under § 242. It is settled that judges can be prosecuted under § 242; the harder question is whether these specific facts meet § 242's willfulness requirement and *Lanier*'s fair-warning standard — that the unlawfulness of the conduct must be "apparent" in light of pre-existing law.
+The primary federal review statute for Loo is [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law. The statute is purpose-built for state officials who abuse their authority to deny constitutional rights. The Supreme Court unanimously confirmed its application to state judges in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/), in which a Tennessee state judge was convicted under § 242 for abuse of judicial power. Judicial immunity — a defense to civil suits under 42 U.S.C. § 1983 — has no application to criminal prosecution under § 242. It is settled that judges can be prosecuted under § 242; the harder question is whether these specific facts meet § 242's willfulness requirement and *Lanier*'s fair-warning standard — that the unlawfulness of the conduct must be "apparent" in light of pre-existing law.
 
 The conduct captured on the sealed audio recording — Loo cutting off the petitioner's objection when the petitioner attempted to place the judge's behavior on the record — is evidence from which a jury could infer that Loo willfully deprived a party of the right to be heard in a meaningful manner, a "basic requirement of due process." *In re Murchison*, 349 U.S. 133, 136 (1955); *Mathews v. Eldridge*, 424 U.S. 319 (1976). The audio exists independently of any witness's cooperation, though it is sealed and investigators would need to obtain it through appropriate legal process.
 
@@ -196,7 +195,7 @@ The ordinary explanation requires no improper influence. Federal law enforcement
 
 That boring version of the story may explain part or all of federal non-action.
 
-The public record also suggests the case against Wilson Loo turns on specific factual questions. The witness is identified in the public record. The prosecution theory is published in sufficient detail to serve as a briefing memo. The documentary evidence — a text message reading "I took the acid," admitted into the December 2, 2022 proceeding before Loo himself — is in a sealed court file.[^61] Two prior law enforcement reports, one from the DEA and one from the Honolulu Police Department's Narcotics and Vice Division, documented the factual predicate before the trial date.[^62] Standard investigative steps — interview the witness, obtain the sealed audio, evaluate the evidence, and test any denial against motive, line of sight, specificity, and the surrounding record — would confirm, contradict, or explain the relevant legal theories.
+The public record also suggests the review path for Wilson Loo turns on specific factual questions. The witness is identified in the public record. The review path is published in sufficient detail to serve as a briefing memo. The documentary evidence — a text message reading "I took the acid," admitted into the December 2, 2022 proceeding before Loo himself — is in a sealed court file.[^61] Two prior law enforcement reports, one from the DEA and one from the Honolulu Police Department's Narcotics and Vice Division, documented the factual predicate before the trial date.[^62] Standard investigative steps — interview the witness, obtain the sealed audio, evaluate the evidence, and test any denial against motive, line of sight, specificity, and the surrounding record — would confirm, contradict, or explain the relevant legal questions.
 
 Those are ordinary investigative steps.
 
@@ -208,7 +207,7 @@ The inference advanced here is public-review risk through cumulative institution
 
 This investigation presents a structural argument from public records. It documents institutional density, federal review questions, and ordinary investigative steps that remain available. Public records alone leave unresolved whether any individual acted to obstruct or delay prosecution. The following alternative explanations deserve genuine engagement:
 
-1. **The federal theory may be incomplete.** The series previously relied on 18 U.S.C. § 1622 (subornation of perjury) as its sole federal theory. That statute's jurisdictional reach to state-court perjury is a genuine legal question — which is why this investigation now identifies § 242 (deprivation of rights under color of law) as the primary theory. But a reader would be justified in noting that the legal framework has shifted, and in asking whether the current framework will prove more durable than the last.
+1. **The federal review framework may be incomplete.** The series previously relied on 18 U.S.C. § 1622 (subornation of perjury) as its sole federal review statute. That statute's jurisdictional reach to state-court perjury is a genuine legal question — which is why this investigation now identifies § 242 (deprivation of rights under color of law) as the primary review statute. But a reader would be justified in noting that the legal framework has shifted, and in asking whether the current framework will prove more durable than the last.
 
 2. **DOJ may have evaluated the referral and declined on the merits.** The Section could have assessed the evidence, concluded the case was not prosecutable — understaffing, evidence quality, witness cooperation uncertainty — and declined without communicating reasons. Non-communication is standard DOJ practice for declined referrals.
 
@@ -262,7 +261,7 @@ PRC-facing access mapping is a separate portfolio. It is not evidence that any f
 
 *The statute of limitations on 18 U.S.C. § 242 (deprivation of rights under color of law) and 18 U.S.C. § 1622 (subornation of perjury) expires approximately December 2027, based on the date of the alleged conduct. Prosecutions under § 242 are handled by the DOJ Civil Rights Division, Criminal Section, with the FBI as the primary investigative agency. A referral has been filed with the DOJ Public Integrity Section, Criminal Division, Washington D.C. The referral has been acknowledged. No further communication has been received.*
 
-*The full prosecution roadmap is published at: [The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/)*
+*The direct review path is published at: [The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/)*
 
 ---
 
@@ -441,7 +440,7 @@ If the Department of Justice has investigated the referral and declined on the m
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/federal-triage-governance-proximity/},
-      note    = {The Architecture of Access, Part I; Last modified 2026-05-15; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/federal-triage-governance-proximity}}
+      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/federal-triage-governance-proximity}}
     }
 
 **APA:**
