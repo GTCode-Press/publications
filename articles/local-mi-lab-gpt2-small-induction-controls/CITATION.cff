@@ -9,8 +9,8 @@ url: https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls
 license: CC-BY-4.0
 abstract: A first-person account of Local MI Lab, a GPT-2 small mechanistic interpretability
-  practice loop where controls, head-specific patching, and held-out prompts broke
-  an attractive induction-head story.
+  practice loop where controls, head-specific patching, held-out prompts, and candidate
+  characterization falsified an attractive induction-head story.
 keywords:
 - Mechanistic Interpretability
 - GPT-2 Small
