@@ -4,7 +4,7 @@
 
 **Author:** GTCode Editorial
 **Published:** May 14, 2026
-**Last Modified:** June 27, 2026
+**Last Modified:** September 27, 2026
 **Canonical URL:** https://gtcode.com/articles/the-shift-they-taught-him/
 **Section:** Articles
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -14,6 +14,8 @@
 ![The Shift They Taught Him — An empty school hallway rendered as institutional memory, with records, a backpack, and forensic overlays.](the-shift-they-taught-him.jpg)
 
 > **Companion article:** This essay complements [The Body Keeps the Receipts](https://gtcode.com/articles/the-body-keeps-the-receipts/), which documents the neurobiological, trauma, and institutional mechanisms behind the same pattern.
+
+> **Related open letter:** [An Open Letter to [Redacted] Township School District](https://gtcode.com/articles/open-letter-school-district/) asks the district to account for its response to the bullying, assaults, injuries, and educational consequences described here.
 
 > **Reporting note:** This firsthand public report and open letter describes childhood peer violence, institutional non-response, an officer-watched assault, suicidal ideation, and long-term bodily consequences. The citations provide context; the central account is the author's report.
 
@@ -349,7 +351,7 @@ This is the record they failed to make.
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/articles/the-shift-they-taught-him/},
-      note    = {Last modified 2026-06-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-shift-they-taught-him}}
+      note    = {Last modified 2026-09-27; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-shift-they-taught-him}}
     }
 
 **APA:**
