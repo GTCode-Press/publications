@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 4, 2026
-**Last Modified:** June 12, 2026
+**Last Modified:** October 1, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/coverage-gap-media-noncoverage/
 **Section:** Investigations
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -30,7 +30,7 @@ The response was initially positive. The documents were reviewed. I was told the
 
 Then: non-coverage. No follow-up calls. No editorial decisions communicated. The story did not become a published article.
 
-The absence of coverage cut both ways. It reduced public accountability for the reports and process gaps described in this series. It also limited reputational harm to the author where older proceedings ended without conviction and later expungement is part of the author's account. Ordinary explanations include news judgment, legal caution, under-resourcing, editorial uncertainty, social friction, or some combination of those forces. The structural issue is the same either way: public coverage did not become an accountability layer.
+The absence of coverage reduced public accountability for the reports and process gaps described in this series.  Ordinary explanations include news judgment, legal caution, under-resourcing, editorial uncertainty, social friction, or some combination of those forces. The structural issue is the same either way: public coverage did not become an accountability layer.
 
 **Exhibits**
 - A. [Wilson Loo financial disclosures](https://disclosures.civilbeat.org/disclosures/wilson-loo-2-2/)
@@ -83,9 +83,9 @@ The Luke Center for Public Service at Punahou is a node linking Luke philanthrop
 
 That ecosystem overlaps with North Shore conservation networks. [Kōkua's own board bios](https://kokuahawaiifoundation.org/our-team/) list NSCLT roles for both Kawika Kahiapo (board) and Blake McElheny (advisor) (see Exhibit G, Kahiapo and McElheny bios). Evidence category: published affiliations.
 
-Investigating Wilson Loo would mean scrutinizing the Luke network's institutions and the civic ecosystem around them — including Kōkua Hawaiʻi Foundation, co-founded by Jack and Kim Johnson. Celebrity proximity is included because it identifies the civic ecosystem that could make ordinary newsroom choices socially and legally more difficult. Newsroom motive, family direction, and coordinated action require separate evidence.
+Investigating Wilson Loo would mean scrutinizing the Luke network's institutions and the civic ecosystem around them — including Kōkua Hawaiʻi Foundation. Celebrity proximity is included because it identifies the civic ecosystem that could make ordinary newsroom choices socially and legally more difficult. Newsroom motive, family direction, and coordinated action require separate evidence.
 
-The family relationship is included to explain social-capital and coverage-risk context. It does not allege that Jack Johnson, Kim Johnson, Pete Johnson, or any related person directed a threat, newsroom silence, or institutional response.
+The family relationship is included to explain social-capital and coverage-risk context. It does not allege that the public figure, that person’s spouse, their relatives, or any related person directed a threat, newsroom silence, or institutional response.
 
 ---
 
@@ -93,15 +93,17 @@ The family relationship is included to explain social-capital and coverage-risk 
 
 The newsroom non-coverage came later. The author reports earlier private threats and intimidation. Those firsthand reports establish the author's claimed context and sequence; newsroom motive remains a separate public-record question.
 
+[Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/) supplies a separate Reporter Disclosure chronology/source-map of the earlier private context. Non-coverage does not verify that chronology, and the chronology does not establish newsroom motive.
+
 **The Hartmann Meeting**
 
-Gene and Rita Hartmann are not public figures. Their significance is specific: they are the parents of Pete Johnson's wife. Pete is Jack Johnson's brother.
+Gene and Rita Hartmann are not public figures. In my account, their family connection placed them in the social environment surrounding the public figure named in the reported threat. That relationship does not establish participation by the public figure or any relative.
 
 According to my firsthand account, Eugene Hartmann told me to discontinue my investigation into the crimes I suspected. Rita Hartmann then said, "or you'll be whacked." The communication was direct, extra-legal, and delivered outside counsel channels. It was reported; no communicated investigation followed.
 
 **The Blackmail**
 
-A close associate of Kim Johnson — connected to Hawaiʻi's tech and funding ecosystem — delivered a direct threat, according to my firsthand account: if I continued to talk about what happened, my career would be destroyed. "What happened" meant the stalking, hacking, and Hartmann threat reported in my prior reports.
+A person I understood to be a close associate of the public figure’s spouse — connected to Hawaiʻi’s tech and funding ecosystem — delivered a direct threat, according to my firsthand account: if I continued to talk about what happened, my career would be destroyed. "What happened" meant the stalking, hacking, and Hartmann threat reported in my prior reports.
 
 The reported message was not subtle: continued disclosure would bring professional harm.
 
@@ -136,7 +138,7 @@ Coverage gaps can form with little retrievable record. Accountability mechanisms
 - Civil Beat's donor list is self-reported
 - Ryan Ozawa's employment history is documented
 - Kōkua Hawaiʻi Foundation's website states that staff member Heather Williams played a pivotal role in creating Punahou's Luke Center for Public Service
-- The Hartmanns' family relationship to the Johnsons is corroborable through standard public-record methods (I'm not publishing those records here)
+- The Hartmanns' reported family relationship to the unnamed public figure’s family is corroborable through standard public-record methods (I'm not publishing those records here)
 
 I am not asking anyone to take my word for what happened in private meetings. I am asking them to examine the documented structure and evaluate whether it creates a predictable conflict environment around the coverage gap.
 
@@ -183,7 +185,7 @@ The next procedural step is direct: a newsroom, ombudsman, or independent review
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/coverage-gap-media-noncoverage/},
-      note    = {Last modified 2026-06-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/coverage-gap-media-noncoverage}}
+      note    = {Last modified 2026-10-01; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/coverage-gap-media-noncoverage}}
     }
 
 **APA:**

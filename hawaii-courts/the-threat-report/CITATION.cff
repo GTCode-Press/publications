@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Threat Report: Counsel, Safety, and the Leave-Hawaiʻi Question'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-10-01'
+url: https://gtcode.com/hawaii-courts/the-threat-report/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-threat-report
+license: CC-BY-4.0
+abstract: Ekewaka Lono’s account of Audrey Stanley’s reported handling of a threat
+  report, client communication, and a possible leave-Hawaiʻi resolution.
+keywords:
+- Audrey L.E. Stanley
+- Professional Responsibility
+- Assigned Counsel
+- Client Communication
+- Hawaii
