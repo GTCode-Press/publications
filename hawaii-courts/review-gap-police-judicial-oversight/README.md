@@ -1,27 +1,23 @@
-# The Shield Effect
+# The Review Gap
 
 > Reports filed, review missing, and the practical effect of reduced accountability
 
 **Author:** Ekewaka Lono
 **Published:** August 26, 2025
 **Last Modified:** October 8, 2026
-**Canonical URL:** https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/
+**Canonical URL:** https://gtcode.com/hawaii-courts/review-gap-police-judicial-oversight/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
 
 ---
 
-### Legal Notice
+<span id="legal-notice"></span>
 
-*This article draws on public records, court filings, and my firsthand account. “Shield effect” describes the protection from scrutiny that results when reports go unexamined. It does not establish coordination or a criminal enterprise. No criminal or disciplinary finding is reported unless specifically identified.*
-
----
+HPD received my reports. The Commission on Judicial Conduct reported an insufficient-evidence disposition in 2023 and declined renewed review in 2025 under its former-judge jurisdiction rule. This article examines what those responses reveal, and which records are still needed to establish what each office reviewed.
 
 ## The Hearing
 
-At the December 2, 2022 hearing, Loo signaled “no” to the sworn witness before the denial and cut off my attempt to describe the signal aloud. The audio was later sealed. The [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) holds the detailed sequence, the exhibit, and the legal questions. This article examines the police and oversight responses.
-
----
+[The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) gives the underlying December 2, 2022 courtroom account. The [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) holds the wider hearing and reporting history.
 
 ## The Evidence in the File
 
@@ -43,9 +39,7 @@ The later reporting history includes an online FBI report in spring 2021 and sub
 
 Officials can defer to someone’s status without receiving an order or agreeing to protect them. That possibility needs to be tested against how they handled the evidence.
 
-HPD personnel responded to reports about Judge Loo by calling him "honorable." Those words, standing alone, do not prove a conspiracy. They are evidence of the deference problem this article examines: official intake can be shaped by reputation before any record is reviewed.
-
-This article does not allege that Warren Luke, the Federal Reserve, or any board directed police conduct. It asks whether status shaped how reports were received, whether primary evidence was reviewed, and what intake records show about how reports were handled.
+HPD personnel responded to reports about Judge Loo by calling him "honorable." The intake records could establish whether that deference displaced review of the evidence.
 
 ---
 
@@ -79,9 +73,9 @@ Other articles in this series examine SHOPO arbitration and officer reinstatemen
 
 ### The Procedural Gap
 
-**Firsthand account / sealed-audio-dependent:** The December 2022 audio recording could not capture gestures or facial expressions. Loo stopped me from describing his signal aloud, preventing its preservation in the audio. The sealed audio can test that spoken sequence.
+The [audio-only recording and interrupted record statement](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) left the visual allegation dependent on eyewitness evidence.
 
-The documented sequence shows a pattern in which multiple institutional responses — or non-responses — produced the practical effect of reduced accountability for the same individual. The available explanations include coordination, inertia, conflict avoidance, evidentiary difficulty, and independent failures; direct evidence is required to choose among them.
+The police handling concerned conduct attributed to the redacted defendant; the judicial-oversight handling concerned Loo. These separate matters produced comparable limits on review and accountability. That comparison does not identify a common actor or establish a shared cause. The available explanations include coordination, inertia, conflict avoidance, evidentiary difficulty, and independent failures; direct evidence is required to choose among them.
 
 ---
 
@@ -90,8 +84,6 @@ The documented sequence shows a pattern in which multiple institutional response
 The Commission invoked the former-judge deadline to close my renewed complaint in 2025. But its reported 2023 disposition predates Loo's departure. [Rule 8.2(b)](https://www.courts.state.hi.us/wp-content/uploads/2025/10/rsch.htm) ties the deadline to when conduct is reported. Rule 8.2(c)(3) provides that resignation or retirement before or after an investigation or proceeding begins does not itself remove jurisdiction before final Supreme Court action. The earlier complaint and review file are needed to establish what conduct was already reported, what review occurred, and the basis for refusing renewed review.
 
 My complaints entered official channels. The Commission reported a 2023 insufficient-evidence disposition and a 2025 jurisdictional closure, without describing what primary evidence it examined. HPD's handling requires separate intake and disposition records.
-
-**Verification invitation:** The sealed court file contains the text message evidence and the audio record of the hearing. Federal investigators with access to this material could confirm or refute my account of the non-verbal signal by interviewing the witness under oath.
 
 ---
 
@@ -114,7 +106,7 @@ My complaints entered official channels. The Commission reported a 2023 insuffic
 
 This matter has been referred to the **DOJ Public Integrity Section**, which acknowledged receipt of the complaint.
 
-Successor reporting examines specific elements of this case in greater detail: *[The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/)* addresses the evidentiary path to resolution. *[The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/)* reconstructs the hearing in forensic detail. *[The Zero Commission](https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/)* documents the oversight body's reviewability failure. *[The Paper Bag](https://gtcode.com/hawaii-courts/paper-bag-self-investigation/)* examines Hawaiʻi's self-investigation model. *[Mechanisms of Review Failure](https://gtcode.com/hawaii-courts/mechanisms-of-review-failure/)* supplies general vocabulary only; case evidence remains in the article-specific records and witness questions.
+Successor reporting examines specific elements of this case in greater detail: *[The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/)* addresses the evidentiary path to resolution. *[The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/)* holds the canonical firsthand courtroom account. *[The Zero Commission](https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/)* documents the oversight body's reviewability failure. *[The Paper Bag](https://gtcode.com/hawaii-courts/paper-bag-self-investigation/)* examines Hawaiʻi's self-investigation model. *[Mechanisms of Review Failure](https://gtcode.com/hawaii-courts/mechanisms-of-review-failure/)* supplies general vocabulary only; case evidence remains in the article-specific records and witness questions.
 
 ## Records Needed {#limits-of-the-public-record}
 
@@ -136,18 +128,18 @@ These files do not establish coordination between police and judicial oversight.
 
 **BibTeX:**
 
-    @article{lono2025shieldeffectaccountability,
+    @article{lono2025reviewgappolice,
       author  = {Lono, Ekewaka},
-      title   = {The Shield Effect},
+      title   = {The Review Gap},
       journal = {GTCode.com Investigations},
       year    = {2025},
       month   = aug,
-      url     = {https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap}}
+      url     = {https://gtcode.com/hawaii-courts/review-gap-police-judicial-oversight/},
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/review-gap-police-judicial-oversight}}
     }
 
 **APA:**
-Lono, E. (2025, August 26). The Shield Effect. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap)
+Lono, E. (2025, August 26). The Review Gap. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/review-gap-police-judicial-oversight/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/review-gap-police-judicial-oversight)
 
 **Chicago:**
-Ekewaka Lono. "The Shield Effect." *GTCode.com Investigations*, August 26, 2025. https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/shield-effect-accountability-gap.
+Ekewaka Lono. "The Review Gap." *GTCode.com Investigations*, August 26, 2025. https://gtcode.com/hawaii-courts/review-gap-police-judicial-oversight/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/review-gap-police-judicial-oversight.

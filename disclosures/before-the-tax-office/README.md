@@ -13,7 +13,7 @@
 
 *A reporter-disclosure chronology and public accountability letter by Ekewaka Lono.*
 
-> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022]({{< relref "hawaii-courts/the-unanswered-sequence/index.md" >}}).
+> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}).
 
 The state file began with a tax-office encounter. My history did not.
 

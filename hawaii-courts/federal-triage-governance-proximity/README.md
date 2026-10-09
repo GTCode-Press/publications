@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 28, 2026
-**Last Modified:** October 7, 2026
+**Last Modified:** October 8, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/federal-triage-governance-proximity/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -13,7 +13,7 @@
 
 I filed a referral with the DOJ Public Integrity Section on July 12, 2025. DOJ acknowledged receipt. No further communication or investigative contact about that referral has been communicated to me.[^receipt] Receipt does not establish whether the matter was assigned, investigated, transferred, or declined.
 
-The December 2, 2022 hearing sequence is documented in the [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/). Loo signaled “no” to the witness before the answer and cut off my attempt to describe the signal aloud. The sealed audio can test the question, answer, attempted record statement, and interruption. It cannot independently establish a visual signal.
+[The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) holds the underlying courtroom account. This file follows the federal referral and the records needed to establish its handling.
 
 ## Referral Chronology
 
@@ -99,7 +99,7 @@ Confirmation of an investigation, transfer, or merits decision would change the 
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/hawaii-courts/federal-triage-governance-proximity/},
-      note    = {Last modified 2026-10-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/federal-triage-governance-proximity}}
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/federal-triage-governance-proximity}}
     }
 
 **APA:**

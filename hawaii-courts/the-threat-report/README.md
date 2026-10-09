@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** October 1, 2026
-**Last Modified:** October 7, 2026
+**Last Modified:** October 8, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/the-threat-report/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -13,7 +13,7 @@
 
 *A public accountability letter by Ekewaka Lono.*
 
-> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022]({{< relref "hawaii-courts/the-unanswered-sequence/index.md" >}}).
+> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}).
 
 Audrey L.E. Stanley[^1] was my assigned public defender when I reported the Hartmann death threat. She dismissed my report and later relayed a tentative proposal involving my departure from Hawaiʻi.
 
@@ -155,7 +155,7 @@ I am asking Stanley to account for how she handled my report, what advice she ga
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/hawaii-courts/the-threat-report/},
-      note    = {Last modified 2026-10-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-threat-report}}
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-threat-report}}
     }
 
 **APA:**

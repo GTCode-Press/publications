@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 5, 2026
-**Last Modified:** October 7, 2026
+**Last Modified:** October 8, 2026
 **Canonical URL:** https://gtcode.com/disclosures/cartography-for-guppies/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -75,7 +75,7 @@ Each article should answer five questions:
 
 The fifth question prevents atomization. Every individual event may admit an ordinary explanation; the test is whether the same explanations survive the full sequence.
 
-[The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) applies that method to the trial through a principal-agent and incomplete-information model. [The Unanswered Sequence](https://gtcode.com/hawaii-courts/the-unanswered-sequence/) carries it outward to information provenance, inherited framing, and containment.
+[The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) applies that method to the trial through a principal-agent and incomplete-information model. [The Information Trail](https://gtcode.com/hawaii-courts/information-trail-2015-2022/) carries it outward to information provenance, inherited framing, and containment.
 
 Theories belong in the place where they generate records requests. Facts stay attached to their sources. Wider circulation does not independently corroborate an account; new records, witnesses, and substantive responses can change its evidentiary position.
 
@@ -114,7 +114,7 @@ Welcome to Oʻahu Underground.
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/disclosures/cartography-for-guppies/},
-      note    = {Last modified 2026-10-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/cartography-for-guppies}}
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/cartography-for-guppies}}
     }
 
 **APA:**

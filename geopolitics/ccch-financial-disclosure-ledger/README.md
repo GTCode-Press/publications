@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 4, 2026
-**Last Modified:** October 7, 2026
+**Last Modified:** October 8, 2026
 **Canonical URL:** https://gtcode.com/geopolitics/ccch-financial-disclosure-ledger/
 **Section:** Investigations
 **Series:** The Architecture of Access — Part II
@@ -12,13 +12,9 @@
 
 ---
 
-**Pacific OSINT & Security Analysis:** This article is a public-record compliance and disclosure review. It is not evidence for the Wilson Loo allegations, HPD’s handling of the author’s reports, the Hartmann threat, or any claim in the author's chronology.
-
-*By Ekewaka Lono | Oahu Underground*
-
 *Part II of [The Architecture of Access](https://gtcode.com/geopolitics/architecture-of-access-luke-network/), following [The Bridges](https://gtcode.com/geopolitics/prc-access-mapping-hawaii/). This article examines CCCH’s financial filings and disclosure requirements.*
 
-*Access mapping asks what relationships exist and what safeguards are visible. It does not convert relationship, donor, board, or school overlap into proof of control, misconduct, or coordination.*
+
 
 ## Series Navigation
 
@@ -31,11 +27,7 @@
 
 ## Executive Summary
 
-> **What this is**: a public‑record compliance review of CCCH Form 990 filings and documented public events.
-> **Scope**: this is access-pattern mapping. It alleges neither foreign control nor illegal conduct, and it makes no claim about donor identities. Safeguards, donor explanations, and internal controls may exist outside the public record.
-> **Not legal advice.**
-
-**May 13 editorial standard**: This article places financial filings and public events beside each other to identify disclosure questions. Hidden direction, coordination, or donor identity remain unresolved unless records beyond the public filings establish them. The ordinary explanations for the filing pattern include domestic fundraising, one-time event revenue, charitable pass-through activity, accounting classification, and ordinary nonprofit recordkeeping. The unresolved issue is disclosure sufficiency and what records would clarify the spike.
+This review compares CCCH’s Form 990 filings with documented public events to identify disclosure questions. Donor identities, internal controls, and any foreign direction remain unresolved in the public record. Domestic fundraising, one-time event revenue, charitable pass-through activity, and accounting classification could explain the filing pattern.
 
 **Key Judgments**
 
@@ -252,7 +244,7 @@ The Chinese Chamber of Commerce of Hawaii, its officers, and all individuals and
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/geopolitics/ccch-financial-disclosure-ledger/},
-      note    = {The Architecture of Access, Part II; Last modified 2026-10-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/geopolitics/ccch-financial-disclosure-ledger}}
+      note    = {The Architecture of Access, Part II; Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/geopolitics/ccch-financial-disclosure-ledger}}
     }
 
 **APA:**

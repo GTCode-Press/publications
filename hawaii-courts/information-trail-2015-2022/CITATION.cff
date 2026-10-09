@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: article
-title: 'The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022'
+title: 'The Information Trail: Open Questions from 2015–2022'
 authors:
 - family-names: Lono
   given-names: Ekewaka
 date-released: '2026-10-03'
-url: https://gtcode.com/hawaii-courts/the-unanswered-sequence/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-unanswered-sequence
+url: https://gtcode.com/hawaii-courts/information-trail-2015-2022/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/information-trail-2015-2022
 license-url: https://gtcode.com/policies/content-use/
-abstract: An investigation into the alleged 2015–2017 frame-up, who knew about it,
-  and whether it relates to the later court and police encounters.
+abstract: An investigation into what participants knew during the 2015–2022 events,
+  how information may have traveled, and which records could distinguish the explanations.
 keywords:
 - Open Investigation
 - Working Hypotheses

@@ -11,31 +11,15 @@
 
 ---
 
-# The Two Questions
+<span id="how-one-interview-could-test-the-wilson-loo-case"></span>
+<span id="evidence-classification"></span>
+<span id="the-two-questions-1"></span>
 
-## How One Interview Could Test the Wilson Loo Case
-
-By Ekewaka Lono • Published: February 23, 2026 • Updated: October 8, 2026
-
-This file identifies the shortest investigative path for one courtroom report: what happened, which sealed record can test the timing, and what review question follows if the witness account, court file, and audio sequence align.
-
-My account is direct: a presiding judge signaled a sworn witness to deny a material fact and then cut off the party's attempt to preserve the signal on an audio-only record. The institutional question is whether standard investigative steps can test that account.
-
-### Evidence Classification
-
-| Category | Status |
-| --- | --- |
-| Firsthand report | my courtroom observation |
-| Audio-confirmable | Question, answer, cutoff, sealing sequence |
-| Sealed-record-dependent | Audio and exhibits |
-| Legal inference | HRPC / federal review analysis |
-| Not claimed | Coordinated criminal conspiracy absent further evidence |
-
-**Procedural frame:** This article is an investigative action memo. Its scope is one courtroom sequence and the ordinary steps that would test it: interview the witness, obtain the sealed audio, review the exhibit, reconstruct line of sight, and ask the people present what they saw. Media, platforms, federal deference, and biography are handled in separate articles.
+Interview the witness, retrieve the sealed audio and exhibit, and compare the accounts of the people present. This memo sets out two lines of questioning to test the December 2, 2022 hearing described in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/). The audio can test the spoken sequence; eyewitness evidence must test the gesture.
 
 ---
 
-The review path involving retired Judge Wilson M.N. Loo turns on the cooperation of one person: ████████████. ████████████ is the witness reported to have received the nonverbal signal. He is also the person whose prior conduct — specifically, his reported role as an intermediary in LSD distribution on the North Shore — created the factual predicate at issue in the courtroom question. That predicate came from my account, prior law-enforcement reports, and the sealed court exhibit described below, not from social-media or search-platform behavior.
+The review path involving retired Judge Wilson M.N. Loo turns on the cooperation of one person: ████████████. ████████████ is the witness reported to have received the nonverbal signal. He is also the person whose prior conduct — specifically, his reported role as an intermediary in LSD distribution on the North Shore — created the factual predicate at issue in the courtroom question. The predicate came from my account, prior law-enforcement reports, and the sealed court exhibit described below.
 
 Investigators should weigh ████████████'s account against motive, specificity, line of sight, the sealed audio sequence, and the court file. Truthful corroboration, combined with the sealed audio recording of Loo cutting off my objection as petitioner, could allow investigators to evaluate the elements of [18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242) — deprivation of rights under color of law. Judges can be prosecuted under § 242: the Supreme Court unanimously confirmed this in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/). The harder issue is whether these specific facts meet § 242's willfulness requirement and *Lanier*'s fair-warning standard — that the unlawfulness of the conduct must be "apparent" in light of pre-existing law. Judicial immunity — a defense to civil suits — has no application to criminal prosecution.
 

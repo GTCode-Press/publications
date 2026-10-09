@@ -13,7 +13,7 @@
 
 *A public accountability letter by Ekewaka Lono.*
 
-> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022]({{< relref "hawaii-courts/the-unanswered-sequence/index.md" >}}).
+> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}).
 
 The prosecution arose from my November 2015 encounter with tax official Young Kwak. His accusation about what I said was false. The July 2017 trial ended in a hung jury. The State did not retry the case, and I later obtained an expungement.
 
@@ -205,7 +205,7 @@ Kanemoto, Kwak, Yuen, the relevant agencies, and any participant with records ma
 
 The trial ended without a conviction. I still want answers about what the state said and showed the jury, and how an encounter with a tax official came to be framed through childhood associations and an imaginary weapon.
 
-*The header image is generated editorial artwork and contains no documentary image from the trial. Image credit: generated editorial artwork for Oahu Underground / GTCode, October 1, 2026.*
+*Image credit: generated editorial reconstruction for Oahu Underground / GTCode, October 3, 2026; reused here unchanged on October 8, 2026.*
 
 ## Sources and Notes
 

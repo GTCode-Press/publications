@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 13, 2025
-**Last Modified:** October 7, 2026
+**Last Modified:** October 8, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -27,7 +27,7 @@ This page is a guide to the case files. Each event has a primary article with it
 
 ## Role Reversal and the Durable Record
 
-My question across these events is which account entered the official record and what happened to the evidence that could answer it. An accusation can survive while preceding harm, a rebuttal, or an attempted report remains unrecorded or inaccessible. Whether earlier information affected a later decision requires evidence of what the later participant received and used. [The Unanswered Sequence](https://gtcode.com/hawaii-courts/the-unanswered-sequence/) examines that theory through H0–H4.
+My question across these events is which account entered the official record and what happened to the evidence that could answer it. An accusation can survive while preceding harm, a rebuttal, or an attempted report remains unrecorded or inaccessible. Whether earlier information affected a later decision requires evidence of what the later participant received and used. [The Information Trail](https://gtcode.com/hawaii-courts/information-trail-2015-2022/) examines that theory through H0–H4.
 
 ## Earlier Events {#record-surface-1-prior-reported-events-and-record-limits}
 
@@ -45,7 +45,7 @@ The three accountability articles divide the questions by participant: *The Thre
 
 ## Police Reports and the Hearing {#record-surface-4-law-enforcement-intake-and-triage}
 
-[The Shield Effect](https://gtcode.com/hawaii-courts/shield-effect-accountability-gap/) examines investigation, referral, and the absence of a prosecution of the 2022 defendant. The [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) holds the detailed hearing sequence and later police contacts. [The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/) identifies the witness interview and sealed records that could test the federal civil-rights question and the separate Hawaiʻi false-testimony theories.
+[The Review Gap](https://gtcode.com/hawaii-courts/review-gap-police-judicial-oversight/) examines investigation, referral, and the absence of a prosecution of the 2022 defendant. [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) holds the courtroom account; the [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) follows the wider hearing and later police contacts. [The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/) identifies the witness interview and sealed records that could test the federal civil-rights question and the separate Hawaiʻi false-testimony theories.
 
 <span id="reported-federal-buddy-statement"></span>
 
@@ -87,7 +87,7 @@ Corrections and responses can be sent under the [Corrections Policy](https://gtc
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/},
-      note    = {Last modified 2026-10-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps}}
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps}}
     }
 
 **APA:**

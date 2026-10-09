@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** March 1, 2026
-**Last Modified:** October 7, 2026
+**Last Modified:** October 8, 2026
 **Canonical URL:** https://gtcode.com/geopolitics/prc-access-mapping-hawaii/
 **Section:** Investigations
 **Series:** The Architecture of Access — Part I
@@ -12,13 +12,9 @@
 
 ---
 
-*By Ekewaka Lono | Oahu Underground*
-
-**Pacific OSINT & Security Analysis:** This article is public-record security and access-safeguard analysis. It does not explain the Wilson Loo allegations, HPD’s handling of the author’s reports, the Hartmann threat, or any claim in the author's chronology.
-
 *Part I of [The Architecture of Access](https://gtcode.com/geopolitics/architecture-of-access-luke-network/), examining documented PRC-facing institutional relationships and the safeguards attached to access.*
 
-*Espionage, direction, tasking, control, criminal conduct, or exploitation would require evidence beyond the public affiliations documented here.*
+Documented relationships establish access points. They do not, by themselves, establish espionage, direction, control, or misconduct; those conclusions require evidence beyond affiliation.
 
 ## Series Navigation
 
@@ -381,7 +377,7 @@ The relevant custodians are ordinary: Punahou, Pacific Forum, APCSS Foundation, 
       year    = {2026},
       month   = mar,
       url     = {https://gtcode.com/geopolitics/prc-access-mapping-hawaii/},
-      note    = {The Architecture of Access, Part I; Last modified 2026-10-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/geopolitics/prc-access-mapping-hawaii}}
+      note    = {The Architecture of Access, Part I; Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/geopolitics/prc-access-mapping-hawaii}}
     }
 
 **APA:**

@@ -1,11 +1,11 @@
-# The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022
+# The Information Trail: Open Questions from 2015–2022
 
 > An Open Investigation into the 2015–2022 Sequence
 
 **Author:** Ekewaka Lono
 **Published:** October 3, 2026
 **Last Modified:** October 8, 2026
-**Canonical URL:** https://gtcode.com/hawaii-courts/the-unanswered-sequence/
+**Canonical URL:** https://gtcode.com/hawaii-courts/information-trail-2015-2022/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
 
@@ -14,7 +14,7 @@
 > **Open Investigation / Working Theories**  
 > This investigation brings together my account of the 2015–2022 events and the available records. It asks what each person knew, where they learned it, and which records could distinguish the possible explanations.
 
-The companion articles examine different parts of the history. [Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/) covers the pre-indictment housing and information-flow history. [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/) covers the Hartmann death threat and Audrey Stanley’s[^1] handling of my report. [The Hypothetical Gun](https://gtcode.com/hawaii-courts/the-hypothetical-gun/) covers the prosecutor's closing. [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) audits the defense representation and the chambers-to-plea sequence. [The Silent Conspiracy](https://gtcode.com/hawaii-courts/silent-conspiracy-hrpc-8-3b-mens-rea/) addresses the December 2, 2022 Wilson Loo proceeding and Rule 8.3(b).
+The companion articles examine different parts of the history. [Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/) covers the pre-indictment housing and information-flow history. [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/) covers the Hartmann death threat and Audrey Stanley’s[^1] handling of my report. [The Hypothetical Gun](https://gtcode.com/hawaii-courts/the-hypothetical-gun/) covers the prosecutor's closing. [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) audits the defense representation and the chambers-to-plea sequence. [The Reporting Duty](https://gtcode.com/hawaii-courts/reporting-duty-hrpc-8-3b/) addresses the December 2, 2022 Wilson Loo proceeding and Rule 8.3(b).
 
 This article asks whether information from the earlier events reached people involved later, and whether their decisions reflected shared knowledge or separate interests.
 
@@ -22,23 +22,13 @@ This article asks whether information from the earlier events reached people inv
 
 ## Evidence-State Classification
 
-| Class | Meaning | Treatment here |
-| :--- | :--- | :--- |
-| **Documented** | Supported by an identified public, court, institutional, or archival record. | Source and provenance stated. |
-| **Firsthand** | Directly seen, heard, received, said, or experienced by me. | Stated as firsthand evidence. Corroboration identified separately. |
-| **Contemporaneous** | Communications, notes, reports, or third-party records created near the event. | Used to establish timing, early reporting, and what participants knew. |
-| **Context** | Independently established background about an actor or institution. | Supplies setting and possible access routes. |
-| **Inference** | Analytical conclusion drawn from the sequence, incentives, and evidence. | Labeled as interpretation. |
-| **Theory** | Explanatory model that predicts records and behavior. | Tested through confirming and disconfirming evidence. |
-| **Unknown** | Missing information held in unrecovered records or testimony. | Converted into a retrieval question. |
-
-The same firsthand account repeated across multiple articles remains one source. Repetition never becomes corroboration.
+Firsthand events, identified records, inferences, and working theories are labeled throughout, following the [editorial standards](https://gtcode.com/policies/editorial-standards/#firsthand-evidence). A repeated firsthand account remains one source; corroboration requires another record or witness.
 
 ---
 
-## Part I — The 2015–2017 Frame-Up Theory
+## Part I — The 2015–2017 Chronology and Framing Question {#part-i--the-20152017-frame-up-theory}
 
-The theory advanced here is that the tax-office confrontation became the vehicle for an adverse account of me while the lethal threat against me remained outside my trial testimony. The sequence examines information flow, professional incentives, and local decisions.
+The chronology below separates what I witnessed from the explanations I am testing. My frame-up theory is that the tax-office confrontation became the vehicle for an adverse account of me while the lethal threat against me remained outside my trial testimony. The sequence examines information flow, professional incentives, and local decisions; the proposed connection must be tested against actor-specific records.
 
 ```mermaid
 %%{init: {"htmlLabels": false, "flowchart": {"htmlLabels": false, "nodeSpacing": 40, "rankSpacing": 60, "padding": 18}, "themeVariables": {"fontSize": "16px"}}}%%
@@ -121,6 +111,10 @@ He told me to **stop talking about what happened.** The approaching trial was th
 I testified at trial but omitted the Hartmann death threat after Kevin’s warning and Retained Trial Counsel’s advice against including it. [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/#my-testimony-and-state-of-mind) holds the account of that advice and my decision.
 
 In closing, prosecutor Vincent Kanemoto acknowledged that no gun was involved and then used a two-handed mock-pistol gesture while asking jurors to imagine a gun and convict.
+
+![Editorial reconstruction of a prosecutor making a two-handed mock-pistol gesture toward twelve jurors.](https://gtcode.com/img/ou-information-trail-og-1200x630.jpg)
+
+*Editorial reconstruction based on my firsthand account of the 2017 closing argument, not a photograph or courtroom recording. The gun-shaped shadow is a visual metaphor. [The Hypothetical Gun](https://gtcode.com/hawaii-courts/the-hypothetical-gun/) examines the gesture and the closing-argument record.*
 
 The frame-up theory reads that sequence as a role inversion:
 
@@ -398,7 +392,7 @@ The later investigation asks whether earlier information reached people handling
 * **Trial Closing Argument:** [The Hypothetical Gun: The Closing-Argument Record](https://gtcode.com/hawaii-courts/the-hypothetical-gun/)
 * **Trial Counsel / Chambers Game:** [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/)
 * **Counsel and Threat Handling:** [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/)
-* **Judicial Conduct and Rule 8.3(b):** [The Silent Conspiracy](https://gtcode.com/hawaii-courts/silent-conspiracy-hrpc-8-3b-mens-rea/)
+* **Judicial Conduct and Rule 8.3(b):** [The Reporting Duty](https://gtcode.com/hawaii-courts/reporting-duty-hrpc-8-3b/)
 * **Courtroom Line of Sight and Sealing:** [The Lawyer in the Room](https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/)
 
 ## Sources and Notes
@@ -415,18 +409,18 @@ The later investigation asks whether earlier information reached people handling
 
 **BibTeX:**
 
-    @article{lono2026unansweredsequence,
+    @article{lono2026informationtrail2015,
       author  = {Lono, Ekewaka},
-      title   = {The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022},
+      title   = {The Information Trail: Open Questions from 2015–2022},
       journal = {GTCode.com Investigations},
       year    = {2026},
       month   = oct,
-      url     = {https://gtcode.com/hawaii-courts/the-unanswered-sequence/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-unanswered-sequence}}
+      url     = {https://gtcode.com/hawaii-courts/information-trail-2015-2022/},
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/information-trail-2015-2022}}
     }
 
 **APA:**
-Lono, E. (2026, October 3). The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/the-unanswered-sequence/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-unanswered-sequence)
+Lono, E. (2026, October 3). The Information Trail: Open Questions from 2015–2022. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/information-trail-2015-2022/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/information-trail-2015-2022)
 
 **Chicago:**
-Ekewaka Lono. "The Unanswered Sequence: Frame-Up, Hush, and the Open Questions from 2015–2022." *GTCode.com Investigations*, October 3, 2026. https://gtcode.com/hawaii-courts/the-unanswered-sequence/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-unanswered-sequence.
+Ekewaka Lono. "The Information Trail: Open Questions from 2015–2022." *GTCode.com Investigations*, October 3, 2026. https://gtcode.com/hawaii-courts/information-trail-2015-2022/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/information-trail-2015-2022.
