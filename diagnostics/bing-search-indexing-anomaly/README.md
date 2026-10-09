@@ -1,6 +1,6 @@
 # Bing Indexing Diagnostics
 
-> Inconsistent webmaster diagnostics, recurring zero-result public search, and technical transparency for an independent publisher
+> Inconsistent webmaster diagnostics, partial domain visibility, and zero Hawaii Courts search results
 
 **Author:** Ekewaka Lono
 **Published:** February 13, 2026
@@ -11,7 +11,9 @@
 
 ---
 
-Bing's own tools reported inconsistent states for gtcode.com depending on the page inspected: blocked, not discovered, invisible in public search, or indexed successfully. Public Bing behavior has now moved through three captured states: zero visible domain results on February 12, partial May 12 visibility with one visible gtcode.com result on the captured first page, and a May 17 return to zero visible `site:gtcode.com` results.
+**Capture dates:** The exhibits cover February 12–October 8, 2026. The latest captures document partial domain visibility and zero results for the targeted Hawaii Courts query.
+
+Bing's own tools reported inconsistent states for gtcode.com depending on the page inspected: blocked, not discovered, invisible in public search, or indexed successfully. Public Bing visibility has fluctuated between complete absence and limited results. On October 8, 2026, Bing displayed two gtcode.com URLs on the captured first page—a non-investigative technical article and an archived government-source document—while returning zero results for the site’s flagship Hawaii Courts investigation directory. On February 15, Bing Webmaster Tools had explicitly marked *The Nod*, a known Hawaii Courts investigation URL, as **"Blocked."** The documented blocking and public-search absence are established observations; their cause remains unresolved.
 
 On May 17, a public Bing search for `site:nshkr.com` returned visible results for that lower-traffic domain, which uses the same general publication stack. Cloudflare analytics captured that day showed materially more measured traffic for gtcode.com than for nshkr.com over the previous 30 days. Bing still returned no visible `site:gtcode.com` results.
 
@@ -87,7 +89,7 @@ The exhibits document site-level and page-level diagnostic differences inside Bi
 
 The current evidence does not identify any human actor inside or outside Microsoft.
 
-Captured public-search behavior now includes a regression: zero visible `site:gtcode.com` results on February 12, partial visibility on May 12, and zero visible results again on May 17. The control domain appeared in Bing; gtcode.com did not. gtcode.com also had more traffic in the captured Cloudflare window.
+Captured public-search behavior includes zero visible `site:gtcode.com` results on February 12, partial visibility on May 12, zero visible results again on May 17, and two visible first-page domain URLs on October 8 alongside zero targeted Hawaii Courts results. In the May 17 control capture, nshkr.com appeared in Bing while gtcode.com did not, despite gtcode.com having more traffic in the captured Cloudflare window.
 
 Search engines use automated policy systems, quality classifiers, crawler queues, site diagnostics, spam and malware classifiers, complaint-review channels, and public-result rendering layers. Any of those mechanisms could explain reduced or uneven visibility. So could benign internal explanations: stale diagnostic state, unsupported status propagation, false-positive filters, canonicalization defects, or index-serving bugs.
 
@@ -115,7 +117,7 @@ The initial exhibits are screenshots from Microsoft's own Bing Webmaster Tools a
 2. Investigation pages are "Not discovered"
 3. Bing's tools reported an open-source software page as known to Bing and unable to be served to users
 
-The screenshots are the primary sources. On May 12, one gtcode.com result appeared in the captured Bing page. On May 17, no visible `site:gtcode.com` results appeared, while the same-day control domain `site:nshkr.com` remained visible and Cloudflare showed materially higher traffic for gtcode.com than for the control domain.
+The screenshots are the primary sources. On May 12, one gtcode.com result appeared in the captured Bing page. On May 17, no visible `site:gtcode.com` results appeared, while the same-day control domain `site:nshkr.com` remained visible and Cloudflare showed materially higher traffic for gtcode.com than for the control domain. On October 8, two domain URLs appeared on the captured first page, while the targeted Hawaii Courts search returned no results. The February 15 URL Inspection had already marked a known investigation URL as blocked.
 
 This article documents Bing's treatment of gtcode.com as reflected in Bing Webmaster Tools and search results. Bing has not explained why. The current record shows a visibility anomaly and diagnostic differences. Proving that any specific article, person, complaint, or policy rule caused the result would require additional technical or platform records.
 
@@ -287,9 +289,47 @@ In the captured window, gtcode.com had roughly eight times the unique visitors o
 
 The May 17 capture documents zero visible gtcode.com results in that public Bing `site:` search on May 17, 2026. It does not establish the site’s search visibility on dates not captured here, or identify any actor or intent. Explaining why requires Bing-side records, crawler logs, policy notices, complaint records, or support responses.
 
+---
+
+## Exhibit H: October 8, 2026 — Partial Domain Visibility, Zero Hawaii Courts Results
+
+On October 8, 2026, a public Bing search for `site:gtcode.com` displayed **"About 57 results"** but returned only two visible gtcode.com URLs on the captured first page:
+
+- `/articles/harness-engineering/` — a non-investigative technical article.
+- `/sources/the-ledger/DCCA_Search_HFBA.html` — an archived Hawaii business-registration source page, titled "Hawaii Business Express | BREG DCCA."
+
+Neither result was a core investigative article in the Oahu Underground portfolio. The archived government-source document is supporting source material, not a main investigation.
+
+![Bing search for site:gtcode.com showing about 57 estimated results and two visible first-page URLs on October 8, 2026: Harness Engineering and Hawaii Business Express](https://gtcode.com/img/bing-site-gtcode-two-visible-results-20261008.webp)
+
+*Exhibit H1: October 8 domain search. Bing reports an estimated count of about 57 but displays only two URLs on page one. The capture does not establish what appears on pages two and three.*
+
+A separate public Bing search targeting the site's flagship investigation portfolio, `site:gtcode.com/hawaii-courts/`, returned:
+
+> **"There are no results for site:gtcode.com/hawaii-courts/"**
+
+![Bing search for site:gtcode.com/hawaii-courts/ explicitly showing there are no results on October 8, 2026](https://gtcode.com/img/bing-site-hawaii-courts-zero-results-20261008.webp)
+
+*Exhibit H2: October 8 Hawaii Courts search. Bing returns no results for the targeted investigation directory.*
+
+This is a material addition to the search-visibility record. Bing visibly returned a technical article and archived source material from gtcode.com while returning zero results for the Hawaii Courts investigation directory in the captured search.
+
+The February 15 URL Inspection in Exhibit D explicitly marked *The Nod*, a Hawaii Courts investigation, as known to Bing but **"Blocked"**, with issues preventing Bing from serving it to users. The October 8 screenshots do not establish that article's current URL Inspection status, but they document the continued public-search absence of the Hawaii Courts portfolio in the targeted query.
+
+Bing's estimated domain result count does not establish how many URLs are actually indexed or publicly retrievable. The captures establish a portfolio-specific public-search visibility disparity. They do not identify its cause or intent, or reveal which pages Bing retains internally.
+
+| Capture date | Bing's reported domain count | Visible domain results in the capture | Targeted Hawaii Courts search |
+| --- | --- | --- | --- |
+| February 12, 2026 | No results | None | Not captured |
+| May 12, 2026 | About 50 | One technical article on page one | Not captured |
+| May 17, 2026 | No results | None | Not captured |
+| October 8, 2026 | About 57 | Two URLs on page one: a technical article and an archived source document | No results |
+
+The question requiring explanation is why Bing exposes other gtcode.com material while the flagship investigative portfolio remains absent from the captured public-search results.
+
 ## What The Evidence Leaves Open
 
-Public Bing results and Bing Webmaster Tools show a search-index diagnostics problem. The current record identifies no human actor. It does not show whether a third-party complaint, a policy system, a technical bug, a stale diagnostic state, or some combination caused the result. On May 12, at least one non-investigative technical article surfaced. The May 12 capture leaves a gap between Bing’s estimated result count and the single visible first-page result; the May 17 capture shows no visible results. The screenshots alone cannot distinguish underlying index coverage from ranking, filtering, or result-serving behavior affecting the investigation pages.
+Public Bing results and Bing Webmaster Tools show a search-index diagnostics problem. The current record identifies no human actor. It does not show whether a third-party complaint, a policy system, a technical bug, a stale diagnostic state, or some combination caused the result. On May 12, at least one non-investigative technical article surfaced. The May 12 capture leaves a gap between Bing’s estimated result count and the single visible first-page result; the May 17 capture shows no visible results. The October 8 capture shows partial domain visibility again, with two visible first-page URLs, but the targeted Hawaii Courts query returns zero results. Exhibit D establishes that Bing previously reported a known investigation URL as blocked from being served. The search captures document public visibility; they do not reveal Bing’s internal index coverage or identify the mechanism causing the disparity.
 
 ## What Would Resolve This
 
@@ -308,13 +348,13 @@ The article’s characterization of ongoing visibility would need revision if Bi
 
 It would also need revision if the same-stack control domain began showing the same disappearance pattern, because that would make a stack-level explanation more plausible. As of the May 17 capture, the opposite pattern is present: the control domain appears in Bing public site-search while gtcode.com does not.
 
-The May 17 evidence does not prove a human actor, complaint source, policy reason, or intent. It reopens the full public-search disappearance condition after the May 12 partial-visibility capture.
+The May 17 evidence documents a return to full public-search disappearance after the May 12 partial-visibility capture. The October 8 evidence updates the latest observed state to partial domain visibility with zero targeted Hawaii Courts results. Neither establishes a human actor, complaint source, policy reason, or intent.
 
 ## What Happens Next
 
 The next record-building steps are straightforward:
 
-1. Repeat same-session public Bing checks for `site:gtcode.com`, `site:nshkr.com`, exact-title queries, and exact-URL queries.
+1. Repeat same-session public Bing checks for `site:gtcode.com`, `site:gtcode.com/hawaii-courts/`, `site:nshkr.com`, exact-title queries, and exact-URL queries.
 2. Preserve same-day Cloudflare traffic captures around each search screenshot.
 3. Compare Bing behavior against Google, DuckDuckGo, and direct sitemap fetches.
 4. Request Bing-side clarification for the different states: blocked, not discovered, indexed successfully, site-scan 4xx, partial visibility, and zero-result public search.

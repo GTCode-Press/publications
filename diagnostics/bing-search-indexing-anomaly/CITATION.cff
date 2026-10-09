@@ -9,9 +9,8 @@ date-released: '2026-02-13'
 url: https://gtcode.com/diagnostics/bing-search-indexing-anomaly/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/diagnostics/bing-search-indexing-anomaly
 license-url: https://gtcode.com/policies/content-use/
-abstract: Evidence from Bing Webmaster Tools and public Bing search showing inconsistent
-  diagnostics, transient partial visibility, and a May 17, 2026 return to zero visible
-  site-search results for gtcode.com. Bing has not explained why.
+abstract: 'October 8, 2026: Bing shows two gtcode.com URLs but zero Hawaii Courts
+  results. Earlier diagnostics marked a known investigation URL blocked.'
 keywords:
 - Bing
 - Search-Index Anomaly
