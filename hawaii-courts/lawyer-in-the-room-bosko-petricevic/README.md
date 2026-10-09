@@ -17,7 +17,7 @@
 
 Bosko Petricevic represented the witness at the December 2, 2022 hearing before Judge Wilson M.N. Loo. This article examines what he perceived and understood, and whether Hawaiʻi’s reporting rule required him to act.
 
-I saw Loo signal “no” before the sworn witness denied furnishing LSD, then cut off my attempt to describe the signal for the audio record. Petricevic represented the witness, and I saw him looking toward Loo during that sequence. What he perceived and understood remains unresolved. [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) preserves the full courtroom account. The [open letter](https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/) asks him to give his account.
+> **Courtroom account:** [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) gives my firsthand account of the December 2, 2022 hearing. This article asks what Petricevic perceived and understood, and what he did afterward. The [open letter](https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/) asks him to give his account.
 
 Hawaiʻi Rule of Professional Conduct 8.3(b) requires a lawyer who knows of a judicial-conduct violation raising a substantial question as to the judge’s fitness for office to inform an appropriate authority. Rule 8.3(c) excludes information protected by Rule 1.6 from required disclosure.[^1] Whether Petricevic had actual knowledge, whether the conduct met the seriousness threshold, and whether disclosure was permitted determine whether he had a reporting duty. A violation also requires proof that the required report was not made.
 
@@ -25,7 +25,7 @@ I am aware of no report. That does not establish that none was made, particularl
 
 ## The Stress Test
 
-The legal stress test is simple. Assume my reported facts are supported: Judge Loo intentionally signaled "no" to direct the witness's answer; Mr. Petricevic perceived the gesture and understood its communicative purpose; the witness denied furnishing LSD after the signal; I immediately attempted to place the judge's conduct on the record; and Judge Loo cut me off.
+The legal stress test assumes that the conduct described in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) constituted intentional judicial interference and that Petricevic perceived and understood it. Those are separate propositions to establish, not conclusions supplied by his presence.
 
 On those assumptions, the intentional shaping of sworn testimony presents a serious judicial-fitness question. Whether counsel violated a reporting duty still depends on actual knowledge, Rule 8.3(c), and whether a required report was made. Crediting my visual account does not alone resolve those separate questions.
 
@@ -43,7 +43,7 @@ Rule 8.3(b) requires actual knowledge. That is a mental-state requirement, but i
 
 The inquiry is whether Mr. Petricevic perceived the gesture, understood it as communicating a desired answer to the witness, and had actual knowledge of conduct constituting a judicial violation serious enough to raise a substantial question as to fitness for office. A reporting-duty finding does not depend on his admitting that knowledge or reciting a particular rule number. If the alleged signal did not occur, it cannot supply the predicate; if counsel lacked actual knowledge, this reporting theory fails.
 
-If Petricevic saw the signal and answer and heard my attempted description, those circumstances would bear on what he understood. His position gave him an opportunity to perceive; it does not establish that he did.
+The opportunity to perceive documented in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) does not establish actual perception. What he heard, where he was looking, and his understanding of the conduct must be assessed together.
 
 Hawaiʻi's Rule 1.0(f) defines knowledge as actual knowledge that may be inferred from circumstances. The relevant circumstances include the sequence, timing, participants' positions, the question and answer, and the immediate attempt to describe the gesture on the record. An ordinary sealing request does not itself establish that counsel perceived the signal or intended to conceal misconduct. [^1]
 
@@ -77,7 +77,7 @@ For Rule 8.3(b), this is material. A lawyer in the room cannot dismiss judicial 
 
 ## The Sealing Request Restricted Outside Review
 
-Petricevic requested sealing, and the court granted it. The resulting restriction limited outside access to the recorded proceedings, including the exchange in which Loo interrupted my attempt to describe his signal. The audio could preserve the spoken exchange, but not the gesture itself.
+Petricevic requested sealing, and the court granted it. The resulting restriction limited outside access to the recorded proceedings. This section examines counsel’s request and its consequences for independent review; [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) holds the underlying courtroom account.
 
 The request and the court’s ruling raise separate questions: what did Petricevic ask to seal, and why? What did the judge authorize, and what authority and findings supported it? Was narrower protection considered for the question, answer, attempted statement for the record, and interruption? The written or recorded request, docket entries, order, and any findings could supply those answers.
 

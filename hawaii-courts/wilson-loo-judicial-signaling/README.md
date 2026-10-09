@@ -1,4 +1,4 @@
-# Wilson Loo: A Nonverbal ‘No’ Signal and Oversight Failure in Hawaiʻi
+# Wilson Loo: Hearing and Oversight in Hawaiʻi
 
 > Hawaii's Justice System Under Scrutiny
 
@@ -14,15 +14,15 @@
 <span id="evidence-classification"></span>
 <span id="legal-notice"></span>
 
-This overview follows the reports before the December 2, 2022 hearing, the court’s handling of my evidence, and the oversight decisions afterward. [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) holds my account of Loo’s signal, the witness’s denial, and the interruption of my attempted record statement. The sealed audio can test the spoken sequence; the visual signal requires eyewitness evidence.
+This overview follows the reports before the December 2, 2022 hearing, the court’s handling of my harassment evidence, and the oversight decisions afterward.
 
 > **Related investigation:** [The Information Trail]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}) examines what information may have passed between participants in the 2015–2022 events.
 
-## The Core Report: Judicial Signaling in an Audio-Only Record
+## The Courtroom Account and Review Questions {#the-core-report-judicial-signaling-in-an-audio-only-record}
 
-### What Happened in Judge Loo's Courtroom
+<span id="what-happened-in-judge-loos-courtroom"></span>
 
-At the December 2, 2022 hearing, I asked the sworn witness whether he had furnished me LSD. Before he answered, I saw Loo signal “no” with his head. The witness denied it. I began, “Let the record show that the judge just—”, and Loo cut me off. The audio-only recording cannot show the gesture; the sealed audio can test the spoken sequence. [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) preserves the detailed account and quoted interruption.
+> **Courtroom account:** [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) gives my firsthand account of the December 2, 2022 hearing. This overview examines the wider hearing, police handling, and subsequent oversight.
 
 The alleged direction of sworn testimony and interruption of record preservation warrant investigation under 18 U.S.C. § 242 for a willful deprivation of federal rights under color of law.[^1] The analysis below examines the witness’s answer under Hawaiʻi perjury law and the knowledge and intent investigators would need to establish.
 
@@ -53,15 +53,13 @@ This chronology presents firsthand events and institutional outcomes. Intake not
 
 ## The Alleged Perjury: Material False Testimony Under Oath
 
-The central alleged false statement in this case concerns the defendant's testimony regarding drug distribution. When
-directly questioned under oath about providing LSD, the defendant denied doing so despite text message
-evidence already in the court file: a text I sent him saying, "I took the acid".
+The sworn denial and text-message exhibit documented in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) are the factual premises for the perjury inquiry. The exhibit’s presence alone does not establish the witness’s knowledge or all elements of the offense.
 
 Hawaiʻi’s [perjury statute, HRS §710-1060](https://data.capitol.hawaii.gov/hrscurrent/Vol14_Ch0701-0853/HRS0710/HRS_0710-1060.htm), requires a false statement in an official proceeding under an oath required or authorized by law, which the speaker does not believe to be true. A conviction also requires the court to find the statement materially false. The oath, actual provision of LSD, denial, witness’s knowledge, and materiality need to be examined through testimony and the complete court file. I reported the denial as perjury; no perjury conviction is reported here.
 
 ## The Witness Signal and the Audio-Only Record {#the-subornation-theory-the-audio-only-advantage}
 
-The audio could capture my description of the signal, but not the signal itself. Loo cut off that description.
+The recording limitations described in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) make contemporaneous preservation relevant to review; the audio cannot corroborate the visual act itself.
 
 ### The Legal Questions {#the-subornation-theory}
 
@@ -71,7 +69,7 @@ The text exhibit’s presence in the file does not alone establish that Loo knew
 
 ### Judge Loo's Background: Oversight Experience as Context
 
-Loo had served on Hawaiʻi’s Commission on Judicial Conduct. His prior Commission service supports my inference that he understood the limitations of judicial oversight and of an audio-only record. When he cut off my attempt to describe the signal aloud, the signal remained outside the recording. Whether he intended that result requires evidence beyond his prior Commission service.
+Loo had served on Hawaiʻi’s Commission on Judicial Conduct. His prior Commission service supports my inference that he understood the limitations of judicial oversight and of an audio-only record. Whether Loo intended to prevent preservation requires evidence beyond his prior Commission service; the observed conduct is documented in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence).
 
 <span id="the-right-to-present-the-harassment-case"></span>
 
@@ -162,12 +160,14 @@ The May 2025 Judiciary listing still included Loo’s name. His name was later r
 
 **The Institutional Sequence:**
 
-1. Loo signaled the witness, stopped my attempt to describe the signal, and the hearing record was later sealed
+1. The hearing described in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) took place; its audio record was later sealed
 2. The Commission reported a March 22, 2023 insufficient-evidence disposition of an earlier complaint
 3. The judge leaves per diem service before renewed review
 4. Commission claims lack of jurisdiction after 90-day window
 
-Sealing limited access to the hearing record, and the Commission invoked the jurisdictional deadline to refuse renewed review. Intake, review, conflict, and disposition records could establish how both complaints were handled.
+Sealing limited access to the hearing record, and the [Commission on Judicial Conduct](https://courts.ehawaii.gov/courts/judicial_conduct/commission_on_judicial_conduct) invoked the jurisdictional deadline to refuse renewed review. Intake, review, conflict, and disposition records could establish how both complaints were handled.
+
+When I queried the Ethics Commission, it stated confusion over its own authority. The inquiry and response should be preserved and reviewed separately from the Commission on Judicial Conduct’s dispositions.
 
 <span id="the-police-response-a-pattern-of-non-response"></span>
 <span id="the-police-response-intake-credibility-and-non-response"></span>
@@ -336,7 +336,7 @@ regarding factual assertions may be directed to me.
 
     @article{lono2025wilsonloojudicial,
       author  = {Lono, Ekewaka},
-      title   = {Wilson Loo: A Nonverbal ‘No’ Signal and Oversight Failure in Hawaiʻi},
+      title   = {Wilson Loo: Hearing and Oversight in Hawaiʻi},
       journal = {GTCode.com Investigations},
       year    = {2025},
       month   = jun,
@@ -345,7 +345,7 @@ regarding factual assertions may be directed to me.
     }
 
 **APA:**
-Lono, E. (2025, June 12). Wilson Loo: A Nonverbal ‘No’ Signal and Oversight Failure in Hawaiʻi. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling)
+Lono, E. (2025, June 12). Wilson Loo: Hearing and Oversight in Hawaiʻi. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling)
 
 **Chicago:**
-Ekewaka Lono. "Wilson Loo: A Nonverbal ‘No’ Signal and Oversight Failure in Hawaiʻi." *GTCode.com Investigations*, June 12, 2025. https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling.
+Ekewaka Lono. "Wilson Loo: Hearing and Oversight in Hawaiʻi." *GTCode.com Investigations*, June 12, 2025. https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling.

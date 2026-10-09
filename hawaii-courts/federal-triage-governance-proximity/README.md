@@ -19,7 +19,7 @@ I filed a referral with the DOJ Public Integrity Section on July 12, 2025. DOJ a
 
 | Date | Event |
 |---|---|
-| December 2, 2022 | The visual signal, sworn denial, and interrupted attempt to preserve the signal |
+| December 2, 2022 | Hearing documented in [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) |
 | March 22, 2023 | CJC found “insufficient evidence,” according to its later letter |
 | July 2024 | Loo retired from per diem service |
 | March 13, 2025 | CJC invoked its former-judge jurisdiction limit and closed further correspondence on the matters raised |

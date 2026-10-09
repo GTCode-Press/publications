@@ -23,7 +23,8 @@ This page is a guide to the case files. Each event has a primary article with it
 | Hartmann death threat, counsel response, and departure concept | [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/) | Public Defender notes, client communications, and any departure-proposal records |
 | Kwak’s testimony, booth diagram, and mock-pistol closing | [The Hypothetical Gun](https://gtcode.com/hawaii-courts/the-hypothetical-gun/) | Grand-jury and trial records, prior statements, scene measurements, and witness preparation |
 | Retained counsel, chambers, and plea pressure | [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) | Counsel’s file, plea communications, trial transcript, and chambers accounts |
-| December 2022 hearing | [Wilson Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) | Sealed audio, the exhibit, courtroom layout, and testimony from people present |
+| December 2, 2022 courtroom sequence | [The Nod](https://gtcode.com/hawaii-courts/the-nod-visual-allegation/#the-courtroom-sequence) | Sealed audio, the exhibit, courtroom layout, and testimony from people present |
+| Wider hearing and subsequent reporting | [Wilson Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) | Complete hearing record, submissions, police records, and oversight correspondence |
 
 ## Role Reversal and the Durable Record
 
