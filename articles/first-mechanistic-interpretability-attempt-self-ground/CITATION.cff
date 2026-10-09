@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls,
+  and the Discipline of Negative Results'
+authors:
+- name: GTCode Editorial
+date-released: '2026-06-26'
+url: https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/first-mechanistic-interpretability-attempt-self-ground
+license-url: https://gtcode.com/policies/content-use/
+abstract: A first-person account of SELF-GROUND, a negation SAE experiment that taught
+  me why controls, calibration, and negative results matter.
+keywords:
+- Mechanistic Interpretability
+- Sparse Autoencoders
+- TransformerLens
+- SAELens
+- Activation Patching
+- AI Research

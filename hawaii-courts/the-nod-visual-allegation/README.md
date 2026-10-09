@@ -1,0 +1,93 @@
+# The Nod: Visual Report, Audio Sequence, and Review Gap
+
+> A firsthand visual report and the record sequence that can test it
+
+**Author:** Ekewaka Lono
+**Published:** February 12, 2026
+**Last Modified:** October 8, 2026
+**Canonical URL:** https://gtcode.com/hawaii-courts/the-nod-visual-allegation/
+**Section:** Investigations
+**Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
+
+---
+
+This article is about one disputed courtroom sequence: a firsthand visual report, a question asked under oath, an answer, an attempted record statement, an interruption, and a sealed audio record. Broader institutional questions are addressed separately and are not needed to evaluate this report.
+
+### Evidence Classification
+
+| Category | Status |
+| --- | --- |
+| Firsthand report | My courtroom observation; audio cannot directly capture the visual gesture |
+| Audio-confirmable | Question, answer, cutoff, sealing sequence |
+| Sealed-record-dependent | Audio and exhibits |
+| Legal inference | Judicial-conduct and federal review analysis |
+| Not claimed | Coordinated criminal conspiracy absent further evidence |
+
+The scene in the courtroom should have been procedural. The question before the witness, (redacted), was simple: *Did you furnish the plaintiff with LSD?*
+
+The evidence was already in the file. I submitted a text message to the court in which I told (redacted), "I took the acid." Authorized review of the sealed court file could independently confirm the exhibit and establish what documentary evidence was available to Loo. The message and surrounding evidence supplied the context for my question about whether the witness had furnished that acid to me.
+
+When the question was asked, I saw [Judge Loo](https://www.courts.state.hi.us/wp-content/uploads/2020/06/Loo-W-2019-FDS.pdf) look at the witness and signal with his head: *No.*
+
+
+(Redacted) then denied furnishing LSD. Whether that denial constituted perjury is a question for investigation or adjudication.
+
+I immediately tried to put the signal on the record: “Let the record show that the judge just—”. [Loo](https://disclosures.civilbeat.org/disclosures/wilson-loo-2-2/) cut me off.
+
+My allegation is judicial interference with sworn testimony and interruption of my contemporaneous attempt to preserve the record.
+
+Under **[18 U.S.C. § 242](https://www.law.cornell.edu/uscode/text/18/242)** — deprivation of rights under color of law — state-judge conduct can raise federal criminal questions when a constitutional deprivation is willful and occurs under official authority. The Supreme Court unanimously confirmed this statute's application to state judges in [*United States v. Lanier*, 520 U.S. 259 (1997)](https://supreme.justia.com/cases/federal/us/520/259/). If records and witness testimony support my account, the conduct described here would implicate both the right to be heard and the right to an impartial tribunal. The interruption preventing the objection from entering the record is captured on the sealed audio.
+
+Motive is unresolved. Ordinary defenses would begin with a different account of the gesture, a claim that it was ambiguous, or an assertion that the interruption was routine courtroom control. My inference is that, in Hawaii's legal ecosystem, social position and credibility framing can affect who receives deference. The record question is straightforward: whether the sealed audio, court file, line-of-sight reconstruction, and testimony from people present corroborate the courtroom sequence.
+
+The documented response did not produce public accountability.
+
+When the Honolulu Police Department was informed, they said *I* had to prove the perjury. The [Judicial Conduct Commission](https://courts.ehawaii.gov/courts/judicial_conduct/commission_on_judicial_conduct) reported an "insufficient evidence" disposition of an earlier complaint in March 2023 and later declined renewed review under its 90-day former-judge jurisdiction rule. When the Ethics Commission was queried, it stated confusion over its own authority.
+
+The text message and sworn denial remain in the sealed court record. Audio-only recording left the visual signal outside that recording, and the cutoff stopped my immediate description. Sealing restricted access to the aftermath. The Commission’s public reports and its separate complaint dispositions are examined in the [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/).
+
+## The Separate Hearing Issue
+
+Loo also cut off my explanation of the stalking, assault, and vehicle attacks; the [overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/#the-case-loo-cut-off) sets out that account and the court's duty to receive relevant evidence.
+
+## Evidence Standard
+
+Public-record claims are cited to documents available for review. The signal is my visual observation; the spoken sequence can be tested against the sealed audio. Reviewers need both the audio and eyewitness evidence.
+
+## Competing Factual Accounts and Limits {#ordinary-defenses-and-limits}
+
+The serious defenses are factual. A participant could deny that the gesture occurred. A witness could say the movement was ambiguous. A lawyer could say he did not see it or did not understand it as a signal. A judge could defend the cutoff as ordinary courtroom control. An investigator could conclude that the audio-only limitation makes the visual report hard to corroborate.
+
+Those accounts must be tested against the evidence. Intent and the legal requirements for any violation remain separate from whether the gesture occurred.
+
+## Records Needed {#limits-of-the-public-record}
+
+<span id="what-would-falsify-this"></span>
+
+The sealed audio and court file can test the question, answer, attempted record statement, cutoff, sealing sequence, and text-message exhibit. Eyewitness accounts and courtroom layout can test the signal and opportunity to see it. A materially different recording or exhibit, or credible contrary eyewitness evidence, would change the assessment. The weight of any account, including a participant’s denial, depends on specificity, line of sight, consistency with the audio and court file, and independent support. The [Loo overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/) holds the full hearing and reporting history; [The Two Questions](https://gtcode.com/hawaii-courts/two-questions-wilson-loo/) sets out the investigative steps.
+
+---
+
+*— Ekewaka Lono, 12 February 2026*
+
+---
+
+## How to Cite
+
+**BibTeX:**
+
+    @article{lono2026nodvisualallegation,
+      author  = {Lono, Ekewaka},
+      title   = {The Nod: Visual Report, Audio Sequence, and Review Gap},
+      journal = {GTCode.com Investigations},
+      year    = {2026},
+      month   = feb,
+      url     = {https://gtcode.com/hawaii-courts/the-nod-visual-allegation/},
+      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-nod-visual-allegation}}
+    }
+
+**APA:**
+Lono, E. (2026, February 12). The Nod: Visual Report, Audio Sequence, and Review Gap. *GTCode.com Investigations*. https://gtcode.com/hawaii-courts/the-nod-visual-allegation/ (Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-nod-visual-allegation)
+
+**Chicago:**
+Ekewaka Lono. "The Nod: Visual Report, Audio Sequence, and Review Gap." *GTCode.com Investigations*, February 12, 2026. https://gtcode.com/hawaii-courts/the-nod-visual-allegation/. Archived at https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-nod-visual-allegation.

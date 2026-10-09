@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Harness Engineering: From Agent Prompts to Engineering Control Systems'
+authors:
+- name: GTCode Editorial
+date-released: '2026-03-04'
+url: https://gtcode.com/articles/harness-engineering/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering
+license-url: https://gtcode.com/policies/content-use/
+abstract: 'A practical technical synthesis on harness engineering: repository knowledge,
+  executable invariants, runtime evidence, architecture compression, and safety controls
+  for reliable AI coding agents.'
+keywords:
+- Harness Engineering
+- AI Coding Agents
+- AGENTS.md
+- OpenAI Codex
+- Software Engineering
+- Agent-First Development
+- Autonomous Development
+- Model Context Protocol
+- Observability
+- Agent Safety

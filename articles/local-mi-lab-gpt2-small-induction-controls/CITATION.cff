@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Local MI Lab: How Controls Broke My First Induction Story'
+authors:
+- name: GTCode Editorial
+date-released: '2026-06-26'
+url: https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls
+license-url: https://gtcode.com/policies/content-use/
+abstract: A first-person account of Local MI Lab, a GPT-2 small mechanistic interpretability
+  practice loop where controls, head-specific patching, characterization, failure
+  taxonomy, and metric calibration falsified an attractive induction-head story.
+keywords:
+- Mechanistic Interpretability
+- GPT-2 Small
+- TransformerLens
+- Activation Patching
+- AI Research

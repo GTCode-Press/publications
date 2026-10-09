@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: Copyright and Republication
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-10-08'
+url: https://gtcode.com/policies/content-use/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/policies/content-use
+license-url: https://gtcode.com/policies/content-use/
+abstract: Linking to GTCode and Oahu Underground is permitted. Republishing or redistributing
+  original content requires prior written permission.

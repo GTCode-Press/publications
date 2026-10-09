@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'Hawaii Accountability Gaps: Case File Guide'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2025-08-13'
+url: https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps
+license-url: https://gtcode.com/policies/content-use/
+abstract: A short guide to the primary event accounts, counsel questions, police records,
+  and judicial-oversight files in the Hawaii Courts archive.
+keywords:
+- Institutional Accountability
+- Hawaii
+- Accountability Failure
+- Law Enforcement Accountability

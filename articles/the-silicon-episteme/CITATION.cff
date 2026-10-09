@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Silicon Episteme
+authors:
+- name: GTCode Editorial
+date-released: '2026-10-03'
+url: https://gtcode.com/articles/the-silicon-episteme/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/the-silicon-episteme
+license-url: https://gtcode.com/policies/content-use/
+abstract: Synthetic civilizations and branching future histories as controlled experiments
+  on how training lineage shapes AI representations and generalization.
+keywords:
+- Synthetic Data
+- AI Civilizations
+- Foundation Models
+- Artificial Life
+- Open-Ended Evolution
+- Futures Research
+- Causal Modeling
+- Knowledge Graphs

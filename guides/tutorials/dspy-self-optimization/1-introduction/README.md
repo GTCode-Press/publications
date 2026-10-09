@@ -1,0 +1,57 @@
+# 1. Introduction: From Prompts to Programs
+
+**Author:** GTCode Editorial
+**Published:** July 30, 2025
+**Canonical URL:** https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/
+**Section:** Guides
+**Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
+
+---
+
+### The Problem: The Brittleness of Prompt Engineering
+
+Large Language Models (LLMs) are incredibly powerful, but getting them to perform a specific, complex reasoning task reliably is a major challenge. The standard approach is "prompt engineering": manually tweaking the text of a prompt, often through trial and error, until it produces the desired output for a few examples.
+
+This approach has significant drawbacks:
+-   **Brittleness:** A prompt that works well for one set of examples might fail completely on slightly different ones.
+-   **Opacity:** It's often unclear *why* one prompt works better than another, making the process feel more like an art than a science.
+-   **Lack of Adaptability:** If the underlying LLM is updated (e.g., from GPT-4 to GPT-5), the "optimal" prompt might change completely, forcing the developer to start the tuning process all over again.
+
+For a system as complex as CNS 2.0, which relies on an LLM for its core **[Generative Synthesis Engine](https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/)**, this manual, brittle approach is simply not viable. We need a more robust, principled, and automated way to optimize our system's reasoning capabilities.
+
+### The Solution: Programmatic Optimization with DSPy
+
+This tutorial introduces a new paradigm: treating our LLM-based workflows not as static prompts, but as **programs we can optimize**. We will use the **[DSPy](https://github.com/stanfordnlp/dspy)** framework to achieve this.
+
+As detailed in **[Chapter 7 of the Developer's Guide](https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/)**, DSPy allows us to define the *steps* of our reasoning task (e.g., "analyze two opposing narratives and generate a synthesized hypothesis") without hard-coding the prompt. Instead, we provide:
+1.  A **Signature** that defines the desired input/output behavior.
+2.  A **Metric** that defines what a "good" output looks like.
+3.  A few **Examples** of high-quality input/output pairs.
+
+The DSPy compiler then takes over, automatically experimenting with different prompts, few-shot examples, and reasoning strategies to find the optimal "program" that maximizes the metric on the given examples.
+
+This is the core of the self-optimization loop described in the CNS 2.0 [Ideas Paper](https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/). By using our own `CriticPipeline` as the optimization metric, we can teach the synthesizer to generate SNOs that our system already considers to be high-quality.
+
+In this tutorial, we will walk through a concrete example of how to use DSPy to build a self-optimizing synthesis module for CNS 2.0. We will move from a manually engineered prompt to a robust, optimized program that is more accurate, reliable, and adaptable.
+
+---
+
+## How to Cite
+
+**BibTeX:**
+
+    @misc{gtcodeeditorial20251introduction_7c4f,
+      author  = {GTCode Editorial, },
+      title   = {1. Introduction: From Prompts to Programs},
+      institution = {GTCode.com Guides},
+      year    = {2025},
+      month   = jul,
+      url     = {https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/},
+      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction}}
+    }
+
+**APA:**
+GTCode Editorial (2025, July 30). 1. Introduction: From Prompts to Programs. *GTCode.com Guides*. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/ (Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction)
+
+**Chicago:**
+GTCode Editorial. "1. Introduction: From Prompts to Programs." *GTCode.com Guides*, July 30, 2025. https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/. Archived at https://github.com/GTCode-Press/publications/tree/main/guides/tutorials/dspy-self-optimization/1-introduction.

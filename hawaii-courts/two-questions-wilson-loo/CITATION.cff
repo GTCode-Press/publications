@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Two Questions: How One Interview Could Test the Wilson Loo Case'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-23'
+url: https://gtcode.com/hawaii-courts/two-questions-wilson-loo/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/two-questions-wilson-loo
+license-url: https://gtcode.com/policies/content-use/
+abstract: A records-first review path for testing the December 2, 2022 courtroom sequence
+  through one witness, two lines of questioning, sealed audio, and court-file review.
+keywords:
+- Wilson Loo
+- 18 U.S.C. § 242
+- Deprivation of Rights
+- Hawaiʻi Perjury
+- DOJ Public Integrity
+- FBI
+- Hawaii
+- Judicial Accountability

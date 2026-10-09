@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: GCTS Architecture
+authors:
+- name: GTCode Editorial
+date-released: '2026-05-15'
+url: https://gtcode.com/guides/cns-gcts/architecture/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-gcts/architecture
+license-url: https://gtcode.com/policies/content-use/
+abstract: The runtime pipeline for evidence ingestion, access modeling, tensor closure,
+  world ranking, and audit reports.
