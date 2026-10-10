@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** June 12, 2025
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -144,7 +144,7 @@ My correspondence to the Commission also disclosed reported misconduct by Audrey
 
 The private pressure and the later proposal both pushed me toward leaving Hawaiʻi. I did not observe coordination between the participants. Stanley’s later judicial service adds to the present public interest in examining her earlier representation. This article makes no claim about the judicial appointment process. The public listing establishes her role; it does not corroborate our conversations.
 
-The dedicated Stanley counsel-file disclosure is [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/), based on a draft disciplinary complaint not submitted to ODC. It reports no disciplinary finding and does not prove the Wilson Loo account or coordination.
+The dedicated Stanley counsel-file disclosure is [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/), a public-interest account of Stanley’s handling of the threat report. It does not prove the Wilson Loo account or coordination.
 
 ### Documented Professional Background: Rutgers Law and Organized-Crime Prosecution
 
@@ -341,7 +341,7 @@ regarding factual assertions may be directed to me.
       year    = {2025},
       month   = jun,
       url     = {https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
     }
 
 **APA:**

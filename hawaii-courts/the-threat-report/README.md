@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** October 1, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/the-threat-report/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -112,11 +112,9 @@ The institutional files have not been independently authenticated and published 
 
 The Judiciary lists Stanley as a First Circuit per diem judge. Her 2024 judicial financial disclosure gives September 23, 2024 as the date of her Family Court appointment.[^1] She was my public defender when I reported the threat. Her later judicial service adds to the present public interest in examining that representation. This letter makes no claim about her conduct on the bench or the judicial appointment process.
 
-## Publication Status and Response
+## Response and Corrections
 
-This public accountability letter supersedes the earlier draft complaint as my published account. The draft has **not been submitted to the Hawaiʻi Office of Disciplinary Counsel**. No disciplinary authority finding is being reported.
-
-Stanley, the Office of the Public Defender, and any participant with records may respond through the site's [Corrections Policy](https://gtcode.com/policies/corrections-policy/). No response obtained specifically for this letter is represented here. Relevant notes, terms, or explanations should be incorporated with their source identified.
+Stanley, the Office of the Public Defender, and any participant with records may respond through the site's [Corrections Policy](https://gtcode.com/policies/corrections-policy/). Relevant notes, terms, or explanations should be incorporated with their source identified.
 
 I am asking Stanley to account for how she handled my report, what advice she gave me, and what she was communicating when she raised departure.
 
@@ -155,7 +153,7 @@ I am asking Stanley to account for how she handled my report, what advice she ga
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/hawaii-courts/the-threat-report/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-threat-report}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-threat-report}}
     }
 
 **APA:**

@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 6, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -73,6 +73,10 @@ A reporting-duty finding requires evidence of qualifying judicial misconduct, yo
 
 The resolution path is procedural: review the sealed audio; review the court-file exhibit; reconstruct the courtroom layout and line of sight; ask the witness what he saw; ask Mr. Petricevic what he saw, understood, and did; and determine whether a report satisfying Rule 8.3(b) was made to an appropriate authority. Evidence establishing an applicable Rule 1.6 barrier, a report satisfying Rule 8.3(b), or materially contrary eyewitness facts could weaken or defeat the reporting-duty allegation. The absence of a publicly available ethics analysis does not establish a violation. All testimony should be evaluated for specificity, opportunity to observe and line of sight, consistency with the audio and court file, and independent support. A finding of a reporting violation would require evidence establishing qualifying judicial misconduct, your actual knowledge, a reporting obligation consistent with Rule 8.3(c), and failure to make the required report.
 
+## Response and Corrections
+
+Mr. Petricevic and anyone with relevant records may respond through the site’s [Corrections Policy](https://gtcode.com/policies/corrections-policy/).
+
 ## Sources and Notes
 
 [^hrpc]: Hawaii State Judiciary, [Hawaiʻi Rules of Professional Conduct](https://www.courts.state.hi.us/wp-content/uploads/2024/09/hrpcond_ada.htm), Rules 1.0(f), 1.6, 8.3(b)-(c), and Rule 8.3 comments. The knowledge, confidentiality, and reporting provisions relied on here were operative on December 2, 2022 and remain materially unchanged in the current text. Compare the [June 25, 2013 adoption order and attached rules](https://www.courts.state.hi.us/docs/court_rules/pdf/2013/2013_hrpc_ada.pdf), effective January 1, 2014; the [2022 amendment index](https://www.courts.state.hi.us/hawaii-court-rules-orders-of-amendment-2022) lists no amendments to Rules 1.0, 1.6, or 8.3, and the current rule-specific histories record no intervening amendments to those provisions. ([archival copy](https://gtcode.com/sources/silent-conspiracy-rule-83-mens-rea/Hawaii_HRPC_2024.html)) ([archival copy — 2022 amendment index](https://gtcode.com/sources/silent-conspiracy-rule-83-mens-rea/Hawaii_Court_Rules_Orders_of_Amendment_2022.html))
@@ -94,7 +98,7 @@ The resolution path is procedural: review the sealed audio; review the court-fil
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/open-letter-bosko-petricevic}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/open-letter-bosko-petricevic}}
     }
 
 **APA:**

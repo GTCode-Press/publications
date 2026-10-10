@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** October 1, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/disclosures/before-the-tax-office/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -163,9 +163,9 @@ This chronology draws on my firsthand account and the records and source materia
 
 The original application, agency files, and grand-jury transcript have not been independently authenticated and published with this letter. No independent authentication is implied by listing their retrieval paths.
 
-The Kanemoto and Stanley drafts have **not been submitted to ODC**, and no disciplinary findings are reported. These public accountability letters supersede those drafts as my published account. This Reporter Disclosure is chronology and source context; it does not prove the separate Wilson Loo/Petricevic courtroom allegations.
+This Reporter Disclosure is chronology and source context; it does not prove the separate Wilson Loo/Petricevic courtroom allegations.
 
-Any named person or institution may respond through the site's [Corrections Policy](https://gtcode.com/policies/corrections-policy/). No response obtained specifically for this letter is represented here. Documents or responses that establish a different event, date, or communication should be included with their source identified.
+Any named person or institution may respond through the site's [Corrections Policy](https://gtcode.com/policies/corrections-policy/). Documents or responses that establish a different event, date, or communication should be included with their source identified.
 
 My move, housing records, private message, and café encounter preceded the tax-office dispute. The investigator encounter, threats, counsel’s response, trial, and later police-reporting attempt followed it. My account of those events belongs alongside the state file.
 
@@ -188,7 +188,7 @@ My move, housing records, private message, and café encounter preceded the tax-
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/disclosures/before-the-tax-office/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/before-the-tax-office}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/before-the-tax-office}}
     }
 
 **APA:**

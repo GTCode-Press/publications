@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** October 1, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/the-hypothetical-gun/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -197,11 +197,9 @@ These records could establish when events happened and what each participant did
 
 The transcript, grand-jury record, and agency files have not been independently authenticated and published with this letter. When quoting or summarizing it, distinguish the encounters I witnessed and my allegation against Kwak from my inference connecting the events.
 
-## Publication Status and Response
+## Response and Corrections
 
-This public accountability letter supersedes the earlier draft complaint as my published account. The draft has **not been submitted to the Hawaiʻi Office of Disciplinary Counsel**. No disciplinary authority finding is being reported.
-
-Kanemoto, Kwak, Yuen, the relevant agencies, and any participant with records may respond through the site's [Corrections Policy](https://gtcode.com/policies/corrections-policy/). No response obtained specifically for this letter is represented here. A response, transcript, or document that changes the account should appear alongside it.
+Kanemoto, Kwak, Yuen, the relevant agencies, and any participant with records may respond through the site's [Corrections Policy](https://gtcode.com/policies/corrections-policy/). A response, transcript, or document that changes the account should appear alongside it.
 
 The trial ended without a conviction. I still want answers about what the state said and showed the jury, and how an encounter with a tax official came to be framed through childhood associations and an imaginary weapon.
 
@@ -250,7 +248,7 @@ The trial ended without a conviction. I still want answers about what the state 
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/hawaii-courts/the-hypothetical-gun/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-hypothetical-gun}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-hypothetical-gun}}
     }
 
 **APA:**

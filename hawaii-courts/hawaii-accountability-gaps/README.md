@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** August 13, 2025
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -34,7 +34,7 @@ My question across these events is which account entered the official record and
 
 <span id="early-reported-event-and-record-limits"></span>
 
-The [childhood accounts](https://gtcode.com/personal-essays/the-shift-they-taught-him/) and [Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/) preserve the earlier history. They provide context for my later encounters; they do not establish what a particular official knew.
+[Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/) preserves the earlier history. It provides context for my later encounters; it does not establish what a particular official knew.
 
 ## Prosecution and Counsel {#record-surface-2-prosecution-and-intake-records}
 
@@ -42,7 +42,7 @@ The [childhood accounts](https://gtcode.com/personal-essays/the-shift-they-taugh
 <span id="record-surface-3-courtroom-procedure-and-preservation"></span>
 <span id="reported-deviations-from-standard-courtroom-conduct"></span>
 
-The three accountability articles divide the questions by participant: *The Threat Report* examines Stanley’s handling of the threat and the departure concept she relayed; *The Hypothetical Gun* examines the prosecution’s testimony, diagram, and closing; *The Defense Table Went Quiet* examines retained counsel’s advice, chambers, and plea advocacy. The drafts concerning Stanley, Kanemoto, and Retained Trial Counsel were not submitted to ODC. No disciplinary findings are reported.
+The three accountability articles divide the questions by participant: *The Threat Report* examines Stanley’s handling of the threat and the departure concept she relayed; *The Hypothetical Gun* examines the prosecution’s testimony, diagram, and closing; *The Defense Table Went Quiet* examines retained counsel’s advice, chambers, and plea advocacy.
 
 ## Police Reports and the Hearing {#record-surface-4-law-enforcement-intake-and-triage}
 
@@ -88,7 +88,7 @@ Corrections and responses can be sent under the [Corrections Policy](https://gtc
       year    = {2025},
       month   = aug,
       url     = {https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/hawaii-accountability-gaps}}
     }
 
 **APA:**

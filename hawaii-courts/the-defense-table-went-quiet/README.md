@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** October 3, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 9, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -22,8 +22,6 @@ The jury hung. Counsel told me there would be another trial, then called back ab
 His file could show what happened in chambers, what remedies he considered, when the plea became available, and what he explained to me.
 
 > **Editorial anonymization:** The lawyer remains identified only as **Retained Trial Counsel**. The investigation concerns conduct, incentives, records, and professional duties.
-
-> **Publication status:** No disciplinary complaint concerning Retained Trial Counsel was filed. No disciplinary finding concerning him is reported here.
 
 ## I. The Client Owned the Objective
 
@@ -394,7 +392,7 @@ Any participant with records that materially alter the chronology may respond th
 
 [^12]: *State v. Aplaca*, 74 Haw. 54, 837 P.2d 1298 (1992), section II.A, [opinion](https://law.justia.com/cases/hawaii/supreme-court/1992/15402-2.html). The court held that failure to investigate prospective defense witnesses could not be treated as trial strategy without adequate inquiry. It concerned different facts and does not establish deficient representation here; it supplies the benchmark for examining counsel's preparation before calling a choice tactical.
 
-[^13]: Hawaiʻi Rules of Professional Conduct, Rules 1.1 and 1.3, competence and diligence. The [official rules PDF](https://www.courts.state.hi.us/docs/court_rules/rules/hrpc.pdf) requires reasonably necessary legal knowledge, skill, thoroughness, and preparation under Rule 1.1, and reasonable diligence and promptness under Rule 1.3. The relevant pages in the [archived compilation](https://gtcode.com/sources/silent-conspiracy-rule-83-mens-rea/Hawaii_HRPC_docs_rules_pdf.pdf#page=13) are HRPC–7 (release December 2013, PDF p. 13) and HRPC–10 (release December 2015, PDF p. 16). These duties supply professional standards for the conduct examined here; no disciplinary finding is represented.
+[^13]: Hawaiʻi Rules of Professional Conduct, Rules 1.1 and 1.3, competence and diligence. The [official rules PDF](https://www.courts.state.hi.us/docs/court_rules/rules/hrpc.pdf) requires reasonably necessary legal knowledge, skill, thoroughness, and preparation under Rule 1.1, and reasonable diligence and promptness under Rule 1.3. The relevant pages in the [archived compilation](https://gtcode.com/sources/silent-conspiracy-rule-83-mens-rea/Hawaii_HRPC_docs_rules_pdf.pdf#page=13) are HRPC–7 (release December 2013, PDF p. 13) and HRPC–10 (release December 2015, PDF p. 16). These duties supply professional standards for the conduct examined here.
 
 [^3]: Hawaiʻi Rules of Professional Conduct, Rule 1.4, *Communication*. Rule 1.4 requires communication sufficient for informed client decisions. Comment 7 states that a lawyer may not withhold information to serve the lawyer's own interest or convenience or another person's interests. Official Hawaiʻi Judiciary [rules PDF, HRPC–11–12](https://www.courts.state.hi.us/docs/court_rules/rules/hrpc.pdf#page=17), relevant page release December 2015 in the [archived compilation](https://gtcode.com/sources/silent-conspiracy-rule-83-mens-rea/Hawaii_HRPC_docs_rules_pdf.pdf).
 
@@ -433,7 +431,7 @@ Any participant with records that materially alter the chronology may respond th
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-defense-table-went-quiet}}
+      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-defense-table-went-quiet}}
     }
 
 **APA:**
