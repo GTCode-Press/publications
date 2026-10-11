@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Body Keeps the Receipts
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-26'
+url: https://gtcode.com/personal-essays/the-body-keeps-the-receipts/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/personal-essays/the-body-keeps-the-receipts
+license-url: https://gtcode.com/policies/content-use/
+abstract: A research review of childhood head injury, institutional betrayal, and
+  later symptoms, distinguishing reported experience, population evidence, and causal
+  hypotheses.
+keywords:
+- Childhood Head Injury
+- Institutional Betrayal
+- Adverse Childhood Experiences
+- Institutional Response
