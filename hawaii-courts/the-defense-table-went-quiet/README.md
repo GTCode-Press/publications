@@ -46,7 +46,7 @@ The sixth question comes directly from Hawaiʻi conflict doctrine.
 
 My retainer had two tiers: **&#36;6,000** for plea representation and **&#36;8,000** for a full jury trial. Plea representation accounted for 75 percent of the maximum stated fee. The additional fee for taking the felony through a jury trial was $2,000.
 
-A more favorable plea position already existed when I paid the extra $2,000 and chose trial. The existence of an earlier favorable plea position does not establish that its terms were identical to the petty-misdemeanor offer pressed during jury deliberations.
+A more favorable plea position already existed when I paid the extra $2,000 and chose trial. The petty-misdemeanor offer was first floated to me during jury deliberations, after the mock-pistol closing and chambers conference. It had not been presented to me when I paid the additional trial fee.
 
 Before trial, counsel told me, in substance, that **the judge preferred a “tight trial.”** I heard that before the decisions about my testimony, the response to the mock-pistol closing, and the plea pressure during deliberations. The remark does not tell me why he made those choices.
 
@@ -134,8 +134,6 @@ I recall the judge instructing the jury to disregard the mock-pistol episode. [T
 
 That jury was still deciding whether to convict me of a felony. The argument raised a concrete question for counsel: was the instruction sufficient, or should he seek a mistrial or further relief? *State v. Lagat* places a mistrial ruling within the trial court's discretion.[^15] A request could have been denied; if granted, it could have led to another trial. I needed counsel to explain those options and the consequences of continuing before that jury. His file and the trial record could show how he assessed the instruction, what relief he considered or sought, and what he explained to me.
 
-A granted mistrial would ordinarily permit retrial, but Hawaiʻi law at the time recognized a narrow double-jeopardy bar where prosecutorial misconduct was exceptionally egregious. Whether the reported closing could have met that standard is a separate question; *State v. Rogan* does not establish that it would have. *State v. Genge* illustrates that misconduct warranting a new trial need not meet the higher threshold for barring reprosecution.[^24]
-
 My later insistence that the jury finish does not establish what counsel had explained after chambers or whether I knowingly chose to forgo any available relief.
 
 The judge, prosecutor, and defense lawyer all saw the closing. The judge’s immediate response made clear that it required discussion.
@@ -178,7 +176,7 @@ If counsel had that interest, did it affect what he told me about the mock-pisto
 
 Rule 1.4 requires enough information for the client to make informed decisions. Its commentary says a lawyer may not withhold information to serve the lawyer's own interest or convenience, or another person's interests.[^3]
 
-I needed counsel to explain the significance of the closing, the available remedies, and what I would gain or give up under each option. He could recommend a course; I controlled whether to accept a plea. Although counsel ordinarily controlled trial motions and objections, his responsibility to exercise independent professional judgment did not eliminate his duty to explain material developments and their consequences for my decision whether to accept a plea.[^25]
+I needed counsel to explain the significance of the closing, the available remedies, and what I would gain or give up under each option. He could recommend a course; I controlled whether to accept a plea.
 
 “Client-owned leverage” describes the client-lawyer relationship in agency theory; it claims no separate legal property right. My authority over a plea had little practical value without enough information about the leverage I would give up.
 
@@ -192,19 +190,19 @@ Marc Galanter's repeat-player framework explains how continuing participants acc
 
 ## VI. The Petty-Misdemeanor Offer as an Observable Concession
 
-During deliberations, counsel presented a **petty-misdemeanor** plea to me. The State was asking the jury for a felony conviction. The records need to show whether the offer already existed on the same terms or materially changed at this stage.
+During deliberations, after the mock-pistol closing and chambers conference, counsel presented a **petty-misdemeanor** plea to me for the first time. The State was asking the jury for a felony conviction. No petty-misdemeanor offer had been floated to me before then. When the lawyers first discussed or developed those terms is a separate question for their records.
 
 The offer’s timing matters:
 
 > **When exactly did the petty-misdemeanor offer originate or materially improve, and did the change follow the mock-pistol closing and chambers conference?**
 
-The records could distinguish three possibilities:
+These possibilities concern the offer’s history between the lawyers, not when it was first presented to me. The records could distinguish three possibilities:
 
 - **P1 — Preexisting and unchanged:** the petty-misdemeanor offer already existed on the same terms and remained actively available before the closing.
 - **P2 — Preexisting but revived:** the offer existed earlier but was revived or newly emphasized after chambers.
 - **P3 — New or materially improved:** the offer originated or materially improved after chambers.
 
-P1 would weigh against the claim that the closing caused the concession. P2 would show that an existing offer was pressed again after chambers. P3 would require comparing the new or improved terms with what happened in chambers. Timing alone would not explain why the offer changed.
+P1 would weigh against the claim that the closing caused the concession. P2 would show that an earlier offer between the lawyers was revived or newly emphasized after chambers, then presented to me for the first time. P3 would require comparing the new or improved terms with what happened in chambers. Timing alone would not explain why the offer changed.
 
 ### Ordinary plea-bargaining model
 
@@ -216,7 +214,7 @@ The judge called counsel into chambers immediately after the mock-pistol event. 
 
 Counsel pressed the petty-misdemeanor plea as a way to end the case. The records could show whether it had remained available unchanged, was revived after chambers, or was newly created or materially improved then. Acceptance would end the trial, remove mistrial and retrial risk, and reduce both the need to litigate the closing and its future importance.
 
-For counsel, this explanation turns on whether ending the case served a personal interest. An accepted plea would end the pending jury trial and ordinarily eliminate the prospect of a second felony trial. That could substantially reduce counsel’s anticipated workload, although representation might continue through sentencing and related proceedings.[^25]
+For counsel, this explanation turns on whether ending the case served a personal interest. An accepted plea would end the pending jury trial and ordinarily eliminate the prospect of a second felony trial. That could substantially reduce counsel’s anticipated workload, although representation might continue through sentencing and related proceedings.[^24]
 
 This explanation requires no express side agreement. The participants could recognize that the closing required immediate discussion and favor the same outcome for different reasons.
 
@@ -262,7 +260,7 @@ Counsel closed with a broad political argument against government power. The jur
 
 Counsel did not know the jury would hang when he went into chambers after the closing. The eventual outcome cannot explain what relief he considered then, what he told me, or whether a personal interest affected his advice or his decision to seek or forgo relief while a felony conviction remained possible.
 
-An accepted plea would have ended the pending jury trial. The jury did not convict. It also did not return an acquittal. I maintained my innocence, and the State subsequently declined to retry the case. Before that decision, the prosecution remained unresolved and counsel’s representation continued.
+An accepted plea would have ended the pending jury trial. The hung jury prevented a felony conviction and preserved my claim of innocence. The prosecutor had no conviction and had to decide whether to retry; the case remained unresolved for the judge, and counsel’s representation continued.
 
 Immediately afterward, counsel told me, in substance, **there would be another trial**.
 
@@ -452,9 +450,8 @@ Any participant with records that materially alter the chronology may respond th
 [^23]: Hawaiʻi Rules of Professional Conduct, Rule 1.16(d), printed p. 71 (PDF p. 72), and Comment [10], printed pp. 72–73 (PDF pp. 73–74), in the [June 25, 2013 adoption, effective January 1, 2014](https://www.courts.state.hi.us/docs/court_rules/pdf/2013/2013_hrpc_ada.pdf#page=72). The comment describes exceptions for office-use documents counsel reasonably believes would not materially benefit the client or successor lawyer, third-party confidences, legally restricted documents, and documents that may cause physical or psychological harm. These exceptions do not establish the status of any item in this case. ABA [Defense Function Standard 4-3.11(c)](https://www.americanbar.org/groups/criminal_justice/resources/standards/defense-function/) likewise distinguishes the client's file from everything held by counsel; it is professional guidance, subject to the limits in Standard 4-1.1(b).
 
 
-[^24]: *State v. Rogan*, 91 Hawaiʻi 405, 423–24, 984 P.2d 1231, 1249–50 (1999), [opinion](https://case-law.vlex.com/vid/state-v-rogan-no-893741848), recognized a state-constitutional bar to reprosecution after a mistrial or appellate reversal for exceptionally egregious prosecutorial misconduct. *State v. Genge*, No. 23011 (July 10, 2002), section III.B.2, [memorandum opinion](https://law.justia.com/cases/hawaii/supreme-court/2002/23011mop.html), distinguished misconduct requiring a new trial from misconduct sufficiently egregious to bar reprosecution. These authorities describe the remedial framework applicable in 2017; neither decides whether the reported closing here met that threshold.
 
-[^25]: American Bar Association, [Defense Function Standards](https://www.americanbar.org/groups/criminal_justice/resources/standards/defense-function/), Standard 4-5.2(b)–(c), distinguishes client decisions, including pleas, from counsel’s strategic and tactical decisions after appropriate consultation, including trial motions and objections. Standards 4-6.2 and 4-8.3 address negotiated dispositions and sentencing responsibilities. These aspirational standards do not themselves establish a professional violation.
+[^24]: American Bar Association, [Defense Function Standards](https://www.americanbar.org/groups/criminal_justice/resources/standards/defense-function/), Standards 4-6.2 and 4-8.3 address negotiated dispositions and sentencing responsibilities. These aspirational standards do not themselves establish a professional violation.
 
 ---
 
