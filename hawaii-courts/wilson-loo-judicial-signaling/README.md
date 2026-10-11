@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** June 12, 2025
-**Last Modified:** October 9, 2026
+**Last Modified:** October 10, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -34,7 +34,7 @@ Before the hearing, the defendant stalked me, assaulted me, and threatened me wi
 
 **Prior Federal Matter:** Before meeting the defendant, I contacted federal authorities about the Hartmann death threat. Kevin separately threatened my career outside Kahala Whole Foods, invoking [redacted] [redacted]. Their motive and any connection to the later Loo proceeding require separate evidence.
 
-**Police Officer Change:** Following my federal contact, a police officer was removed from the Wahiawa beat. I interpret this as relevant to later HPD responses. Retaliatory motive remains unestablished in the public record available here.
+**Police Officer Change:** I recall that a police officer was removed from the Wahiawa beat after my federal contact. Assignment records would be needed to establish the change and its reason; no identified communication connects it to that contact or later HPD responses.
 
 **Initial Contact:** The defendant owed me roughly $200 for work. I never received that money. Prior to collection efforts,
 I disclosed details of the prior federal incidents.
@@ -219,7 +219,7 @@ I spoke by phone with an HPD detective on a date I cannot now identify. I recall
 
 I had gone to HPD because this man tried to run me down. The detective turned the conversation to taxes on money I had never received. Where did he get the claim that I had been paid, and what did he do about the vehicle attack? HPD needs to answer both questions.
 
-I suspect the detective was looking at my [earlier tax-office case](https://gtcode.com/hawaii-courts/the-hypothetical-gun/). That case ended in a hung jury. The State did not retry it, and it was expunged. If he used the old accusation to treat me as a tax offender or an unreliable complainant, he was prejudging my report of a vehicle attack on the strength of a case that produced no conviction.
+The source of the detective’s claim is unknown. Records could establish whether it came from the work dispute, a misunderstanding, my [earlier tax-office case](https://gtcode.com/hawaii-courts/the-hypothetical-gun/), or another source. That earlier case ended in a hung jury, no retrial, and expungement; its existence does not establish that the detective accessed or used it.
 
 HRS § 831-3.2(b) requires a person with an expungement certificate to be treated as not having been arrested, subject to the statute's exceptions. Subsection (d)(3) permits disclosure to law enforcement acting within its duties, and subsection (i) preserves chapter 846 information. The law can leave earlier information accessible to police.[^10] Access to an old accusation is not proof of guilt, and that accusation supplies no evidence that I received the $200.
 
@@ -251,14 +251,7 @@ I had contacted federal authorities about serious criminal matters before these 
 
 ## Accountability Barriers and Open Questions
 
-Several parts of my account require separate examination:
-
-- A judge with insider knowledge of oversight mechanisms
-- Consistent police inaction despite multiple reports
-- Statements suggesting access to federal or state contacts
-- Subsequent intimidation attempts
-
-Blocked intake, confidential discipline, sealed records, and unanswered complaints each obstruct review in different ways.
+The hearing record, HPD intake and disposition records, and CJC correspondence raise separate review questions. Each decision needs its own explanation. Reported statements about official contacts do not connect these decisions without evidence of a relationship and its use.
 
 ## The Call for Investigation
 
@@ -341,7 +334,7 @@ regarding factual assertions may be directed to me.
       year    = {2025},
       month   = jun,
       url     = {https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/},
-      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
+      note    = {Last modified 2026-10-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/wilson-loo-judicial-signaling}}
     }
 
 **APA:**

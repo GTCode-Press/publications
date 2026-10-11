@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 13, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 10, 2026
 **Canonical URL:** https://gtcode.com/disclosures/prior-law-enforcement-contact/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -53,7 +53,7 @@ Names, private background details, and identifying public-record references rema
 
 After February 2016 and before the July 2017 trial, Gene and Rita Hartmann threatened me with death while I was under indictment and investigating for my defense. Gene knew of the case and investigation. I understood the warning as pressure to stop investigation and disclosure, including what I intended to testify about. [The Threat Report](https://gtcode.com/hawaii-courts/the-threat-report/) preserves the words and examines each speaker’s knowledge and intent. Naming another person did not establish that person’s participation.
 
-Shortly before trial, a man who described himself as an associate of a public figure and that person’s spouse threatened my career if I kept talking about “what happened.” He was referring to the stalking, hacking, Hartmann episode, and related conduct in this chronology. [Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/#may-or-june-2017-the-career-warning) gives that encounter. The family and social connections made reporting unusually difficult; they do not establish who directed the conduct or why institutions responded as they did.
+Shortly before trial, a man who described himself as an associate of a public figure and that person’s spouse threatened my career if I kept talking about “what happened.” I understood him to refer to the Hartmann episode and my other concerns described in this chronology. [Before the Tax Office](https://gtcode.com/disclosures/before-the-tax-office/#may-or-june-2017-the-career-warning) gives that encounter. The family and social connections made reporting unusually difficult; they do not establish who directed the conduct or why institutions responded as they did.
 
 ## Pretrial Assigned-Counsel Report and Leave-Hawaii Proposal
 
@@ -77,7 +77,11 @@ The judge called counsel into chambers after the closing. [The Defense Table Wen
 
 The later events below shaped my reporting choices. Their sources are identified in the chronology table.
 
-**Spring 2021 FBI/HPD sequence:** I submitted an online FBI report and later met with the FBI in Mokuleia about earlier threats, what I described at the time as witness-tampering concerns, and law-enforcement integrity. An HPD officer was later "cycled out" or replaced. The following day, two HPD cruisers responded to my truck at Malama Market in Haleiwa and issued parking citations. I experienced that response as intimidation. The chronology treats this as a firsthand account and record-locator issue; whether the officer change or cruiser response was routine, retaliatory, intimidating, coincidental, or otherwise connected would require dispatch, assignment, citation, bodycam, in-car video, and federal-intake records.
+**Spring 2021 FBI contact:** I submitted an online FBI report and later met with the FBI in Mokuleia about earlier threats, what I described at the time as witness-tampering concerns, and law-enforcement integrity. Federal-intake records could establish what was reported and how it was handled.
+
+**HPD officer change:** I recall that an HPD officer was later “cycled out” or replaced. Assignment records could establish what changed and why.
+
+**Malama Market citations:** The following day, two HPD cruisers responded to my truck at Malama Market in Haleiwa and issued parking citations. I experienced the response as intimidation. Dispatch, citation, and any retained footage could test what occurred and why the units responded. No identified communication connects the officer change or citations to my FBI contact.
 
 > **Correction — October 4, 2026:** An earlier report placed the Starbucks assault in November 2021. A contemporaneous photo located after the related proceedings dates the incident to January 2022. The chronology below uses January 2022 while preserving the fact that the earlier HPD/prosecutor record used November 2021.
 
@@ -105,7 +109,7 @@ The police reports, dispatch records, service returns, recordings, emails, photo
 
 **Before trial, HPD desk-sergeant exchange:** A desk sergeant said, in substance, that according to my report there was something there. I understood him to mean criminal conduct. He then suggested possible other information, such as someone having seen something differently, without identifying an actual witness or report. The [overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/#the-desk-sergeant-and-the-unspecified-other-information) sets out the exchange and the questions HPD needs to answer.
 
-**Undated HPD detective call about money I was never paid:** I spoke by phone with an HPD detective and recall the call as after the September 12, 2022 PaaLaa Road incident. I cannot identify the date or detective. He said, in substance, that I had been paid roughly $200 under the table and would not pay tax on it. The man I reported had never paid me; he still owed me the money. I was seeking protection from him, and the detective turned to taxes on an unpaid debt. I suspect the earlier tax-office accusation influenced his response. The [overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/#the-detective-and-the-200-i-was-never-paid) examines the call and possible prejudice from that case, which ended without a conviction. Report 22-353421 is a starting locator based on my recollection of the timing; the call's report assignment remains unidentified.
+**Undated HPD detective call about money I was never paid:** I spoke by phone with an HPD detective and recall the call as after the September 12, 2022 PaaLaa Road incident. I cannot identify the date or detective. He said, in substance, that I had been paid roughly $200 under the table and would not pay tax on it. The man I reported had never paid me; he still owed me the money. I was seeking protection from him, and the detective turned to taxes on an unpaid debt. The source of his claim that I had been paid is unknown. The [overview](https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/#the-detective-and-the-200-i-was-never-paid) identifies records that could establish its source and any effect on handling, including whether he accessed the earlier case. Report 22-353421 is a starting locator based on my recollection of the timing; the call's report assignment remains unidentified.
 
 ## Platform Context Kept Out of the Core Claims
 
@@ -121,7 +125,7 @@ Loo cut off my explanation of the stalking, assault, and vehicle attacks; the [o
 
 ## Firsthand Report Chronology
 
-The table brings together the events, their sources, and the records needed to examine them.
+The table brings together the events, their sources, and the records needed to examine them. The Spring 2021 row collects separately reported events for retrieval; it does not establish a connection among them.
 
 | Period | Event | Evidence category | What is documented | What remains unknown | What would test it |
 |---|---|---|---|---|---|
@@ -190,7 +194,7 @@ This chronology shows why the questions exist and identifies the records-first i
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/disclosures/prior-law-enforcement-contact/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/prior-law-enforcement-contact}}
+      note    = {Last modified 2026-10-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/prior-law-enforcement-contact}}
     }
 
 **APA:**

@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** May 10, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 10, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -13,7 +13,7 @@
 
 <span id="evidence-classification"></span>
 
-> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}).
+> **Related reading:** [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}) lists participant-knowledge questions and records that could test possible connections.
 
 Bosko Petricevic represented the witness at the December 2, 2022 hearing before Judge Wilson M.N. Loo. This article examines what he perceived and understood, and whether Hawaiʻi’s reporting rule required him to act.
 
@@ -206,7 +206,7 @@ This article states the professional consequence if the knowledge, seriousness, 
       year    = {2026},
       month   = may,
       url     = {https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/lawyer-in-the-room-bosko-petricevic}}
+      note    = {Last modified 2026-10-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/lawyer-in-the-room-bosko-petricevic}}
     }
 
 **APA:**

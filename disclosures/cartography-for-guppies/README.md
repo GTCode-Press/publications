@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** February 5, 2026
-**Last Modified:** October 8, 2026
+**Last Modified:** October 10, 2026
 **Canonical URL:** https://gtcode.com/disclosures/cartography-for-guppies/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -21,7 +21,7 @@ Oʻahu Underground exists to make those processes inspectable.
 
 The method starts with the strongest evidence-supported account. Each claim carries its evidence class—public record, firsthand observation, contemporaneous material, sealed-record dependence, inference, or theory. Competing explanations face the same chronology and the same retrieval questions. Institutional convention gets no automatic presumption of correctness.
 
-A firsthand account is published as firsthand evidence. A theory is published as a theory. The job is to keep those lanes clean while asking hard questions about the sequence connecting them.
+A firsthand account is published as firsthand evidence. A theory is published as a theory. The job is to keep those lanes clean while asking what evidence connects particular events.
 
 ## The Shortest Path Rule
 
@@ -71,11 +71,11 @@ Each article should answer five questions:
 2. **What kind of evidence supports each proposition?**
 3. **Which institution or professional had the duty or opportunity to act?**
 4. **What record would confirm, contradict, or explain the disputed point?**
-5. **Which theory best explains the joint sequence, and what evidence would defeat it?**
+5. **Which explanations fit each event, and what evidence, if any, connects events?**
 
-The fifth question prevents atomization. Every individual event may admit an ordinary explanation; the test is whether the same explanations survive the full sequence.
+Different events may have different causes; a proposed connection requires evidence beyond their order or resemblance. Compare explanations against each event’s evidence, and test any proposed connection separately.
 
-[The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) applies that method to the trial through a principal-agent and incomplete-information model. [The Information Trail](https://gtcode.com/hawaii-courts/information-trail-2015-2022/) carries it outward to information provenance, inherited framing, and containment.
+[The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) applies that method to the trial through a principal-agent and incomplete-information model. [The Information Trail](https://gtcode.com/hawaii-courts/information-trail-2015-2022/) examines possible information transfer and competing explanations for particular decisions.
 
 Theories belong in the place where they generate records requests. Facts stay attached to their sources. Wider circulation does not independently corroborate an account; new records, witnesses, and substantive responses can change its evidentiary position.
 
@@ -114,7 +114,7 @@ Welcome to Oʻahu Underground.
       year    = {2026},
       month   = feb,
       url     = {https://gtcode.com/disclosures/cartography-for-guppies/},
-      note    = {Last modified 2026-10-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/cartography-for-guppies}}
+      note    = {Last modified 2026-10-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/disclosures/cartography-for-guppies}}
     }
 
 **APA:**

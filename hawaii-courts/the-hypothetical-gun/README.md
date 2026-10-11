@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** October 1, 2026
-**Last Modified:** October 9, 2026
+**Last Modified:** October 10, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/the-hypothetical-gun/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -13,7 +13,7 @@
 
 *A public accountability letter by Ekewaka Lono.*
 
-> **Related open investigation:** This event is one component of the ongoing 2015–2022 sequence analysis. See [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}).
+> **Related reading:** [The Information Trail: Open Questions from 2015–2022]({{< relref "hawaii-courts/information-trail-2015-2022/index.md" >}}) lists participant-knowledge questions and records that could test possible connections.
 
 The prosecution arose from my November 2015 encounter with tax official Young Kwak. His accusation about what I said was false. The July 2017 trial ended in a hung jury. The State did not retry the case, and I later obtained an expungement.
 
@@ -95,7 +95,7 @@ Any accounts of chambers could establish whether the closing was discussed and w
 
 ## What My Trial Counsel Did
 
-I testified at the July 2017 trial but omitted the Hartmann episode after Retained Trial Counsel advised against including it. He also continued pressing a plea while the jury deliberated, despite my refusals. [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) holds the account of his opening, advice, chambers, preservation choices, and plea advocacy. This article examines Kwak’s testimony, the diagram, and Kanemoto’s closing.
+I testified at the July 2017 trial but omitted the Hartmann episode after Retained Trial Counsel advised against including it. He also continued pressing a plea while the jury deliberated, despite my refusals. [The Defense Table Went Quiet](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/) holds the account of his opening, advice, chambers, preservation choices, and plea advocacy. This article examines Kwak’s testimony, the diagram, and Kanemoto’s closing. The companion article also addresses [the appellate consequence counsel never explained](https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/#the-appellate-consequence-he-did-not-explain): an ordinary unconditional plea would generally have barred direct appellate review of the earlier closing-argument misconduct.
 
 ## The Witness Account, the Diagram, and the Booth
 
@@ -248,7 +248,7 @@ The trial ended without a conviction. I still want answers about what the state 
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/hawaii-courts/the-hypothetical-gun/},
-      note    = {Last modified 2026-10-09; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-hypothetical-gun}}
+      note    = {Last modified 2026-10-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-hypothetical-gun}}
     }
 
 **APA:**
