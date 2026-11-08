@@ -130,7 +130,7 @@ Then fine-tune extraction only if baseline prompting fails schema or citation ta
 **BibTeX:**
 
     @misc{gtcodeeditorial2026llmfinetuningstrategy,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {10 — LLM and Fine-Tuning Strategy},
       institution = {GTCode.com Guides},
       year    = {2026},

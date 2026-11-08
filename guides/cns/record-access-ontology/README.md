@@ -144,7 +144,7 @@ without a synthesized SNO and proof-bearing narrative structure.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026recordaccessontology_5b06,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {09 — Grounding, Access, and Multiverse Views},
       institution = {GTCode.com Guides},
       year    = {2026},

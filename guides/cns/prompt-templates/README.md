@@ -98,7 +98,7 @@ Sections required:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026prompttemplates,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Prompt Templates},
       institution = {GTCode.com Guides},
       year    = {2026},

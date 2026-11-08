@@ -67,7 +67,7 @@ A federated architecture for CNS 2.0 would be a groundbreaking achievement, repr
 **BibTeX:**
 
     @misc{gtcodeeditorial20252federatedlearning,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 2: Federated Learning and Privacy},
       institution = {GTCode.com Guides},
       year    = {2025},

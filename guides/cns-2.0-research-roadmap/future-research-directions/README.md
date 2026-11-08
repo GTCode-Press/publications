@@ -69,7 +69,7 @@ The future of narrative is interactive. The CNS framework must evolve from a sta
 **BibTeX:**
 
     @misc{gtcodeeditorial2025futureresearchdirections,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Future Research Directions},
       institution = {GTCode.com Guides},
       year    = {2025},

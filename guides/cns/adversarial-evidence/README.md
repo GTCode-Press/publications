@@ -89,7 +89,7 @@ Mitigation: output category enforcement and confidence language table.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026adversarialevidence_c425,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {15 — Risk Register and Failure Modes},
       institution = {GTCode.com Guides},
       year    = {2026},

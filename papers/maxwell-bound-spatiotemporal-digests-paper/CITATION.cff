@@ -4,7 +4,7 @@ type: report
 title: 'Physics-Informed Spatiotemporal Digests: WSTD, OMR-Gated RF Verification,
   and Residual Security under Learned-Model Attackers'
 authors:
-- name: GTCode Editorial
+- name: GTCode.com
 date-released: '2026-04-01'
 url: https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/papers/maxwell-bound-spatiotemporal-digests-paper

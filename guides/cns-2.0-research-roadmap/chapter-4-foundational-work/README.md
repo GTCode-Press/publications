@@ -147,7 +147,7 @@ The completion of both foundational projects establishes the technical infrastru
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter4foundational,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 4: Building on the Foundation},
       institution = {GTCode.com Guides},
       year    = {2025},

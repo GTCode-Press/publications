@@ -68,7 +68,7 @@
 **BibTeX:**
 
     @misc{gtcodeeditorial2026sourcetablecontents,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {CNS 8.0 Table of Contents},
       institution = {GTCode.com Guides},
       year    = {2026},

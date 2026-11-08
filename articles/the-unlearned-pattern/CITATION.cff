@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Unlearned Pattern
+authors:
+- name: GTCode.com Research
+date-released: '2026-11-07'
+url: https://gtcode.com/articles/the-unlearned-pattern/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/the-unlearned-pattern
+license-url: https://gtcode.com/policies/content-use/
+abstract: Can learning in one place change what an untrained mind discovers elsewhere?
+  A research proposal for testing the reach of acquired history.
+keywords:
+- Quantum Memory
+- Bioelectricity
+- Morphic Resonance
+- Learning
+- Causal Inference
+- Consciousness
+- Research Proposal

@@ -171,7 +171,7 @@ Synthesis lineage records:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026sno8objectmodel,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {05 — SNO-8 Object Model},
       institution = {GTCode.com Guides},
       year    = {2026},

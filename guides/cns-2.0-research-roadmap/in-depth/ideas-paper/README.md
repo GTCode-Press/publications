@@ -1758,7 +1758,7 @@ CNS 2.0 thus represents not merely a technical achievement, but a foundational c
 **BibTeX:**
 
     @misc{gtcodeeditorial2025ideaspaper,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {CNS 2.0 Ideas Paper},
       institution = {GTCode.com Guides},
       year    = {2025},

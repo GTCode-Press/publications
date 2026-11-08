@@ -239,7 +239,7 @@ The refined roadmap establishes a world-class research framework that embodies s
 **BibTeX:**
 
     @misc{gtcodeeditorial2025qualityvalidationreview,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Comprehensive Quality Validation Review},
       institution = {GTCode.com Guides},
       year    = {2025},

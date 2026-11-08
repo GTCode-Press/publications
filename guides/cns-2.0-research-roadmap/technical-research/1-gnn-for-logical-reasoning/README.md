@@ -68,7 +68,7 @@ A successful GNN-based logic critic would be a state-of-the-art tool for automat
 **BibTeX:**
 
     @misc{gtcodeeditorial20251gnnlogical,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 1: GNNs for Logical Reasoning},
       institution = {GTCode.com Guides},
       year    = {2025},

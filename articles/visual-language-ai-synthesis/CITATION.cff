@@ -3,7 +3,7 @@ message: If you reference this work, please cite it using the metadata below.
 type: article
 title: A Visual Language for Thinking About AI Synthesis
 authors:
-- name: GTCode Editorial
+- name: GTCode.com Research
 date-released: '2025-11-28'
 url: https://gtcode.com/articles/visual-language-ai-synthesis/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis

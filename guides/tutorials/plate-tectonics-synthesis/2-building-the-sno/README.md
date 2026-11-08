@@ -189,7 +189,7 @@ This template ensures that automated generation maintains the scientific rigor d
 **BibTeX:**
 
     @misc{gtcodeeditorial20252buildingsno_8725,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Tutorial Part 2: Building the Parent SNOs},
       institution = {GTCode.com Guides},
       year    = {2025},

@@ -81,7 +81,7 @@ By using this structured, transparent, and rigorous approach, we transform the L
 **BibTeX:**
 
     @misc{gtcodeeditorial2025dialecticalreasoningtemplates,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Dialectical Reasoning Templates},
       institution = {GTCode.com Guides},
       year    = {2025},

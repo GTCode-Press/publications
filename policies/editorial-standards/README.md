@@ -78,7 +78,7 @@ Questions about standards can be sent to [tips@GTCode.com](mailto:tips@gtcode.co
 **BibTeX:**
 
     @misc{gtcodeeditorial2026editorialstandards,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Editorial Standards},
       institution = {GTCode.com Policies},
       year    = {2026},

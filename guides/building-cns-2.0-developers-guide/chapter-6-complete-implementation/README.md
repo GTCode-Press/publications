@@ -228,7 +228,7 @@ Your `CNSConfig` class would then load this file using a library like `PyYAML`. 
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter6complete,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 6: Complete Implementation - Production Deployment and Scaling},
       institution = {GTCode.com Guides},
       year    = {2025},

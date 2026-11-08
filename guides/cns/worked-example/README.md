@@ -131,7 +131,7 @@ The final report includes:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026workedexample_e6b2,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Worked Example — CNS 8.0 Resolves a Conditional Contradiction},
       institution = {GTCode.com Guides},
       year    = {2026},

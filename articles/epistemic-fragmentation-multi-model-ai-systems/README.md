@@ -1,6 +1,6 @@
 # Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** November 9, 2025
 **Canonical URL:** https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/
 **Section:** Articles
@@ -583,8 +583,8 @@ What remains is implementation—and the will to demand that our AI systems do b
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2025epistemicfragmentationmulti,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2025epistemicfragmentationmulti,
+      author  = {{GTCode.com}},
       title   = {Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims},
       journal = {GTCode.com Articles},
       year    = {2025},
@@ -594,7 +594,7 @@ What remains is implementation—and the will to demand that our AI systems do b
     }
 
 **APA:**
-GTCode Editorial (2025, November 9). Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims. *GTCode.com Articles*. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems)
+GTCode.com (2025, November 9). Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims. *GTCode.com Articles*. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems)
 
 **Chicago:**
-GTCode Editorial. "Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims." *GTCode.com Articles*, November 9, 2025. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems.
+GTCode.com. "Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims." *GTCode.com Articles*, November 9, 2025. https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/epistemic-fragmentation-multi-model-ai-systems.

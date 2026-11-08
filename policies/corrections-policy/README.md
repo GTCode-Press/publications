@@ -41,7 +41,7 @@ Send correction requests to [tips@GTCode.com](mailto:tips@gtcode.com) with subje
 **BibTeX:**
 
     @misc{gtcodeeditorial2026correctionspolicy,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Corrections Policy},
       institution = {GTCode.com Policies},
       year    = {2026},

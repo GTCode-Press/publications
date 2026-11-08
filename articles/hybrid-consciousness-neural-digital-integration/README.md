@@ -1,6 +1,6 @@
 # The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** May 22, 2026
 **Canonical URL:** https://gtcode.com/articles/hybrid-consciousness-neural-digital-integration/
 **Section:** Articles
@@ -361,8 +361,8 @@ Whether the foundational theorems survive contact with multi-substrate empirical
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026hybridconsciousnessneural,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026hybridconsciousnessneural,
+      author  = {{GTCode.com}},
       title   = {The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -372,7 +372,7 @@ Whether the foundational theorems survive contact with multi-substrate empirical
     }
 
 **APA:**
-GTCode Editorial (2026, May 22). The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier. *GTCode.com Articles*. https://gtcode.com/articles/hybrid-consciousness-neural-digital-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/hybrid-consciousness-neural-digital-integration)
+GTCode.com (2026, May 22). The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier. *GTCode.com Articles*. https://gtcode.com/articles/hybrid-consciousness-neural-digital-integration/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/hybrid-consciousness-neural-digital-integration)
 
 **Chicago:**
-GTCode Editorial. "The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier." *GTCode.com Articles*, May 22, 2026. https://gtcode.com/articles/hybrid-consciousness-neural-digital-integration/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/hybrid-consciousness-neural-digital-integration.
+GTCode.com. "The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier." *GTCode.com Articles*, May 22, 2026. https://gtcode.com/articles/hybrid-consciousness-neural-digital-integration/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/hybrid-consciousness-neural-digital-integration.

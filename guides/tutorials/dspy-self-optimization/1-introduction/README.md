@@ -41,7 +41,7 @@ In this tutorial, we will walk through a concrete example of how to use DSPy to 
 **BibTeX:**
 
     @misc{gtcodeeditorial20251introduction_7c4f,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {1. Introduction: From Prompts to Programs},
       institution = {GTCode.com Guides},
       year    = {2025},

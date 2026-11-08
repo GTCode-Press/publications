@@ -104,7 +104,7 @@ Any report involving missing or controlled evidence should state:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026adversarialevidence_2f5c,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Adversarial Evidence And Access Modeling},
       institution = {GTCode.com Guides},
       year    = {2026},

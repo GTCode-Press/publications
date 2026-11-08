@@ -45,7 +45,7 @@ For questions about AI access policies:
 **BibTeX:**
 
     @misc{gtcodeeditorial2025ai,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {AI Ethics Guidelines},
       institution = {GTCode.com Policies},
       year    = {2025},

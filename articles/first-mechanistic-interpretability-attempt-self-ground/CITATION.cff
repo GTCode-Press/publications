@@ -4,7 +4,7 @@ type: article
 title: 'My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls,
   and the Discipline of Negative Results'
 authors:
-- name: GTCode Editorial
+- name: GTCode.com
 date-released: '2026-06-26'
 url: https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/first-mechanistic-interpretability-attempt-self-ground

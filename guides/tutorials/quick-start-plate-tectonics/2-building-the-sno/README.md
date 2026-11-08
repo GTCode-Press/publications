@@ -130,7 +130,7 @@ print("SNO_PlateTectonics created successfully.")
 **BibTeX:**
 
     @misc{gtcodeeditorial20252buildingsno_bfc8,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Part 2: Building the Parent SNOs},
       institution = {GTCode.com Guides},
       year    = {2025},

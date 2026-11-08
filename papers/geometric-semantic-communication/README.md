@@ -1,6 +1,6 @@
 # Geometric Semantic Communication for Emergent Multi-Agent Intelligence
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** December 20, 2025
 **Canonical URL:** https://gtcode.com/papers/geometric-semantic-communication/
 **Section:** Research Papers
@@ -865,8 +865,8 @@ where $\rho(\mathbf{x})$ is local agent density and $\bar{\rho}$ is target unifo
 
 **BibTeX:**
 
-    @techreport{gtcodeeditorial2025geometricsemanticcommunication,
-      author  = {GTCode Editorial, },
+    @techreport{gtcodecom2025geometricsemanticcommunication,
+      author  = {{GTCode.com}},
       title   = {Geometric Semantic Communication for Emergent Multi-Agent Intelligence},
       institution = {GTCode.com Research Papers},
       year    = {2025},
@@ -876,7 +876,7 @@ where $\rho(\mathbf{x})$ is local agent density and $\bar{\rho}$ is target unifo
     }
 
 **APA:**
-GTCode Editorial (2025, December 20). Geometric Semantic Communication for Emergent Multi-Agent Intelligence. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-semantic-communication/ (Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-semantic-communication)
+GTCode.com (2025, December 20). Geometric Semantic Communication for Emergent Multi-Agent Intelligence. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-semantic-communication/ (Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-semantic-communication)
 
 **Chicago:**
-GTCode Editorial. "Geometric Semantic Communication for Emergent Multi-Agent Intelligence." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-semantic-communication/. Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-semantic-communication.
+GTCode.com. "Geometric Semantic Communication for Emergent Multi-Agent Intelligence." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-semantic-communication/. Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-semantic-communication.

@@ -216,7 +216,7 @@ The system must emit `P(c | E,A,I)`, `P0(c | E)`, and `Conf(c)` separately.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026theory_42e5,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Theory},
       institution = {GTCode.com Guides},
       year    = {2026},

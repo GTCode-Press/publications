@@ -1,6 +1,6 @@
 # The Mathematics of Coordinated Silence
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** February 4, 2026
 **Canonical URL:** https://gtcode.com/articles/mathematics-of-coordinated-silence/
 **Section:** Articles
@@ -122,8 +122,8 @@ If other readers find themselves paying close attention—well, that's the natur
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026mathematicscoordinatedsilence,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026mathematicscoordinatedsilence,
+      author  = {{GTCode.com}},
       title   = {The Mathematics of Coordinated Silence},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -133,7 +133,7 @@ If other readers find themselves paying close attention—well, that's the natur
     }
 
 **APA:**
-GTCode Editorial (2026, February 4). The Mathematics of Coordinated Silence. *GTCode.com Articles*. https://gtcode.com/articles/mathematics-of-coordinated-silence/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mathematics-of-coordinated-silence)
+GTCode.com (2026, February 4). The Mathematics of Coordinated Silence. *GTCode.com Articles*. https://gtcode.com/articles/mathematics-of-coordinated-silence/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mathematics-of-coordinated-silence)
 
 **Chicago:**
-GTCode Editorial. "The Mathematics of Coordinated Silence." *GTCode.com Articles*, February 4, 2026. https://gtcode.com/articles/mathematics-of-coordinated-silence/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mathematics-of-coordinated-silence.
+GTCode.com. "The Mathematics of Coordinated Silence." *GTCode.com Articles*, February 4, 2026. https://gtcode.com/articles/mathematics-of-coordinated-silence/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mathematics-of-coordinated-silence.

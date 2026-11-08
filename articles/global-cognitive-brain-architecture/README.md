@@ -1,6 +1,6 @@
 # The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** December 19, 2025
 **Last Modified:** December 20, 2025
 **Canonical URL:** https://gtcode.com/articles/global-cognitive-brain-architecture/
@@ -249,8 +249,8 @@ The transition from isolated models to integrated cognitive organisms is not a q
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2025globalcognitivebrain,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2025globalcognitivebrain,
+      author  = {{GTCode.com}},
       title   = {The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System},
       journal = {GTCode.com Articles},
       year    = {2025},
@@ -260,7 +260,7 @@ The transition from isolated models to integrated cognitive organisms is not a q
     }
 
 **APA:**
-GTCode Editorial (2025, December 19). The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System. *GTCode.com Articles*. https://gtcode.com/articles/global-cognitive-brain-architecture/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture)
+GTCode.com (2025, December 19). The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System. *GTCode.com Articles*. https://gtcode.com/articles/global-cognitive-brain-architecture/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture)
 
 **Chicago:**
-GTCode Editorial. "The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System." *GTCode.com Articles*, December 19, 2025. https://gtcode.com/articles/global-cognitive-brain-architecture/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture.
+GTCode.com. "The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System." *GTCode.com Articles*, December 19, 2025. https://gtcode.com/articles/global-cognitive-brain-architecture/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/global-cognitive-brain-architecture.

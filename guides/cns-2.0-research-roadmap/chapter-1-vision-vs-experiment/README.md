@@ -43,7 +43,7 @@ This experimental framework establishes the foundation for statistically rigorou
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter1vision,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 1: From Grand Vision to Focused Experiment},
       institution = {GTCode.com Guides},
       year    = {2025},

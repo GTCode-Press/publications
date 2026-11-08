@@ -67,7 +67,7 @@ By tackling these challenges head-on, we aim to provide a blueprint for how to i
 **BibTeX:**
 
     @misc{gtcodeeditorial20252privacysecurity,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 2: Privacy, Security & Misuse Prevention},
       institution = {GTCode.com Guides},
       year    = {2025},

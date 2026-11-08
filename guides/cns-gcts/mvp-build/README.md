@@ -133,7 +133,7 @@ proof, likely-truth posterior, and confidence reported separately.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026mvpbuild_d905,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS MVP Build},
       institution = {GTCode.com Guides},
       year    = {2026},

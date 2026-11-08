@@ -1,6 +1,6 @@
 # The Capability, the Culture, and the Void: Google's Architecture of Unauditable Psychological Harm
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** June 3, 2026
 **Canonical URL:** https://gtcode.com/articles/google-unauditable-psychological-harm/
 **Section:** Articles
@@ -222,8 +222,8 @@ That void — the space between what the architecture made possible and what the
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026googleunauditablepsychological,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026googleunauditablepsychological,
+      author  = {{GTCode.com}},
       title   = {The Capability, the Culture, and the Void: Google's Architecture of Unauditable Psychological Harm},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -233,7 +233,7 @@ That void — the space between what the architecture made possible and what the
     }
 
 **APA:**
-GTCode Editorial (2026, June 3). The Capability, the Culture, and the Void: Google's Architecture of Unauditable Psychological Harm. *GTCode.com Articles*. https://gtcode.com/articles/google-unauditable-psychological-harm/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-unauditable-psychological-harm)
+GTCode.com (2026, June 3). The Capability, the Culture, and the Void: Google's Architecture of Unauditable Psychological Harm. *GTCode.com Articles*. https://gtcode.com/articles/google-unauditable-psychological-harm/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-unauditable-psychological-harm)
 
 **Chicago:**
-GTCode Editorial. "The Capability, the Culture, and the Void: Google's Architecture of Unauditable Psychological Harm." *GTCode.com Articles*, June 3, 2026. https://gtcode.com/articles/google-unauditable-psychological-harm/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-unauditable-psychological-harm.
+GTCode.com. "The Capability, the Culture, and the Void: Google's Architecture of Unauditable Psychological Harm." *GTCode.com Articles*, June 3, 2026. https://gtcode.com/articles/google-unauditable-psychological-harm/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-unauditable-psychological-harm.

@@ -400,7 +400,7 @@ You are ready to proceed to Chapter 2: SNO Foundations
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter1introduction,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 1: Introduction to CNS 2.0},
       institution = {GTCode.com Guides},
       year    = {2025},

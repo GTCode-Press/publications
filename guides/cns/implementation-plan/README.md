@@ -171,7 +171,7 @@ Do not build a dashboard first. Do not build a large multi-agent runtime first. 
 **BibTeX:**
 
     @misc{gtcodeeditorial2026implementationplan,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {11 — Implementation Plan},
       institution = {GTCode.com Guides},
       year    = {2026},

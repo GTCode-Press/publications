@@ -73,7 +73,7 @@ For questions regarding this agent.txt policy or programmatic use of the site:
 **BibTeX:**
 
     @misc{gtcodeeditorial2025agent,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {AI Agent Policy},
       institution = {GTCode.com Policies},
       year    = {2025},

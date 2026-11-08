@@ -62,7 +62,7 @@
 **BibTeX:**
 
     @misc{gtcodeeditorial2026testplan,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {CNS 8.0 Test Plan},
       institution = {GTCode.com Guides},
       year    = {2026},

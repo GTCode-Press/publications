@@ -28,7 +28,7 @@
 **BibTeX:**
 
     @misc{gtcodeeditorial2026sourcemanifest,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Source Manifest},
       institution = {GTCode.com Guides},
       year    = {2026},

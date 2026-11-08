@@ -187,7 +187,7 @@ A strong first paper needs:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026experiments_d51c,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {12 — Experiment and Evaluation Plan},
       institution = {GTCode.com Guides},
       year    = {2026},

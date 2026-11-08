@@ -107,7 +107,7 @@ Claim contribution for the CNS composition and the specific role each component 
 **BibTeX:**
 
     @misc{gtcodeeditorial2026priorartboundary_e553,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {14 — Prior Art and Contribution Boundary},
       institution = {GTCode.com Guides},
       year    = {2026},

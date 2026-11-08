@@ -1,6 +1,6 @@
 # My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** June 26, 2026
 **Canonical URL:** https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/
 **Section:** Articles
@@ -175,8 +175,8 @@ The first serious result: I can now tell the difference between a path that runs
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026firstmechanisticinterpretability,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026firstmechanisticinterpretability,
+      author  = {{GTCode.com}},
       title   = {My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -186,7 +186,7 @@ The first serious result: I can now tell the difference between a path that runs
     }
 
 **APA:**
-GTCode Editorial (2026, June 26). My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results. *GTCode.com Articles*. https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/first-mechanistic-interpretability-attempt-self-ground)
+GTCode.com (2026, June 26). My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results. *GTCode.com Articles*. https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/first-mechanistic-interpretability-attempt-self-ground)
 
 **Chicago:**
-GTCode Editorial. "My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results." *GTCode.com Articles*, June 26, 2026. https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/first-mechanistic-interpretability-attempt-self-ground.
+GTCode.com. "My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results." *GTCode.com Articles*, June 26, 2026. https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/first-mechanistic-interpretability-attempt-self-ground.

@@ -1,6 +1,6 @@
 # Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** February 18, 2026
 **Canonical URL:** https://gtcode.com/articles/google-information-control-audit/
 **Section:** Articles
@@ -778,8 +778,8 @@ Ultimately, the cumulative picture is not of isolated incidents, but of a fundam
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026googleinformationcontrol,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026googleinformationcontrol,
+      author  = {{GTCode.com}},
       title   = {Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -789,7 +789,7 @@ Ultimately, the cumulative picture is not of isolated incidents, but of a fundam
     }
 
 **APA:**
-GTCode Editorial (2026, February 18). Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination. *GTCode.com Articles*. https://gtcode.com/articles/google-information-control-audit/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit)
+GTCode.com (2026, February 18). Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination. *GTCode.com Articles*. https://gtcode.com/articles/google-information-control-audit/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit)
 
 **Chicago:**
-GTCode Editorial. "Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination." *GTCode.com Articles*, February 18, 2026. https://gtcode.com/articles/google-information-control-audit/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit.
+GTCode.com. "Google and the Architecture of Information Control: A Technical Audit of Algorithmic Governance, Monopoly Maintenance, and Institutional Coordination." *GTCode.com Articles*, February 18, 2026. https://gtcode.com/articles/google-information-control-audit/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/google-information-control-audit.

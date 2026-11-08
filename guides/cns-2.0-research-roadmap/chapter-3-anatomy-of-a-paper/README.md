@@ -63,7 +63,7 @@ The integration of our implementation framework with established research method
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter3anatomy,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 3: The Anatomy of a Research Paper},
       institution = {GTCode.com Guides},
       year    = {2025},

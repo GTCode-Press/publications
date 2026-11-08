@@ -97,7 +97,7 @@ The engine has produced a new SNO containing a hypothesis that integrates concep
 **BibTeX:**
 
     @misc{gtcodeeditorial20253runningsynthesis_add0,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Part 3: Running the Synthesis},
       institution = {GTCode.com Guides},
       year    = {2025},

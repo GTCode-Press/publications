@@ -80,7 +80,7 @@ Human experts may review outputs. Their judgments are post-runtime annotations u
 **BibTeX:**
 
     @misc{gtcodeeditorial2026oracleboundary_4c29,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {19 — Runtime Oracle Boundary Policy},
       institution = {GTCode.com Guides},
       year    = {2026},

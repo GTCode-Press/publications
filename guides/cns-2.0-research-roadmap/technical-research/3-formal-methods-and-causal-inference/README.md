@@ -57,7 +57,7 @@ Successfully integrating formal methods and causal inference would represent a m
 **BibTeX:**
 
     @misc{gtcodeeditorial20253formalmethods,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 3: Formal Methods & Causal Inference},
       institution = {GTCode.com Guides},
       year    = {2025},

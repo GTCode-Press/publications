@@ -287,7 +287,7 @@ Ultimately, despite profound technological advancements, the core human need for
 **BibTeX:**
 
     @misc{gtcodeeditorial2025narrativestructures,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Narrative Structures},
       institution = {GTCode.com Guides},
       year    = {2025},

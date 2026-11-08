@@ -2,7 +2,7 @@
 
 > What if beliefs had geometry?
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com Research
 **Published:** November 28, 2025
 **Canonical URL:** https://gtcode.com/articles/visual-language-ai-synthesis/
 **Section:** Articles
@@ -216,8 +216,8 @@ These are speculations, not specifications. But speculation is where frameworks 
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2025visuallanguageai,
-      author  = {GTCode Editorial, },
+    @article{gtcodecomresearch2025visuallanguageai,
+      author  = {{GTCode.com Research}},
       title   = {A Visual Language for Thinking About AI Synthesis},
       journal = {GTCode.com Articles},
       year    = {2025},
@@ -227,7 +227,7 @@ These are speculations, not specifications. But speculation is where frameworks 
     }
 
 **APA:**
-GTCode Editorial (2025, November 28). A Visual Language for Thinking About AI Synthesis. *GTCode.com Articles*. https://gtcode.com/articles/visual-language-ai-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis)
+GTCode.com Research (2025, November 28). A Visual Language for Thinking About AI Synthesis. *GTCode.com Articles*. https://gtcode.com/articles/visual-language-ai-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis)
 
 **Chicago:**
-GTCode Editorial. "A Visual Language for Thinking About AI Synthesis." *GTCode.com Articles*, November 28, 2025. https://gtcode.com/articles/visual-language-ai-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis.
+GTCode.com Research. "A Visual Language for Thinking About AI Synthesis." *GTCode.com Articles*, November 28, 2025. https://gtcode.com/articles/visual-language-ai-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/visual-language-ai-synthesis.

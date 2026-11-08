@@ -100,7 +100,7 @@ Runtime input schemas exclude:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026datarunmanifest,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {23 — Data and Run Manifest Specification},
       institution = {GTCode.com Guides},
       year    = {2026},

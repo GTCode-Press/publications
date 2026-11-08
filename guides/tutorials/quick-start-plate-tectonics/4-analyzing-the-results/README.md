@@ -85,7 +85,7 @@ This walk-through demonstrates the end-to-end process of using the synthesis eng
 **BibTeX:**
 
     @misc{gtcodeeditorial20254analyzingresults_67af,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Part 4: Analyzing the Results},
       institution = {GTCode.com Guides},
       year    = {2025},

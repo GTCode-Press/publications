@@ -1,6 +1,6 @@
 # The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** December 21, 2025
 **Canonical URL:** https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
 **Section:** Articles
@@ -416,8 +416,8 @@ Many of the most significant papers cited here emerged from the **MATS (ML Align
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2025mechanisticinterpretabilitylandscape,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2025mechanisticinterpretabilitylandscape,
+      author  = {{GTCode.com}},
       title   = {The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models},
       journal = {GTCode.com Articles},
       year    = {2025},
@@ -427,7 +427,7 @@ Many of the most significant papers cited here emerged from the **MATS (ML Align
     }
 
 **APA:**
-GTCode Editorial (2025, December 21). The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models. *GTCode.com Articles*. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025)
+GTCode.com (2025, December 21). The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models. *GTCode.com Articles*. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025)
 
 **Chicago:**
-GTCode Editorial. "The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models." *GTCode.com Articles*, December 21, 2025. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025.
+GTCode.com. "The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models." *GTCode.com Articles*, December 21, 2025. https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025.

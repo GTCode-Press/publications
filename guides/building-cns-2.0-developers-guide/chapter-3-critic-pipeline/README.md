@@ -1034,7 +1034,7 @@ Before proceeding to Chapter 4, verify you can:
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter3critic,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 3: The Multi-Component Critic Pipeline},
       institution = {GTCode.com Guides},
       year    = {2025},

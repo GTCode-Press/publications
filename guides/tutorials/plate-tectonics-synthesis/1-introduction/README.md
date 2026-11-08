@@ -97,7 +97,7 @@ This statistical prototype provides the mathematical foundation and methodologic
 **BibTeX:**
 
     @misc{gtcodeeditorial20251introduction_9f89,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Tutorial Part 1: Introduction to the Case Study},
       institution = {GTCode.com Guides},
       year    = {2025},

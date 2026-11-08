@@ -105,7 +105,7 @@ Fact verification labels claims. CNS builds a new narrative object when contradi
 **BibTeX:**
 
     @misc{gtcodeeditorial2026languagelogicbundle,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {08 — Language–Logic Bundle and Chirality},
       institution = {GTCode.com Guides},
       year    = {2026},

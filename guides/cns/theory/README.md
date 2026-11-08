@@ -150,7 +150,7 @@ CNS returns no synthesis or a partial synthesis when:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026theory_ab2d,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {03 — Core Theory},
       institution = {GTCode.com Guides},
       year    = {2026},

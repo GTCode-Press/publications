@@ -99,7 +99,7 @@ The package should run in deterministic toy mode without any LLM API calls. LLM 
 **BibTeX:**
 
     @misc{gtcodeeditorial2026repositorylayout,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {25 — Repository Layout},
       institution = {GTCode.com Guides},
       year    = {2026},

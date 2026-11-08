@@ -83,7 +83,7 @@ llm:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026runtimeconfiguration,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Runtime Configuration},
       institution = {GTCode.com Guides},
       year    = {2026},

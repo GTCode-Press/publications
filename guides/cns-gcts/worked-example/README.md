@@ -133,7 +133,7 @@ change the ranking.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026workedexample_515f,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Worked Example},
       institution = {GTCode.com Guides},
       year    = {2026},

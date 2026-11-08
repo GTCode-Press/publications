@@ -78,7 +78,7 @@ CNS 8.0: Proof-Carrying Narrative Synthesis under Chiral Tension and Limited Inf
 **BibTeX:**
 
     @misc{gtcodeeditorial2026namingsubstratepolicy,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {27 — Naming and Substrate Policy},
       institution = {GTCode.com Guides},
       year    = {2026},

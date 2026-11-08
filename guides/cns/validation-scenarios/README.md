@@ -100,7 +100,7 @@ Expected:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026validationscenarios,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {28 — Validation Scenarios},
       institution = {GTCode.com Guides},
       year    = {2026},

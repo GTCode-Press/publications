@@ -2,7 +2,7 @@
 
 > An access-aware research architecture for evidence, missing records, and structured possible worlds
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com Research
 **Published:** May 13, 2026
 **Last Modified:** May 15, 2026
 **Canonical URL:** https://gtcode.com/articles/grounded-chiral-tensor-synthesis/
@@ -222,8 +222,8 @@ possible worlds, access modeling, and the oracle boundary central.
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026groundedchiraltensor,
-      author  = {GTCode Editorial, },
+    @article{gtcodecomresearch2026groundedchiraltensor,
+      author  = {{GTCode.com Research}},
       title   = {Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -233,7 +233,7 @@ possible worlds, access modeling, and the oracle boundary central.
     }
 
 **APA:**
-GTCode Editorial (2026, May 13). Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete. *GTCode.com Articles*. https://gtcode.com/articles/grounded-chiral-tensor-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/grounded-chiral-tensor-synthesis)
+GTCode.com Research (2026, May 13). Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete. *GTCode.com Articles*. https://gtcode.com/articles/grounded-chiral-tensor-synthesis/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/grounded-chiral-tensor-synthesis)
 
 **Chicago:**
-GTCode Editorial. "Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete." *GTCode.com Articles*, May 13, 2026. https://gtcode.com/articles/grounded-chiral-tensor-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/grounded-chiral-tensor-synthesis.
+GTCode.com Research. "Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete." *GTCode.com Articles*, May 13, 2026. https://gtcode.com/articles/grounded-chiral-tensor-synthesis/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/grounded-chiral-tensor-synthesis.

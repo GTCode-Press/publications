@@ -178,7 +178,7 @@ The single synthesis demonstrates the data generation methodology that DSPy will
 **BibTeX:**
 
     @misc{gtcodeeditorial20253runningsynthesis_6c24,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Tutorial Part 3: Running the Synthesis},
       institution = {GTCode.com Guides},
       year    = {2025},

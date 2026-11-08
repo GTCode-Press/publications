@@ -143,7 +143,7 @@ Do not collapse these into one confidence score.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026metricsacceptancecriteria,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {13 — Metrics and Acceptance Criteria},
       institution = {GTCode.com Guides},
       year    = {2026},

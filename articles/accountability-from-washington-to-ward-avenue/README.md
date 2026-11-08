@@ -1,6 +1,6 @@
 # Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** January 29, 2026
 **Canonical URL:** https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/
 **Section:** Articles
@@ -76,8 +76,8 @@ A woman from Hawaii's second district decided accountability was worth the cost.
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026accountabilityfromwashington,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026accountabilityfromwashington,
+      author  = {{GTCode.com}},
       title   = {Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -87,7 +87,7 @@ A woman from Hawaii's second district decided accountability was worth the cost.
     }
 
 **APA:**
-GTCode Editorial (2026, January 29). Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii. *GTCode.com Articles*. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/accountability-from-washington-to-ward-avenue)
+GTCode.com (2026, January 29). Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii. *GTCode.com Articles*. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/accountability-from-washington-to-ward-avenue)
 
 **Chicago:**
-GTCode Editorial. "Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii." *GTCode.com Articles*, January 29, 2026. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/accountability-from-washington-to-ward-avenue.
+GTCode.com. "Accountability from Washington to Ward Avenue: What Federal Reform Means for Hawaii." *GTCode.com Articles*, January 29, 2026. https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/accountability-from-washington-to-ward-avenue.

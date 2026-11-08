@@ -124,7 +124,7 @@ The orthesis criterion tests whether the $G\circ S$ loop preserves proof-critica
 **BibTeX:**
 
     @misc{gtcodeeditorial2026architecturediagramnotes,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {18 — Architecture Diagram Notes},
       institution = {GTCode.com Guides},
       year    = {2026},

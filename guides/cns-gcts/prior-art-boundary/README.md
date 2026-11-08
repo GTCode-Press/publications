@@ -86,7 +86,7 @@ then expand into a full BibTeX bibliography before arXiv submission.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026priorartboundary_938b,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Prior-Art Boundary},
       institution = {GTCode.com Guides},
       year    = {2026},

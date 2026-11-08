@@ -106,7 +106,7 @@ Current review processes are plagued by noise. Static analysis tools flag hundre
 **BibTeX:**
 
     @techreport{gtcodeeditorial2025codeclarityexisting,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Competitive Landscape: AI-Assisted Development Tools},
       institution = {GTCode.com Reports},
       year    = {2025},

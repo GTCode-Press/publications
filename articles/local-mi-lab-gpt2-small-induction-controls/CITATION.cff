@@ -3,7 +3,7 @@ message: If you reference this work, please cite it using the metadata below.
 type: article
 title: 'Local MI Lab: How Controls Broke My First Induction Story'
 authors:
-- name: GTCode Editorial
+- name: GTCode.com
 date-released: '2026-06-26'
 url: https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls

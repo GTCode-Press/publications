@@ -223,7 +223,7 @@ E_R \leq \theta_R
 **BibTeX:**
 
     @misc{gtcodeeditorial2026mathematicalspecification,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {04 — Mathematical Specification},
       institution = {GTCode.com Guides},
       year    = {2026},

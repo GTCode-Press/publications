@@ -2,8 +2,9 @@
 
 > A research proposal for conditional ontological agency, intermittent free will, neural veto, and field-mediated control
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com Research
 **Published:** October 10, 2026
+**Last Modified:** November 7, 2026
 **Canonical URL:** https://gtcode.com/articles/where-choice-enters-the-world/
 **Section:** Articles
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -100,7 +101,7 @@ where $i$ identifies an observer-position within history $h$ at time $t$. This r
 For any life, the agency state has four coordinates:
 
 $$
-\boxed{\mathbf F_t=(E,I_t,L_t,G_t).}
+\mathbf F_t=(E,I_t,L_t,G_t).
 $$
 
 Here $E$ denotes authentic existential selection if it exists, $I_t$ a presently authored intervention, $L_t$ the later causal effects of an earlier authored intervention, and $G_t$ functional control by the embodied organism. The configuration $I_t=0$ with $L_t>0$ and $G_t>0$ allows an old decision to shape an automatic present response. If one accepts the pre-embodiment premise, $E=1$ can also coexist with $I_t=0$ throughout a deterministic life.
@@ -155,7 +156,7 @@ $$
 where $A_t$ is action and $R_t$ its feedback or reinforcement. Earlier events can alter the trajectory of $W_t$. An inherited-agency measure describes how strongly a later action depends counterfactually on an earlier intervention under common prior conditions:
 
 $$
-L_t=\sup_{\tau<t}\sup_{u,v}
+L_t=\sup_{\tau \lt t}\sup_{u,v}
 D_{\mathrm{TV}}\!\left[
 P(A_t\mid\operatorname{do}(U_\tau=u)),
 P(A_t\mid\operatorname{do}(U_\tau=v))\right].
@@ -440,6 +441,8 @@ Conditional Ontological Agency Theory aims to separate questions about causal ef
 
 A satisfying definition of free will alone would not answer these questions. The research program seeks a causal account of a life that distinguishes current control, inherited consequences, experience alone, and authentic authorship, if any.
 
+What survives the moment of choosing becomes the next question: [what does the world retain of its history?](https://gtcode.com/articles/what-the-universe-remembers/)
+
 *GTCode.com Research*
 
 ## References
@@ -518,18 +521,18 @@ A satisfying definition of free will alone would not answer these questions. The
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026wherechoiceenters,
-      author  = {GTCode Editorial, },
+    @article{gtcodecomresearch2026wherechoiceenters,
+      author  = {{GTCode.com Research}},
       title   = {Where Choice Enters the World},
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/articles/where-choice-enters-the-world/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/where-choice-enters-the-world}}
+      note    = {Last modified 2026-11-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/where-choice-enters-the-world}}
     }
 
 **APA:**
-GTCode Editorial (2026, October 10). Where Choice Enters the World. *GTCode.com Articles*. https://gtcode.com/articles/where-choice-enters-the-world/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/where-choice-enters-the-world)
+GTCode.com Research (2026, October 10). Where Choice Enters the World. *GTCode.com Articles*. https://gtcode.com/articles/where-choice-enters-the-world/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/where-choice-enters-the-world)
 
 **Chicago:**
-GTCode Editorial. "Where Choice Enters the World." *GTCode.com Articles*, October 10, 2026. https://gtcode.com/articles/where-choice-enters-the-world/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/where-choice-enters-the-world.
+GTCode.com Research. "Where Choice Enters the World." *GTCode.com Articles*, October 10, 2026. https://gtcode.com/articles/where-choice-enters-the-world/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/where-choice-enters-the-world.

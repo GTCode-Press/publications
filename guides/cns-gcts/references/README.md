@@ -63,7 +63,7 @@ bibliography starts the literature map and should expand as the paper develops.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026references_cd08,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS References},
       institution = {GTCode.com Guides},
       year    = {2026},

@@ -97,7 +97,7 @@ Do not expand to large multi-agent runtime until the SNO → Antagonist → proo
 **BibTeX:**
 
     @misc{gtcodeeditorial2026mvpbuild_a1ea,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {20 — MVP Build Checklist},
       institution = {GTCode.com Guides},
       year    = {2026},

@@ -166,7 +166,7 @@ This self-optimization loop—where the system's own critics are used to improve
 **BibTeX:**
 
     @misc{gtcodeeditorial20254analyzingoptimized.module,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {4. Analyzing the Optimized Module},
       institution = {GTCode.com Guides},
       year    = {2025},

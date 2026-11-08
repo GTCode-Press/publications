@@ -41,7 +41,7 @@ Ethics concerns can be sent to [tips@GTCode.com](mailto:tips@gtcode.com).
 **BibTeX:**
 
     @misc{gtcodeeditorial2026ethicspolicy,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Ethics Policy},
       institution = {GTCode.com Policies},
       year    = {2026},

@@ -88,7 +88,7 @@ Interactive dashboard:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026publicationplan,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {16 — Publication Plan},
       institution = {GTCode.com Guides},
       year    = {2026},

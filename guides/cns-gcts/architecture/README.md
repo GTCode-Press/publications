@@ -149,7 +149,7 @@ collection actions.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026architecture_8562,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Architecture},
       institution = {GTCode.com Guides},
       year    = {2026},

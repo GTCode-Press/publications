@@ -113,7 +113,7 @@ Avoid:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026dashboardauditui,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {24 — Dashboard and Audit UI Plan},
       institution = {GTCode.com Guides},
       year    = {2026},

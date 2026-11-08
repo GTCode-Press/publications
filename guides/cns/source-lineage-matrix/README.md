@@ -64,7 +64,7 @@ CNS 8.0 adds an explicit orthesis acceptance protocol combining:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026sourcelineagematrix,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {21 — Source Lineage Matrix},
       institution = {GTCode.com Guides},
       year    = {2026},

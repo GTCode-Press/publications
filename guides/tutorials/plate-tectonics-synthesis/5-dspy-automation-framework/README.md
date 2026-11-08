@@ -239,7 +239,7 @@ This comprehensive automation framework transforms the manual plate tectonics pr
 **BibTeX:**
 
     @misc{gtcodeeditorial20255dspyautomation,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Tutorial Part 5: DSPy Automation Framework},
       institution = {GTCode.com Guides},
       year    = {2025},

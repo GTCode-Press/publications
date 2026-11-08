@@ -2,8 +2,9 @@
 
 > Quantum birthmarks, the mystery of experience, and the possibility that choice becomes history
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com Research
 **Published:** October 12, 2026
+**Last Modified:** November 7, 2026
 **Canonical URL:** https://gtcode.com/articles/what-the-universe-remembers/
 **Section:** Articles
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -196,6 +197,8 @@ Suppose the Tuesday decision was authored. Authorship would connect you to the h
 
 We often look for freedom at the instant a decision is made. If a deeper freedom exists, its signature may reach beyond the feeling of control into the world a choice leaves behind.
 
+The distinction between a surviving trace and readable information leads to a further question: [could one learner’s history become available to another?](https://gtcode.com/articles/the-unlearned-pattern/)
+
 *GTCode.com Research*
 
 ## References
@@ -272,18 +275,18 @@ We often look for freedom at the instant a decision is made. If a deeper freedom
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026whatuniverseremembers,
-      author  = {GTCode Editorial, },
+    @article{gtcodecomresearch2026whatuniverseremembers,
+      author  = {{GTCode.com Research}},
       title   = {What the Universe Remembers},
       journal = {GTCode.com Articles},
       year    = {2026},
       month   = oct,
       url     = {https://gtcode.com/articles/what-the-universe-remembers/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/what-the-universe-remembers}}
+      note    = {Last modified 2026-11-07; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/what-the-universe-remembers}}
     }
 
 **APA:**
-GTCode Editorial (2026, October 12). What the Universe Remembers. *GTCode.com Articles*. https://gtcode.com/articles/what-the-universe-remembers/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/what-the-universe-remembers)
+GTCode.com Research (2026, October 12). What the Universe Remembers. *GTCode.com Articles*. https://gtcode.com/articles/what-the-universe-remembers/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/what-the-universe-remembers)
 
 **Chicago:**
-GTCode Editorial. "What the Universe Remembers." *GTCode.com Articles*, October 12, 2026. https://gtcode.com/articles/what-the-universe-remembers/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/what-the-universe-remembers.
+GTCode.com Research. "What the Universe Remembers." *GTCode.com Articles*, October 12, 2026. https://gtcode.com/articles/what-the-universe-remembers/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/what-the-universe-remembers.

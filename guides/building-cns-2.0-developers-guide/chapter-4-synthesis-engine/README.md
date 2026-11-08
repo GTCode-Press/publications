@@ -726,7 +726,7 @@ These components form the heart of CNS 2.0's dialectical reasoning capability. I
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter4synthesis,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 4: The Synthesis Engine & Relational Metrics},
       institution = {GTCode.com Guides},
       year    = {2025},

@@ -135,7 +135,7 @@ replace human judgment in high-stakes domains.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026oracleboundary_9894,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Oracle Boundary And Governance},
       institution = {GTCode.com Guides},
       year    = {2026},

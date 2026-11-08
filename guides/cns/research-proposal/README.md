@@ -112,7 +112,7 @@ The first CNS 8.0 MVP targets:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026researchproposal,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {01 — CNS 8.0 Research Proposal},
       institution = {GTCode.com Guides},
       year    = {2026},

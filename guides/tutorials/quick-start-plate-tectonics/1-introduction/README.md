@@ -35,7 +35,7 @@ By feeding the core concepts of these two theories into the system, we can see h
 **BibTeX:**
 
     @misc{gtcodeeditorial20251introduction_486a,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Part 1: Introduction to the Case Study},
       institution = {GTCode.com Guides},
       year    = {2025},

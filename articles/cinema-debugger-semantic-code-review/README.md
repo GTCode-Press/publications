@@ -1,6 +1,6 @@
 # The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** January 9, 2026
 **Canonical URL:** https://gtcode.com/articles/cinema-debugger-semantic-code-review/
 **Section:** Articles
@@ -411,8 +411,8 @@ The diffs are becoming dimensions. The scrollbar is becoming a timeline. The rev
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026cinemadebuggersemantic,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026cinemadebuggersemantic,
+      author  = {{GTCode.com}},
       title   = {The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -422,7 +422,7 @@ The diffs are becoming dimensions. The scrollbar is becoming a timeline. The rev
     }
 
 **APA:**
-GTCode Editorial (2026, January 9). The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence. *GTCode.com Articles*. https://gtcode.com/articles/cinema-debugger-semantic-code-review/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review)
+GTCode.com (2026, January 9). The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence. *GTCode.com Articles*. https://gtcode.com/articles/cinema-debugger-semantic-code-review/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review)
 
 **Chicago:**
-GTCode Editorial. "The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence." *GTCode.com Articles*, January 9, 2026. https://gtcode.com/articles/cinema-debugger-semantic-code-review/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review.
+GTCode.com. "The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence." *GTCode.com Articles*, January 9, 2026. https://gtcode.com/articles/cinema-debugger-semantic-code-review/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/cinema-debugger-semantic-code-review.

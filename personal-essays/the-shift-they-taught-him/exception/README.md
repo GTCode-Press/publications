@@ -23,7 +23,7 @@ Continue through [articles](https://gtcode.com/articles/), [guides](https://gtco
 **BibTeX:**
 
     @article{gtcodeeditorial2026exception,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Lono and the Lesson},
       journal = {GTCode.com Personal Essays},
       year    = {2026},

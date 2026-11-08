@@ -3,7 +3,7 @@ message: If you reference this work, please cite it using the metadata below.
 type: article
 title: 'Harness Engineering: From Agent Prompts to Engineering Control Systems'
 authors:
-- name: GTCode Editorial
+- name: GTCode.com
 date-released: '2026-03-04'
 url: https://gtcode.com/articles/harness-engineering/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/harness-engineering

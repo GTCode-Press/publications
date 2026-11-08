@@ -78,7 +78,7 @@ The synthesis narrows the contradiction by dose context but does not erase subgr
 **BibTeX:**
 
     @misc{gtcodeeditorial2026sampleauditreport,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Sample CNS 8.0 Audit Report},
       institution = {GTCode.com Guides},
       year    = {2026},

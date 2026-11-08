@@ -134,7 +134,7 @@ Finally, by integrating DSPy, we have shown a path from a static system to a dyn
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter7dspy,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 7: Advanced Optimization with DSPy},
       institution = {GTCode.com Guides},
       year    = {2025},

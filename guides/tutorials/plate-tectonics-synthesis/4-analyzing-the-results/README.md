@@ -177,7 +177,7 @@ The manual prototype validates the core synthesis methodology and establishes th
 **BibTeX:**
 
     @misc{gtcodeeditorial20254analyzingresults_b20d,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Tutorial Part 4: Analyzing the Results},
       institution = {GTCode.com Guides},
       year    = {2025},

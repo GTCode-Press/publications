@@ -2,7 +2,7 @@
 
 > A research proposal for controllable civilizational pretraining, synthetic future histories, and an experimental apparatus for separating universal structure from the accidents of human biology
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com Research
 **Published:** October 3, 2026
 **Canonical URL:** https://gtcode.com/articles/the-silicon-episteme/
 **Section:** Articles
@@ -467,8 +467,8 @@ Synthetic-data research has become good at producing answers, proofs, code and e
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026siliconepisteme,
-      author  = {GTCode Editorial, },
+    @article{gtcodecomresearch2026siliconepisteme,
+      author  = {{GTCode.com Research}},
       title   = {The Silicon Episteme},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -478,7 +478,7 @@ Synthetic-data research has become good at producing answers, proofs, code and e
     }
 
 **APA:**
-GTCode Editorial (2026, October 3). The Silicon Episteme. *GTCode.com Articles*. https://gtcode.com/articles/the-silicon-episteme/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/the-silicon-episteme)
+GTCode.com Research (2026, October 3). The Silicon Episteme. *GTCode.com Articles*. https://gtcode.com/articles/the-silicon-episteme/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/the-silicon-episteme)
 
 **Chicago:**
-GTCode Editorial. "The Silicon Episteme." *GTCode.com Articles*, October 3, 2026. https://gtcode.com/articles/the-silicon-episteme/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/the-silicon-episteme.
+GTCode.com Research. "The Silicon Episteme." *GTCode.com Articles*, October 3, 2026. https://gtcode.com/articles/the-silicon-episteme/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/the-silicon-episteme.

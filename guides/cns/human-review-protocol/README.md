@@ -78,7 +78,7 @@ Human review is recorded after runtime unless the run is explicitly marked as a 
 **BibTeX:**
 
     @misc{gtcodeeditorial2026humanreviewprotocol,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {26 — Human Review Protocol},
       institution = {GTCode.com Guides},
       year    = {2026},

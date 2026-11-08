@@ -209,7 +209,7 @@ While significant technical, ethical, and evaluative challenges persist, the fut
 **BibTeX:**
 
     @misc{gtcodeeditorial2025dialecticnarrativegeneration,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Dialectical Reasoning Mechanisms},
       institution = {GTCode.com Guides},
       year    = {2025},

@@ -150,7 +150,7 @@ This statistical framework ensures that the plate tectonics prototype scales to 
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter2minimum,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 2: Statistical Prototype Framework for Dialectical Synthesis Validation},
       institution = {GTCode.com Guides},
       year    = {2025},

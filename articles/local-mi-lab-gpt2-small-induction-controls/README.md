@@ -1,6 +1,6 @@
 # Local MI Lab: How Controls Broke My First Induction Story
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** June 26, 2026
 **Canonical URL:** https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/
 **Section:** Articles
@@ -166,8 +166,8 @@ No induction head, circuit, broad GPT-2 claim, or new head search came out of th
 
 **BibTeX:**
 
-    @article{gtcodeeditorial2026localmilab,
-      author  = {GTCode Editorial, },
+    @article{gtcodecom2026localmilab,
+      author  = {{GTCode.com}},
       title   = {Local MI Lab: How Controls Broke My First Induction Story},
       journal = {GTCode.com Articles},
       year    = {2026},
@@ -177,7 +177,7 @@ No induction head, circuit, broad GPT-2 claim, or new head search came out of th
     }
 
 **APA:**
-GTCode Editorial (2026, June 26). Local MI Lab: How Controls Broke My First Induction Story. *GTCode.com Articles*. https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls)
+GTCode.com (2026, June 26). Local MI Lab: How Controls Broke My First Induction Story. *GTCode.com Articles*. https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/ (Archived at https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls)
 
 **Chicago:**
-GTCode Editorial. "Local MI Lab: How Controls Broke My First Induction Story." *GTCode.com Articles*, June 26, 2026. https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls.
+GTCode.com. "Local MI Lab: How Controls Broke My First Induction Story." *GTCode.com Articles*, June 26, 2026. https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/. Archived at https://github.com/GTCode-Press/publications/tree/main/articles/local-mi-lab-gpt2-small-induction-controls.

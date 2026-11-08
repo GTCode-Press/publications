@@ -42,7 +42,7 @@ Sitemap: https://gtcode.com/news-sitemap.xml
 **BibTeX:**
 
     @misc{gtcodeeditorial2025robots,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Robots.txt - Web Crawler Policy},
       institution = {GTCode.com Policies},
       year    = {2025},

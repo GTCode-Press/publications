@@ -4,7 +4,7 @@ type: article
 title: 'The Mechanistic Interpretability Landscape: A Technical Survey of How We Are
   Learning to Understand Large Language Models'
 authors:
-- name: GTCode Editorial
+- name: GTCode.com
 date-released: '2025-12-21'
 url: https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/
 repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/mechanistic-interpretability-landscape-2025

@@ -130,7 +130,7 @@ With our `Signature`, `Metric`, and `Examples` defined, we now have a fully spec
 **BibTeX:**
 
     @misc{gtcodeeditorial20252definingtask,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {2. Defining the Task for DSPy},
       institution = {GTCode.com Guides},
       year    = {2025},

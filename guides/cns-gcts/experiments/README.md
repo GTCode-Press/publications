@@ -139,7 +139,7 @@ strategic partial production.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026experiments_41e9,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Experiments},
       institution = {GTCode.com Guides},
       year    = {2026},

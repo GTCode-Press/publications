@@ -88,7 +88,7 @@ calibrated parameters, not from gold labels or LLM truth votes.
 **BibTeX:**
 
     @misc{gtcodeeditorial2026glossary_1ca3,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Glossary},
       institution = {GTCode.com Guides},
       year    = {2026},

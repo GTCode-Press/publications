@@ -69,7 +69,7 @@ This research will be a cornerstone of the CNS 2.0 project, ensuring we build a 
 **BibTeX:**
 
     @misc{gtcodeeditorial20253humanai,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 3: Human-AI Collaboration},
       institution = {GTCode.com Guides},
       year    = {2025},

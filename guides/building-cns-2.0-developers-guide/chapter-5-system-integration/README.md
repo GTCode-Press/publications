@@ -509,7 +509,7 @@ By tracking these metrics, you gain crucial, actionable visibility into the syst
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter5system,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 5: System Integration},
       institution = {GTCode.com Guides},
       year    = {2025},

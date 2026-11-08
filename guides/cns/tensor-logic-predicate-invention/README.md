@@ -140,7 +140,7 @@ The first implementation should use simple dense/sparse tensors in Python:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026tensorlogicpredicate,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {07 — Tensor Logic and Predicate Invention},
       institution = {GTCode.com Guides},
       year    = {2026},

@@ -495,7 +495,7 @@ Now that you have a working CNS 2.0 environment and understand the basic concept
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter0quickstart,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 0: Quick Start - Your First SNO in 15 Minutes},
       institution = {GTCode.com Guides},
       year    = {2025},

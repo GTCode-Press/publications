@@ -117,7 +117,7 @@ Every record-contingent claim should state:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026recordaccessontology_3a16,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {GCTS Record-Access Ontology},
       institution = {GTCode.com Guides},
       year    = {2026},

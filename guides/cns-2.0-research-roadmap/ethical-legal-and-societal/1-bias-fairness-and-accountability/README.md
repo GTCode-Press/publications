@@ -61,7 +61,7 @@ Ultimately, this work seeks to build the essential foundation of trust between u
 **BibTeX:**
 
     @misc{gtcodeeditorial20251biasfairness,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 1: Bias, Fairness, and Accountability},
       institution = {GTCode.com Guides},
       year    = {2025},

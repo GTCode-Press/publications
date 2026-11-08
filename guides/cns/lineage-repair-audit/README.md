@@ -119,7 +119,7 @@ Avoid prose that sounds like a naming correction or political repair. Write the 
 **BibTeX:**
 
     @misc{gtcodeeditorial2026lineagerepairaudit,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {02 — Lineage Repair Audit},
       institution = {GTCode.com Guides},
       year    = {2026},

@@ -216,7 +216,7 @@ Produces final report:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026architecture_324d,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {06 — Dialectical Agent Architecture},
       institution = {GTCode.com Guides},
       year    = {2026},

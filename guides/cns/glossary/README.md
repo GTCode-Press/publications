@@ -75,7 +75,7 @@
 **BibTeX:**
 
     @misc{gtcodeeditorial2026glossary_98c4,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {17 — Glossary},
       institution = {GTCode.com Guides},
       year    = {2026},

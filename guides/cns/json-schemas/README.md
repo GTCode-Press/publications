@@ -347,7 +347,7 @@
 **BibTeX:**
 
     @misc{gtcodeeditorial2026jsonschemas,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {JSON Schemas},
       institution = {GTCode.com Guides},
       year    = {2026},

@@ -58,7 +58,7 @@ This research will produce a framework for the longitudinal and cross-domain eva
 **BibTeX:**
 
     @misc{gtcodeeditorial20251longitudinalcross,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 1: Longitudinal & Cross-Domain Studies},
       institution = {GTCode.com Guides},
       year    = {2025},

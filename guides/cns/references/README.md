@@ -158,7 +158,7 @@ ICD 203 and Analysis of Competing Hypotheses provide discipline for analytic sta
 **BibTeX:**
 
     @misc{gtcodeeditorial2026references_92a8,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Annotated References},
       institution = {GTCode.com Guides},
       year    = {2026},

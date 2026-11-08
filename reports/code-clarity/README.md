@@ -138,7 +138,7 @@ Integrate with CI/CD pipelines, provide team analytics and knowledge sharing fea
 **BibTeX:**
 
     @techreport{gtcodeeditorial2025codeclarity,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {CodeClarity: An AI-Assisted Development Platform},
       institution = {GTCode.com Reports},
       year    = {2025},

@@ -76,7 +76,7 @@ ablations:
 **BibTeX:**
 
     @misc{gtcodeeditorial2026experimentresources,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Experiment Resource Files},
       institution = {GTCode.com Guides},
       year    = {2026},

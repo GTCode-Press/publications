@@ -1,6 +1,6 @@
 # Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems
 
-**Author:** GTCode Editorial
+**Author:** GTCode.com
 **Published:** December 20, 2025
 **Canonical URL:** https://gtcode.com/papers/geometric-publish-subscribe/
 **Section:** Research Papers
@@ -597,8 +597,8 @@ Agent B can manually reset threshold if missing important messages.
 
 **BibTeX:**
 
-    @techreport{gtcodeeditorial2025geometricpublishsubscribe,
-      author  = {GTCode Editorial, },
+    @techreport{gtcodecom2025geometricpublishsubscribe,
+      author  = {{GTCode.com}},
       title   = {Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems},
       institution = {GTCode.com Research Papers},
       year    = {2025},
@@ -608,7 +608,7 @@ Agent B can manually reset threshold if missing important messages.
     }
 
 **APA:**
-GTCode Editorial (2025, December 20). Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-publish-subscribe/ (Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe)
+GTCode.com (2025, December 20). Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems. *GTCode.com Research Papers*. https://gtcode.com/papers/geometric-publish-subscribe/ (Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe)
 
 **Chicago:**
-GTCode Editorial. "Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-publish-subscribe/. Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe.
+GTCode.com. "Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems." *GTCode.com Research Papers*, December 20, 2025. https://gtcode.com/papers/geometric-publish-subscribe/. Archived at https://github.com/GTCode-Press/publications/tree/main/papers/geometric-publish-subscribe.

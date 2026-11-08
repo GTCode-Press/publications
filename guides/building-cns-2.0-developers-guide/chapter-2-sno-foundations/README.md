@@ -754,7 +754,7 @@ Before proceeding to Chapter 3, verify you can:
 **BibTeX:**
 
     @misc{gtcodeeditorial2025chapter2sno,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Chapter 2: SNO Foundations},
       institution = {GTCode.com Guides},
       year    = {2025},

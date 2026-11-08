@@ -401,7 +401,7 @@ def rank_worlds(worlds: list[World], alpha: float = 1.0, beta: float = 1.0) -> l
 **BibTeX:**
 
     @misc{gtcodeeditorial2026pythonsketches,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Python Sketches},
       institution = {GTCode.com Guides},
       year    = {2026},

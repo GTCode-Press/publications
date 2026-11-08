@@ -70,7 +70,7 @@ This work is critical for building the public and expert trust necessary for the
 **BibTeX:**
 
     @misc{gtcodeeditorial20252adversarialrobustness,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {Project 2: Adversarial Robustness & Security},
       institution = {GTCode.com Guides},
       year    = {2025},

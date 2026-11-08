@@ -84,7 +84,7 @@ In the final section, we will inspect the prompt that the optimizer generated an
 **BibTeX:**
 
     @misc{gtcodeeditorial20253runningoptimizer,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {3. Running the DSPy Optimizer},
       institution = {GTCode.com Guides},
       year    = {2025},

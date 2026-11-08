@@ -87,7 +87,7 @@
 **BibTeX:**
 
     @misc{gtcodeeditorial2026theoryclaimsassumptions,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {22 — Theory Claims, Assumptions, and Theorem Sketches},
       institution = {GTCode.com Guides},
       year    = {2026},

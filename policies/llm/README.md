@@ -73,7 +73,7 @@ For questions regarding this LLM usage policy or programmatic use of the site:
 **BibTeX:**
 
     @misc{gtcodeeditorial2025llm,
-      author  = {GTCode Editorial, },
+      author  = {{GTCode Editorial}},
       title   = {LLM Usage Policy},
       institution = {GTCode.com Policies},
       year    = {2025},
