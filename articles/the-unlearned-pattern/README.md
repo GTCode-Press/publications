@@ -4,6 +4,7 @@
 
 **Author:** GTCode.com Research
 **Published:** November 7, 2026
+**Last Modified:** November 8, 2026
 **Canonical URL:** https://gtcode.com/articles/the-unlearned-pattern/
 **Section:** Articles
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -34,17 +35,22 @@ A system can lose an obvious record while retaining a less accessible one. Physi
 
 In Anton Graf and colleagues' *Quantum Birthmarks: Ergodicity Breaking Beyond Scarring*, a chaotic quantum system retains statistical traces of its preparation. Their billiard calculations follow a wavepacket as it spreads through an enclosure. Long-time statistics nevertheless show enhanced overlap with its starting state and the states along its subsequent orbit through Hilbert space.[^3]
 
-For a time-independent Hamiltonian with nondegenerate energies, the infinite-time-averaged return probability is
+Write the initial state in the energy eigenbasis as
+
+$$
+|\psi(0)\rangle=\sum_n c_n|E_n\rangle.
+$$
+
+Here, $|E_n\rangle$ are the energy eigenstates, and $|c_n|^2$ is the probability of occupying each one. For a time-independent Hamiltonian with nondegenerate energies, the infinite-time-averaged return probability is then
 
 $$
 \overline{P}_{\mathrm{return}}
 =\lim_{T\to\infty}\frac{1}{T}\int_0^T
 \left|\langle\psi(0)|\psi(t)\rangle\right|^2\,dt
-=\sum_n |c_n|^4,
-\qquad |\psi(0)\rangle=\sum_n c_n|E_n\rangle.
+=\sum_n |c_n|^4.
 $$
 
-The coefficients describe how the preparation occupies the energy eigenstates. To identify a birthmark, compare overlap with that preparation against overlap with an independently chosen state satisfying the appropriate energy and symmetry constraints. Comparing each state's return to itself answers a different question. Xiaoya and colleagues find enhancement factors approaching two or three under specified random-matrix comparisons; early returns can strengthen the trace, with Heller's scars as precedent.[^4][^5]
+To identify a birthmark, compare overlap with that preparation against overlap with an independently chosen state satisfying the appropriate energy and symmetry constraints. Comparing each state's return to itself answers a different question. Xiaoya and colleagues find enhancement factors approaching two or three under specified random-matrix comparisons; early returns can strengthen the trace, with Heller's scars as precedent.[^4][^5]
 
 An infinite-time average does not specify a practical readout time. Nor does every environmental disturbance erase the same information. Pure dephasing in the energy basis preserves the populations entering the displayed sum; energy relaxation can change them. Phase information may disappear while a trace of preparation remains. An experiment therefore needs an observable, a description of the disturbance, and a time within which the trace can be read.
 
@@ -456,7 +462,7 @@ Return to the invented junction. Two exits offer equal local evidence. Somewhere
       year    = {2026},
       month   = nov,
       url     = {https://gtcode.com/articles/the-unlearned-pattern/},
-      note    = {Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-unlearned-pattern}}
+      note    = {Last modified 2026-11-08; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/articles/the-unlearned-pattern}}
     }
 
 **APA:**
