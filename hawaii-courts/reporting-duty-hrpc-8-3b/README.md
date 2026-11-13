@@ -4,7 +4,7 @@
 
 **Author:** Ekewaka Lono
 **Published:** June 8, 2026
-**Last Modified:** October 10, 2026
+**Last Modified:** November 12, 2026
 **Canonical URL:** https://gtcode.com/hawaii-courts/reporting-duty-hrpc-8-3b/
 **Section:** Investigations
 **Rights:** All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission. [Content-use policy](https://gtcode.com/policies/content-use/).
@@ -244,7 +244,7 @@ Hawaii law recognizes a public right of access to court records and proceedings,
 
 Sealing also interacts with time in a manner that can prove decisive. Commission jurisdiction over a judge's conduct can lapse once the judge leaves the bench; Hawaii's rules tie the Commission's reach over a former judge to a report made within ninety days after the judge leaves office.[^17] In a per diem context, the relevant "leaves office" date may require appointment or service-status records to identify; the point is not that each assignment restarts the clock, but that a sealed record can consume time before a complainant can know, frame, and file. The accountability problem is sequential. First, the audio is sealed, foreclosing ordinary review of the only objective record of the aftermath. Then RSCH Rule 8.2(b)'s former-judge jurisdiction window can expire before a pro se complainant can obtain, interpret, and present the sealed material. In combination, the seal and the clock can transform an evidentiary problem into a jurisdictional ending.
 
-The sealed audio should be unsealed, or independently preserved by an authority competent to review it. The record should identify who moved to seal, what grounds were offered, what portions were sealed, whether less restrictive alternatives were considered, and whether the sealed material includes the attempted preservation of judicial misconduct.
+The sealed audio should be unsealed, or independently preserved by an authority competent to review it. My account identifies Petricevic as requesting sealing and Loo as granting it. The sealed audio and court file should confirm the request, its grounds, the scope of the order, whether less restrictive alternatives were considered, and whether the sealed material includes the attempted preservation of judicial misconduct.
 
 In an audio-only courtroom, a visual act cannot be preserved in the audio record unless someone is permitted to describe it aloud. The sealed audio can show whether I tried.
 
@@ -310,7 +310,7 @@ The cases supply the legal context surrounding judicial demeanor, nonverbal comm
 The path to clarification is procedurally ordinary:
 
 1. Unseal the December 2, 2022 audio, or preserve it for independent review by an authority with jurisdiction.
-2. Identify who moved to seal the audio and on what grounds.
+2. Confirm my account that Petricevic requested sealing and Loo granted it, and establish what grounds were offered.
 3. Identify what findings supported sealing.
 4. Review the text-message exhibit concerning acid.
 5. Compare the exhibit to the witness's denial.
@@ -423,7 +423,7 @@ The rule says "shall" when its requirements are met. The incentive model asks wh
       year    = {2026},
       month   = jun,
       url     = {https://gtcode.com/hawaii-courts/reporting-duty-hrpc-8-3b/},
-      note    = {Last modified 2026-10-10; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/reporting-duty-hrpc-8-3b}}
+      note    = {Last modified 2026-11-12; Archived at \url{https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/reporting-duty-hrpc-8-3b}}
     }
 
 **APA:**
