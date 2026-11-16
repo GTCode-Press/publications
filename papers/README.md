@@ -4,11 +4,11 @@
 
 **[TRACE: Contrast-Guided Discovery from Conflicting Accounts](https://gtcode.com/papers/trace/)**
 
-An unvalidated research proposal for turning conflicting accounts into measurable explanations, committed predictions, and discriminating evidence acquisition. Includes three falsifiable hypotheses and a proposed, unregistered evaluation; no TRACE experiments or demonstrated improvements are reported.
+An unvalidated research proposal for turning conflicting accounts into measurable explanations, committed predictions, and discriminating evidence acquisition. Makes predictive discovery primary, with a small exploratory pilot and direct contrastive-discovery comparisons; no TRACE experiments or demonstrated improvements are reported.
 
 - **Date:** November 15, 2026 · **Version:** 0.1
 - **Read:** [Illustrated overview](https://gtcode.com/guides/trace/overview/) · [Proposed evaluation](https://gtcode.com/guides/trace/evaluation/)
-- **Download:** [Paper PDF (22 pages)](https://gtcode.com/papers/trace/trace-research-proposal.pdf) · [LaTeX source](https://gtcode.com/papers/trace/trace-latex-source.zip)
+- **Download:** [Paper PDF (27 pages)](https://gtcode.com/papers/trace/trace-research-proposal.pdf) · [LaTeX source](https://gtcode.com/papers/trace/trace-latex-source.zip)
 
 ---
 
