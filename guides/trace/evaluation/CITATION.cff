@@ -1,18 +1,18 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: generic
-title: 'CNS 9.0: Proposed Evaluation and Falsifiability Specification'
+title: 'TRACE: Proposed Evaluation and Falsifiability Specification'
 authors:
 - name: GTCode.com
 date-released: '2026-11-15'
-url: https://gtcode.com/guides/cns-9/evaluation/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-9/evaluation
+url: https://gtcode.com/guides/trace/evaluation/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/trace/evaluation
 license-url: https://gtcode.com/policies/content-use/
-abstract: A proposed, unregistered protocol to test CNS 9.0 against resource-matched
+abstract: A proposed, unregistered protocol to test TRACE against resource-matched
   alternatives on contrastive correctness, independently predictive synthesis, and
   evidence-acquisition decisions.
 keywords:
-- CNS 9.0
+- TRACE
 - falsifiable hypotheses
 - evaluation protocol
 - contrastive robustness

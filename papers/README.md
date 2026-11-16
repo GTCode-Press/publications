@@ -1,14 +1,14 @@
 # Research Papers
 
-## Chiral Narrative Synthesis 9.0
+## Testing Rival Accounts through Contrast and Evidence
 
-**[Chiral Narrative Synthesis 9.0: Falsification-Guided Narrative Synthesis for Predictive Knowledge Discovery](https://gtcode.com/papers/cns-9/)**
+**[TRACE: Contrast-Guided Discovery from Conflicting Accounts](https://gtcode.com/papers/trace/)**
 
-An unvalidated research proposal for turning conflicting accounts into measurable explanations, committed predictions, and discriminating evidence acquisition. Includes three falsifiable hypotheses and a proposed, unregistered evaluation; no CNS 9.0 experiments or demonstrated improvements are reported.
+An unvalidated research proposal for turning conflicting accounts into measurable explanations, committed predictions, and discriminating evidence acquisition. Includes three falsifiable hypotheses and a proposed, unregistered evaluation; no TRACE experiments or demonstrated improvements are reported.
 
 - **Date:** November 15, 2026 · **Version:** 0.1
-- **Read:** [Illustrated overview](https://gtcode.com/guides/cns-9/overview/) · [Proposed evaluation](https://gtcode.com/guides/cns-9/evaluation/)
-- **Download:** [Paper PDF (17 pages)](https://gtcode.com/papers/cns-9/cns-9-research-proposal.pdf) · [LaTeX source](https://gtcode.com/papers/cns-9/cns-9-latex-source.zip)
+- **Read:** [Illustrated overview](https://gtcode.com/guides/trace/overview/) · [Proposed evaluation](https://gtcode.com/guides/trace/evaluation/)
+- **Download:** [Paper PDF (22 pages)](https://gtcode.com/papers/trace/trace-research-proposal.pdf) · [LaTeX source](https://gtcode.com/papers/trace/trace-latex-source.zip)
 
 ---
 
@@ -138,7 +138,7 @@ Templates and frameworks for implementing dialectical reasoning in narrative gen
 
 The Chiral Narrative Synthesis (CNS) project explores computational methods for
 reasoning under conflict, uncertainty, and incomplete evidence. The latest
-proposal is **CNS 9.0**, focused on falsification-guided synthesis and prospective
+proposal is **TRACE**, focused on falsification-guided synthesis and prospective
 evaluation. [CNS 8.0](https://gtcode.com/guides/cns/) and CNS 7.1 / GCTS remain available as prior
 frameworks; GCTS explores access-aware likely-truth ranking over structured
 possible worlds. Older

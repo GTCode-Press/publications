@@ -1,19 +1,18 @@
 cff-version: 1.2.0
 message: If you reference this work, please cite it using the metadata below.
 type: report
-title: 'Chiral Narrative Synthesis 9.0: Falsification-Guided Narrative Synthesis for
-  Predictive Knowledge Discovery'
+title: 'TRACE: Contrast-Guided Discovery from Conflicting Accounts'
 authors:
 - name: GTCode.com
 date-released: '2026-11-15'
-url: https://gtcode.com/papers/cns-9/
-repository-code: https://github.com/GTCode-Press/publications/tree/main/papers/cns-9
+url: https://gtcode.com/papers/trace/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/papers/trace
 license-url: https://gtcode.com/policies/content-use/
 abstract: A research proposal for turning conflicting accounts into measurable explanations,
   committed predictions and evidence-gathering actions that could refute them.
 keywords:
-- CNS 9.0
-- Chiral Narrative Synthesis
+- TRACE
+- Testing Rival Accounts through Contrast and Evidence
 - falsification-guided narrative synthesis
 - predictive synthesis
 - experimental design

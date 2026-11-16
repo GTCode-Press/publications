@@ -1,6 +1,6 @@
 # CNS 8.0 / Grounded Dialectical Orthesis
 
-> **Earlier CNS proposal.** For the latest research direction, see [CNS 9.0: Falsification-Guided Narrative Synthesis](https://gtcode.com/guides/cns-9/), an unvalidated research proposal. The CNS 8.0 material below is retained as prior work.
+> **Earlier CNS proposal.** For the latest research direction, see [TRACE (Testing Rival Accounts through Contrast and Evidence)](https://gtcode.com/guides/trace/), an unvalidated research proposal. The CNS 8.0 material below is retained as prior work.
 
 # Chiral Narrative Synthesis 8.0
 

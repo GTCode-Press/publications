@@ -1,11 +1,11 @@
-# CNS / GCTS Guides & Tutorials | Chiral Narrative Synthesis Research
+# Narrative Synthesis Research | Guides & Tutorials
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "CNS / GCTS Guides & Tutorials",
-  "description": "The official hub for the CNS 9.0 research proposal, CNS 8.0, CNS 7.1 / GCTS historical material, historical CNS 2.0 guides, developer tutorials, and research roadmaps.",
+  "name": "Narrative Synthesis Research | Guides & Tutorials",
+  "description": "The official hub for the TRACE research proposal, CNS 8.0, CNS 7.1 / GCTS historical material, historical CNS 2.0 guides, developer tutorials, and research roadmaps.",
   "url": "https://gtcode.com/guides/",
   "author": {
     "@type": "Person",
@@ -23,9 +23,9 @@
   "hasPart": [
     {
       "@type": "WebPage",
-      "name": "CNS 9.0: Falsification-Guided Narrative Synthesis",
+      "name": "TRACE (Testing Rival Accounts through Contrast and Evidence)",
       "description": "An unvalidated research proposal with an illustrated overview and a proposed, unregistered evaluation.",
-      "url": "https://gtcode.com/guides/cns-9/"
+      "url": "https://gtcode.com/guides/trace/"
     },
     {
       "@type": "WebPage",
@@ -87,16 +87,16 @@
 }
 </script>
 
-Chiral Narrative Synthesis (CNS) is a research line for making sense of incomplete, uncertain, and contradictory information.
-The latest proposal is **CNS 9.0: Falsification-Guided Narrative Synthesis**, which asks how conflicting accounts can produce measurable explanations, committed predictions, and observations that distinguish rival hypotheses. It has not been implemented or empirically evaluated.
+These guides explore how conflicting accounts can support testable explanations and new predictions. The collection includes TRACE and its predecessors in Chiral Narrative Synthesis (CNS).
+The latest proposal is **TRACE (Testing Rival Accounts through Contrast and Evidence)**, which asks how conflicting accounts can produce measurable explanations, committed predictions, and observations that distinguish rival hypotheses. It has not been implemented or empirically evaluated.
 
-> **Latest research proposal:** Start with **[CNS 9.0](https://gtcode.com/guides/cns-9/)**, its [illustrated overview](https://gtcode.com/guides/cns-9/overview/), or the [full paper](https://gtcode.com/papers/cns-9/). CNS 8.0, CNS 7.1, and CNS 2.0 remain available as prior work.
+> **Latest research proposal:** Start with **[TRACE](https://gtcode.com/guides/trace/)**, its [illustrated overview](https://gtcode.com/guides/trace/overview/), or the [full paper](https://gtcode.com/papers/trace/). CNS 8.0, CNS 7.1, and CNS 2.0 remain available as prior work.
 
-This section contains the CNS 9.0 proposal and proposed evaluation alongside earlier CNS 8.0, CNS 7.1, and CNS 2.0 guides and tutorials.
+This section contains the TRACE proposal and proposed evaluation alongside earlier CNS 8.0, CNS 7.1, and CNS 2.0 guides and tutorials.
 
 ## Available Guides
 
-- **[CNS 9.0: Falsification-Guided Narrative Synthesis](./cns-9/)**: An unvalidated research proposal with an illustrated overview, full paper, and proposed evaluation.
+- **[TRACE (Testing Rival Accounts through Contrast and Evidence)](./trace/)**: An unvalidated research proposal with an illustrated overview, full paper, and proposed evaluation.
 
 - **[CNS 8.0: Grounded Dialectical Orthesis](./cns/)**: A synthesis-first framework for Structured Narrative Objects, tensor closure, chiral tension, predicate invention, and auditable uncertainty.
 - **[CNS 7.1 / GCTS: Grounded Chiral Tensor Synthesis](./cns-gcts/)**: The historical access-aware likely-truth framework around evidence atoms, record-access states, possible worlds, chirality, and oracle-boundary discipline.

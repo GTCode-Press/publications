@@ -58,10 +58,6 @@
       "path": "articles/where-choice-enters-the-world"
     },
     {
-      "url": "https://gtcode.com/papers/cns-9/",
-      "path": "papers/cns-9"
-    },
-    {
       "url": "https://gtcode.com/papers/geometric-publish-subscribe/",
       "path": "papers/geometric-publish-subscribe"
     },
@@ -72,6 +68,10 @@
     {
       "url": "https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/",
       "path": "papers/maxwell-bound-spatiotemporal-digests-paper"
+    },
+    {
+      "url": "https://gtcode.com/papers/trace/",
+      "path": "papers/trace"
     },
     {
       "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/",
@@ -334,14 +334,6 @@
       "path": "guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference"
     },
     {
-      "url": "https://gtcode.com/guides/cns-9/evaluation/",
-      "path": "guides/cns-9/evaluation"
-    },
-    {
-      "url": "https://gtcode.com/guides/cns-9/overview/",
-      "path": "guides/cns-9/overview"
-    },
-    {
       "url": "https://gtcode.com/guides/cns-gcts/adversarial-evidence/",
       "path": "guides/cns-gcts/adversarial-evidence"
     },
@@ -384,6 +376,14 @@
     {
       "url": "https://gtcode.com/guides/cns-gcts/worked-example/",
       "path": "guides/cns-gcts/worked-example"
+    },
+    {
+      "url": "https://gtcode.com/guides/trace/evaluation/",
+      "path": "guides/trace/evaluation"
+    },
+    {
+      "url": "https://gtcode.com/guides/trace/overview/",
+      "path": "guides/trace/overview"
     },
     {
       "url": "https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/",
