@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "Please use the citation files in each publication directory to cite individual works."
-title: "GTCode Technical Publications"
+message: Please use the citation files in each publication directory to cite individual
+  works.
+title: GTCode Technical Publications
 type: dataset
 authors:
-  - name: "GTCode"
-repository-code: "https://github.com/GTCode-Press/publications"
-url: "https://gtcode.com/"
-license-url: "https://gtcode.com/policies/content-use/"
+- name: GTCode
+repository-code: https://github.com/GTCode-Press/publications
+url: https://gtcode.com/
+license-url: https://gtcode.com/policies/content-use/

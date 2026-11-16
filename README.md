@@ -1,9 +1,22 @@
-# GTCode Technical Publications
+# GTCode Publications
 
-Current technical papers, CNS guides, and selected technical articles published on [GTCode.com](https://gtcode.com). Each entry includes citation metadata.
+Current publications exposed by the Hugo publish configuration, with citation metadata.
 
-## Publications
-
+- [The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence](articles/cinema-debugger-semantic-code-review/)
+- [Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims](articles/epistemic-fragmentation-multi-model-ai-systems/)
+- [My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results](articles/first-mechanistic-interpretability-attempt-self-ground/)
+- [The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System](articles/global-cognitive-brain-architecture/)
+- [Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete](articles/grounded-chiral-tensor-synthesis/)
+- [Harness Engineering: From Agent Prompts to Engineering Control Systems](articles/harness-engineering/)
+- [The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier](articles/hybrid-consciousness-neural-digital-integration/)
+- [Local MI Lab: How Controls Broke My First Induction Story](articles/local-mi-lab-gpt2-small-induction-controls/)
+- [The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models](articles/mechanistic-interpretability-landscape-2025/)
+- [The Silicon Episteme](articles/the-silicon-episteme/)
+- [The Unlearned Pattern](articles/the-unlearned-pattern/)
+- [A Visual Language for Thinking About AI Synthesis](articles/visual-language-ai-synthesis/)
+- [What the Universe Remembers](articles/what-the-universe-remembers/)
+- [Where Choice Enters the World](articles/where-choice-enters-the-world/)
+- [Chiral Narrative Synthesis 9.0: Falsification-Guided Narrative Synthesis for Predictive Knowledge Discovery](papers/cns-9/)
 - [Geometric Publish-Subscribe: Content-Based Routing in Embedding Space for Multi-Agent Systems](papers/geometric-publish-subscribe/)
 - [Geometric Semantic Communication for Emergent Multi-Agent Intelligence](papers/geometric-semantic-communication/)
 - [Physics-Informed Spatiotemporal Digests: WSTD, OMR-Gated RF Verification, and Residual Security under Learned-Model Attackers](papers/maxwell-bound-spatiotemporal-digests-paper/)
@@ -72,6 +85,8 @@ Current technical papers, CNS guides, and selected technical articles published 
 - [Project 1: GNNs for Logical Reasoning](guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/)
 - [Project 2: Federated Learning and Privacy](guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/)
 - [Project 3: Formal Methods & Causal Inference](guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/)
+- [CNS 9.0: Proposed Evaluation and Falsifiability Specification](guides/cns-9/evaluation/)
+- [CNS 9.0: Falsification-Guided Narrative Synthesis — Overview](guides/cns-9/overview/)
 - [Adversarial Evidence And Access Modeling](guides/cns-gcts/adversarial-evidence/)
 - [GCTS Architecture](guides/cns-gcts/architecture/)
 - [GCTS Experiments](guides/cns-gcts/experiments/)
@@ -96,14 +111,19 @@ Current technical papers, CNS guides, and selected technical articles published 
 - [Part 2: Building the Parent SNOs](guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/)
 - [Part 3: Running the Synthesis](guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/)
 - [Part 4: Analyzing the Results](guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/)
-- [The Cinema Debugger: Reinventing Code Review Through Semantic Graph Navigation and Multi-Resolution Intelligence](articles/cinema-debugger-semantic-code-review/)
-- [Epistemic Fragmentation in Multi-Model AI Systems: The Challenge of Synthesizing Divergent Knowledge Claims](articles/epistemic-fragmentation-multi-model-ai-systems/)
-- [My First Real Mechanistic Interpretability Attempt: SELF-GROUND, Controls, and the Discipline of Negative Results](articles/first-mechanistic-interpretability-attempt-self-ground/)
-- [The Global Cognitive Brain: Engineering Distributed Machine Intelligence as a Living System](articles/global-cognitive-brain-architecture/)
-- [Grounded Chiral Tensor Synthesis: Likely Truth When the Record Is Incomplete](articles/grounded-chiral-tensor-synthesis/)
-- [Harness Engineering: From Agent Prompts to Engineering Control Systems](articles/harness-engineering/)
-- [The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier](articles/hybrid-consciousness-neural-digital-integration/)
-- [Local MI Lab: How Controls Broke My First Induction Story](articles/local-mi-lab-gpt2-small-induction-controls/)
-- [The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models](articles/mechanistic-interpretability-landscape-2025/)
-- [The Silicon Episteme](articles/the-silicon-episteme/)
-- [A Visual Language for Thinking About AI Synthesis](articles/visual-language-ai-synthesis/)
+- [Competitive Landscape: AI-Assisted Development Tools](reports/code-clarity-existing/)
+- [CodeClarity: An AI-Assisted Development Platform](reports/code-clarity/)
+- [AI Agent Policy](policies/agent/)
+- [AI Ethics Guidelines](policies/ai/)
+- [Copyright and Republication](policies/content-use/)
+- [Corrections Policy](policies/corrections-policy/)
+- [Ethics Policy](policies/ethics-policy/)
+- [Humans Behind GTCode](policies/humans/)
+- [LLM Usage Policy](policies/llm/)
+- [Robots.txt - Web Crawler Policy](policies/robots/)
+
+## Copyright and Republication
+
+All rights reserved. Linking is permitted. Republishing or redistributing our original content requires prior written permission. Attribution alone does not grant permission.
+
+[Content-use policy](https://gtcode.com/policies/content-use/). Permission requests: inquire@gtcode.com.

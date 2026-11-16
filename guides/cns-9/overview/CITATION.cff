@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: generic
+title: 'CNS 9.0: Falsification-Guided Narrative Synthesis — Overview'
+authors:
+- name: GTCode.com
+date-released: '2026-11-15'
+url: https://gtcode.com/guides/cns-9/overview/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/guides/cns-9/overview
+license-url: https://gtcode.com/policies/content-use/
+abstract: An accessible guide to a proposed framework for using conflicting accounts
+  to build measurable explanations, lock predictions, and seek observations that could
+  refute them.
+keywords:
+- CNS 9.0
+- Chiral Narrative Synthesis
+- predictive synthesis
+- falsification-guided narrative synthesis
+- scientific discovery
