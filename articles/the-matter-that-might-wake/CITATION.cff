@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: The Matter That Might Wake
+authors:
+- name: GTCode.com Research
+date-released: '2026-11-15'
+url: https://gtcode.com/articles/the-matter-that-might-wake/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/articles/the-matter-that-might-wake
+license-url: https://gtcode.com/policies/content-use/
+abstract: What would it take to build matter that might experience? A research-led
+  journey through cellular micromachines, dreams, neuromorphic hardware, organoids,
+  fields, plasma, and experiments that could test competing explanations.
+keywords:
+- Consciousness
+- Artificial Experience
+- Neuromorphic Computing
+- Organoid Intelligence
+- Synthetic Biology
+- Electromagnetic Fields
+- Embodied AI
+- Philosophy of Mind
+- Research Proposal

@@ -11,6 +11,7 @@ Current publications exposed by the Hugo publish configuration, with citation me
 - [The Bio-Digital Interface: Hybrid Consciousness Integration, the Simulacrum-Bliss Analysis, and the NEXUS Frontier](articles/hybrid-consciousness-neural-digital-integration/)
 - [Local MI Lab: How Controls Broke My First Induction Story](articles/local-mi-lab-gpt2-small-induction-controls/)
 - [The Mechanistic Interpretability Landscape: A Technical Survey of How We Are Learning to Understand Large Language Models](articles/mechanistic-interpretability-landscape-2025/)
+- [The Matter That Might Wake](articles/the-matter-that-might-wake/)
 - [The Silicon Episteme](articles/the-silicon-episteme/)
 - [The Unlearned Pattern](articles/the-unlearned-pattern/)
 - [A Visual Language for Thinking About AI Synthesis](articles/visual-language-ai-synthesis/)
