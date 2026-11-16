@@ -1,0 +1,417 @@
+{
+  "scope": "Current technical publications with live citation blocks",
+  "pages": [
+    {
+      "url": "https://gtcode.com/papers/geometric-publish-subscribe/",
+      "path": "papers/geometric-publish-subscribe"
+    },
+    {
+      "url": "https://gtcode.com/papers/geometric-semantic-communication/",
+      "path": "papers/geometric-semantic-communication"
+    },
+    {
+      "url": "https://gtcode.com/papers/maxwell-bound-spatiotemporal-digests-paper/",
+      "path": "papers/maxwell-bound-spatiotemporal-digests-paper"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-0-quickstart/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-0-quickstart"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-1-introduction/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-1-introduction"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-2-sno-foundations"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-3-critic-pipeline"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-4-synthesis-engine"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-5-system-integration/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-5-system-integration"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-6-complete-implementation"
+    },
+    {
+      "url": "https://gtcode.com/guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration/",
+      "path": "guides/building-cns-2.0-developers-guide/chapter-7-dspy-integration"
+    },
+    {
+      "url": "https://gtcode.com/guides/case-studies-and-experiments/dialectic-narrative-generation-research/",
+      "path": "guides/case-studies-and-experiments/dialectic-narrative-generation-research"
+    },
+    {
+      "url": "https://gtcode.com/guides/case-studies-and-experiments/narrative-structures/",
+      "path": "guides/case-studies-and-experiments/narrative-structures"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/adversarial-evidence/",
+      "path": "guides/cns/adversarial-evidence"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/architecture-diagram-notes/",
+      "path": "guides/cns/architecture-diagram-notes"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/architecture/",
+      "path": "guides/cns/architecture"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/dashboard-audit-ui/",
+      "path": "guides/cns/dashboard-audit-ui"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/data-and-run-manifest/",
+      "path": "guides/cns/data-and-run-manifest"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/experiment-resources/",
+      "path": "guides/cns/experiment-resources"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/experiments/",
+      "path": "guides/cns/experiments"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/glossary/",
+      "path": "guides/cns/glossary"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/human-review-protocol/",
+      "path": "guides/cns/human-review-protocol"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/implementation-plan/",
+      "path": "guides/cns/implementation-plan"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/json-schemas/",
+      "path": "guides/cns/json-schemas"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/language-logic-bundle/",
+      "path": "guides/cns/language-logic-bundle"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/lineage-repair-audit/",
+      "path": "guides/cns/lineage-repair-audit"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/llm-finetuning-strategy/",
+      "path": "guides/cns/llm-finetuning-strategy"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/mathematical-specification/",
+      "path": "guides/cns/mathematical-specification"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/metrics-acceptance-criteria/",
+      "path": "guides/cns/metrics-acceptance-criteria"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/mvp-build/",
+      "path": "guides/cns/mvp-build"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/naming-and-substrate-policy/",
+      "path": "guides/cns/naming-and-substrate-policy"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/oracle-boundary/",
+      "path": "guides/cns/oracle-boundary"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/prior-art-boundary/",
+      "path": "guides/cns/prior-art-boundary"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/prompt-templates/",
+      "path": "guides/cns/prompt-templates"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/publication-plan/",
+      "path": "guides/cns/publication-plan"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/python-sketches/",
+      "path": "guides/cns/python-sketches"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/record-access-ontology/",
+      "path": "guides/cns/record-access-ontology"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/references/",
+      "path": "guides/cns/references"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/repository-layout/",
+      "path": "guides/cns/repository-layout"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/research-proposal/",
+      "path": "guides/cns/research-proposal"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/runtime-configuration/",
+      "path": "guides/cns/runtime-configuration"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/sample-audit-report/",
+      "path": "guides/cns/sample-audit-report"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/sno8-object-model/",
+      "path": "guides/cns/sno8-object-model"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/source-lineage-matrix/",
+      "path": "guides/cns/source-lineage-matrix"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/source-manifest/",
+      "path": "guides/cns/source-manifest"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/source-table-of-contents/",
+      "path": "guides/cns/source-table-of-contents"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/tensor-logic-predicate-invention/",
+      "path": "guides/cns/tensor-logic-predicate-invention"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/test-plan/",
+      "path": "guides/cns/test-plan"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/theory-claims-assumptions/",
+      "path": "guides/cns/theory-claims-assumptions"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/theory/",
+      "path": "guides/cns/theory"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/validation-scenarios/",
+      "path": "guides/cns/validation-scenarios"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns/worked-example/",
+      "path": "guides/cns/worked-example"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment/",
+      "path": "guides/cns-2.0-research-roadmap/chapter-1-vision-vs-experiment"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment/",
+      "path": "guides/cns-2.0-research-roadmap/chapter-2-minimum-viable-experiment"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper/",
+      "path": "guides/cns-2.0-research-roadmap/chapter-3-anatomy-of-a-paper"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/chapter-4-foundational-work/",
+      "path": "guides/cns-2.0-research-roadmap/chapter-4-foundational-work"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability/",
+      "path": "guides/cns-2.0-research-roadmap/ethical-legal-and-societal/1-bias-fairness-and-accountability"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention/",
+      "path": "guides/cns-2.0-research-roadmap/ethical-legal-and-societal/2-privacy-security-and-misuse-prevention"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies/",
+      "path": "guides/cns-2.0-research-roadmap/evaluation-and-validation/1-longitudinal-and-cross-domain-studies"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security/",
+      "path": "guides/cns-2.0-research-roadmap/evaluation-and-validation/2-adversarial-robustness-and-security"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration/",
+      "path": "guides/cns-2.0-research-roadmap/evaluation-and-validation/3-human-ai-collaboration"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/future-research-directions/",
+      "path": "guides/cns-2.0-research-roadmap/future-research-directions"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates/",
+      "path": "guides/cns-2.0-research-roadmap/in-depth/dialectical-reasoning-templates"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/in-depth/ideas-paper/",
+      "path": "guides/cns-2.0-research-roadmap/in-depth/ideas-paper"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/quality-validation-review/",
+      "path": "guides/cns-2.0-research-roadmap/quality-validation-review"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning/",
+      "path": "guides/cns-2.0-research-roadmap/technical-research/1-gnn-for-logical-reasoning"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy/",
+      "path": "guides/cns-2.0-research-roadmap/technical-research/2-federated-learning-and-privacy"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference/",
+      "path": "guides/cns-2.0-research-roadmap/technical-research/3-formal-methods-and-causal-inference"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/adversarial-evidence/",
+      "path": "guides/cns-gcts/adversarial-evidence"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/architecture/",
+      "path": "guides/cns-gcts/architecture"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/experiments/",
+      "path": "guides/cns-gcts/experiments"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/glossary/",
+      "path": "guides/cns-gcts/glossary"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/mvp-build/",
+      "path": "guides/cns-gcts/mvp-build"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/oracle-boundary/",
+      "path": "guides/cns-gcts/oracle-boundary"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/prior-art-boundary/",
+      "path": "guides/cns-gcts/prior-art-boundary"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/record-access-ontology/",
+      "path": "guides/cns-gcts/record-access-ontology"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/references/",
+      "path": "guides/cns-gcts/references"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/theory/",
+      "path": "guides/cns-gcts/theory"
+    },
+    {
+      "url": "https://gtcode.com/guides/cns-gcts/worked-example/",
+      "path": "guides/cns-gcts/worked-example"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/dspy-self-optimization/1-introduction/",
+      "path": "guides/tutorials/dspy-self-optimization/1-introduction"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/dspy-self-optimization/2-defining-the-task/",
+      "path": "guides/tutorials/dspy-self-optimization/2-defining-the-task"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/dspy-self-optimization/3-running-the-optimizer/",
+      "path": "guides/tutorials/dspy-self-optimization/3-running-the-optimizer"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module/",
+      "path": "guides/tutorials/dspy-self-optimization/4-analyzing-the-optimized.module"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/1-introduction/",
+      "path": "guides/tutorials/plate-tectonics-synthesis/1-introduction"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/2-building-the-sno/",
+      "path": "guides/tutorials/plate-tectonics-synthesis/2-building-the-sno"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis/",
+      "path": "guides/tutorials/plate-tectonics-synthesis/3-running-the-synthesis"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results/",
+      "path": "guides/tutorials/plate-tectonics-synthesis/4-analyzing-the-results"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework/",
+      "path": "guides/tutorials/plate-tectonics-synthesis/5-dspy-automation-framework"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/1-introduction/",
+      "path": "guides/tutorials/quick-start-plate-tectonics/1-introduction"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/2-building-the-sno/",
+      "path": "guides/tutorials/quick-start-plate-tectonics/2-building-the-sno"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis/",
+      "path": "guides/tutorials/quick-start-plate-tectonics/3-running-the-synthesis"
+    },
+    {
+      "url": "https://gtcode.com/guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results/",
+      "path": "guides/tutorials/quick-start-plate-tectonics/4-analyzing-the-results"
+    },
+    {
+      "url": "https://gtcode.com/articles/cinema-debugger-semantic-code-review/",
+      "path": "articles/cinema-debugger-semantic-code-review"
+    },
+    {
+      "url": "https://gtcode.com/articles/epistemic-fragmentation-multi-model-ai-systems/",
+      "path": "articles/epistemic-fragmentation-multi-model-ai-systems"
+    },
+    {
+      "url": "https://gtcode.com/articles/first-mechanistic-interpretability-attempt-self-ground/",
+      "path": "articles/first-mechanistic-interpretability-attempt-self-ground"
+    },
+    {
+      "url": "https://gtcode.com/articles/global-cognitive-brain-architecture/",
+      "path": "articles/global-cognitive-brain-architecture"
+    },
+    {
+      "url": "https://gtcode.com/articles/grounded-chiral-tensor-synthesis/",
+      "path": "articles/grounded-chiral-tensor-synthesis"
+    },
+    {
+      "url": "https://gtcode.com/articles/harness-engineering/",
+      "path": "articles/harness-engineering"
+    },
+    {
+      "url": "https://gtcode.com/articles/hybrid-consciousness-neural-digital-integration/",
+      "path": "articles/hybrid-consciousness-neural-digital-integration"
+    },
+    {
+      "url": "https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/",
+      "path": "articles/local-mi-lab-gpt2-small-induction-controls"
+    },
+    {
+      "url": "https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/",
+      "path": "articles/mechanistic-interpretability-landscape-2025"
+    },
+    {
+      "url": "https://gtcode.com/articles/the-silicon-episteme/",
+      "path": "articles/the-silicon-episteme"
+    },
+    {
+      "url": "https://gtcode.com/articles/visual-language-ai-synthesis/",
+      "path": "articles/visual-language-ai-synthesis"
+    }
+  ]
+}
