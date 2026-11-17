@@ -2,6 +2,110 @@
   "scope": "Current Hugo publications with rendered citation blocks",
   "pages": [
     {
+      "url": "https://gtcode.com/hawaii-courts/closed-loop-oversight-failure/",
+      "path": "hawaii-courts/closed-loop-oversight-failure"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/federal-triage-governance-proximity/",
+      "path": "hawaii-courts/federal-triage-governance-proximity"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/hawaii-accountability-gaps/",
+      "path": "hawaii-courts/hawaii-accountability-gaps"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/information-trail-2015-2022/",
+      "path": "hawaii-courts/information-trail-2015-2022"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/lawyer-in-the-room-bosko-petricevic/",
+      "path": "hawaii-courts/lawyer-in-the-room-bosko-petricevic"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/mechanisms-of-review-failure/",
+      "path": "hawaii-courts/mechanisms-of-review-failure"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/open-letter-bosko-petricevic/",
+      "path": "hawaii-courts/open-letter-bosko-petricevic"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/paper-bag-self-investigation/",
+      "path": "hawaii-courts/paper-bag-self-investigation"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/reporting-duty-hrpc-8-3b/",
+      "path": "hawaii-courts/reporting-duty-hrpc-8-3b"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/review-gap-police-judicial-oversight/",
+      "path": "hawaii-courts/review-gap-police-judicial-oversight"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/the-defense-table-went-quiet/",
+      "path": "hawaii-courts/the-defense-table-went-quiet"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/the-hypothetical-gun/",
+      "path": "hawaii-courts/the-hypothetical-gun"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/the-nod-visual-allegation/",
+      "path": "hawaii-courts/the-nod-visual-allegation"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/the-threat-report/",
+      "path": "hawaii-courts/the-threat-report"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/two-questions-wilson-loo/",
+      "path": "hawaii-courts/two-questions-wilson-loo"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/wilson-loo-judicial-signaling/",
+      "path": "hawaii-courts/wilson-loo-judicial-signaling"
+    },
+    {
+      "url": "https://gtcode.com/hawaii-courts/zero-commission-judicial-conduct/",
+      "path": "hawaii-courts/zero-commission-judicial-conduct"
+    },
+    {
+      "url": "https://gtcode.com/geopolitics/architecture-of-access-luke-network/",
+      "path": "geopolitics/architecture-of-access-luke-network"
+    },
+    {
+      "url": "https://gtcode.com/geopolitics/ccch-financial-disclosure-ledger/",
+      "path": "geopolitics/ccch-financial-disclosure-ledger"
+    },
+    {
+      "url": "https://gtcode.com/geopolitics/hawaii-energy-risk-strait-of-hormuz/",
+      "path": "geopolitics/hawaii-energy-risk-strait-of-hormuz"
+    },
+    {
+      "url": "https://gtcode.com/geopolitics/prc-access-mapping-hawaii/",
+      "path": "geopolitics/prc-access-mapping-hawaii"
+    },
+    {
+      "url": "https://gtcode.com/intelligence/snowden-archive-chain-of-custody/",
+      "path": "intelligence/snowden-archive-chain-of-custody"
+    },
+    {
+      "url": "https://gtcode.com/diagnostics/bing-search-indexing-anomaly/",
+      "path": "diagnostics/bing-search-indexing-anomaly"
+    },
+    {
+      "url": "https://gtcode.com/disclosures/before-the-tax-office/",
+      "path": "disclosures/before-the-tax-office"
+    },
+    {
+      "url": "https://gtcode.com/disclosures/cartography-for-guppies/",
+      "path": "disclosures/cartography-for-guppies"
+    },
+    {
+      "url": "https://gtcode.com/articles/accountability-from-washington-to-ward-avenue/",
+      "path": "articles/accountability-from-washington-to-ward-avenue"
+    },
+    {
       "url": "https://gtcode.com/articles/cinema-debugger-semantic-code-review/",
       "path": "articles/cinema-debugger-semantic-code-review"
     },
@@ -18,6 +122,14 @@
       "path": "articles/global-cognitive-brain-architecture"
     },
     {
+      "url": "https://gtcode.com/articles/google-information-control-audit/",
+      "path": "articles/google-information-control-audit"
+    },
+    {
+      "url": "https://gtcode.com/articles/google-unauditable-psychological-harm/",
+      "path": "articles/google-unauditable-psychological-harm"
+    },
+    {
       "url": "https://gtcode.com/articles/grounded-chiral-tensor-synthesis/",
       "path": "articles/grounded-chiral-tensor-synthesis"
     },
@@ -32,6 +144,10 @@
     {
       "url": "https://gtcode.com/articles/local-mi-lab-gpt2-small-induction-controls/",
       "path": "articles/local-mi-lab-gpt2-small-induction-controls"
+    },
+    {
+      "url": "https://gtcode.com/articles/mathematics-of-coordinated-silence/",
+      "path": "articles/mathematics-of-coordinated-silence"
     },
     {
       "url": "https://gtcode.com/articles/mechanistic-interpretability-landscape-2025/",
@@ -60,6 +176,18 @@
     {
       "url": "https://gtcode.com/articles/where-choice-enters-the-world/",
       "path": "articles/where-choice-enters-the-world"
+    },
+    {
+      "url": "https://gtcode.com/personal-essays/open-letter-school-district/",
+      "path": "personal-essays/open-letter-school-district"
+    },
+    {
+      "url": "https://gtcode.com/personal-essays/the-body-keeps-the-receipts/",
+      "path": "personal-essays/the-body-keeps-the-receipts"
+    },
+    {
+      "url": "https://gtcode.com/personal-essays/the-shift-they-taught-him/",
+      "path": "personal-essays/the-shift-they-taught-him"
     },
     {
       "url": "https://gtcode.com/papers/geometric-publish-subscribe/",
@@ -464,6 +592,10 @@
     {
       "url": "https://gtcode.com/policies/corrections-policy/",
       "path": "policies/corrections-policy"
+    },
+    {
+      "url": "https://gtcode.com/policies/editorial-standards/",
+      "path": "policies/editorial-standards"
     },
     {
       "url": "https://gtcode.com/policies/ethics-policy/",

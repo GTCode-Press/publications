@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: Bing Indexing Diagnostics
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-02-13'
+url: https://gtcode.com/diagnostics/bing-search-indexing-anomaly/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/diagnostics/bing-search-indexing-anomaly
+license-url: https://gtcode.com/policies/content-use/
+abstract: 'October 8, 2026: Bing shows two gtcode.com URLs but zero Hawaii Courts
+  results. Earlier diagnostics marked a known investigation URL blocked.'
+keywords:
+- Bing
+- Search-Index Anomaly
+- Search Visibility
+- Microsoft
+- Open Source

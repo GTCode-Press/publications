@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you reference this work, please cite it using the metadata below.
+type: article
+title: 'The Hypothetical Gun: The Closing-Argument Record'
+authors:
+- family-names: Lono
+  given-names: Ekewaka
+date-released: '2026-10-01'
+url: https://gtcode.com/hawaii-courts/the-hypothetical-gun/
+repository-code: https://github.com/GTCode-Press/publications/tree/main/hawaii-courts/the-hypothetical-gun
+license-url: https://gtcode.com/policies/content-use/
+abstract: Ekewaka Lono examines Kwak’s charging and trial accounts, recordings omitted
+  at trial, the booth diagram, and Kanemoto’s mock-pistol closing.
+keywords:
+- Vincent Kanemoto
+- Professional Responsibility
+- Trial Record
+- Closing Argument
+- Hawaii
